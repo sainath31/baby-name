@@ -9,12 +9,30 @@ const dir = new URL('../web/data/', import.meta.url);
 rmSync(dir, { recursive: true, force: true });
 mkdirSync(dir, { recursive: true });
 
+const THEMES = {
+  'Strength and valour': /\b(strong|strength|valou?r|brave|hero|warrior|mighty|powerful|victor|conquer|invincible|courage)/i,
+  'Light, sun and moon': /\b(sun|moon|light|radiant|bright|luminous|shining|splendou?r|dawn|star|lustre)/i,
+  'Wisdom and learning': /\b(wise|wisdom|knowledge|learn|intellect|sage|scholar|knowing|understanding)/i,
+  'Devotion and virtue': /\b(devot|pious|virtu|righteous|dharma|truth|pure|holy|worship)/i,
+  'Nature': /\b(mountain|river|ocean|sea|lotus|flower|tree|forest|earth|sky|cloud|lion|elephant|ocean|water|wind)/i,
+  'Prosperity': /\b(prosper|wealth|fortune|riches|auspicious|happy|happiness|bliss|joy|success)/i,
+  'Protector': /\b(protect|guard|lord|king|ruler|sovereign|master|refuge|saviou?r|defend)/i,
+};
+const DEITIES = {
+  Vishnu: /vishnu|narayana|hari\b/i, Shiva: /shiva|śiva|mahadeva|rudra|shankara|śaṅkara/i, Ganesha: /ganesh|ganapati|vinayaka/i,
+  Rama: /\brama\b|rāma|ramayana|raghu/i, Krishna: /krishna|kṛṣṇa|govinda|gopala|mahabharata/i, Hanuman: /hanuman|māruti|maruti/i,
+  'Devi (Goddess)': /\bdevi\b|durga|lakshmi|parvati|saraswati/i, Surya: /\bsurya\b|sūrya|aditya|\bsun\b/i,
+  Indra: /\bindra\b/i, Brahma: /brahma/i, Kartikeya: /skanda|kartikeya|murugan|subrahman/i,
+};
+const tagsOf = (map, text) => Object.keys(map).filter((k) => map[k].test(text));
 const compact = (n) => {
   const o = {
     n: n.name, d: n.devanagari, i: n.iast, s: n.syllable_count, m: n.meaning_en,
     c1: nameNumber(n.name, 'chaldean'), c2: nameNumber(n.name, 'pythagorean'),
-    g: initialSound(n.iast)?.group || '',
+    g: initialSound(n.iast)?.group || '', a: initialSound(n.iast)?.aspirated ? 1 : 0,
   };
+  const th = tagsOf(THEMES, n.meaning_en || ''); if (th.length) o.th = th;
+  const dt = tagsOf(DEITIES, `${n.deity_epic_ref || ''} ${n.meaning_en || ''} ${n.name}`); if (dt.length) o.dt = dt;
   if (n.components?.length) o.co = n.components.map((c) => [c.part, c.gloss || '']);
   const p = n.pairs_with;
   if (p?.prefixes?.length || p?.suffixes?.length) o.pw = [p.prefixes || [], p.suffixes || []];
@@ -45,6 +63,8 @@ const manifest = {
   eras: facet((n) => n.era),
   kinds: facet((n) => n.kind),
   groups: facet((n) => initialSound(n.iast)?.group),
+  themes: Object.keys(THEMES),
+  deities: Object.keys(DEITIES),
   maxSyllables: Math.max(...names.map((n) => n.syllable_count)),
 };
 for (const l of letters) {

@@ -34,11 +34,14 @@ function filterShard({ recs, qs }, q) {
   if (q.syllables?.length) base.syllables = q.syllables;
   if (q.nakshatra) base.nakshatra = q.nakshatra;
   if (q.rashi) base.rashi = q.rashi;
+  if (q.startSyllables?.length) base.startSyllables = q.startSyllables;
   let list = Object.keys(base).length ? filterNames(recs, base) : recs;
   const eras = q.eras?.length ? new Set(q.eras) : null;
   const groups = q.groups?.length ? new Set(q.groups) : null;
   const nums = q.numbers?.length ? new Set(q.numbers) : null;
   const key = q.numSystem === 'pythagorean' ? 'c2' : 'c1';
+  const themes = q.themes?.length ? q.themes : null;
+  const deities = q.deities?.length ? q.deities : null;
   const names = q.names ? new Set(q.names) : null;
   const terms = q.text ? norm(q.text).split(' ').filter(Boolean) : null;
   return list.filter((r) => {
@@ -46,6 +49,10 @@ function filterShard({ recs, qs }, q) {
     if (eras && !eras.has(r.e || '')) return false;
     if (groups && !groups.has(r.g)) return false;
     if (nums && !nums.has(r[key])) return false;
+    if (themes && !themes.some((t) => r.th?.includes(t))) return false;
+    if (deities && !deities.some((t) => r.dt?.includes(t))) return false;
+    if (q.aspirated === 'yes' && !r.a) return false;
+    if (q.aspirated === 'no' && r.a) return false;
     if (names && !names.has(r.n)) return false;
     if (terms) { const s = qs[r._i]; for (const t of terms) if (!s.includes(t)) return false; }
     return true;
@@ -69,10 +76,15 @@ async function run(m) {
     const part = filterShard(shard, q);
     for (const r of part) matches.push(r);
     const done = i === letters.length - 1;
+    if (done && q.sort && q.sort !== 'az') {
+      const len = (r) => r.n.length;
+      matches.sort(q.sort === 'short' ? (a, b) => len(a) - len(b) || a.n.localeCompare(b.n) : (a, b) => len(b) - len(a) || a.n.localeCompare(b.n));
+    }
+    const sorted = !q.sort || q.sort === 'az' || done;
     const now = performance.now();
     if (done || i === 0 || now - last > 120) {
       last = now;
-      postMessage({ type: 'result', id, total: matches.length, items: matches.slice(0, m.limit), loading: !done, done, ms: Math.round(now - t0), loaded: i + 1, of: letters.length });
+      postMessage({ type: 'result', id, total: matches.length, items: sorted ? matches.slice(0, m.limit) : [], loading: !done, done, ms: Math.round(now - t0), loaded: i + 1, of: letters.length });
     }
   }
   if (!letters.length) postMessage({ type: 'result', id, total: 0, items: [], loading: false, done: true, ms: 0, loaded: 0, of: 0 });
