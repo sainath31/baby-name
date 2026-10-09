@@ -9,7 +9,7 @@ const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().rep
 const have = new Set(names.map((n) => norm(n.iast)));
 let added = 0;
 for (const f of readdirSync(new URL('../data/batches/', import.meta.url)).filter((x) => x.endsWith('.json')).sort()) {
-  for (const [name, iast, dev, meaning, comps, state, ref] of JSON.parse(readFileSync(new URL(`../data/batches/${f}`, import.meta.url)))) {
+  for (const [name, iast, dev, meaning, comps, state, ref, era, conf] of JSON.parse(readFileSync(new URL(`../data/batches/${f}`, import.meta.url)))) {
     if (have.has(norm(iast))) continue;
     have.add(norm(iast));
     names.push({
@@ -17,7 +17,7 @@ for (const f of readdirSync(new URL('../data/batches/', import.meta.url)).filter
       meaning_en: meaning,
       components: comps.split('; ').map((c) => { const [part, gloss] = c.split(':'); return { part, gloss }; }),
       pairs_with: { prefixes: [], suffixes: [] }, compounds: [],
-      states: [state], origin: 'attested', era: 'classical', confidence: 'medium',
+      states: [state], origin: 'attested', era: era || 'classical', confidence: conf || 'medium',
       ...(ref ? { deity_epic_ref: ref } : {}),
       sources: [{ title: `Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch ${f}`, license: 'original compilation' }],
     });
