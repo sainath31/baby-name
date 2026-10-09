@@ -27,6 +27,6 @@ test('nakshatra from longitude', () => {
 test('filters combine with AND', () => {
   assert.deepEqual(filterNames(names, { letter: 'A' }).map((n) => n.name), names.filter((n) => n.letter === 'A').map((n) => n.name));
   assert.deepEqual(filterNames(names, { letter: 'D', states: ['Karnataka'] }).map((n) => n.name), names.filter((n) => n.letter === 'D').map((n) => n.name)); // All India matches any state
-  assert.deepEqual(filterNames(names, { states: ['Karnataka'], syllables: [4, 5] }).map((n) => n.name).sort(), names.filter((n) => [4, 5].includes(n.syllable_count)).map((n) => n.name).sort());
+  assert.deepEqual(filterNames(names, { states: ['Karnataka'], syllables: [4, 5] }).map((n) => n.name).sort(), names.filter((n) => [4, 5].includes(n.syllable_count) && (n.states.includes('Karnataka') || n.states.includes('All India'))).map((n) => n.name).sort());
   assert.deepEqual(filterNames(names, { startSyllables: ['Dh'] }).map((n) => n.name), names.filter((n) => n.name.startsWith('Dh')).map((n) => n.name));
 });
