@@ -1,0 +1,30 @@
+// Bundled Indian places for birth-chart input: [name, state, latitude, longitude]. All use Asia/Kolkata.
+// Coordinates are approximate (about 0.05 degree), which is plenty for a Moon sign / nakshatra.
+export const CITIES = [
+  ['Mumbai','Maharashtra',19.076,72.878],['Pune','Maharashtra',18.520,73.857],['Nagpur','Maharashtra',21.146,79.088],
+  ['Nashik','Maharashtra',19.998,73.790],['Aurangabad','Maharashtra',19.877,75.343],['Kolhapur','Maharashtra',16.705,74.243],
+  ['Delhi','Delhi',28.614,77.209],['Gurugram','Haryana',28.459,77.027],['Chandigarh','Chandigarh',30.733,76.779],
+  ['Amritsar','Punjab',31.634,74.872],['Ludhiana','Punjab',30.901,75.857],['Jalandhar','Punjab',31.326,75.576],
+  ['Shimla','Himachal Pradesh',31.105,77.173],['Dehradun','Uttarakhand',30.316,78.032],['Haridwar','Uttarakhand',29.946,78.164],
+  ['Jammu','Jammu and Kashmir',32.727,74.857],['Srinagar','Jammu and Kashmir',34.084,74.797],
+  ['Jaipur','Rajasthan',26.912,75.787],['Jodhpur','Rajasthan',26.239,73.024],['Udaipur','Rajasthan',24.586,73.713],['Kota','Rajasthan',25.213,75.864],
+  ['Lucknow','Uttar Pradesh',26.847,80.947],['Kanpur','Uttar Pradesh',26.449,80.332],['Varanasi','Uttar Pradesh',25.318,82.974],
+  ['Agra','Uttar Pradesh',27.177,78.008],['Prayagraj','Uttar Pradesh',25.435,81.846],['Mathura','Uttar Pradesh',27.492,77.673],['Ayodhya','Uttar Pradesh',26.799,82.204],
+  ['Patna','Bihar',25.594,85.138],['Gaya','Bihar',24.796,85.008],['Ranchi','Jharkhand',23.344,85.310],['Jamshedpur','Jharkhand',22.805,86.203],
+  ['Kolkata','West Bengal',22.573,88.364],['Howrah','West Bengal',22.596,88.264],['Siliguri','West Bengal',26.727,88.395],
+  ['Bhubaneswar','Odisha',20.296,85.825],['Puri','Odisha',19.813,85.831],['Cuttack','Odisha',20.462,85.883],
+  ['Guwahati','Assam',26.145,91.736],['Imphal','Manipur',24.817,93.937],['Shillong','Meghalaya',25.578,91.893],['Agartala','Tripura',23.831,91.287],
+  ['Raipur','Chhattisgarh',21.251,81.630],['Bhopal','Madhya Pradesh',23.259,77.413],['Indore','Madhya Pradesh',22.720,75.858],
+  ['Ujjain','Madhya Pradesh',23.182,75.777],['Gwalior','Madhya Pradesh',26.218,78.182],['Jabalpur','Madhya Pradesh',23.182,79.986],
+  ['Ahmedabad','Gujarat',23.023,72.572],['Surat','Gujarat',21.170,72.831],['Vadodara','Gujarat',22.307,73.181],['Rajkot','Gujarat',22.304,70.802],['Dwarka','Gujarat',22.239,68.968],
+  ['Panaji','Goa',15.491,73.828],
+  ['Hyderabad','Telangana',17.385,78.487],['Warangal','Telangana',17.968,79.594],
+  ['Visakhapatnam','Andhra Pradesh',17.687,83.219],['Vijayawada','Andhra Pradesh',16.506,80.648],['Guntur','Andhra Pradesh',16.307,80.437],
+  ['Tirupati','Andhra Pradesh',13.629,79.419],['Kurnool','Andhra Pradesh',15.829,78.037],
+  ['Bengaluru','Karnataka',12.972,77.594],['Mysuru','Karnataka',12.296,76.639],['Mangaluru','Karnataka',12.915,74.856],['Hubballi','Karnataka',15.364,75.124],['Udupi','Karnataka',13.341,74.747],
+  ['Chennai','Tamil Nadu',13.083,80.271],['Madurai','Tamil Nadu',9.925,78.120],['Coimbatore','Tamil Nadu',11.017,76.956],['Tiruchirappalli','Tamil Nadu',10.790,78.705],
+  ['Thanjavur','Tamil Nadu',10.787,79.138],['Rameswaram','Tamil Nadu',9.288,79.313],['Salem','Tamil Nadu',11.665,78.146],
+  ['Kochi','Kerala',9.931,76.267],['Thiruvananthapuram','Kerala',8.524,76.937],['Kozhikode','Kerala',11.259,75.780],['Thrissur','Kerala',10.527,76.214],
+  ['Puducherry','Puducherry',11.934,79.830],['Port Blair','Andaman and Nicobar',11.623,92.727],
+];
+export const findCity = (q) => CITIES.filter((c) => c[0].toLowerCase().startsWith(q.toLowerCase()));
