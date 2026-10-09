@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hindu Baby Boy Names</title>
+<style>
+:root{--bg:#fff;--fg:#1d1d1f;--mut:#6b6b70;--card:#f5f5f7;--acc:#b4531a}
+@media(prefers-color-scheme:dark){:root{--bg:#161618;--fg:#f2f2f3;--mut:#a0a0a8;--card:#242428;--acc:#f0a070}}
+body{margin:0;padding:0 16px 32px;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,sans-serif;max-width:900px;margin-inline:auto}
+h1{font-size:1.5rem}.az{display:flex;flex-wrap:wrap;gap:4px}.az button{min-width:34px;padding:4px;border:1px solid var(--mut);background:none;color:var(--fg);border-radius:6px;cursor:pointer}
+.az button.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+.filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:8px;margin:12px 0}
+label{font-size:.8rem;color:var(--mut);display:block}select{width:100%;padding:6px}
+.card{background:var(--card);border-radius:10px;padding:12px 14px;margin:10px 0}
+.card h2{margin:0;font-size:1.1rem}.mut{color:var(--mut);font-size:.85rem}
+</style></head><body>
+<h1>Hindu Baby Boy Names</h1>
+<div class="az" id="az"></div>
+<div class="filters">
+ <div><label>State</label><select id="state"><option value="">Any</option></select></div>
+ <div><label>Syllables</label><select id="syl"><option value="">Any</option></select></div>
+ <div><label>Sound group</label><select id="snd"><option value="">Any</option></select></div>
+ <div><label>Nakshatra</label><select id="nak"><option value="">Any</option></select></div>
+ <div><label>Rashi</label><select id="rashi"><option value="">Any</option></select></div>
+ <div><label>Numerology system</label><select id="nsys"><option>chaldean</option><option>pythagorean</option></select></div>
+ <div><label>Name number</label><select id="num"><option value="">Any</option></select></div>
+</div>
+<p class="mut" id="count"></p><div id="list"></div>
+<p class="mut">Astrology and numerology are traditional beliefs, not science. Meanings are from Sanskrit dictionaries and scriptures; check before use.</p>
+<script type="module">
+import { filterNames } from './src/filters.js';
+import { NAKSHATRAS, RASHIS } from './src/astrology.js';
+const names = await (await fetch('names.json')).json();
+const $ = (id) => document.getElementById(id);
+let letter = '';
+const fill = (el, vals) => vals.forEach((v) => el.add(new Option(v, v)));
+fill($('state'), [...new Set(names.flatMap((n) => n.states || []))].sort());
+fill($('syl'), [...new Set(names.map((n) => n.syllable_count))].sort((a, b) => a - b));
+fill($('snd'), [...new Set(names.map((n) => n.sound?.group).filter(Boolean))]);
+fill($('nak'), NAKSHATRAS.map((n) => n[0])); fill($('rashi'), RASHIS); fill($('num'), [1,2,3,4,5,6,7,8,9]);
+const az = $('az');
+for (const l of 'ABCDEFGHIJKLMNOPQRSTUVWXYZ') { const b = document.createElement('button'); b.textContent = l; b.onclick = () => { letter = letter === l ? '' : l; render(); }; az.append(b); }
+document.querySelectorAll('select').forEach((s) => s.onchange = render);
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function render() {
+  [...az.children].forEach((b) => b.classList.toggle('on', b.textContent === letter));
+  const q = {};
+  if (letter) q.letter = letter;
+  if ($('state').value) q.states = [$('state').value];
+  if ($('syl').value) q.syllables = [$('syl').value];
+  if ($('snd').value) q.soundGroup = [$('snd').value];
+  if ($('nak').value) q.nakshatra = $('nak').value;
+  if ($('rashi').value) q.rashi = $('rashi').value;
+  if ($('num').value) q.numerology = { system: $('nsys').value, numbers: [Number($('num').value)] };
+  const res = filterNames(names, q);
+  $('count').textContent = `${res.length} name(s)`;
+  $('list').innerHTML = res.map((n) => `<div class="card"><h2>${esc(n.name)} <span class="mut">${esc(n.devanagari)} · ${esc(n.iast)}</span></h2>
+   <div>${esc(n.meaning_en)}</div>
+   ${(n.compounds||[]).length ? `<div class="mut">Compounds: ${n.compounds.map((c) => `<b>${esc(c.name)}</b> (${esc(c.meaning)})`).join('; ')}</div>` : ''}
+   ${(n.pairs_with?.suffixes||[]).length ? `<div class="mut">Suffixes: ${n.pairs_with.suffixes.map(esc).join(', ')}</div>` : ''}
+   <div class="mut">${n.syllable_count} syllables · ${esc((n.states||[]).join(', '))} · numerology C${n.numerology.chaldean}/P${n.numerology.pythagorean}</div></div>`).join('');
+}
+render();
+</script></body></html>

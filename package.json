@@ -1,0 +1,13 @@
+{
+  "name": "baby-name",
+  "version": "0.1.0",
+  "description": "Library of unique Hindu baby boy names, indexed A-Z with astrology, numerology, state and sound filters",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "build": "node scripts/build-index.js && rm -rf web/src && cp -r src web/src",
+    "test": "node --test test/*.test.js",
+    "serve": "node scripts/build-index.js && npx --yes http-server web -p 8080"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Giri", "iast": "giri", "devanagari": "गिरि", "letter": "G", "syllable_count": 2,
+    "meaning_en": "Mountain; a steadfast, immovable person.",
+    "components": [{"part": "giri", "gloss": "mountain"}],
+    "pairs_with": {"prefixes": ["Maha"], "suffixes": ["dhar", "ish", "raj", "nath", "vik"]},
+    "compounds": [
+      {"name": "Giridhar", "meaning": "Holder of the mountain; an epithet of Krishna who lifted Govardhana."},
+      {"name": "Girish", "meaning": "Lord of the mountain; an epithet of Shiva."},
+      {"name": "Giriraj", "meaning": "King of mountains; refers to the Himalaya or Govardhana."}
+    ],
+    "states": ["All India"], "origin": "attested", "confidence": "high",
+    "sources": [{"title": "Monier-Williams Sanskrit-English Dictionary, 'giri'", "license": "public domain"}]
+  },
+  {
+    "name": "Arjuna", "iast": "arjuna", "devanagari": "अर्जुन", "letter": "A", "syllable_count": 3,
+    "meaning_en": "Bright, clear, white; the third Pandava prince and archer of the Mahabharata.",
+    "components": [{"part": "arjuna", "gloss": "bright, white, clear"}],
+    "pairs_with": {"prefixes": [], "suffixes": []}, "compounds": [],
+    "deity_epic_ref": "Mahabharata", "states": ["All India"], "origin": "attested", "confidence": "high",
+    "sources": [{"title": "Monier-Williams, 'arjuna'; Mahabharata", "license": "public domain"}]
+  },
+  {
+    "name": "Aditya", "iast": "āditya", "devanagari": "आदित्य", "letter": "A", "syllable_count": 3,
+    "meaning_en": "Son of Aditi; the sun; a name for the solar deities.",
+    "components": [{"part": "aditi", "gloss": "boundless, the mother of the gods"}, {"part": "-ya", "gloss": "descendant of"}],
+    "pairs_with": {"prefixes": [], "suffixes": ["nath", "vardhan"]},
+    "compounds": [{"name": "Adityavardhan", "meaning": "One who increases the sun's radiance."}],
+    "deity_epic_ref": "Rigveda", "states": ["All India"], "origin": "attested", "confidence": "high",
+    "sources": [{"title": "Monier-Williams, 'āditya'", "license": "public domain"}]
+  },
+  {
+    "name": "Dhruva", "iast": "dhruva", "devanagari": "ध्रुव", "letter": "D", "syllable_count": 2,
+    "meaning_en": "Fixed, firm, constant; the Pole Star; the devoted child-saint of the Puranas.",
+    "components": [{"part": "dhruva", "gloss": "fixed, constant"}],
+    "pairs_with": {"prefixes": [], "suffixes": ["kumar"]}, "compounds": [],
+    "deity_epic_ref": "Vishnu Purana", "states": ["All India"], "origin": "attested", "confidence": "high",
+    "sources": [{"title": "Monier-Williams, 'dhruva'", "license": "public domain"}]
+  },
+  {
+    "name": "Krishnamurthy", "iast": "kṛṣṇamūrti", "devanagari": "कृष्णमूर्ति", "letter": "K", "syllable_count": 4,
+    "meaning_en": "Embodiment of Krishna; one whose form is Krishna.",
+    "components": [{"part": "kṛṣṇa", "gloss": "dark, Krishna"}, {"part": "mūrti", "gloss": "form, embodiment"}],
+    "pairs_with": {"prefixes": [], "suffixes": []}, "compounds": [],
+    "states": ["Tamil Nadu", "Karnataka", "Andhra Pradesh"], "origin": "attested", "confidence": "high",
+    "sources": [{"title": "Monier-Williams, 'kṛṣṇa', 'mūrti'", "license": "public domain"}]
+  },
+  {
+    "name": "Sri Ram", "iast": "śrī rāma", "devanagari": "श्री राम", "letter": "S", "syllable_count": 3,
+    "words": [{"word": "Sri", "gloss": "auspicious, prosperity"}, {"word": "Ram", "gloss": "pleasing, delightful; hero of the Ramayana"}],
+    "meaning_en": "The auspicious Rama; Rama who is the abode of prosperity.",
+    "components": [{"part": "śrī", "gloss": "auspicious, glory"}, {"part": "rāma", "gloss": "pleasing, charming"}],
+    "pairs_with": {"prefixes": [], "suffixes": []}, "compounds": [],
+    "deity_epic_ref": "Ramayana", "states": ["All India"], "origin": "attested", "confidence": "high",
+    "sources": [{"title": "Monier-Williams, 'śrī', 'rāma'", "license": "public domain"}]
+  },
+  {
+    "name": "Vishnuvardhan", "iast": "viṣṇuvardhana", "devanagari": "विष्णुवर्धन", "letter": "V", "syllable_count": 5,
+    "meaning_en": "Increaser of Vishnu's glory; a Hoysala king's name.",
+    "components": [{"part": "viṣṇu", "gloss": "the pervader, Vishnu"}, {"part": "vardhana", "gloss": "increasing, prospering"}],
+    "pairs_with": {"prefixes": [], "suffixes": []}, "compounds": [],
+    "states": ["Karnataka"], "origin": "attested", "confidence": "medium",
+    "sources": [{"title": "Monier-Williams, 'viṣṇu', 'vardhana'", "license": "public domain"}]
+  },
+  {
+    "name": "Ishaan", "iast": "īśāna", "devanagari": "ईशान", "letter": "I", "syllable_count": 3,
+    "meaning_en": "Ruler, lord; the north-east direction; an epithet of Shiva.",
+    "components": [{"part": "īśāna", "gloss": "ruling, lord"}],
+    "pairs_with": {"prefixes": [], "suffixes": []}, "compounds": [],
+    "states": ["All India"], "origin": "attested", "confidence": "high",
+    "sources": [{"title": "Monier-Williams, 'īśāna'", "license": "public domain"}]
+  }
+]
