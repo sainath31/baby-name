@@ -1,0 +1,1075 @@
+[
+ {
+  "name": "Lalaka",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Lalati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Lambaksha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Lambodar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Lamgala",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Lamgali",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Lamku",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Lanka",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Lasa",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Lauhi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Lauhitya",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Laukikagni",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Laukshinya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Lekhabhra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Likhita",
+  "verdict": "fix",
+  "reason": "sage",
+  "fix": {
+   "meaning_en": "Written; name of the sage Likhita, associated with Shankha in the Dharmashastra tradition."
+  }
+ },
+ {
+  "name": "Limpa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Lohasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Lohita",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Red, ruddy; also a name of Mars and of Skanda."
+  }
+ },
+ {
+  "name": "Lohitamga",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Lohitarna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Lokapala",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Lolakshi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Loshtaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ltaka",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Lubdha",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Madhri",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Madhu",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Sweet, honey; also the spring season."
+  }
+ },
+ {
+  "name": "Madhuka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Madhunandi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Madhupa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Madhur",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Madhuvarna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Madhva",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Madhyama",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Madira",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Madiraksha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Madravasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahabahu",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Mighty-armed, of strong arms."
+  }
+ },
+ {
+  "name": "Mahabhaga",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mahabhishu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahabhoja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahadev",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mahadipta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahadriti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahadruma",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahadyuti",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Of great splendour, very radiant."
+  }
+ },
+ {
+  "name": "Mahakaya",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Mahamali",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahamana",
+  "verdict": "fix",
+  "reason": "script",
+  "fix": {
+   "devanagari": "महामना",
+   "iast": "mahāmanā",
+   "meaning_en": "Great-souled, magnanimous."
+  }
+ },
+ {
+  "name": "Mahamuda",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahanabha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Mahanetra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahapamshu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Maharaja",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Mahasatva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahasha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahashala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahasukha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahaugha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahavishva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mahavita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Maheshvara",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "The great lord; a name of Shiva."
+  }
+ },
+ {
+  "name": "Mahikamshu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mahina",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Mahisha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Mahoraga",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Mahya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mairala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Maithila",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Majiraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Makali",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Makashtu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Malayani",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mallakrida",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Mamgu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Manan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Manasya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mandabahya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mandaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mandaki",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mandanila",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mandavahya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mandavya",
+  "verdict": "fix",
+  "reason": "sage",
+  "fix": {
+   "meaning_en": "Name of the ancient sage Mandavya (Animandavya) of the Mahabharata; etymology uncertain."
+  }
+ },
+ {
+  "name": "Mandrayu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mandulaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mangalikya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mangaliya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mangusha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mani",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Jewel, gem."
+  }
+ },
+ {
+  "name": "Manichaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Manigriva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Manika",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Manimanta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Manindra",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Lord of jewels."
+  }
+ },
+ {
+  "name": "Manisthaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Manivaktra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Manjiraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Manju",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Charming, beautiful, pleasing."
+  }
+ },
+ {
+  "name": "Manjula",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Charming, lovely, beautiful."
+  }
+ },
+ {
+  "name": "Mankayana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mankshu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Manojava",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Swift as thought."
+  }
+ },
+ {
+  "name": "Mantraya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mantri",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Manuja",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Manuprita",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Manurhita",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Manyu",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Mardana",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Margapatha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Margeya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Maricha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Marichaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Marjara",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Marjari",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Markanda",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Marshthi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Maruti",
+  "verdict": "fix",
+  "reason": "script",
+  "fix": {
+   "iast": "māruti",
+   "meaning_en": "Son of the wind god (Marut); a name of Hanuman."
+  }
+ },
+ {
+  "name": "Masrina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Matali",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Matamgaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mathuresha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Matishvara",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Matsya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Matsyakala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Matta",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Mauli",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Crown, diadem, crest; the head."
+  }
+ },
+ {
+  "name": "Mayana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mayava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mayukhesha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Mayur",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mayuresha",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Lord of the peacock; a name of Ganesha (Mayureshvara)."
+  }
+ },
+ {
+  "name": "Medasha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Medhaja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Meghajati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Meghaksha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Meghamali",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Meghapurna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Michchaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Midhu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Midhusha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Midvamsa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mitadru",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mitahara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mitravindu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mitrayu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mitreyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mitriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Moda",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Joy, delight."
+  }
+ },
+ {
+  "name": "Modaka",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Mohit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Moraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Motirama",
+  "verdict": "fix",
+  "reason": "spelling",
+  "fix": {
+   "name": "Motiram",
+   "meaning_en": "Pearl-Rama; a compound of moti (pearl) and Rama, used as a traditional name."
+  }
+ },
+ {
+  "name": "Mridaku",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mridamrida",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mrigaketu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mrigendra",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Lord of beasts, the lion."
+  }
+ },
+ {
+  "name": "Mrigottama",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mritanda",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Mriti",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Mrityu",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Muchira",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Muchukunda",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mudanvita",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mudgala",
+  "verdict": "fix",
+  "reason": "sage",
+  "fix": {
+   "meaning_en": "Name of an ancient sage; also the mung bean; etymology uncertain."
+  }
+ },
+ {
+  "name": "Mugdhendu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Muka",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Mukhya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Mundaka",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Mundana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Mundira",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Munga",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Muni",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Munindra",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Chief of sages."
+  }
+ },
+ {
+  "name": "Munisha",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Lord of sages."
+  }
+ },
+ {
+  "name": "Munjakesha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Murajaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Murari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Muravara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Murtaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Musala",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Nabala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nabhasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nabhasya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nabhi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Nachika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nada",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Sound, sacred resonance."
+  }
+ },
+ {
+  "name": "Nadashrova",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nadayana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nadvala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nagara",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Nagasena",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Nagda",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Naghusha",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Nagna",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Nahusha",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Naigameya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Naikajihva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Naikashi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nakapala",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ }
+]

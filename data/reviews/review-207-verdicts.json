@@ -1,0 +1,1068 @@
+[
+ {
+  "name": "Nakhari",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nakta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Nakuli",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Naman",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Namasyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Namuchi",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Nandi",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Joyful, delighting; the sacred bull of Shiva"
+  }
+ },
+ {
+  "name": "Narad",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Naradeva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Naranta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Narantaka",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Narashamsa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Narasimha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Narayani",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Narottama",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nasatya",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Truthful; one of the two Ashvins, divine physicians"
+  }
+ },
+ {
+  "name": "Nataraj",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nateshvara",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Natha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Nava",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "New, fresh, young"
+  }
+ },
+ {
+  "name": "Navaksha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Navavastva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Naya",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Wise guidance, prudent conduct"
+  }
+ },
+ {
+  "name": "Nayaka",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Neelkanth",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nemaditya",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Netishya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Netra",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Nibhrita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nidagha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nidanta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nidata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nidhi",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Treasure, store of wealth"
+  }
+ },
+ {
+  "name": "Nikrunta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nilagriva",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Nimi",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Blink of an eye; an ancient king of Videha"
+  }
+ },
+ {
+  "name": "Nimishvara",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Nimitta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Niramaya",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Free from disease, healthy"
+  }
+ },
+ {
+  "name": "Nirananda",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Niraya",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Nirdaha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Nirmama",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Nirmoha",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Free from delusion and attachment"
+  }
+ },
+ {
+  "name": "Nirmoka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nirvaktra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nirvan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nirvritta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nishadha",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Nishadhana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nishant",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nishata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nishchala",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Steady, unshakable"
+  }
+ },
+ {
+  "name": "Nishchara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nishitha",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Midnight, the depth of night"
+  }
+ },
+ {
+  "name": "Nishkambha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nisita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nitina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nityachara",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Nityananda",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nityanitya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Nivaku",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nivata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nivritti",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Withdrawal from worldly activity; inner peace"
+  }
+ },
+ {
+  "name": "Niyama",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Nrideva",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Nripalaya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Nripanjaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nripati",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Nripatmaja",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Nupura",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Nyagrodha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ogha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ojishtha",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Most vigorous, most powerful"
+  }
+ },
+ {
+  "name": "Oshakara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Padma",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Lotus"
+  }
+ },
+ {
+  "name": "Padmagulma",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Padmaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Padmaraja",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Lord of lotuses; lotus king"
+  }
+ },
+ {
+  "name": "Padmaratha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Padmottama",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pajra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pakatha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Paksha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Pakshila",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Palagni",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Palaka",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Palalaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Panava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Panchabana",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Panchayama",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pandaka",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Panditaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pandurang",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pandurochi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pandya",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Pani",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Panitaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Panka",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Pankta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Pannagari",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Papi",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Para",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Parajita",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Parakrama",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Valour, prowess, heroic strength"
+  }
+ },
+ {
+  "name": "Paraksha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Paramaha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Paramesha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Parameshu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Parapaksha",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Parashu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Parayana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Parda",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Parigha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Parihasa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Parijata",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Coral jasmine; the divine wish-fulfilling tree of heaven"
+  }
+ },
+ {
+  "name": "Parikshit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Parimati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Paripatra",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Pariplava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Paripluta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Parishnava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Parivitti",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Paroksha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Parparika",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Parshvi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Parvata",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Pashugana",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Pashupati",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Patanga",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Pathi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Patta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Pattallaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pattasena",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Patu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Patuma",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Paulaha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Paundraka",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Paura",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Pauranika",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Pauraviya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Paurnamasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pavamana",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Purifying; the wind, the purifying Soma"
+  }
+ },
+ {
+  "name": "Pavanputra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Payahkirti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pedhala",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Phala",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Phalamukha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Phalodaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Phenapa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pijula",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pilaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pindila",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pingaksha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Pingala",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Pingalaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pinja",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Pippala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pippalu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pippalya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pishacha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Pishanga",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pishangaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pitayuta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pithe",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Pivara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Plaksha",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Poshta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pottila",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Poviya",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Prabhata",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Dawn, daybreak, morning"
+  }
+ },
+ {
+  "name": "Prabhuti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prachetasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pradyota",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Light, radiance, shining forth"
+  }
+ },
+ {
+  "name": "Praghosha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pragrya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Prahara",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Praharana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Prahari",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prahlad",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Prahrita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prajana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prajaya",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Prajesha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Prajyoti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prakara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prakriti",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Pralisha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pramathi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pramati",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Excellent understanding, far-sighted wisdom"
+  }
+ },
+ {
+  "name": "Pramshu",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Tall, lofty",
+   "name": "Pranshu",
+   "devanagari": "प्रांशु",
+   "iast": "prāṃśu"
+  }
+ },
+ {
+  "name": "Pranita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prasandhi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prasava",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Prasriti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prastava",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Prastavi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prasthala",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Prasthavi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prastuta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ }
+]
