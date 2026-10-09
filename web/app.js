@@ -1,3 +1,4 @@
+import { moolank, bhagyank } from './src/numerology.js';
 import { NAKSHATRAS, RASHIS, syllablesForNakshatra, syllablesForRashi } from './src/astrology.js';
 
 const PAGE = 30;
@@ -11,7 +12,7 @@ const h = (tag, props = {}, ...kids) => {
     else if (k.startsWith('on')) el.addEventListener(k.slice(2), v);
     else el.setAttribute(k, v === true ? '' : v);
   }
-  for (const kid of kids.flat()) if (kid != null && kid !== false) el.append(kid.nodeType ? kid : document.createTextNode(kid));
+  for (const kid of kids.flat()) if (kid) el.append(kid.nodeType ? kid : document.createTextNode(kid));
   return el;
 };
 const svgIcon = (d, cls) => {
@@ -31,7 +32,7 @@ const store = {
 let favs = new Set(store.get('bn.favs', []).filter((x) => typeof x === 'string'));
 
 // ---- state
-const fresh = () => ({ text: '', letters: new Set(), states: new Set(), eras: new Set(), syl: new Set(), groups: new Set(), nak: '', rashi: '', numSystem: 'chaldean', nums: new Set(), reviewedOnly: false });
+const fresh = () => ({ text: '', letters: new Set(), states: new Set(), eras: new Set(), syl: new Set(), groups: new Set(), nak: '', rashi: '', numSystem: 'chaldean', nums: new Set(), reviewedOnly: false, themes: new Set(), deities: new Set(), asp: '', syls: new Set(), sort: 'az' });
 let S = fresh();
 let favView = false;
 let manifest = null;
@@ -57,15 +58,19 @@ function showError(msg) { const el = $('error'); el.textContent = msg; el.hidden
 
 // ---- query
 function buildQuery() {
-  if (favView) return { names: [...favs] };
+  if (favView) return { names: [...favs], sort: S.sort !== 'az' ? S.sort : undefined };
   const q = { text: S.text.trim() };
+  if (S.sort !== 'az') q.sort = S.sort;
+  if (S.themes.size) q.themes = [...S.themes];
+  if (S.deities.size) q.deities = [...S.deities];
+  if (S.asp) q.aspirated = S.asp;
   if (S.letters.size) q.letters = [...S.letters];
   if (S.states.size) q.states = [...S.states];
   if (S.eras.size) q.eras = [...S.eras];
   if (S.syl.size) q.syllables = [...S.syl].flatMap((v) => v === '9+' ? Array.from({ length: Math.max(1, (manifest.maxSyllables || 9) - 8) }, (_, i) => 9 + i) : [Number(v)]);
   if (S.groups.size) q.groups = [...S.groups];
-  if (S.nak) q.nakshatra = S.nak;
-  if (S.rashi) q.rashi = S.rashi;
+  if (S.syls.size) q.startSyllables = [...S.syls];
+  else { if (S.nak) q.nakshatra = S.nak; if (S.rashi) q.rashi = S.rashi; }
   if (S.nums.size) { q.numbers = [...S.nums].map(Number); q.numSystem = S.numSystem; }
   if (S.reviewedOnly) q.reviewedOnly = true;
   return q;
@@ -76,7 +81,7 @@ function apply() {
   shown = 0; total = 0; loading = true; doneLoading = false;
   $('results').replaceChildren();
   $('empty').hidden = true; $('error').hidden = true;
-  renderChips(); syncBadges();
+  renderChips(); syncBadges(); writeUrl();
   worker.postMessage({ type: 'query', id: qid, q: buildQuery(), limit: PAGE });
   $('count').textContent = 'Searching…';
 }
@@ -203,13 +208,18 @@ function buildFilters() {
     group('State or region', [stateSearch, stateList]),
     group('Era', h('div', {}, checkList('eras', manifest.eras))),
     group('Syllables', chipOptions('syl', SYL)),
-    group('Starting sound', h('div', {}, h('p', { class: 'hint', text: 'Groups of the Devanagari alphabet (varnamala) by the name\'s first sound.' }), checkList('groups', manifest.groups))),
+    group('Starting sound', h('div', {}, h('p', { class: 'hint', text: 'Groups of the Devanagari alphabet (varnamala) by the name\'s first sound.' }), checkList('groups', manifest.groups),
+      h('p', { class: 'hint', style: 'margin-top:8px', text: 'Aspirated first consonant (kh, gh, th, bh ...)' }),
+      h('div', { class: 'opt-grid' }, [['', 'Either'], ['yes', 'Aspirated'], ['no', 'Not aspirated']].map(([v, l]) => h('label', { class: 'opt' }, h('input', { type: 'radio', name: 'asp', 'data-r': 'asp', value: v }), h('span', { text: l })))))),
+    group('Meaning theme', chipOptions('themes', manifest.themes), false),
+    group('Deity or epic association', h('div', {}, checkList('deities', manifest.deities)), false),
     group('Nakshatra and rashi', h('div', {},
       h('p', { class: 'hint', text: 'Traditional naming syllables for a birth star or moon sign. Choose one or both (names matching either are shown).' }),
       h('label', { for: 'nakSel', class: 'sr', text: 'Nakshatra' }), nakSel,
       h('div', { style: 'height:8px' }),
       h('label', { for: 'rashiSel', class: 'sr', text: 'Rashi' }), rashiSel,
-      h('p', { class: 'syl-list', id: 'sylList', 'aria-live': 'polite' }),
+      h('p', { class: 'hint', style: 'margin-top:8px', id: 'sylHint' }),
+      h('div', { id: 'sylChips' }),
       h('div', { class: 'soon' },
         h('span', { class: 'soon-tag', text: 'Coming soon' }),
         h('strong', { text: 'Find from birth date, time and place' }),
@@ -221,15 +231,35 @@ function buildFilters() {
       h('p', { class: 'hint', text: 'Name number from the letters of the name. A traditional belief, shown for reference.' }),
       h('label', { for: 'sysSel', class: 'sr', text: 'System' }), sysSel,
       h('div', { style: 'height:8px' }),
-      chipOptions('nums', ['1', '2', '3', '4', '5', '6', '7', '8', '9']))),
+      chipOptions('nums', ['1', '2', '3', '4', '5', '6', '7', '8', '9']),
+      h('div', { class: 'soon', style: 'margin-top:12px' },
+        h('strong', { text: 'Birth date helper' }),
+        h('p', { class: 'hint', text: 'Enter a date of birth to see the traditional moolank (day number) and bhagyank (full date number).' }),
+        h('label', { for: 'dob', class: 'sr', text: 'Date of birth' }), h('input', { type: 'date', id: 'dob' }),
+        h('div', { id: 'dobOut', 'aria-live': 'polite' })))),
+    group('Sort and display', h('div', {},
+      h('label', { for: 'sortSel', class: 'sr', text: 'Sort order' }),
+      h('select', { class: 'select', id: 'sortSel', 'data-sel': 'sort' }, h('option', { value: 'az', text: 'A to Z' }), h('option', { value: 'short', text: 'Shortest first' }), h('option', { value: 'long', text: 'Longest first' })),
+      h('p', { class: 'hint', style: 'margin:12px 0 4px', text: 'Show names in' }),
+      h('div', { class: 'opt-grid' }, [['all', 'All scripts'], ['deva', 'Devanagari'], ['iast', 'IAST'], ['latin', 'Latin only']].map(([v, l]) => h('label', { class: 'opt' }, h('input', { type: 'radio', name: 'script', 'data-script': v, checked: v === 'all' }), h('span', { text: l })))))),
   );
+  body.addEventListener('input', (e) => {
+    if (e.target.id !== 'dob' || !e.target.value) return;
+    const [y, mo, d] = e.target.value.split('-').map(Number);
+    const m1 = moolank(d), m2 = bhagyank(y, mo, d);
+    const out = $('dobOut'); out.replaceChildren(h('p', { class: 'hint', text: `Moolank ${m1}, bhagyank ${m2}.` }),
+      ...[...new Set([m1, m2])].map((n) => h('button', { type: 'button', class: 'btn', text: `Use number ${n}`, onclick: () => { S.nums.add(String(n)); syncInputs(); apply(); } })));
+  });
   body.addEventListener('change', (e) => {
     const t = e.target;
-    if (t.dataset.f) {
+    if (t.dataset.r) { S[t.dataset.r] = t.value; }
+    else if (t.dataset.script) { document.body.dataset.script = t.dataset.script; return; }
+    else if (t.dataset.f) {
       const f = t.dataset.f;
       if (f === 'reviewed') S.reviewedOnly = t.checked;
       else (t.checked ? S[f].add(t.value) : S[f].delete(t.value));
-    } else if (t.dataset.sel) S[t.dataset.sel] = t.value;
+      if (f === 'syls') { /* manual syllable chips */ }
+    } else if (t.dataset.sel) { S[t.dataset.sel] = t.value; if (t.dataset.sel === 'nak' || t.dataset.sel === 'rashi') S.syls.clear(); }
     else return;
     syncInputs(); apply();
   });
@@ -239,8 +269,13 @@ function syncInputs() {
   document.querySelectorAll('[data-f]').forEach((i) => { i.checked = i.dataset.f === 'reviewed' ? S.reviewedOnly : S[i.dataset.f].has(i.value); });
   document.querySelectorAll('[data-sel]').forEach((s) => { s.value = S[s.dataset.sel]; });
   document.querySelectorAll('[data-letter]').forEach((b) => b.setAttribute('aria-pressed', String(S.letters.has(b.dataset.letter))));
+  document.querySelectorAll('[data-r]').forEach((i) => { i.checked = S[i.dataset.r] === i.value; });
   const syl = [...new Set([...(S.nak ? syllablesForNakshatra(S.nak) : []), ...(S.rashi ? syllablesForRashi(S.rashi) : [])])];
-  $('sylList').textContent = syl.length ? `Names starting with: ${syl.join(', ')}` : '';
+  const box = $('sylChips');
+  const sig = syl.join();
+  if (box.dataset.sig !== sig) { box.dataset.sig = sig; box.replaceChildren(...(syl.length ? [chipOptions('syls', syl)] : [])); }
+  $('sylHint').textContent = syl.length ? 'Starting syllables (tap to narrow to specific ones):' : '';
+  box.querySelectorAll('[data-f]').forEach((i) => { i.checked = S.syls.has(i.value); });
   if ($('q').value !== S.text) $('q').value = S.text;
 }
 
@@ -254,6 +289,10 @@ function activeFilters() {
   S.groups.forEach((v) => add(`Sound: ${v}`, () => S.groups.delete(v)));
   if (S.nak) add(`Nakshatra: ${S.nak}`, () => { S.nak = ''; });
   if (S.rashi) add(`Rashi: ${S.rashi}`, () => { S.rashi = ''; });
+  S.themes.forEach((v) => add(`Theme: ${v}`, () => S.themes.delete(v)));
+  S.deities.forEach((v) => add(`Deity: ${v}`, () => S.deities.delete(v)));
+  S.syls.forEach((v) => add(`Starts with ${v}`, () => S.syls.delete(v)));
+  if (S.asp) add(S.asp === 'yes' ? 'Aspirated start' : 'Not aspirated', () => { S.asp = ''; });
   S.nums.forEach((v) => add(`${S.numSystem === 'chaldean' ? 'Chaldean' : 'Pythagorean'} number ${v}`, () => S.nums.delete(v)));
   if (S.reviewedOnly) add('Reviewed only', () => { S.reviewedOnly = false; });
   if (S.text.trim()) add(`Search: "${S.text.trim()}"`, () => { S.text = ''; });
@@ -272,6 +311,27 @@ function syncBadges() {
   $('favBtn').setAttribute('aria-pressed', String(favView));
   $('favBtn').setAttribute('aria-label', favView ? 'Hide favourites' : `Show favourites (${favs.size})`);
   $('favBanner').hidden = !favView;
+}
+const SETS = { l: 'letters', st: 'states', era: 'eras', syl: 'syl', grp: 'groups', num: 'nums', th: 'themes', dt: 'deities', ss: 'syls' };
+function writeUrl() {
+  const p = new URLSearchParams();
+  if (S.text.trim()) p.set('q', S.text.trim());
+  for (const [k, f] of Object.entries(SETS)) if (S[f].size) p.set(k, [...S[f]].join('|'));
+  if (S.nak) p.set('nak', S.nak); if (S.rashi) p.set('rashi', S.rashi);
+  if (S.nums.size) p.set('sys', S.numSystem);
+  if (S.asp) p.set('asp', S.asp); if (S.reviewedOnly) p.set('rev', '1');
+  if (S.sort !== 'az') p.set('sort', S.sort); if (favView) p.set('fav', '1');
+  const qs = p.toString();
+  try { history.replaceState(null, '', location.pathname + (qs ? `?${qs}` : '') + location.hash); } catch { /* ignore */ }
+}
+function readUrl() {
+  const p = new URLSearchParams(location.search);
+  S.text = p.get('q') || '';
+  for (const [k, f] of Object.entries(SETS)) if (p.get(k)) S[f] = new Set(p.get(k).split('|'));
+  S.nak = p.get('nak') || ''; S.rashi = p.get('rashi') || ''; S.asp = p.get('asp') || '';
+  if (p.get('sys') === 'pythagorean') S.numSystem = 'pythagorean';
+  S.reviewedOnly = p.get('rev') === '1'; S.sort = ['short', 'long'].includes(p.get('sort')) ? p.get('sort') : 'az';
+  favView = p.get('fav') === '1';
 }
 function clearAll() { S = fresh(); favView = false; syncInputs(); apply(); }
 $('clearAll').onclick = clearAll; $('clearAll2').onclick = clearAll; $('emptyClear').onclick = clearAll;
@@ -367,7 +427,7 @@ window.addEventListener('hashchange', () => { const m = location.hash.match(/^#n
 
 // ---- init
 function init() {
-  buildAZ(); buildFilters(); setFiltersMode(); syncInputs();
+  buildAZ(); buildFilters(); setFiltersMode(); readUrl(); syncInputs();
   $('showBtn').textContent = 'Show names';
   apply();
   const m = location.hash.match(/^#n=(.+)$/); if (m) openDetail(decodeURIComponent(m[1]), $('q'));

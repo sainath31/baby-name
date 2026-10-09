@@ -51,7 +51,7 @@ a { color: var(--accent-text); }
 .search input::placeholder { color: var(--muted); }
 .search input:focus { border-color: var(--accent); }
 .az { padding: 0 0 6px; }
-.az-strip { display: flex; gap: 6px; overflow-x: auto; padding: 4px max(var(--gutter), env(safe-area-inset-right)) 6px max(var(--gutter), env(safe-area-inset-left)); scrollbar-width: thin; scroll-snap-type: x proximity; max-width: 1400px; margin: 0 auto; -webkit-overflow-scrolling: touch; }
+.az-strip { display: flex; gap: 6px; overflow-x: auto; padding: 4px max(var(--gutter), env(safe-area-inset-right)) 6px max(var(--gutter), env(safe-area-inset-left)); scrollbar-width: thin; scroll-snap-type: x proximity; scroll-padding: 0 16px; max-width: 1400px; margin: 0 auto; -webkit-overflow-scrolling: touch; }
 .az-strip .btn { padding: 0; width: 44px; flex: none; border-radius: 12px; scroll-snap-align: start; font-size: 16px; }
 .az-strip .btn:disabled { opacity: .45; cursor: default; background: transparent; }
 .az-strip .btn:disabled:hover { border-color: var(--border); }
@@ -166,6 +166,7 @@ a { color: var(--accent-text); }
   .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (min-width: 900px) {
+  .az-strip { gap: 4px; }
   .layout { display: grid; grid-template-columns: 280px minmax(0, 1fr); gap: 32px; }
   .filters { position: sticky; top: var(--sticky-h, 120px); align-self: start; z-index: 1; transform: none; visibility: visible; max-height: calc(100dvh - var(--sticky-h, 120px) - 8px); border-radius: var(--radius); box-shadow: none; border: 1px solid var(--border); margin: 12px 0 24px; transition: none; }
   .filters .close, .filters .sheet-foot, .filters-open { display: none; }
@@ -180,3 +181,6 @@ a { color: var(--accent-text); }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
 }
+
+body[data-script="deva"] .iast, body[data-script="deva"] .d-iast { display: none; }
+body[data-script="iast"] .deva, body[data-script="iast"] .d-deva, body[data-script="latin"] .deva, body[data-script="latin"] .d-deva, body[data-script="latin"] .iast, body[data-script="latin"] .d-iast { display: none; }
