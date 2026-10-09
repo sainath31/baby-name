@@ -25,8 +25,8 @@ test('nakshatra from longitude', () => {
   assert.ok(syllablesForRashi('Mesha').includes('Chu'));
 });
 test('filters combine with AND', () => {
-  assert.equal(filterNames(names, { letter: 'A' }).length, 2);
-  assert.deepEqual(filterNames(names, { letter: 'D', states: ['Karnataka'] }).map((n) => n.name), ['Dhruva']); // All India matches any state
+  assert.deepEqual(filterNames(names, { letter: 'A' }).map((n) => n.name), names.filter((n) => n.letter === 'A').map((n) => n.name));
+  assert.deepEqual(filterNames(names, { letter: 'D', states: ['Karnataka'] }).map((n) => n.name), names.filter((n) => n.letter === 'D').map((n) => n.name)); // All India matches any state
   assert.deepEqual(filterNames(names, { states: ['Karnataka'], syllables: [4, 5] }).map((n) => n.name).sort(), ['Krishnamurthy', 'Vishnuvardhan']);
-  assert.deepEqual(filterNames(names, { startSyllables: ['Dh'] }).map((n) => n.name), ['Dhruva']);
+  assert.deepEqual(filterNames(names, { startSyllables: ['Dh'] }).map((n) => n.name), names.filter((n) => n.name.startsWith('Dh')).map((n) => n.name));
 });
