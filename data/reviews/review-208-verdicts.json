@@ -1,0 +1,1071 @@
+[
+ {
+  "name": "Prasuta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pratavi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prati",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Pratibahu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pratibhanu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pratima",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Pratimbaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pratitvaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prativaha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prativyuha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pratosha",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Great delight, satisfaction"
+  }
+ },
+ {
+  "name": "Pratyush",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pravahuka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pravaresha",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Lord of the best; a noble lord"
+  }
+ },
+ {
+  "name": "Pravira",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Excellent hero; eminent warrior"
+  }
+ },
+ {
+  "name": "Praviraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Premakara",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Source or mine of love"
+  }
+ },
+ {
+  "name": "Premardra",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Prishata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pritha",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Prithu",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Broad, great; name of the primeval king Prithu"
+  }
+ },
+ {
+  "name": "Prithudara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prithujaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prithuka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prithumana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prithutama",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Priya",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Beloved, dear"
+  }
+ },
+ {
+  "name": "Priyakhya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Priyatama",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Proshthika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pulaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pulasti",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Pulina",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Pulinda",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Pulindaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Punaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Punarvasu",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Bringing wealth again; a lunar mansion (nakshatra)"
+  }
+ },
+ {
+  "name": "Pundarika",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "White lotus"
+  }
+ },
+ {
+  "name": "Punyakara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Punyeyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Purakalpa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Purandara",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Purandhi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Puranjaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Puravasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Purnamasa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Purnendu",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Purodasha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Purojava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Purovaha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Purujanu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Puruvasu",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Possessing much wealth"
+  }
+ },
+ {
+  "name": "Pushadhra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pushkala",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Abundant, plentiful"
+  }
+ },
+ {
+  "name": "Pushkaraksha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pushkarani",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Pushkari",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pushkarina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pushpa",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Flower, blossom"
+  }
+ },
+ {
+  "name": "Pushpak",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pushpanana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pushparna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pushti",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Putakratu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Putra",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Putraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rabhasana",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rachita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Radhaka",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Radhakant",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Raghunandan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Raghupati",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rahu",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Raibhya",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Descendant of Rebha; a Vedic sage"
+  }
+ },
+ {
+  "name": "Raivata",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Wealthy, prosperous; name of a Manu"
+  }
+ },
+ {
+  "name": "Raj",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rajaja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rajaka",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Rajamana",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rajana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rajaputra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rajasimha",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Royal lion"
+  }
+ },
+ {
+  "name": "Rajeshvara",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Raka",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Rakshana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ramabhatta",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Ramanaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ramanuja",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rambha",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Ramchandra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ramdoot",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Rameshvara",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Lord of Rama; Shiva worshipped by Rama at Rameswaram"
+  }
+ },
+ {
+  "name": "Ramoda",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ramyaka",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Ramyantara",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ranaditya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ranaji",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ranejaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ranga",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ranganath",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rangoji",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Ranjana",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Ranotkata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ranti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rantibhasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rantipala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ranveer",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rasarnava",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rasendra",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Raseshvara",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rashi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Rasodadhi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Ratha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Rathanja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rathantara",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Rathormi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ratnanka",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Ratnendra",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Raudra",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Rebhya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Renuka",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Reva",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Revanta",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Radiant, splendid; a son of Surya"
+  }
+ },
+ {
+  "name": "Revata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Reyansh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ribhu",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Skilful, clever; one of the divine artisans, the Ribhus"
+  }
+ },
+ {
+  "name": "Richabha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Richika",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Vedic sage Richika, father of Jamadagni"
+  }
+ },
+ {
+  "name": "Rijadasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Riju",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Straight, upright, honest"
+  }
+ },
+ {
+  "name": "Rijudaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Riksha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Rina",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Ripu",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Ripumjaya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rishabh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rishi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rishija",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rishivasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rishya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rishyanta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ritajata",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Riteshu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Riteyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rithu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ritudhvaja",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Rochamana",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rochisha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rochishnu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rohit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rohitashva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Romaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Romapada",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rosha",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Ruchaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ruchira",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Pleasant, radiant, beautiful"
+  }
+ },
+ {
+  "name": "Ruchishya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rudradeva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rudransh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rudrayana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ruka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rukkama",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rukma",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Gold, shining"
+  }
+ },
+ {
+  "name": "Rukmabha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rukmangada",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "Wearing golden armlets; a pious king devoted to the Ekadashi vow"
+  }
+ },
+ {
+  "name": "Rukmaratha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rukmeshu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Runda",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rupapati",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rupina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rupya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ruru",
+  "verdict": "fix",
+  "reason": "meaning weak or garbled",
+  "fix": {
+   "meaning_en": "A deer; name of a sage"
+  }
+ },
+ {
+  "name": "Rushamgu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rushamku",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sabala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sabhya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sada",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sadalambha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sadapaksha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sadashva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sadasya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Sadda",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sadhanu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sahaja",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Sahasana",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sahasra",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Sahasranka",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sahasvasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sahiranya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sahridaya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sahvaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Saindhava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sainhlada",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Saitya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sajyoti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sakalendu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Saksham",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Samagrendu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ }
+]

@@ -1,0 +1,1092 @@
+[
+ {
+  "name": "Girika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Giriraksha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gohilla",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Golaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Golamgula",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Goma",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gopa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Gopada",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gopaditya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gopati",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Lord of cows; protector of herds"
+  }
+ },
+ {
+  "name": "Gopendra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gopinath",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gosvalu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gotra",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Graha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Graheshu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gramyayani",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Grasana",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Gridhra",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Griheshu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Grinjima",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Grinjina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gritsa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gudanila",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Guha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Guheshvara",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Lord of the hidden cave; Shiva"
+  }
+ },
+ {
+  "name": "Gulma",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Gulmaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gunadhipa",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gunakara",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Mine of virtues"
+  }
+ },
+ {
+  "name": "Gunala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gupila",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gupta",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Gurupriti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gurusevi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Guruvirya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gurvaksha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Haimibhuta",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Halahala",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Halasya",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Halayudha",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Wielder of the plough; epithet of Balarama"
+  }
+ },
+ {
+  "name": "Hamsa",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Swan; symbol of purity and discernment"
+  }
+ },
+ {
+  "name": "Hamsajihva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Hamsamukha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Haraya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Haridasa",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Servant of Hari (Vishnu)"
+  }
+ },
+ {
+  "name": "Harikesha",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Tawny or golden-haired; epithet of Shiva"
+  }
+ },
+ {
+  "name": "Harinesha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Harinetra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Harita",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Green, verdant; golden-yellow"
+  }
+ },
+ {
+  "name": "Haritashva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Harshakula",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Harshaniya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Harshit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harshodaya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Haryadhana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Haryadvata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Hasana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Hasta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Hastidana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Hastini",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Havi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Havishnu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Havishya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Havya",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Oblation offered to the gods"
+  }
+ },
+ {
+  "name": "Haya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Hayagriva",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Horse-necked; a form of Vishnu, lord of knowledge"
+  }
+ },
+ {
+  "name": "Hehaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Hemahva",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Hemamgada",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Having golden armlets"
+  }
+ },
+ {
+  "name": "Hemanetra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Hemang",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hemaratha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Heramb",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hetu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Hevajra",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Hina",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Hiranyaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Hiranyayu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Hirimasha",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Hita",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Beneficial; a well-wisher or friend"
+  }
+ },
+ {
+  "name": "Hlada",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Homa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Homagni",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Hotraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Hrada",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Hriday",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hridayika",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Hridyamshu",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Having charming rays"
+  }
+ },
+ {
+  "name": "Hrisheyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Hullura",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Huyanta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Idaspati",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Idhma",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Idhmajihva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Idya",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Worthy of praise"
+  }
+ },
+ {
+  "name": "Ikara",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Ikshvaku",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ilavarta",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Ilavila",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ilina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ilusha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Indrabha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Indrota",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Indu",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Moon; a bright drop"
+  }
+ },
+ {
+  "name": "Irana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ishtaka",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ivilaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jabali",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jaghanya",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Jahnugana",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Jahu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jaitra",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Victorious, triumphant"
+  }
+ },
+ {
+  "name": "Jaivatrika",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Jaiyata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jala",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Jalada",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Jalamdhama",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Jalamdhara",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Jalantaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jalendhana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Jaleshu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jaleyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jaloka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jalonnada",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jalpa",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Jamadagni",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jamba",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jambha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Jambuka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jambunada",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Jamitra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jananatha",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Lord of the people; king"
+  }
+ },
+ {
+  "name": "Janapida",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Janarnava",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Janina",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Janmadhipa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Jantu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Janujamgha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jaramana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jarandhaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jarasandha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Jarita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jaromdhaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jaruthya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jatilaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jatismara",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Jatoksha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Jatukarna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jatunabha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Javanila",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Javasena",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Javina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Javinara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jayada",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Giver of victory"
+  }
+ },
+ {
+  "name": "Jayadhvaja",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Victory banner"
+  }
+ },
+ {
+  "name": "Jayadratha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Jayakara",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Bringer of victory"
+  }
+ },
+ {
+  "name": "Jayasena",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Having a victorious army"
+  }
+ },
+ {
+  "name": "Jayatsena",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Jayendra",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Lord of victory"
+  }
+ },
+ {
+  "name": "Jayishnu",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Victorious; epithet of Vishnu, Indra and Arjuna"
+  }
+ },
+ {
+  "name": "Jayoddhura",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Jayuka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jharjara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jigishu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Jigyu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Jihva",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Jihvaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jishnu",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Victorious; epithet of Vishnu, Indra and Arjuna"
+  }
+ },
+ {
+  "name": "Jita",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Jitavrata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jitya",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Jivaditya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jivanatha",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Lord of life"
+  }
+ },
+ {
+  "name": "Jnana",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Knowledge, wisdom"
+  }
+ },
+ {
+  "name": "Jnanagni",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Jnanakara",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Source of knowledge"
+  }
+ },
+ {
+  "name": "Jnanananda",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Bliss of knowledge"
+  }
+ },
+ {
+  "name": "Jnanarnava",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Joshya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Juhurana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jurni",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jyoti",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Light, radiance"
+  }
+ },
+ {
+  "name": "Jyotsnesha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Kahaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kahoda",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kahuya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kaikeya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kairata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kaishika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kaivalya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Kaksheyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kakudaksha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kakustha",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Kakutstha",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Descendant of Kakutstha; epithet of Rama"
+  }
+ },
+ {
+  "name": "Kalachakra",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Kalajihva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kalakendra",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Kalamurti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ }
+]

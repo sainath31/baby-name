@@ -1,0 +1,1074 @@
+[
+ {
+  "name": "Samanja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samarpan",
+  "verdict": "keep",
+  "reason": "auspicious/neutral, clear meaning"
+ },
+ {
+  "name": "Samarth",
+  "verdict": "keep",
+  "reason": "auspicious/neutral, clear meaning"
+ },
+ {
+  "name": "Samaya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Sambhav",
+  "verdict": "keep",
+  "reason": "auspicious/neutral, clear meaning"
+ },
+ {
+  "name": "Sambhrama",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Sambhuti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sambuta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samdasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samdhana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samdhi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Samga",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samgata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samhara",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Samitara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samitpani",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samjati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samjaya",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Victorious; completely triumphant (also Sanjaya, the charioteer-narrator of the Mahabharata)"
+  }
+ },
+ {
+  "name": "Samjeya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samkalpa",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Resolve, firm intention, determination"
+  }
+ },
+ {
+  "name": "Samkriti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samkritya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samkshipa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samnati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samshaya",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Samtana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Samtateyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samtosha",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Contentment, satisfaction"
+  }
+ },
+ {
+  "name": "Samudra",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Ocean, sea"
+  }
+ },
+ {
+  "name": "Samvaha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samvarta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samvartta",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Samvritti",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Samyama",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Samyupa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samyuta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sanadvaja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sanala",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sananda",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Ever joyful; one of Brahma's four mind-born sons (Sanandana group)"
+  }
+ },
+ {
+  "name": "Sanashruta",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sanati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sandhi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Sandipani",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Sage Sandipani, guru of Krishna and Balarama; etymology uncertain"
+  }
+ },
+ {
+  "name": "Saneyaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sangita",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sangrama",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Battle, war; valour in battle"
+  }
+ },
+ {
+  "name": "Sanket",
+  "verdict": "keep",
+  "reason": "auspicious/neutral, clear meaning"
+ },
+ {
+  "name": "Sannateshu",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Sannateyu",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Sannivesha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Santapana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Santateyu",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Santati",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Sanu",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Mountain peak, summit"
+  }
+ },
+ {
+  "name": "Saptabahu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Saptagu",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Saptahotra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Saptala",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Saptasapti",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Saptashva",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Saramaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sarasvata",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Of Sarasvati; learned, eloquent"
+  }
+ },
+ {
+  "name": "Sarga",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Sariddhaja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sarpaga",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sarpanta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sarshthi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sarthak",
+  "verdict": "keep",
+  "reason": "auspicious/neutral, clear meaning"
+ },
+ {
+  "name": "Sarupya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sarvaga",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sarvamedha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sarvatraga",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sarvavrika",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Sarvottama",
+  "verdict": "keep",
+  "reason": "auspicious/neutral, clear meaning"
+ },
+ {
+  "name": "Sarya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sasatya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sasmita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Satadvaja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Satakrita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Satpati",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Satva",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Satvadanta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Satvajyoti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Satvik",
+  "verdict": "keep",
+  "reason": "auspicious/neutral, clear meaning"
+ },
+ {
+  "name": "Satyaduta",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Satyajyoti",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Light of truth"
+  }
+ },
+ {
+  "name": "Satyaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Satyakama",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "One who desires truth; Satyakama of the Chandogya Upanishad"
+  }
+ },
+ {
+  "name": "Satyamitra",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Friend of truth"
+  }
+ },
+ {
+  "name": "Satyamugri",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Satyananda",
+  "verdict": "keep",
+  "reason": "auspicious/neutral, clear meaning"
+ },
+ {
+  "name": "Satyasaha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Satyavanta",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Truthful, possessing truth"
+  }
+ },
+ {
+  "name": "Satyayani",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Satyayu",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Whose life is truth"
+  }
+ },
+ {
+  "name": "Satyeyu",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Satyodya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Saubhadra",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Saubhaga",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sauchika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Saudhika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sauha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sauhrida",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Saumadatti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Saumanasya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Saura",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Relating to the Sun; solar"
+  }
+ },
+ {
+  "name": "Saurasa",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Saurata",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Saurni",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sauti",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Sava",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Savana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Savarni",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Savarnika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Savirya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Savitara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Savitri",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Saya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Setu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Shabdabdhi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shachisha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Shadanga",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Shadapaya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Shaibya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shaka",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Shakala",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Shakha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shakraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shakta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shaktideva",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Divine power; god of strength"
+  }
+ },
+ {
+  "name": "Shakuna",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Shakya",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Shakyama",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shalagni",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Shalahaka",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Shalanku",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Shalayani",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shalihotra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shalmali",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Shalya",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Shamanvita",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shami",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Shamika",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Shamita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shamkamana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shamkhana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shamku",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shamsapa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shamyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shandilya",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Sage Shandilya, founder of a gotra; etymology uncertain"
+  }
+ },
+ {
+  "name": "Shanga",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shankhana",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Shanmukh",
+  "verdict": "keep",
+  "reason": "auspicious/neutral, clear meaning"
+ },
+ {
+  "name": "Shanta",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Peaceful, calm"
+  }
+ },
+ {
+  "name": "Shanti",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Peace, tranquility"
+  }
+ },
+ {
+  "name": "Shapa",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Sharadvata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sharan",
+  "verdict": "keep",
+  "reason": "auspicious/neutral, clear meaning"
+ },
+ {
+  "name": "Sharanyu",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Protector, giver of refuge"
+  }
+ },
+ {
+  "name": "Shardha",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Sharutha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sharvaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sharvi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sharyati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shashaksha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shashi",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "The moon"
+  }
+ },
+ {
+  "name": "Shata",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Shatabali",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shataghna",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Shataguna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shatahara",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Shatanika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shatarupa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shatasena",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shatayudha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shaunaka",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Descendant of Shunaka; a great Vedic sage"
+  }
+ },
+ {
+  "name": "Shaurishu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shaurya",
+  "verdict": "keep",
+  "reason": "auspicious/neutral, clear meaning"
+ },
+ {
+  "name": "Shaushkala",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Shavagni",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Shchandra",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Shighra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shikayata",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Shiksha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shila",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shilina",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Shimgi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shineyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shinibadha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shiphara",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shipraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shirshaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shishika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shishira",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Shishuka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shishumara",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Shita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shitamshu",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Cool-rayed; the moon"
+  }
+ },
+ {
+  "name": "Shitapu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shivadasa",
+  "verdict": "fix",
+  "reason": "meaning improved",
+  "fix": {
+   "meaning_en": "Servant of Shiva"
+  }
+ }
+]
