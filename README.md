@@ -1,25 +1,67 @@
 # baby-name
 
-Unique Hindu baby boy names, indexed A-Z, with English meanings and filters
-(state, syllables, sound group, nakshatra/rashi, numerology). Static site + JSON.
+A library of Hindu baby boy names, indexed A-Z, with English meanings, sources and licenses, and filters
+for state, syllables, sound group, nakshatra/rashi (with a birth date/time/place helper), and numerology.
+Static website + JSON data. Names are checked by validators; an AI reviewer role plays a priest-scholar
+(not a human priest). **Treat astrology, numerology and AI-reviewed meanings as aids, and verify important
+choices with a family priest or panchang.**
 
-- `data/names.json` - source of truth (one record per root name; compounds live under the root)
-- `src/` - pure modules: filters, numerology (Chaldean/Pythagorean), sounds, astrology
-- `scripts/validate.js` - uniqueness, meaning, source/license checks
-- `npm run build` then serve `web/` (e.g. `npx http-server web`)
+## Status (updated each work pass)
 
-Not yet built: source ingestion pipelines, birth date/time/place -> nakshatra
-(needs an ephemeris library; `fromSiderealLongitude` is ready for it).
+_Last updated: 2026-10-09_
+
+| Measure | Count |
+|---|---|
+| Names listed (shown to users) | 963 |
+| Candidate records kept in data but hidden | ~17,200 |
+| Total records | 18,197 |
+| Names read by the AI reviewer | ~3,200 (all 694 first-round, 2,480 shortlist) |
+| Tests | 18 passing |
+
+**Goal:** 100,000 unique names. **Reality check:** vetted attested names number in the low thousands at most;
+the remainder can only come from rule-based compound generation, labelled "constructed" (see To do).
+
+### Done
+- Data model, importer, quality gate (`src/quality.js`), validators (uniqueness, meaning, sources, script round-trip).
+- Sources: hand-compiled names; Monier-Williams, Böhtlingk PW/PWG, Purāṇa Index and Monier-Williams 1872 via the
+  Cologne CDSL (CC BY-SA 4.0); Vishnu Sahasranama epithets; deity/saint epithets; regional and modern names.
+- AI priest-scholar review of 3,174 records (data/reviews/); scripted reviews that did not read each name were discarded.
+- Mobile-first UI: per-letter data shards, Web Worker filtering, many filters, favourites, share links, dark mode.
+- Astrology engine: date + time + place -> Moon sign, nakshatra, pada, naming syllable, lagna, using the vendored
+  `panchang-ts` (MIT). Verified against published Sankranti and eclipse events and an independent ephemeris.
+- Numerology (Chaldean and Pythagorean) and sound-group filters.
+- Telugu/Kannada support: conversion from Devanagari/IAST and a validator (`scripts/check-name.js`).
+
+### In progress
+- Compound-name generator: curating a lexicon of name-forming elements (nouns, deities, suffixes) with reviewers
+  (candidates in `data/lexicon/`). Constructed names will be labelled and kept separate from attested ones.
+
+### To do
+- Build the generator and a "constructed names" mode in the UI; ship a Telugu/Kannada name display toggle.
+- Devotional lists not yet mined: Shiva, Lalita (masculine epithets), Ganesha, Hanuman sahasranamas and 108-name lists;
+  Ramcharitmanas, Alvar, Nayanar and Bhakti poetry; more regional name sources.
+- Human review (a real priest or Sanskrit scholar) of the final list; review the remaining ~14,900 hidden candidates.
+- Service worker/offline mode, Lighthouse check, source-text and name-length filters.
+- State coverage: most names are tagged "All India"; regional tagging needs real sources.
+
+## Layout
+- `data/names.json`, `data/batches/` - hand-compiled names (batches are merged by `scripts/import-batches.js`)
+- `data/generated/` - dictionary-derived records (`curation: "unreviewed"` unless a reviewer verdict exists)
+- `data/reviews/` - reviewer inputs and verdicts; `data/lexicon/` - compound-generator lexicon work
+- `src/` - pure modules: filters, numerology, sounds, astrology, astro-engine, quality gate, indic-scripts, vendored libraries
+- `scripts/` - ingest, import, validate, build, `check-name.js`
+- `web/` - the static UI (`npm run build`, then `npm run serve`)
+
+## Commands
+`npm run validate` | `npm test` | `npm run build` | `npm run serve` | `node scripts/check-name.js "కృష్ణ"`
 
 ## Data sources and licenses
 - `data/names.json` + `data/batches/`: hand-compiled names (original compilation).
-- `data/generated/mw-names.json`: masculine proper names extracted from the Monier-Williams
-  Sanskrit-English Dictionary as digitised by the Cologne Digital Sanskrit Dictionaries
-  (https://github.com/sanskrit-lexicon/csl-orig), licensed **CC BY-SA 4.0**. Derived data
-  therefore carries the same share-alike terms. Regenerate with
-  `scripts/fetch-sources.sh && node scripts/ingest-mw.js`.
-  Records are `curation: "unreviewed"`: many are obscure epic or historical figures and the
-  meaning is the dictionary's own "Name of ..." gloss.
+- `data/generated/*-names.json`: masculine proper names from the Monier-Williams, Böhtlingk and Purāṇa Index
+  dictionaries as digitised by the Cologne Digital Sanskrit Dictionaries (https://github.com/sanskrit-lexicon/csl-orig),
+  **CC BY-SA 4.0**; derived data carries the same share-alike terms. Regenerate with
+  `scripts/fetch-sources.sh` and the `scripts/ingest-*.js` scripts.
+- `src/vendor/panchang-ts.js`: panchang-ts 5.4.0, MIT. `test/vendor/astronomy-engine.js`: astronomy-engine 2.1.19, MIT.
 
 ## Running the UI
 `npm run build` emits per-letter shards and a manifest to `web/data/` and copies `src/` to `web/src/`
