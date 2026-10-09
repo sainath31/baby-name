@@ -5,11 +5,12 @@ const names = loadAll();
 const errors = [];
 const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, ' ').trim();
 const seen = new Map();
+const seenSpell = new Map();
 
 for (const n of names) {
   const key = norm(n.iast || n.name);
-  if (seen.has(key) || seen.has(n.name.toLowerCase())) errors.push(`duplicate: ${n.name} / ${seen.get(key)}`);
-  seen.set(key, n.name); seen.set(n.name.toLowerCase(), n.name);
+  if (seen.has(key) || seenSpell.has(n.name.toLowerCase())) errors.push(`duplicate: ${n.name} / ${seen.get(key) || seenSpell.get(n.name.toLowerCase())}`);
+  seen.set(key, n.name); seenSpell.set(n.name.toLowerCase(), n.name);
   if (!n.meaning_en) errors.push(`${n.name}: missing meaning_en`);
   if (!n.sources?.length) errors.push(`${n.name}: missing sources`);
   if (n.sources?.some((s) => !s.license)) errors.push(`${n.name}: source missing license`);
