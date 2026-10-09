@@ -221,12 +221,19 @@ function buildFilters() {
       h('p', { class: 'hint', style: 'margin-top:8px', id: 'sylHint' }),
       h('div', { id: 'sylChips' }),
       h('div', { class: 'soon' },
-        h('span', { class: 'soon-tag', text: 'Coming soon' }),
-        h('strong', { text: 'Find from birth date, time and place' }),
-        h('p', { class: 'hint', text: 'Automatic nakshatra lookup needs an astronomical ephemeris, which is not bundled yet. Pick manually above for now.' }),
-        h('input', { type: 'date', disabled: true, 'aria-label': 'Birth date (coming soon)' }),
-        h('input', { type: 'time', disabled: true, 'aria-label': 'Birth time (coming soon)' }),
-        h('input', { type: 'text', disabled: true, placeholder: 'Birth place', 'aria-label': 'Birth place (coming soon)' })))),
+        h('strong', { text: 'Find from birth details' }),
+        h('p', { class: 'hint', text: 'Computes the Moon\'s nakshatra and rashi (Lahiri sidereal). It is a computed estimate, so please verify with a panchang or your family priest.' }),
+        h('label', { for: 'bDate', class: 'sr', text: 'Birth date' }), h('input', { type: 'date', id: 'bDate' }),
+        h('label', { for: 'bTime', class: 'sr', text: 'Birth time' }), h('input', { type: 'time', id: 'bTime' }),
+        h('p', { class: 'hint', text: 'Don\'t know the exact time? Leave it empty (12:00 is assumed) and treat the Moon sign as approximate.' }),
+        h('label', { for: 'bPlace', class: 'sr', text: 'Birth place' }), h('input', { type: 'text', id: 'bPlace', list: 'cityList', placeholder: 'Birth place (e.g. Chennai)', autocomplete: 'off' }),
+        h('datalist', { id: 'cityList' }),
+        h('details', {}, h('summary', { text: 'Born abroad? Enter coordinates' }),
+          h('label', { for: 'bLat', class: 'sr', text: 'Latitude' }), h('input', { type: 'text', id: 'bLat', placeholder: 'Latitude, e.g. 51.5', inputmode: 'decimal' }),
+          h('label', { for: 'bLon', class: 'sr', text: 'Longitude' }), h('input', { type: 'text', id: 'bLon', placeholder: 'Longitude, e.g. -0.12', inputmode: 'decimal' }),
+          h('label', { for: 'bTz', class: 'sr', text: 'Time zone' }), h('input', { type: 'text', id: 'bTz', placeholder: 'IANA time zone, e.g. Europe/London' })),
+        h('button', { type: 'button', class: 'btn', id: 'bGo', text: 'Compute' }),
+        h('div', { id: 'bOut', 'aria-live': 'polite' })))),
     group('Numerology', h('div', {},
       h('p', { class: 'hint', text: 'Name number from the letters of the name. A traditional belief, shown for reference.' }),
       h('label', { for: 'sysSel', class: 'sr', text: 'System' }), sysSel,
@@ -243,6 +250,30 @@ function buildFilters() {
       h('p', { class: 'hint', style: 'margin:12px 0 4px', text: 'Show names in' }),
       h('div', { class: 'opt-grid' }, [['all', 'All scripts'], ['deva', 'Devanagari'], ['iast', 'IAST'], ['latin', 'Latin only']].map(([v, l]) => h('label', { class: 'opt' }, h('input', { type: 'radio', name: 'script', 'data-script': v, checked: v === 'all' }), h('span', { text: l })))))),
   );
+  import('./src/cities.js').then(({ CITIES }) => $('cityList').append(...CITIES.map((c) => h('option', { value: c[0], label: c[1] }))));
+  $('bGo').addEventListener('click', async () => {
+    const out = $('bOut'); const date = $('bDate').value; const time = $('bTime').value || '12:00';
+    if (!date) { out.textContent = 'Please enter a birth date.'; return; }
+    try {
+      const { CITIES } = await import('./src/cities.js');
+      let lat, lon, tz = 'Asia/Kolkata';
+      if ($('bLat').value.trim() && $('bLon').value.trim()) { lat = parseFloat($('bLat').value); lon = parseFloat($('bLon').value); tz = $('bTz').value.trim() || tz; }
+      else { const c = CITIES.find((x) => x[0].toLowerCase() === $('bPlace').value.trim().toLowerCase()); if (!c) { out.textContent = 'Pick a place from the list, or enter coordinates under "Born abroad".'; return; } lat = c[2]; lon = c[3]; }
+      if (!Number.isFinite(lat) || !Number.isFinite(lon)) { out.textContent = 'Latitude and longitude must be numbers.'; return; }
+      out.textContent = 'Computing…';
+      const { birthChart } = await import('./src/astro-engine.js');
+      const r = await birthChart({ date, time, tz, lat, lon });
+      out.replaceChildren(h('div', { class: 'num-row', style: 'margin-top:8px' },
+        h('div', { class: 'num' }, h('b', { text: r.rashi }), h('small', { text: 'Rashi (Moon sign)' })),
+        h('div', { class: 'num' }, h('b', { text: r.nakshatra }), h('small', { text: `Nakshatra, pada ${r.pada}` })),
+        h('div', { class: 'num' }, h('b', { text: r.syllable }), h('small', { text: 'Starting syllable' })),
+        r.lagna && h('div', { class: 'num' }, h('b', { text: String(r.lagna.rashi || r.lagna) }), h('small', { text: 'Lagna (ascendant)' }))),
+        r.nearPadaBoundary && h('p', { class: 'warn-box', text: 'The birth time is close to a pada change, so the syllable may differ with a slightly different time. Please verify.' }),
+        h('p', { class: 'hint', style: 'margin-top:8px', text: 'Computed estimate. Verify with a panchang.' }),
+        h('button', { type: 'button', class: 'btn primary', id: 'bUse', text: 'Use these filters', onclick: () => { S.nak = r.nakshatra; S.rashi = ''; S.syls = new Set([r.syllable]); syncInputs(); apply(); toast('Filters applied'); } }));
+      out.dataset.result = JSON.stringify({ n: r.nakshatra, p: r.pada, r: r.rashi, s: r.syllable });
+    } catch (err) { out.textContent = `Could not compute: ${err.message}`; }
+  });
   body.addEventListener('input', (e) => {
     if (e.target.id !== 'dob' || !e.target.value) return;
     const [y, mo, d] = e.target.value.split('-').map(Number);
