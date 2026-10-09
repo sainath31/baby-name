@@ -263,14 +263,14 @@ function buildFilters() {
       out.textContent = 'Computing…';
       const { birthChart } = await import('./src/astro-engine.js');
       const r = await birthChart({ date, time, tz, lat, lon });
-      out.replaceChildren(h('div', { class: 'num-row', style: 'margin-top:8px' },
+      out.replaceChildren(...[h('div', { class: 'num-row', style: 'margin-top:8px' },
         h('div', { class: 'num' }, h('b', { text: r.rashi }), h('small', { text: 'Rashi (Moon sign)' })),
         h('div', { class: 'num' }, h('b', { text: r.nakshatra }), h('small', { text: `Nakshatra, pada ${r.pada}` })),
         h('div', { class: 'num' }, h('b', { text: r.syllable }), h('small', { text: 'Starting syllable' })),
         r.lagna && h('div', { class: 'num' }, h('b', { text: String(r.lagna.rashi || r.lagna) }), h('small', { text: 'Lagna (ascendant)' }))),
         r.nearPadaBoundary && h('p', { class: 'warn-box', text: 'The birth time is close to a pada change, so the syllable may differ with a slightly different time. Please verify.' }),
         h('p', { class: 'hint', style: 'margin-top:8px', text: 'Computed estimate. Verify with a panchang.' }),
-        h('button', { type: 'button', class: 'btn primary', id: 'bUse', text: 'Use these filters', onclick: () => { S.nak = r.nakshatra; S.rashi = ''; S.syls = new Set([r.syllable]); syncInputs(); apply(); toast('Filters applied'); } }));
+        h('button', { type: 'button', class: 'btn primary', id: 'bUse', text: 'Use these filters', onclick: () => { S.nak = r.nakshatra; S.rashi = ''; S.syls = new Set([r.syllable]); syncInputs(); apply(); toast('Filters applied'); } })].filter(Boolean));
       out.dataset.result = JSON.stringify({ n: r.nakshatra, p: r.pada, r: r.rashi, s: r.syllable });
     } catch (err) { out.textContent = `Could not compute: ${err.message}`; }
   });
