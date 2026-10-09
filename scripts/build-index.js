@@ -1,8 +1,9 @@
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { writeFileSync, mkdirSync } from 'node:fs';
+import { loadAll } from './lib.js';
 import { nameNumber } from '../src/numerology.js';
 import { initialSound } from '../src/sounds.js';
 
-const names = JSON.parse(readFileSync(new URL('../data/names.json', import.meta.url)));
+const names = loadAll();
 const out = names.map((n) => ({
   ...n,
   numerology: { chaldean: nameNumber(n.name, 'chaldean'), pythagorean: nameNumber(n.name, 'pythagorean') },

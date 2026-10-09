@@ -10,3 +10,13 @@ Unique Hindu baby boy names, indexed A-Z, with English meanings and filters
 
 Not yet built: source ingestion pipelines, birth date/time/place -> nakshatra
 (needs an ephemeris library; `fromSiderealLongitude` is ready for it).
+
+## Data sources and licenses
+- `data/names.json` + `data/batches/`: hand-compiled names (original compilation).
+- `data/generated/mw-names.json`: masculine proper names extracted from the Monier-Williams
+  Sanskrit-English Dictionary as digitised by the Cologne Digital Sanskrit Dictionaries
+  (https://github.com/sanskrit-lexicon/csl-orig), licensed **CC BY-SA 4.0**. Derived data
+  therefore carries the same share-alike terms. Regenerate with
+  `scripts/fetch-sources.sh && node scripts/ingest-mw.js`.
+  Records are `curation: "unreviewed"`: many are obscure epic or historical figures and the
+  meaning is the dictionary's own "Name of ..." gloss.
