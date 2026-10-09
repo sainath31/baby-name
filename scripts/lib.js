@@ -38,7 +38,7 @@ export function loadAll(opts = {}) {
     if (v?.verdict === 'fix' && v.fix) {
       Object.assign(n, v.fix);
       n.letter = n.name[0].toUpperCase();
-      if (v.fix.iast) n.syllable_count = syllableCount(v.fix.iast);
+      if (v.fix.iast) { n.iast = v.fix.iast.trim().toLowerCase(); n.syllable_count = syllableCount(n.iast); }
     }
     if (v?.verdict === 'reject') { n.listed = false; n.reject_reason = v.reason; }
     else if (v) { n.listed = true; n.reviewed = 'ai-purohit-review-001'; }
