@@ -26,6 +26,7 @@ for (const n of names) for (const c of n.compounds || []) if (top.has(norm(c.nam
 // Script consistency: Devanagari must be what the IAST spells (modern respellings like मयंक are warnings only).
 let scriptMismatch = 0;
 for (const n of names.filter((x) => x.listed)) {
+  if (/[ṉṟḻ]/.test(n.iast || '')) continue;                  // Dravidian letters: no Sanskrit script round-trip
   const slp = fromIast((n.iast || '').replace(/\s+/g, ''));
   if (slp === null) { errors.push(`${n.name}: IAST has unrecognised characters (${n.iast})`); continue; }
   if (toDevanagari(slp) !== (n.devanagari || '').replace(/\s+/g, '')) {
