@@ -1,0 +1,1127 @@
+[
+ {
+  "name": "Shivadatta",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shivahlada",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shivakhya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shivaku",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Shivananda",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Bliss of Shiva; joy found in Shiva"
+  }
+ },
+ {
+  "name": "Shivansh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shivarama",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Shiva and Rama together; devoted to both"
+  }
+ },
+ {
+  "name": "Shivasimha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shlishti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shlok",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shobhatha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shobhavati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shoka",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Shonashva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shonita",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Shonitoda",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shoshareya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shraddha",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shraddhada",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shrama",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Shramana",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Shramishta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shranta",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Shrava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shreyansh",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "One blessed with the auspicious; sharer of good fortune"
+  }
+ },
+ {
+  "name": "Shridatta",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Given by Shri (Lakshmi); blessed with fortune"
+  }
+ },
+ {
+  "name": "Shrideva",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Divine lord of fortune; godlike and prosperous"
+  }
+ },
+ {
+  "name": "Shriman",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrimurti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shriram",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shriyaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shrota",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shruta",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Heard; learned, versed in sacred knowledge"
+  }
+ },
+ {
+  "name": "Shrutasena",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shubha",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Auspicious, bright, beautiful"
+  }
+ },
+ {
+  "name": "Shubhaksha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shubham",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shubhana",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shubhra",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Bright, radiant, pure, white"
+  }
+ },
+ {
+  "name": "Shubhri",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Shucha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shuddha",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Pure, clean, flawless"
+  }
+ },
+ {
+  "name": "Shuddhanta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Shudrika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shukaputta",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Shukla",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Bright, white, pure"
+  }
+ },
+ {
+  "name": "Shuklodana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shukrita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shukriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shunaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shuparna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shuraditya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shurasena",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shushmanta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shushmina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shushna",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Shvanala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shvara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shvata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shvetaketu",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "One with a white banner; the Upanishadic sage Shvetaketu, son of Uddalaka"
+  }
+ },
+ {
+  "name": "Shvetaki",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shvetarata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shyama",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Dark-complexioned, dark blue; a name of Krishna"
+  }
+ },
+ {
+  "name": "Shyamaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shyamarya",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Shyamika",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Siddhant",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Siddhivinayak",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Sidhya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Simadhipa",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Simha",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Lion"
+  }
+ },
+ {
+  "name": "Simhajina",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Simhasaina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sindhu",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Sindhula",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sindhuttha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Siradhvaja",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "One whose banner is the plough; King Janaka, father of Sita"
+  }
+ },
+ {
+  "name": "Siralaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Smara",
+  "verdict": "reject",
+  "reason": "deity_not_for_person"
+ },
+ {
+  "name": "Smarakula",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Smarasava",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Smaya",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Snehakula",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Snehita",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Affectionate friend; beloved companion"
+  }
+ },
+ {
+  "name": "Snigdha",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sohanji",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Sokti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Somabha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Somadatta",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Given by Soma, the Moon"
+  }
+ },
+ {
+  "name": "Somaha",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Somaka",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Relating to Soma, moon-like; an ancient king, grandfather of Drupada"
+  }
+ },
+ {
+  "name": "Somapa",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Somapi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Somodbhava",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sourav",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Fragrance, perfume",
+   "name": "Saurabh",
+   "devanagari": "सौरभ",
+   "iast": "Saurabha"
+  }
+ },
+ {
+  "name": "Sphuta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Srikandu",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Srini",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Srinivas",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Srinjaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sripa",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Srishti",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Stambha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Stambhini",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Stanita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sthaleyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sthiraka",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Sthita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Subahu",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "One with beautiful arms; strong-armed"
+  }
+ },
+ {
+  "name": "Subhadra",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Subhanu",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Beautiful light; radiant like the sun"
+  }
+ },
+ {
+  "name": "Subheshaja",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Subhru",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Subhuti",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Suchandra",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Beautiful moon; very lovely"
+  }
+ },
+ {
+  "name": "Suchiratha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Suchiti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sudaksha",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Very skilful, capable"
+  }
+ },
+ {
+  "name": "Sudakshina",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sudama",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Krishna's devoted childhood friend, also called Kuchela",
+   "devanagari": "सुदामा",
+   "iast": "Sudāmā"
+  }
+ },
+ {
+  "name": "Sudanta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sudatra",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sudeva",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Good god; divinely blessed"
+  }
+ },
+ {
+  "name": "Sudhana",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Possessing good wealth; prosperous"
+  }
+ },
+ {
+  "name": "Sudharmana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sudhiya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sudrishika",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Sugandha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Sugriva",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Beautiful-necked; the Vanara king of the Ramayana"
+  }
+ },
+ {
+  "name": "Suhasta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Suhma",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Suhrada",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Suhrida",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Good-hearted friend"
+  }
+ },
+ {
+  "name": "Suhu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sujana",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Good person, noble man"
+  }
+ },
+ {
+  "name": "Sujaya",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Of great victory; victorious"
+  }
+ },
+ {
+  "name": "Sujjaka",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Sukamala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Suketu",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Having a bright banner; shining brightly"
+  }
+ },
+ {
+  "name": "Sukha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Sukhananda",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sukhasakta",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sukhasvada",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sukheta",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Sukhetara",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Sukratu",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Of good intellect and purpose; wise"
+  }
+ },
+ {
+  "name": "Sukshatra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Suktani",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Sumani",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sumanta",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Well-minded; kind-hearted"
+  }
+ },
+ {
+  "name": "Sumantu",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Well-disposed; a Vedic sage, disciple of Vyasa"
+  }
+ },
+ {
+  "name": "Sumaya",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Sumedha",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Very wise, intelligent"
+  }
+ },
+ {
+  "name": "Sumedhasa",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sumeka",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Sumidha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sumit",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Good friend; well-disposed"
+  }
+ },
+ {
+  "name": "Sumitra",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sumridika",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Sunabha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sunahdhya",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Sunanda",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Very joyful; delightful"
+  }
+ },
+ {
+  "name": "Sunenu",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Sunetra",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sunidhi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sunvana",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Supaksha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Supara",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Suparshva",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Suparvana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Suphala",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Supradadi",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Supraketa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Supratita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sura",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Surabhi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Surala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Suramitra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Surapa",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Suratha",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Having a good chariot; the king Suratha of the Devi Mahatmya"
+  }
+ },
+ {
+  "name": "Suravinda",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Surdas",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Suri",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Learned person, sage; also the sun"
+  }
+ },
+ {
+  "name": "Surusura",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Suruvu",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Suryaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Suryapaya",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Suryapida",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Suryatapa",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Susandhi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Susharmana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sushena",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Having a fine army; the Vanara physician of the Ramayana"
+  }
+ },
+ {
+  "name": "Sushoka",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Sushoma",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sushruna",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Sutahotra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sutami",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sutamitra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sutapa",
+  "verdict": "fix",
+  "reason": "meaning_improved",
+  "fix": {
+   "meaning_en": "Of good austerity; a sage"
+  }
+ },
+ {
+  "name": "Sutaputra",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ }
+]
