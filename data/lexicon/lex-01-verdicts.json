@@ -1,0 +1,1502 @@
+[
+ {
+  "iast": "mahā",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "hari",
+  "use": true,
+  "type": "deity",
+  "gloss": "Hari"
+ },
+ {
+  "iast": "śrī",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sarva",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "satya",
+  "use": true,
+  "type": "virtue",
+  "gloss": "truth"
+ },
+ {
+  "iast": "viśva",
+  "use": true,
+  "type": "sacred",
+  "gloss": "the universe"
+ },
+ {
+  "iast": "candra",
+  "use": true,
+  "type": "nature",
+  "gloss": "the moon"
+ },
+ {
+  "iast": "deva",
+  "use": true,
+  "type": "deity",
+  "gloss": "the gods"
+ },
+ {
+  "iast": "rāma",
+  "use": true,
+  "type": "deity",
+  "gloss": "Rama"
+ },
+ {
+  "iast": "jaya",
+  "use": true,
+  "type": "virtue",
+  "gloss": "victory"
+ },
+ {
+  "iast": "vasu",
+  "use": true,
+  "type": "other",
+  "gloss": "wealth"
+ },
+ {
+  "iast": "śiva",
+  "use": true,
+  "type": "deity",
+  "gloss": "Shiva"
+ },
+ {
+  "iast": "vīra",
+  "use": true,
+  "type": "virtue",
+  "gloss": "the hero"
+ },
+ {
+  "iast": "soma",
+  "use": true,
+  "type": "deity",
+  "gloss": "Soma"
+ },
+ {
+  "iast": "ratna",
+  "use": true,
+  "type": "other",
+  "gloss": "the jewel"
+ },
+ {
+  "iast": "brahma",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Brahman"
+ },
+ {
+  "iast": "siṃha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sūrya",
+  "use": true,
+  "type": "nature",
+  "gloss": "the sun"
+ },
+ {
+  "iast": "tri",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dharma",
+  "use": true,
+  "type": "virtue",
+  "gloss": "righteousness"
+ },
+ {
+  "iast": "rāja",
+  "use": true,
+  "type": "other",
+  "gloss": "the king"
+ },
+ {
+  "iast": "bhadra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "rudra",
+  "use": true,
+  "type": "deity",
+  "gloss": "Rudra"
+ },
+ {
+  "iast": "padma",
+  "use": true,
+  "type": "nature",
+  "gloss": "the lotus"
+ },
+ {
+  "iast": "vajra",
+  "use": true,
+  "type": "sacred",
+  "gloss": "the thunderbolt"
+ },
+ {
+  "iast": "agni",
+  "use": true,
+  "type": "deity",
+  "gloss": "Agni"
+ },
+ {
+  "iast": "kṛṣṇa",
+  "use": true,
+  "type": "deity",
+  "gloss": "Krishna"
+ },
+ {
+  "iast": "viṣṇu",
+  "use": true,
+  "type": "deity",
+  "gloss": "Vishnu"
+ },
+ {
+  "iast": "bāla",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "indra",
+  "use": true,
+  "type": "deity",
+  "gloss": "Indra"
+ },
+ {
+  "iast": "śata",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dṛḍha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "siddha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bahu",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "jina",
+  "use": true,
+  "type": "sacred",
+  "gloss": "the Jina"
+ },
+ {
+  "iast": "kṛta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "hiraṇya",
+  "use": true,
+  "type": "nature",
+  "gloss": "gold"
+ },
+ {
+  "iast": "vara",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "megha",
+  "use": true,
+  "type": "nature",
+  "gloss": "the cloud"
+ },
+ {
+  "iast": "mitra",
+  "use": true,
+  "type": "deity",
+  "gloss": "Mitra"
+ },
+ {
+  "iast": "puṇya",
+  "use": true,
+  "type": "virtue",
+  "gloss": "merit"
+ },
+ {
+  "iast": "cāru",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "hema",
+  "use": true,
+  "type": "nature",
+  "gloss": "gold"
+ },
+ {
+  "iast": "sadā",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhū",
+  "use": true,
+  "type": "nature",
+  "gloss": "the earth"
+ },
+ {
+  "iast": "jñāna",
+  "use": true,
+  "type": "virtue",
+  "gloss": "knowledge"
+ },
+ {
+  "iast": "kāla",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kāma",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nara",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "para",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "priya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sad",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śaṃkara",
+  "use": true,
+  "type": "deity",
+  "gloss": "Shankara"
+ },
+ {
+  "iast": "vaidya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "yajña",
+  "use": true,
+  "type": "sacred",
+  "gloss": "sacrifice"
+ },
+ {
+  "iast": "bṛhad",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "caṇḍa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nāga",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śveta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kanaka",
+  "use": true,
+  "type": "nature",
+  "gloss": "gold"
+ },
+ {
+  "iast": "kṣema",
+  "use": true,
+  "type": "virtue",
+  "gloss": "well-being"
+ },
+ {
+  "iast": "madhu",
+  "use": true,
+  "type": "nature",
+  "gloss": "honey"
+ },
+ {
+  "iast": "maṇi",
+  "use": true,
+  "type": "nature",
+  "gloss": "the jewel"
+ },
+ {
+  "iast": "ravi",
+  "use": true,
+  "type": "nature",
+  "gloss": "the sun"
+ },
+ {
+  "iast": "sahasra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śubha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "aśva",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhava",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dhana",
+  "use": true,
+  "type": "other",
+  "gloss": "wealth"
+ },
+ {
+  "iast": "harṣa",
+  "use": true,
+  "type": "virtue",
+  "gloss": "joy"
+ },
+ {
+  "iast": "śruta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "yoga",
+  "use": true,
+  "type": "sacred",
+  "gloss": "yoga"
+ },
+ {
+  "iast": "āditya",
+  "use": true,
+  "type": "deity",
+  "gloss": "Aditya"
+ },
+ {
+  "iast": "bhīma",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "guṇa",
+  "use": true,
+  "type": "virtue",
+  "gloss": "virtue"
+ },
+ {
+  "iast": "jīva",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "loka",
+  "use": true,
+  "type": "other",
+  "gloss": "the world"
+ },
+ {
+  "iast": "sāgara",
+  "use": true,
+  "type": "nature",
+  "gloss": "the ocean"
+ },
+ {
+  "iast": "śakti",
+  "use": true,
+  "type": "virtue",
+  "gloss": "power"
+ },
+ {
+  "iast": "sapta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sthira",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sva",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "veda",
+  "use": true,
+  "type": "sacred",
+  "gloss": "the Veda"
+ },
+ {
+  "iast": "vidyā",
+  "use": true,
+  "type": "virtue",
+  "gloss": "learning"
+ },
+ {
+  "iast": "indu",
+  "use": true,
+  "type": "nature",
+  "gloss": "the moon"
+ },
+ {
+  "iast": "jala",
+  "use": true,
+  "type": "nature",
+  "gloss": "water"
+ },
+ {
+  "iast": "kalyāṇa",
+  "use": true,
+  "type": "virtue",
+  "gloss": "welfare"
+ },
+ {
+  "iast": "kavi",
+  "use": true,
+  "type": "other",
+  "gloss": "the poet"
+ },
+ {
+  "iast": "lakṣmī",
+  "use": true,
+  "type": "deity",
+  "gloss": "Lakshmi"
+ },
+ {
+  "iast": "mādhava",
+  "use": true,
+  "type": "deity",
+  "gloss": "Madhava"
+ },
+ {
+  "iast": "mano",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nārāyaṇa",
+  "use": true,
+  "type": "deity",
+  "gloss": "Narayana"
+ },
+ {
+  "iast": "vāyu",
+  "use": true,
+  "type": "deity",
+  "gloss": "Vayu"
+ },
+ {
+  "iast": "vyāghra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ārya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhūta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "buddha",
+  "use": true,
+  "type": "sacred",
+  "gloss": "the Buddha"
+ },
+ {
+  "iast": "devāsura",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dvi",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "eka",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kamala",
+  "use": true,
+  "type": "nature",
+  "gloss": "the lotus"
+ },
+ {
+  "iast": "kha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "madana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "māṇikya",
+  "use": true,
+  "type": "nature",
+  "gloss": "the ruby"
+ },
+ {
+  "iast": "manu",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Manu"
+ },
+ {
+  "iast": "mṛga",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "pañca",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "puru",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Puru"
+ },
+ {
+  "iast": "śānti",
+  "use": true,
+  "type": "virtue",
+  "gloss": "peace"
+ },
+ {
+  "iast": "sukha",
+  "use": true,
+  "type": "virtue",
+  "gloss": "happiness"
+ },
+ {
+  "iast": "ugra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vāg",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vahni",
+  "use": true,
+  "type": "nature",
+  "gloss": "fire"
+ },
+ {
+  "iast": "vṛka",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "yaśo",
+  "use": true,
+  "type": "virtue",
+  "gloss": "fame"
+ },
+ {
+  "iast": "bala",
+  "use": true,
+  "type": "virtue",
+  "gloss": "strength"
+ },
+ {
+  "iast": "cakra",
+  "use": true,
+  "type": "sacred",
+  "gloss": "the discus"
+ },
+ {
+  "iast": "hara",
+  "use": true,
+  "type": "deity",
+  "gloss": "Hara"
+ },
+ {
+  "iast": "kīrti",
+  "use": true,
+  "type": "virtue",
+  "gloss": "fame"
+ },
+ {
+  "iast": "mahī",
+  "use": true,
+  "type": "nature",
+  "gloss": "the earth"
+ },
+ {
+  "iast": "prabhā",
+  "use": true,
+  "type": "nature",
+  "gloss": "radiance"
+ },
+ {
+  "iast": "raghu",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Raghu"
+ },
+ {
+  "iast": "raṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ṣaḍ",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śaṅkha",
+  "use": true,
+  "type": "sacred",
+  "gloss": "the conch"
+ },
+ {
+  "iast": "tat",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "viśveśvara",
+  "use": true,
+  "type": "deity",
+  "gloss": "Vishveshvara"
+ },
+ {
+  "iast": "bhānu",
+  "use": true,
+  "type": "nature",
+  "gloss": "the sun"
+ },
+ {
+  "iast": "bhāva",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhūti",
+  "use": true,
+  "type": "virtue",
+  "gloss": "prosperity"
+ },
+ {
+  "iast": "buddhi",
+  "use": true,
+  "type": "virtue",
+  "gloss": "intellect"
+ },
+ {
+  "iast": "citra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "hasti",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kumāra",
+  "use": true,
+  "type": "deity",
+  "gloss": "Kumara"
+ },
+ {
+  "iast": "malla",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "meru",
+  "use": true,
+  "type": "nature",
+  "gloss": "Mount Meru"
+ },
+ {
+  "iast": "nandi",
+  "use": true,
+  "type": "deity",
+  "gloss": "Nandi"
+ },
+ {
+  "iast": "nava",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ratha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sat",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sindhu",
+  "use": true,
+  "type": "nature",
+  "gloss": "the ocean"
+ },
+ {
+  "iast": "smara",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ūrdhva",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vatsa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "aty",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhās",
+  "use": true,
+  "type": "nature",
+  "gloss": "radiance"
+ },
+ {
+  "iast": "dhīra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dina",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "jyotir",
+  "use": true,
+  "type": "nature",
+  "gloss": "light"
+ },
+ {
+  "iast": "kāñcana",
+  "use": true,
+  "type": "nature",
+  "gloss": "gold"
+ },
+ {
+  "iast": "kara",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "karṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "maṅgala",
+  "use": true,
+  "type": "virtue",
+  "gloss": "auspiciousness"
+ },
+ {
+  "iast": "mātṛ",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "niṣ",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "parama",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "praty",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "pṛthu",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Prithu"
+ },
+ {
+  "iast": "rati",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ruci",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "rūpa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śiśu",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śuci",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sura",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "svayam",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vana",
+  "use": true,
+  "type": "nature",
+  "gloss": "the forest"
+ },
+ {
+  "iast": "vāta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vindhya",
+  "use": true,
+  "type": "nature",
+  "gloss": "the Vindhya mountains"
+ },
+ {
+  "iast": "vraja",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Vraja"
+ },
+ {
+  "iast": "ardha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhagavad",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhaṭṭa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhṛgu",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Bhrigu"
+ },
+ {
+  "iast": "catur",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "daṇḍa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "gaṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "keśava",
+  "use": true,
+  "type": "deity",
+  "gloss": "Keshava"
+ },
+ {
+  "iast": "kṣiti",
+  "use": true,
+  "type": "nature",
+  "gloss": "the earth"
+ },
+ {
+  "iast": "kula",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "laghu",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "mahendra",
+  "use": true,
+  "type": "deity",
+  "gloss": "Mahendra"
+ },
+ {
+  "iast": "mati",
+  "use": true,
+  "type": "virtue",
+  "gloss": "intellect"
+ },
+ {
+  "iast": "nanda",
+  "use": true,
+  "type": "virtue",
+  "gloss": "joy"
+ },
+ {
+  "iast": "paśu",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "prajā",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "pūrṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "pūrva",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ṛta",
+  "use": true,
+  "type": "virtue",
+  "gloss": "cosmic order"
+ },
+ {
+  "iast": "sāma",
+  "use": true,
+  "type": "sacred",
+  "gloss": "the Sama Veda"
+ },
+ {
+  "iast": "śaśa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śaśi",
+  "use": true,
+  "type": "nature",
+  "gloss": "the moon"
+ },
+ {
+  "iast": "śuddha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śukla",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "tapo",
+  "use": true,
+  "type": "virtue",
+  "gloss": "austerity"
+ },
+ {
+  "iast": "vallabha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vṛṣa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhartṛ",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhoga",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhūri",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bindu",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "brahmānanda",
+  "use": true,
+  "type": "sacred",
+  "gloss": "the bliss of Brahman"
+ },
+ {
+  "iast": "bṛhat",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dīpta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dīrgha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "divā",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "gaja",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "gaṅgā",
+  "use": true,
+  "type": "sacred",
+  "gloss": "the Ganga"
+ },
+ {
+  "iast": "haṃsa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "hita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "īśvara",
+  "use": true,
+  "type": "deity",
+  "gloss": "the Lord"
+ },
+ {
+  "iast": "jagad",
+  "use": true,
+  "type": "nature",
+  "gloss": "the world"
+ },
+ {
+  "iast": "jāta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kāka",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "karma",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kuru",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Kuru"
+ },
+ {
+  "iast": "muktā",
+  "use": true,
+  "type": "nature",
+  "gloss": "the pearl"
+ },
+ {
+  "iast": "nīla",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nitya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "prāṇa",
+  "use": true,
+  "type": "other",
+  "gloss": "life breath"
+ },
+ {
+  "iast": "prīti",
+  "use": true,
+  "type": "virtue",
+  "gloss": "affection"
+ },
+ {
+  "iast": "sādhu",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śaila",
+  "use": true,
+  "type": "nature",
+  "gloss": "the mountain"
+ },
+ {
+  "iast": "śaka",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śānta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sundara",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "svarṇa",
+  "use": true,
+  "type": "nature",
+  "gloss": "gold"
+ },
+ {
+  "iast": "tārā",
+  "use": true,
+  "type": "nature",
+  "gloss": "the star"
+ },
+ {
+  "iast": "uru",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vasanta",
+  "use": true,
+  "type": "nature",
+  "gloss": "spring"
+ },
+ {
+  "iast": "ādi",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "agra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "antar",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "artha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhā",
+  "use": true,
+  "type": "nature",
+  "gloss": "radiance"
+ },
+ {
+  "iast": "bhāratī",
+  "use": true,
+  "type": "deity",
+  "gloss": "Bharati"
+ },
+ {
+  "iast": "bhaya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhoja",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dadhi",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dāmodara",
+  "use": true,
+  "type": "deity",
+  "gloss": "Damodara"
+ },
+ {
+  "iast": "dāna",
+  "use": true,
+  "type": "virtue",
+  "gloss": "generosity"
+ },
+ {
+  "iast": "dhṛṣṭa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "durga",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dyu",
+  "use": true,
+  "type": "nature",
+  "gloss": "the sky"
+ },
+ {
+  "iast": "giri",
+  "use": true,
+  "type": "nature",
+  "gloss": "the mountain"
+ },
+ {
+  "iast": "guru",
+  "use": true,
+  "type": "sacred",
+  "gloss": "the teacher"
+ },
+ {
+  "iast": "hṛdaya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "jaṭā",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ketu",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kiṃ",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ }
+]
