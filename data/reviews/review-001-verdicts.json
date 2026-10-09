@@ -1,0 +1,5016 @@
+[
+ {
+  "name": "Giri",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Also a Dashanami monastic surname."
+ },
+ {
+  "name": "Arjuna",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Aditya",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Also spelled Aaditya."
+ },
+ {
+  "name": "Dhruva",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Dhruv is the common modern form."
+ },
+ {
+  "name": "Krishnamurthy",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sri Ram",
+  "verdict": "fix",
+  "reason": "Two words, not a single name; use the joined form.",
+  "fix": {
+   "name": "Shriram",
+   "devanagari": "श्रीराम",
+   "iast": "śrīrāma",
+   "meaning_en": "Rama, the abode of fortune and prosperity."
+  },
+  "auspicious": true,
+  "note": "Shriram is the usual single-word form."
+ },
+ {
+  "name": "Vishnuvardhan",
+  "verdict": "fix",
+  "reason": "Meaning garbled; vardhana means increaser/prosperer.",
+  "fix": {
+   "meaning_en": "One who prospers or increases through Vishnu; also the name of a Hoysala king."
+  },
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ishaan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Also spelled Ishan/Eshan."
+ },
+ {
+  "name": "Abhay",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Also Abhaya."
+ },
+ {
+  "name": "Abhishek",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Achyut",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ajit",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Akash",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Amar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Anand",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Anirudh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ashwin",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Also nakshatra Ashwini."
+ },
+ {
+  "name": "Bharat",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Bhaskar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Chandra",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Daksh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Deepak",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Devendra",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Gopal",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Govind",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Hari",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Harsh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Jayant",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kailash",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Sacred mountain; widely used given name."
+ },
+ {
+  "name": "Kartik",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Also Karthik/Kartikeya."
+ },
+ {
+  "name": "Keshav",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Lakshman",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Madhav",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Mohan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Narayan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Nikhil",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Pranav",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Rajesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Raghav",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Rohan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sanjay",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Shankar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Suresh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Tejas",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Uday",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vikram",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Yash",
+  "verdict": "fix",
+  "reason": "Name Yash corresponds to yaśa/yaśas; Devanagari and IAST should match the name as written.",
+  "fix": {
+   "devanagari": "यश",
+   "iast": "yaśa",
+   "meaning_en": "Fame, glory, renown."
+  },
+  "auspicious": true,
+  "note": "Yash/Yash is very common; yashas is the stem."
+ },
+ {
+  "name": "Yudhishthir",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Abhijit",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Advait",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Agastya",
+  "verdict": "fix",
+  "reason": "Meaning is unhelpful; give the actual association.",
+  "fix": {
+   "meaning_en": "Name of the revered Vedic sage Agastya, associated with the south and the Rig Veda; etymology uncertain."
+  },
+  "auspicious": true,
+  "note": "Agastya is also a gotra/rishi name."
+ },
+ {
+  "name": "Amit",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Anil",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Anuj",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Arnav",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Aryan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": false,
+  "note": "Aryan: prefer Arya; term has modern political associations."
+ },
+ {
+  "name": "Ashok",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Atharva",
+  "verdict": "fix",
+  "reason": "Name Atharva should be the a-stem, not the consonant stem atharvan.",
+  "fix": {
+   "devanagari": "अथर्व",
+   "iast": "atharva"
+  },
+  "auspicious": true,
+  "note": "Atharva also names the Atharva Veda and sage Atharvan."
+ },
+ {
+  "name": "Balaji",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Balram",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Bhavesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Bhima",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": false,
+  "note": "Fierce sense; Pandava Bhima widely revered."
+ },
+ {
+  "name": "Brahma",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": false,
+  "note": "Rare as given name for people; usually Brahmadatta or Brahmesh."
+ },
+ {
+  "name": "Chaitanya",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Chandan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Dhananjay",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Dharmendra",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Dinesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Eknath",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ganesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Gautam",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Hanuman",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Hemant",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Indra",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Often Indra-derived compounds preferred."
+ },
+ {
+  "name": "Jagannath",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Jatin",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kapil",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Karan",
+  "verdict": "fix",
+  "reason": "Name written Karan but Devanagari/IAST give Karna; meaning \"ear\" is weak.",
+  "fix": {
+   "devanagari": "कर्ण",
+   "iast": "karṇa",
+   "meaning_en": "Karna, the generous warrior-son of Surya in the Mahabharata (karṇa also means \"ear\"); Karan may also derive from kāraṇa, cause/doer."
+  },
+  "auspicious": true,
+  "note": "Karan vs Karna are distinct modern spellings."
+ },
+ {
+  "name": "Kunal",
+  "verdict": "fix",
+  "reason": "Meaning \"lotus\" is doubtful; kuṇāla is a bird and Ashoka's son.",
+  "fix": {
+   "meaning_en": "A kind of bird (Himalayan cuckoo) noted for beautiful eyes; name of Ashoka's son. Not reliably \"lotus\"."
+  },
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Lalit",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Mahesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Manoj",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Mukund",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Nakul",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Nandan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Neel",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Om",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Parth",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Prabhakar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Pradyumna",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Rahul",
+  "verdict": "fix",
+  "reason": "Gloss \"capable\" is a modern guess; etymology of Rahula is uncertain.",
+  "fix": {
+   "meaning_en": "Rahula, the son of the Buddha; etymology uncertain (possibly linked to Rahu)."
+  },
+  "auspicious": true,
+  "note": "Hindu families sometimes avoid it due to Rahu association."
+ },
+ {
+  "name": "Rudra",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sahadev",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Shiva",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Siddharth",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Skanda",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Surya",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Tarun",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Trilok",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ujjwal",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vamsi",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Varun",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vasudev",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vedant",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vijay",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vinay",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vivek",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vyas",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Abhinav",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Adarsh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Aghor",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": false,
+  "note": "Associated with Aghori ascetics; uncommon."
+ },
+ {
+  "name": "Ajay",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Akshay",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Alok",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ananta",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Angad",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Apoorv",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Arun",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Avinash",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Bhagirath",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Bhushan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Chakradhar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Chinmay",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Dattatreya",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Devdatt",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Dilip",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Divyesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Gaurav",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Gunjan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Unisex in practice."
+ },
+ {
+  "name": "Hitesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Jaideep",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Jayadev",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kamal",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kishore",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kuber",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Lokesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Mahendra",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Manish",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Mayank",
+  "verdict": "fix",
+  "reason": "Devanagari/IAST do not match the standard word; Mayank is the Hindi form of mṛgāṅka.",
+  "fix": {
+   "devanagari": "मयंक",
+   "iast": "mayaṅka",
+   "meaning_en": "Moon (literally marked with a deer, from mṛgāṅka)."
+  },
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Murali",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Nagesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Naresh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Nitin",
+  "verdict": "fix",
+  "reason": "Devanagari/IAST (nītimat) do not match the name Nitin; meaning too specific.",
+  "fix": {
+   "devanagari": "नितिन",
+   "iast": "nitin",
+   "meaning_en": "Master of policy and right conduct (from nīti); modern coinage."
+  },
+  "auspicious": true,
+  "note": "Etymology uncertain; Nitin is popular in Maharashtra and Gujarat."
+ },
+ {
+  "name": "Omkar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Pavan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Prakash",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Pramod",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Pratap",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Raghunath",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Rajendra",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ramesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ranjit",
+  "verdict": "fix",
+  "reason": "Ranjit usually reflects raṇajit (victor in battle) or rañjita; written form is ambiguous.",
+  "fix": {
+   "devanagari": "रणजित्",
+   "iast": "raṇajit",
+   "meaning_en": "Victor in battle."
+  },
+  "auspicious": true,
+  "note": "Also rañjita, delighted; Punjabi Ranjit."
+ },
+ {
+  "name": "Ravindra",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sagar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sandeep",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Satyajit",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Shailesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Shreyas",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Subhash",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sudarshan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sumeet",
+  "verdict": "fix",
+  "reason": "Name Sumeet vs sumita mismatch; \"good friend\" is from sumitra.",
+  "fix": {
+   "name": "Sumit",
+   "devanagari": "सुमित",
+   "iast": "sumita",
+   "meaning_en": "Well-measured, well-disposed; popularly \"good friend\" (cf. sumitra)."
+  },
+  "auspicious": true,
+  "note": "Sumit/Sumeet are both used."
+ },
+ {
+  "name": "Tanmay",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Tushar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Umesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vaibhav",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Venkatesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vishal",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Yogesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Abhimanyu",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Achal",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Adhiraj",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Aksh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": false,
+  "note": "Dice sense is gambling-linked; Akshay preferred."
+ },
+ {
+  "name": "Amrit",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Anurag",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ashutosh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Atul",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Badri",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Bhanu",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Bharadwaj",
+  "verdict": "fix",
+  "reason": "Meaning unhelpful.",
+  "fix": {
+   "meaning_en": "Bharadvaja, one of the Saptarishi and founder of a major gotra; Rig Vedic sage (bharad-vāja, bearer of strength/food)."
+  },
+  "auspicious": true,
+  "note": "Common gotra name."
+ },
+ {
+  "name": "Bhavya",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Brijesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Charan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Chetan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Darshan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Dev",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Dhairya",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Digvijay",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ekansh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Gagan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Gajanan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Gangadhar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Harish",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Himanshu",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Jagdish",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Janardan",
+  "verdict": "fix",
+  "reason": "janārdana means one who agitates or is worshipped by men, not simply protector.",
+  "fix": {
+   "meaning_en": "Refuge or stirrer of people; Krishna/Vishnu."
+  },
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Jeevan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Jitendra",
+  "verdict": "fix",
+  "reason": "Jitendra means conqueror of Indra (or of the senses via jitendriya); wording muddled.",
+  "fix": {
+   "meaning_en": "One who has conquered Indra; also read as master of the senses."
+  },
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kaushik",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kiran",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Unisex in practice."
+ },
+ {
+  "name": "Krishna",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kshitij",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Lakshay",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Mahavir",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Manohar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Mihir",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Nilesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Nirmal",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Paresh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Piyush",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Pratik",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Purushottam",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Raman",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ritesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sachin",
+  "verdict": "fix",
+  "reason": "Sachin: sacīna is not a clearly attested word; meaning unreliable.",
+  "fix": {
+   "devanagari": "सचिन",
+   "iast": "sacin",
+   "meaning_en": "Modern name; popularly glossed \"pure\", etymology uncertain."
+  },
+  "auspicious": true,
+  "note": "Flagged uncertain; honest scholars differ."
+ },
+ {
+  "name": "Samar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": false,
+  "note": "Battle sense; heroic."
+ },
+ {
+  "name": "Sarvesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Satish",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Shashank",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Shrikant",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sudhir",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sunil",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Swapnil",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Tapan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Triambak",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Uttam",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vallabh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vinod",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vishwas",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Yatin",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Abhir",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": false,
+  "note": "Abhira is also a pastoral community name."
+ },
+ {
+  "name": "Aditeya",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Agni",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": false,
+  "note": "Uncommon as a personal name."
+ },
+ {
+  "name": "Akhilesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Amol",
+  "verdict": "fix",
+  "reason": "Devanagari amūlya does not match the name Amol; Amol is the Marathi form.",
+  "fix": {
+   "devanagari": "अमोल",
+   "iast": "amola",
+   "meaning_en": "Priceless, invaluable (Marathi form of amūlya)."
+  },
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Anshul",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Arvind",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ashish",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Atmaram",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Bhargav",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Bhupendra",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Chandrakant",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Chidambar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Damodar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Dayanand",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Devesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Dhiren",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Divakar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Gokul",
+  "verdict": "fix",
+  "reason": "Meaning \"cow-herd\" is inexact; gokula is a cowpen/herd and place.",
+  "fix": {
+   "meaning_en": "Herd or pen of cows; the cowherd settlement of Krishna's childhood."
+  },
+  "auspicious": true,
+  "note": "Place-name used as given name; accepted tradition."
+ },
+ {
+  "name": "Gurudev",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Hemraj",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Jagat",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Jaswant",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kalyan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kamlesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kanhaiya",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kedar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kshitish",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Lavkush",
+  "verdict": "reject",
+  "reason": "Two names (Lava and Kusha), not a single name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Madan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": false,
+  "note": "Name of Kamadeva."
+ },
+ {
+  "name": "Mangesh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Mritunjay",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Nagendra",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Nirav",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Nripendra",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Padmanabh",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Parameshwar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Pranay",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Pushkar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Raghuvir",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Rajat",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ramakant",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sarang",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Shailendra",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Shantanu",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sharad",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Shridhar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Subrahmanya",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sundar",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Tirumala",
+  "verdict": "reject",
+  "reason": "Hill/place name (Tirumala); not a personal name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Tribhuvan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Udayan",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vaman",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": false,
+  "note": "\"Dwarf\" sense; Vamana avatar."
+ },
+ {
+  "name": "Vasant",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vidyut",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vignesh",
+  "verdict": "fix",
+  "reason": "Vighnesha is lord of obstacles, i.e. the one who removes them.",
+  "fix": {
+   "meaning_en": "Lord (remover) of obstacles; Ganesha."
+  },
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Viraj",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Yadav",
+  "verdict": "reject",
+  "reason": "Clan/caste designation (Yadav); surname rather than given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Yajat",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vishwa",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vishnu",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vashatkara",
+  "verdict": "reject",
+  "reason": "Ritual cry epithet (vashatkara), not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhutabhavyabhavatprabhu",
+  "verdict": "reject",
+  "reason": "Long vocative-style compound, not a name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhutakrit",
+  "verdict": "reject",
+  "reason": "Sahasranama epithet, not used as a personal name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhutabhrit",
+  "verdict": "reject",
+  "reason": "Sahasranama epithet, not used as a personal name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhava",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Also an epithet of Shiva."
+ },
+ {
+  "name": "Bhutatma",
+  "verdict": "reject",
+  "reason": "Abstract epithet; effectively the Supreme Self.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Pootatma",
+  "verdict": "reject",
+  "reason": "Abstract epithet, not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Paramatma",
+  "verdict": "reject",
+  "reason": "Paramatma denotes God Himself; not used as a personal name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Muktanam Parama Gati",
+  "verdict": "reject",
+  "reason": "Whole verse phrase, not a name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Avyaya",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Also a grammatical term (indeclinable)."
+ },
+ {
+  "name": "Purusha",
+  "verdict": "reject",
+  "reason": "Samkhya/philosophical term; generic, rare as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sakshi",
+  "verdict": "reject",
+  "reason": "Sakshi is a female name in common use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kshetrajna",
+  "verdict": "reject",
+  "reason": "Vedantic technical term.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Akshara",
+  "verdict": "fix",
+  "reason": "Boy's name is Akshar; keep a-stem form.",
+  "fix": {
+   "name": "Akshar",
+   "devanagari": "अक्षर",
+   "iast": "akṣara",
+   "meaning_en": "Imperishable; also a letter or syllable."
+  },
+  "auspicious": true,
+  "note": "Akshar is used among Swaminarayan families."
+ },
+ {
+  "name": "Yoga",
+  "verdict": "reject",
+  "reason": "Generic word (yoga); not a conventional given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Yogavidam Neta",
+  "verdict": "reject",
+  "reason": "Phrase, not a single name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Pradhana Purusheshwara",
+  "verdict": "reject",
+  "reason": "Compound epithet, not a name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Narasimhavapu",
+  "verdict": "reject",
+  "reason": "Compound epithet (man-lion form), not a name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shrimaan",
+  "verdict": "fix",
+  "reason": "Single name needed; Shriman is the usual form.",
+  "fix": {
+   "name": "Shriman",
+   "devanagari": "श्रीमान",
+   "iast": "śrīmān"
+  },
+  "auspicious": true,
+  "note": "Honorific as well."
+ },
+ {
+  "name": "Sarva",
+  "verdict": "reject",
+  "reason": "Generic pronoun-like word \"all\".",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sthanu",
+  "verdict": "reject",
+  "reason": "Shiva epithet; basic sense is a post or stump; rare.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhutadi",
+  "verdict": "reject",
+  "reason": "Sahasranama epithet, not used as a name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Nidhiravyaya",
+  "verdict": "reject",
+  "reason": "Sandhi joining of two words, not a name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sambhava",
+  "verdict": "fix",
+  "reason": "Meaning incomplete; spell as Sambhav.",
+  "fix": {
+   "name": "Sambhav",
+   "meaning_en": "Birth, origin, possible; name of the third Jain Tirthankara (Sambhavanatha)."
+  },
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Bhavana",
+  "verdict": "reject",
+  "reason": "Bhavana/bhāvanā is feminine.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bharta",
+  "verdict": "reject",
+  "reason": "Means husband or supporter; not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Prabhava",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Prabhu",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Ishwara",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Swayambhu",
+  "verdict": "reject",
+  "reason": "Epithet of Brahma/Shiva; rare as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shambhu",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Pushkarakshah",
+  "verdict": "fix",
+  "reason": "Name ends in visarga-like -h; drop it.",
+  "fix": {
+   "name": "Pushkaraksha",
+   "devanagari": "पुष्कराक्ष",
+   "iast": "puṣkarākṣa",
+   "meaning_en": "Lotus-eyed."
+  },
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Mahaswana",
+  "verdict": "reject",
+  "reason": "Sahasranama epithet, not used as a name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Anadinidhana",
+  "verdict": "reject",
+  "reason": "Compound epithet, not a name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dhata",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vidhata",
+  "verdict": "reject",
+  "reason": "Obscure epithet; also means fate.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dhaturuttama",
+  "verdict": "reject",
+  "reason": "Compound epithet, not a name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Aprameya",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Hrishikesha",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Common form Hrishikesh."
+ },
+ {
+  "name": "Amaraprabhu",
+  "verdict": "reject",
+  "reason": "Compound epithet, not a name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vishwakarma",
+  "verdict": "fix",
+  "reason": "Devanagari uses stem form karman; the name is viśvakarmā.",
+  "fix": {
+   "devanagari": "विश्वकर्मा",
+   "iast": "viśvakarmā"
+  },
+  "auspicious": true,
+  "note": "Artisan community connection."
+ },
+ {
+  "name": "Manu",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Tvashta",
+  "verdict": "reject",
+  "reason": "Obscure epithet; also the Vedic artisan god.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sthavishtha",
+  "verdict": "reject",
+  "reason": "Superlative epithet; obscure.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sthaviro Dhruva",
+  "verdict": "reject",
+  "reason": "Phrase with visarga, not a single name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Agrahya",
+  "verdict": "reject",
+  "reason": "\"Ungraspable\"; negative-sounding and obscure.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shashvata",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Lohitaksha",
+  "verdict": "reject",
+  "reason": "\"Red-eyed\" suggests anger; obscure.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Pratardana",
+  "verdict": "reject",
+  "reason": "Meaning given (destroyer) is dubious; obscure.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Prabhuta",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Trikakubdhama",
+  "verdict": "reject",
+  "reason": "Compound epithet, not a name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Pavitra",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Unisex in practice."
+ },
+ {
+  "name": "Mangala",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": false,
+  "note": "Also Mars (Mangala); some avoid for children."
+ },
+ {
+  "name": "Pranada",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Prana",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Jyeshtha",
+  "verdict": "reject",
+  "reason": "Jyeshtha is a mixed-reputation nakshatra; rarely used as a name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shreshtha",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Prajapati",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Also a common surname."
+ },
+ {
+  "name": "Hiranyagarbha",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Bhugarbha",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Madhusudana",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vikrami",
+  "verdict": "reject",
+  "reason": "Redundant derivative of Vikram.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dhanvi",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Also used for girls."
+ },
+ {
+  "name": "Medhavi",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": "Unisex in use."
+ },
+ {
+  "name": "Krama",
+  "verdict": "reject",
+  "reason": "Grammatical/technical term.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Anuttama",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Duradharsha",
+  "verdict": "reject",
+  "reason": "\"Hard to overcome\" harsh sense; obscure.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kritajna",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Kritih",
+  "verdict": "reject",
+  "reason": "Kriti is mainly a female name; Devanagari also lacks the visarga shown in the name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Atmavan",
+  "verdict": "reject",
+  "reason": "Epithet; atmavān is not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sharanam",
+  "verdict": "fix",
+  "reason": "Name should be Sharan, matching Devanagari stem.",
+  "fix": {
+   "name": "Sharan",
+   "meaning_en": "Refuge, shelter, protection."
+  },
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sharma",
+  "verdict": "reject",
+  "reason": "Sharma is a surname.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vishwaretas",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Prajabhava",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ahah",
+  "verdict": "reject",
+  "reason": "Ends in visarga; just means \"day\".",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Samvatsara",
+  "verdict": "reject",
+  "reason": "Calendar term (year).",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vyala",
+  "verdict": "reject",
+  "reason": "Vyala means serpent or vicious beast.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Pratyaya",
+  "verdict": "reject",
+  "reason": "Grammatical/philosophical term.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sarvadarshana",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Aja",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Sarveshwara",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Siddha",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Siddhi",
+  "verdict": "reject",
+  "reason": "Siddhi is feminine (Ganesha's consort, a power).",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sarvadi",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vrishakapi",
+  "verdict": "reject",
+  "reason": "Meaning given is wrong (the word is vṛṣākapi); obscure.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ameyatma",
+  "verdict": "reject",
+  "reason": "Compound epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sarvayogavinihsrita",
+  "verdict": "reject",
+  "reason": "Compound epithet, not a name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vasu",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vasumanah",
+  "verdict": "reject",
+  "reason": "Obscure epithet; ends in visarga in Devanagari-derived form.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Satya",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Samatma",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sammita",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Samah",
+  "verdict": "reject",
+  "reason": "Adjective \"even\"; ends in -h in source form.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Amogha",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Pundarikaksha",
+  "verdict": "keep",
+  "reason": "Suitable; meaning acceptable.",
+  "auspicious": true,
+  "note": ""
+ },
+ {
+  "name": "Vrishakarma",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vrishakriti",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bahushira",
+  "verdict": "reject",
+  "reason": "\"Many-headed\" (serpent/monster imagery).",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Babhru",
+  "verdict": "reject",
+  "reason": "Babhru means brown/mongoose; \"sustainer\" gloss dubious.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vishwayoni",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shuchishrava",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shashvatasthanu",
+  "verdict": "reject",
+  "reason": "Compound epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Varaaroha",
+  "verdict": "reject",
+  "reason": "Feminine (varārohā, a lady with beautiful hips).",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Mahatapa",
+  "verdict": "reject",
+  "reason": "Obscure epithet.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Abandhaka",
+  "verdict": "reject",
+  "reason": "\"Unbound\" in the sense of free; but obscure.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Aghadeva",
+  "verdict": "reject",
+  "reason": "Agha means sin.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Akrida",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Amurta",
+  "verdict": "reject",
+  "reason": "Epithet of Shiva, rare.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Aniha",
+  "verdict": "reject",
+  "reason": "See obscure king.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Arjunasimha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ashvabahu",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Avikshipa",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhadrasara",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bahushalin",
+  "verdict": "reject",
+  "reason": "Epithet of Shiva, rare.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ballaladeva",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Barbari",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhavaninandana",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhriguraja",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhimakalambaka",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Brahmagargya",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Buddhaka",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhutishiva",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Chandramukhavarman",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Charuchitra",
+  "verdict": "reject",
+  "reason": "Kaurava prince.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Chaundaraja",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dhaneya",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dharmeyu",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Devakalasha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Devavimalagani",
+  "verdict": "reject",
+  "reason": "Honorific or title/clan suffix, not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dhiragovindasharman",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dhruvapatu",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dushpradharshana",
+  "verdict": "reject",
+  "reason": "Kaurava prince, associated with villainy.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Rijishvan",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ganapatinatha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Gokhala",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ghoshavat",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Haribhattadikshita",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Harinaigumeshin",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Harshamitra",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Hridayarama",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Hrinisheva",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ida",
+  "verdict": "reject",
+  "reason": "Ida/Ila is feminine.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Janakasimha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Jayashva",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Jivavijaya",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kala",
+  "verdict": "reject",
+  "reason": "Kala is mainly feminine and also means time/death.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kalyanaraya",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kandalayana",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Karakayu",
+  "verdict": "reject",
+  "reason": "Kaurava prince.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Karttikakunda",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Katayavema",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kritagni",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Krishnaujas",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kridin",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kuntalasvatikarna",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kuvalayashvaka",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Laddhanadeva",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ladana",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Lautharatha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Madhumatta",
+  "verdict": "reject",
+  "reason": "Intoxicated.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Mahadevendrasarasvati",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Mahapradipa",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Maheshachandra",
+  "verdict": "fix",
+  "reason": "Compound is usable as a given name; the dictionary gloss (\"Name of a man\" etc.) is unhelpful or wrong.",
+  "fix": {
+   "name": "Maheshchandra",
+   "meaning_en": "Moon of Mahesha; one who bears the moon like Shiva."
+  },
+  "auspicious": true,
+  "note": "Meaning derived from the compound."
+ },
+ {
+  "name": "Mallamalla",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Manojnaghosha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Marmaraja",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Mayadhara",
+  "verdict": "reject",
+  "reason": "Asura king.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Merukuta",
+  "verdict": "reject",
+  "reason": "Buddhist/Jain figure or title; not suitable as Hindu name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Mithita",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Muktisena",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Nagarjuna",
+  "verdict": "fix",
+  "reason": "Compound is usable as a given name; the dictionary gloss (\"Name of a man\" etc.) is unhelpful or wrong.",
+  "fix": {
+   "meaning_en": "Nagarjuna, the Madhyamaka Buddhist philosopher; also a Telugu given name (nāga + arjuna)."
+  },
+  "auspicious": true,
+  "note": "Established Telugu usage."
+ },
+ {
+  "name": "Nannayabhatta",
+  "verdict": "reject",
+  "reason": "Honorific or title/clan suffix, not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Navanupurvasamapattikushala",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Nighna",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Nitivarman",
+  "verdict": "reject",
+  "reason": "Honorific or title/clan suffix, not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Padmapadacharya",
+  "verdict": "reject",
+  "reason": "Honorific or title/clan suffix, not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Parameshvararakshita",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Parvamitra",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Pancharudra",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Pippalayana",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Prachinashala",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Pramuditapralambasunayana",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Pratipa",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Priyaviraha",
+  "verdict": "reject",
+  "reason": "\"Separation from beloved\".",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Puruja",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Pushyamitra",
+  "verdict": "reject",
+  "reason": "King who persecuted Buddhists; obscure.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Rajayakshmanaman",
+  "verdict": "reject",
+  "reason": "Names a disease (consumption).",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ramashesha",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Rathavahana",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ravideva",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ruchideva",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Rupasiddhi",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sadhri",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sahasrayus",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sala",
+  "verdict": "reject",
+  "reason": "Sala tree.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Samayasundaragani",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shamkaracharya",
+  "verdict": "reject",
+  "reason": "Title of Adi Shankara; use Shankar.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Samtati",
+  "verdict": "reject",
+  "reason": "Samtati means progeny; feminine in use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shantaraya",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sarasiruh",
+  "verdict": "reject",
+  "reason": "Poetic word for lotus.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sarvajnavishnu",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shatachandra",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Satyadharmavipulakirti",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shashasana",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Siddhachandragani",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Simhabaladatta",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shirishin",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shinjara",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Somapandita",
+  "verdict": "reject",
+  "reason": "Honorific or title/clan suffix, not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shrichandra",
+  "verdict": "fix",
+  "reason": "Compound is usable as a given name; the dictionary gloss (\"Name of a man\" etc.) is unhelpful or wrong.",
+  "fix": {
+   "meaning_en": "Moon of fortune (śrī + candra)."
+  },
+  "auspicious": true,
+  "note": "Meaning derived from the compound."
+ },
+ {
+  "name": "Shritejas",
+  "verdict": "reject",
+  "reason": "Buddhist/Jain figure or title; not suitable as Hindu name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sthurayupa",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sudas",
+  "verdict": "fix",
+  "reason": "Compound is usable as a given name; the dictionary gloss (\"Name of a man\" etc.) is unhelpful or wrong.",
+  "fix": {
+   "devanagari": "सुदास",
+   "iast": "sudāsa",
+   "meaning_en": "Good giver or worshipper; Vedic king of the Tritsus who won the Battle of the Ten Kings."
+  },
+  "auspicious": true,
+  "note": "Rig Vedic king; rare today."
+ },
+ {
+  "name": "Shukayogin",
+  "verdict": "reject",
+  "reason": "Honorific or title/clan suffix, not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sunati",
+  "verdict": "reject",
+  "reason": "Associated with demon/villain or minor mythic being.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Suravarchas",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Susamprasthita",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Suyati",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shvetashikha",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Tarkshya",
+  "verdict": "reject",
+  "reason": "Associated with demon/villain or minor mythic being.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Trilokavira",
+  "verdict": "reject",
+  "reason": "Buddhist/Jain figure or title; not suitable as Hindu name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Udayaditya",
+  "verdict": "fix",
+  "reason": "Compound is usable as a given name; the dictionary gloss (\"Name of a man\" etc.) is unhelpful or wrong.",
+  "fix": {
+   "meaning_en": "Rising sun (udaya + āditya)."
+  },
+  "auspicious": true,
+  "note": "Name of Paramara king Udayaditya."
+ },
+ {
+  "name": "Upachitra",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Urjaspati",
+  "verdict": "reject",
+  "reason": "Epithet of Vishnu, obscure.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vaduli",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vajratanka",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vapika",
+  "verdict": "reject",
+  "reason": "Obscure.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vartta",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vasupujyaraj",
+  "verdict": "reject",
+  "reason": "Buddhist/Jain figure or title; not suitable as Hindu name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vedeshatirtha",
+  "verdict": "reject",
+  "reason": "Honorific or title/clan suffix, not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Venuhaya",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vrishtihavya",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vidyujjihva",
+  "verdict": "reject",
+  "reason": "Rakshasa.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vikukshi",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vinitashva",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Virupaksha",
+  "verdict": "fix",
+  "reason": "Compound is usable as a given name; the dictionary gloss (\"Name of a man\" etc.) is unhelpful or wrong.",
+  "fix": {
+   "meaning_en": "Having uncommon (three) eyes; epithet of Shiva, as at Virupaksha temple, Hampi."
+  },
+  "auspicious": true,
+  "note": "Karnataka usage."
+ },
+ {
+  "name": "Vishvanabha",
+  "verdict": "reject",
+  "reason": "Epithet of Vishnu, obscure.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vitandaka",
+  "verdict": "reject",
+  "reason": "Vitandaka means sophistry or cavilling.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vrajana",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Yadavacharya",
+  "verdict": "reject",
+  "reason": "Honorific or title/clan suffix, not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Yashodharman",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shadbindu",
+  "verdict": "reject",
+  "reason": "Epithet of Vishnu, obscure.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Adityasunu",
+  "verdict": "reject",
+  "reason": "Epithet of Karna/Sugriva; rare.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Amritapaksha",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Apradadi",
+  "verdict": "reject",
+  "reason": "\"Not liberal\".",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Atisuhita",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhakosha",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Brihadanika",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Chhandana",
+  "verdict": "reject",
+  "reason": "Chhandana vs Chandana confusion; \"Charming\" unattested.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dadhrishvani",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dripra",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Diptatejas",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ribhumat",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Gunavadvapus",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Hiranyashthivin",
+  "verdict": "reject",
+  "reason": "\"Vomiting gold\".",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Jatharagni",
+  "verdict": "reject",
+  "reason": "\"Digestive stomach-fire\".",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Jyotirjna",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Khanka",
+  "verdict": "reject",
+  "reason": "Khanka: unclear word.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Knasa",
+  "verdict": "reject",
+  "reason": "Obscure Vedic adjective.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Lohottama",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Mahaujas",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Manisanu",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Muktasvamin",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Nrijit",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Padmavarchas",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Plavamgamendu",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Prapalin",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Priyakrit",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Rajakara",
+  "verdict": "reject",
+  "reason": "Means king's tax.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ruchirabhashana",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sahyu",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Samullasita",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shashigraha",
+  "verdict": "reject",
+  "reason": "Means moon-seizure, eclipse.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sripra",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Snehachchheda",
+  "verdict": "reject",
+  "reason": "\"Interruption of friendship\".",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sthitamati",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sugautama",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Suposha",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Suvarnakartri",
+  "verdict": "reject",
+  "reason": "Occupation word.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Tamojyotis",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Tridivesha",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Upashobhin",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vallabhatama",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vemanya",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vijayin",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vishvachandra",
+  "verdict": "reject",
+  "reason": "Dictionary adjective/epithet, not attested as given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shatpadapriya",
+  "verdict": "reject",
+  "reason": "\"Beloved of bees\".",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Anartiya",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ritu",
+  "verdict": "reject",
+  "reason": "Ritu is mostly feminine; meaning season, not a prince.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kirisha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kshema",
+  "verdict": "fix",
+  "reason": "Compound is usable as a given name; the dictionary gloss (\"Name of a man\" etc.) is unhelpful or wrong.",
+  "fix": {
+   "name": "Kshem",
+   "devanagari": "क्षेम",
+   "iast": "kṣema",
+   "meaning_en": "Safety, well-being, prosperity."
+  },
+  "auspicious": true,
+  "note": "Kshem also a Kshemendra-type compound element."
+ },
+ {
+  "name": "Chara",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Tandula",
+  "verdict": "reject",
+  "reason": "Means rice grains.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Daruki",
+  "verdict": "reject",
+  "reason": "Charioteer name; obscure.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Nivartana",
+  "verdict": "reject",
+  "reason": "Stupa/place.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Prishadhru",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhatta",
+  "verdict": "reject",
+  "reason": "Honorific or title/clan suffix, not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Mathura",
+  "verdict": "reject",
+  "reason": "Mathura is a city; surname usage.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Rasabha",
+  "verdict": "reject",
+  "reason": "Means donkey.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vipra",
+  "verdict": "reject",
+  "reason": "Means a Brahmin/inspired; caste term.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shaivya",
+  "verdict": "reject",
+  "reason": "Name of a horse.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Svayam",
+  "verdict": "reject",
+  "reason": "Adverb \"of oneself\".",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Adma",
+  "verdict": "reject",
+  "reason": "Danava name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Apratipi",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Avanti",
+  "verdict": "reject",
+  "reason": "Avanti is a region and a feminine name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Abhrahamu",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Utkacheya",
+  "verdict": "reject",
+  "reason": "Rakshasa gana.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Urmi",
+  "verdict": "reject",
+  "reason": "Urmi (wave) is feminine.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kachchhapa",
+  "verdict": "reject",
+  "reason": "Means tortoise.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Karttivirya",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kusha",
+  "verdict": "fix",
+  "reason": "Compound is usable as a given name; the dictionary gloss (\"Name of a man\" etc.) is unhelpful or wrong.",
+  "fix": {
+   "name": "Kush",
+   "meaning_en": "Kusha, son of Rama and Sita; also the sacred kusha grass."
+  },
+  "auspicious": true,
+  "note": "Twin of Lava."
+ },
+ {
+  "name": "Kauvashi",
+  "verdict": "reject",
+  "reason": "Gotra founder name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Gira",
+  "verdict": "reject",
+  "reason": "Gira (speech) is feminine.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Chandanodakadundubhi",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Janastambha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Tapasya",
+  "verdict": "reject",
+  "reason": "Tapasya (penance) is not a masculine name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Trinetra",
+  "verdict": "fix",
+  "reason": "Compound is usable as a given name; the dictionary gloss (\"Name of a man\" etc.) is unhelpful or wrong.",
+  "fix": {
+   "meaning_en": "Three-eyed; epithet of Shiva."
+  },
+  "auspicious": true,
+  "note": "Dictionary gloss is a different (minor) person."
+ },
+ {
+  "name": "Divi",
+  "verdict": "reject",
+  "reason": "Divi: not a standard male name; mythic godling.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Devavan",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dhiyanta",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Nikumbhanabha",
+  "verdict": "reject",
+  "reason": "Son of Bali, asura.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Patushrava",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Pithara",
+  "verdict": "reject",
+  "reason": "Asura.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Purvamaraka",
+  "verdict": "reject",
+  "reason": "Demon commander.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Pradosha",
+  "verdict": "reject",
+  "reason": "Pradosha means twilight/fault (doṣa).",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bahya",
+  "verdict": "reject",
+  "reason": "Means external.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Brahmeshu",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhoja",
+  "verdict": "fix",
+  "reason": "Compound is usable as a given name; the dictionary gloss (\"Name of a man\" etc.) is unhelpful or wrong.",
+  "fix": {
+   "name": "Bhoj",
+   "meaning_en": "Generous, enjoyer; also the famed king Bhoja of Malwa."
+  },
+  "auspicious": true,
+  "note": "Also a clan name."
+ },
+ {
+  "name": "Mahagargya",
+  "verdict": "reject",
+  "reason": "Son of Danu, a demon.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Mita",
+  "verdict": "reject",
+  "reason": "Means measured.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Yajnahotra",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Rava",
+  "verdict": "reject",
+  "reason": "Means sound.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Lakshananja",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vargamocha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vikacha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Viratha",
+  "verdict": "reject",
+  "reason": "Means chariotless.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Viryavat",
+  "verdict": "reject",
+  "reason": "Valour; but gloss given is a Sadhya deity; rare.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vyoma",
+  "verdict": "fix",
+  "reason": "Compound is usable as a given name; the dictionary gloss (\"Name of a man\" etc.) is unhelpful or wrong.",
+  "fix": {
+   "name": "Vyom",
+   "meaning_en": "Sky, ether, heaven."
+  },
+  "auspicious": true,
+  "note": "Modern spelling Vyom."
+ },
+ {
+  "name": "Shalyaka",
+  "verdict": "reject",
+  "reason": "Means arrow/porcupine; Vanara name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shrishtachaya",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Satyatara",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Samrambha",
+  "verdict": "reject",
+  "reason": "Means rage or haste.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sukarmana",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sumali",
+  "verdict": "reject",
+  "reason": "Rakshasa name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Somavit",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Harakalpa",
+  "verdict": "reject",
+  "reason": "Asura name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Abhinamin",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ajayagarha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Anandavana",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Apratihatanetra",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ativishva",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bahulashva",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bhattakedara",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Bodhiruchi",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Chandrahasatirtha",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Chauhittha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dharmaprahradana",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Devasharman",
+  "verdict": "reject",
+  "reason": "Honorific or title/clan suffix, not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dhumrashikha",
+  "verdict": "reject",
+  "reason": "\"Smoke-crested\".",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ritabodha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ghritachi",
+  "verdict": "reject",
+  "reason": "Ghritachi is a female apsara.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Guhavarman",
+  "verdict": "reject",
+  "reason": "Honorific or title/clan suffix, not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Hrishikashrama",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Jambumalin",
+  "verdict": "reject",
+  "reason": "Rakshasa.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Khadiravanika",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kankatunda",
+  "verdict": "reject",
+  "reason": "Kanka-tunda: heron-beaked.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kathashatha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kotishvara",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kuttanikapata",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Madhavapandita",
+  "verdict": "reject",
+  "reason": "Honorific or title/clan suffix, not a given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Makaraksha",
+  "verdict": "reject",
+  "reason": "Rakshasa.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Marshtimant",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Mauryaputra",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Nandarama",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Nimishakshetra",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Parama",
+  "verdict": "fix",
+  "reason": "Compound is usable as a given name; the dictionary gloss (\"Name of a man\" etc.) is unhelpful or wrong.",
+  "fix": {
+   "name": "Param",
+   "meaning_en": "Supreme, highest, best."
+  },
+  "auspicious": true,
+  "note": "Param is common."
+ },
+ {
+  "name": "Prishadvana",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Prathamapurusha",
+  "verdict": "reject",
+  "reason": "Grammatical term (third person).",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Pushpavalivanarajikusumitabhijna",
+  "verdict": "reject",
+  "reason": "Long compound; not a plausible given name.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Rangataramga",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sagarapala",
+  "verdict": "reject",
+  "reason": "Naga.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shambhala",
+  "verdict": "reject",
+  "reason": "Shambhala is a mythical place.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shankharoman",
+  "verdict": "reject",
+  "reason": "Naga.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sashva",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Shilabhadra",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Somabhava",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sthulajihva",
+  "verdict": "reject",
+  "reason": "\"Thick-tongued\".",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Sumatishila",
+  "verdict": "reject",
+  "reason": "Obscure author/scholar name; no wider use.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Suvriddha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Tathagatakupa",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Uchchayamana",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Urunda",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Varahadatta",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vedamitra",
+  "verdict": "fix",
+  "reason": "Compound is usable as a given name; the dictionary gloss (\"Name of a man\" etc.) is unhelpful or wrong.",
+  "fix": {
+   "meaning_en": "Friend of the Veda (veda + mitra); compound read from the parts."
+  },
+  "auspicious": true,
+  "note": "Dictionary gives no meaning; derived."
+ },
+ {
+  "name": "Vibahu",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vimalasambhava",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Vishkambhin",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Abhayakaragupta",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Arikshipa",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Brihaddharman",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Dhanushaksha",
+  "verdict": "reject",
+  "reason": "Archer's bow association.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Ghotakamukha",
+  "verdict": "reject",
+  "reason": "\"Horse-faced\".",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kamalagarbha",
+  "verdict": "reject",
+  "reason": "Obscure epic/historical figure; gloss \"Name of a man\" is unhelpful.",
+  "auspicious": false,
+  "note": ""
+ },
+ {
+  "name": "Kshudrabuddhi",
+  "verdict": "reject",
+  "reason": "\"Small-minded\".",
+  "auspicious": false,
+  "note": ""
+ }
+]
