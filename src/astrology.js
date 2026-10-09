@@ -1,5 +1,6 @@
 // Namakarana (naming-syllable) table: 27 nakshatras x 4 padas.
-// Traditions vary slightly between almanacs; this is the commonly published set.
+// Traditions vary slightly between almanacs; this is the commonly published set. Known variant: Shravana is
+// sometimes given as Ju-Je-Jo-Gha instead of Khi-Khu-Khe-Kho. Verify against your family's almanac.
 export const NAKSHATRAS = [
   ['Ashwini', ['Chu', 'Che', 'Cho', 'La']],
   ['Bharani', ['Li', 'Lu', 'Le', 'Lo']],

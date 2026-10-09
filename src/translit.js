@@ -29,3 +29,16 @@ export function toLatin(iast) {
   s = [...s].map((c) => LATIN[c] ?? c).join('');
   return s.charAt(0).toUpperCase() + s.slice(1);
 }
+
+// IAST -> SLP1 (inverse of toIast); returns null if a character is not recognised.
+const SLP1_OF = Object.fromEntries(Object.entries(IAST).map(([k, v]) => [v, k]));
+export function fromIast(iast) {
+  const toks = Object.keys(SLP1_OF).sort((a, b) => b.length - a.length);
+  let out = '', i = 0;
+  while (i < iast.length) {
+    const t = toks.find((x) => iast.startsWith(x, i));
+    if (!t) return null;
+    out += SLP1_OF[t]; i += t.length;
+  }
+  return out;
+}
