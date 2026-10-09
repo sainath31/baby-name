@@ -1,0 +1,3600 @@
+[
+ {
+  "name": "Abdhi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Abdhinavanitaka",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Abdhisara",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Abdhyagni",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abharadvaja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abharadvasu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abharat",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Abharishta",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Abhasa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abhasin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Abhata",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abhavyashekhara",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Abhayada",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhayadana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhayadatta",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Abhayadeva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhayajata",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Abhayananda",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "meaning_en": "Bliss of fearlessness."
+  }
+ },
+ {
+  "name": "Abhayanandin",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Abhayaprada",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhedyaratrachuda",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Abhibhuta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhidhrishnu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abhihita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhijanavat",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Abhijita",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Abhijit",
+   "iast": "abhijit",
+   "devanagari": "अभिजित्",
+   "meaning_en": "Victorious; also a lunar mansion (nakshatra)."
+  }
+ },
+ {
+  "name": "Abhijnata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhika",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abhima",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Abhimangala",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abhimanin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Abhimanyusvamin",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Abhimitra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhinandana",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Abhinandan",
+   "meaning_en": "Joyful greeting, delight, congratulation."
+  }
+ },
+ {
+  "name": "Abhinavagupta",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Abhinavanrisimhabharati",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Abhinavasachchidanandabharati",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Abhipada",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhipala",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abhiparaga",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhipratarana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhipratarin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Abhiraja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhirama",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Abhirama",
+   "iast": "abhirāma",
+   "devanagari": "अभिराम",
+   "meaning_en": "Pleasing, delightful, charming."
+  }
+ },
+ {
+  "name": "Abhiramaniya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abhiramapashupati",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Abhiru",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhiruchira",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abhiruchita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhiruka",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abhirupa",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Abhirup",
+   "meaning_en": "Handsome, beautiful."
+  }
+ },
+ {
+  "name": "Abhishechaniya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhishocha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abhishtishavas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Abhishumat",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Abhishyant",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Abhishyanta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhivarta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abhivayas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Abhiyuktakshika",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Abhrama",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhramkasha",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Abhramliha",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Abhramupati",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Abhumi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhuti",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Abhyagni",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhyantaraka",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abhyavartin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Abhyuchchagamin",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Abhyutthita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Abhyutthitashva",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Abjada",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Abjahasta",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Abjapani",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Abjasambhava",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Abjavahana",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Abjinipati",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Acha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Achakshus",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Achalabhratar",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Achaladatta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Achalamati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Achalasvamin",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Achara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Acharakalakuta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Achchhadikshita",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Achintendravara",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Achintya",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Achintya",
+   "meaning_en": "Inconceivable, beyond thought; a name of Shiva."
+  }
+ },
+ {
+  "name": "Achyavin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Achyutabhatta",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Achyutachakravartin",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Achyutachyut",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Achyutadanta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Achyutajallakin",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Achyutakrishnadikshita",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Achyutakrishnanandatirtha",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Achyutamanas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Achyutamurti",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Achyutanandi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Achyutapajas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Achyutapracha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Achyutapreksha",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Achyutashrama",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Achyutathakkura",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Adamakhana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adaman",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Adambha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Adara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adaraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adarshamukha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Adbhuta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adbhutakrishnaraja",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Adbhutapunya",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Adharma",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adhidanta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adhikarddhi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Adhikarika",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Adhikarna",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Adhimatrakarunika",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Adhinatha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Adhipa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Adhipati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adhipurusha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adhirajyakushadya",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Adhiratha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adhirukma",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Adhisamakrishna",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Adhishitri",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Adhishthatri",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Adhisimakrishna",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Adhisomakrishna",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Adhivahana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adhivajyakuladya",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Adhokshaja",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Adhomayukha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Adhrita",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Adhriti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adhvani",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adhvara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adhvaraguru",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Adhyaraja",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Adhyushita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adi",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Adi",
+   "meaning_en": "First, primal, the beginning."
+  }
+ },
+ {
+  "name": "Adibuddha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adidipa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adigadadhara",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Adina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adipitamaha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Adipta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Adishvara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adisimha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adisura",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adityabandhu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Adityacharya",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Adityadasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adityadeva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adityagarbha",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Adityakeshava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adityaketu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adityanuvartin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Adityaprabha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adityarama",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adityasena",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adityashakti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adityasvamin",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Adityavardhana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adityavarman",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Adityavarna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adityayashas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Adivaraha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adivin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Admani",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adrava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Adri",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Adribhid",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Adridha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Adura",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Advaitacharya",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Advaitananda",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Advaya",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Advay",
+   "meaning_en": "Non-dual, unique."
+  }
+ },
+ {
+  "name": "Advayamritapati",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Advayananda",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Aga",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agaja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agastyashrama",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agavaha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Aghamarshana",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Aghasura",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Aghati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Aghorashivacharya",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Agneya",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "meaning_en": "Relating to Agni; a name of Skanda (Kartikeya)."
+  }
+ },
+ {
+  "name": "Agneyastram",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Agnibahu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnibhava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnibhrajas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Agnibhu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnibhuti",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Agnida",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agnidagdha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agnidatta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnidhra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnidhraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnidushita",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agnigarbha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnihotram",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Agnihotribrahmana",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Agnija",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Agnijanman",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Agnijihva",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Agnijvala",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Agnika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnikana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agniketu",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Agnikrita",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agnikumara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnimata",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Agnimathara",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Agnimitra",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "meaning_en": "Friend of Agni (the fire god)."
+  }
+ },
+ {
+  "name": "Agninarayana",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Agnirbahu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnirupa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agnisahaya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agnisakha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agnisambhava",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agnisamkasha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agnisavarni",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnisharman",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Agnishnut",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Agnishtoma",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnishtubh",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Agnishtut",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Agnisimha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnisvamin",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Agnitapas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Agnitapta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agnitejas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Agnivachas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Agnivadin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Agnivarchas",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Agnivarna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnivesha",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Agnivesha",
+   "meaning_en": "Name of an ancient sage and physician, a disciple of Atreya (uncertain detail)."
+  }
+ },
+ {
+  "name": "Agniveshya",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Agniveshyayana",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Agnivetala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agnivindu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agniyauna",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agniyuta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agrabodhi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agraga",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agrasena",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Agrasen",
+   "meaning_en": "Having a foremost army; name of a renowned king."
+  }
+ },
+ {
+  "name": "Agratirtha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Agrayayin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Agreni",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Agresarika",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Agriya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Agryatapas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Agulla",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahabhuna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahaha",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Ahamchandrasuri",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Ahamindra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahamyati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahara",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Aharbandhava",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ahibradhna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahichumbaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahilochana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahimsavratam",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Ahina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahinagu",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Ahinaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahinara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahinta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahirbudhna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahirbudhnya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahishuva",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Ahita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahitamanas",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Ahividvish",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Ahladi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahobala",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Ahobalashastrin",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Ahovirya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahriti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahuka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahutasha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ahuti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ahvriti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Aidabila",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Aidavida",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Aidhana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Aikadashaksha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Aikara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ailaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ailapatra",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Ailavila",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ailika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ailina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Aindraishti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Airavana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Airavata",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Aishvara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Aitasha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Aitishayana",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Ajabandhu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajabasta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajagara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajagava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajaikapad",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Ajaikapat",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Ajaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajakarna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajamidha",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Ajamila",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajamukha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajaneyya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ajapala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajaparshva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajaramara",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ajasya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajatashatru",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajavasta",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Ajavasti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajayapala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajayasiha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajayasimha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajayavarman",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Ajayya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ajetavya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ajeya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ajigarta",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Ajihina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajihma",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajira",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Ajitadevacharya",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Ajitakeshakambala",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Ajitapida",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajitendriyamishra",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Ajnata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ajnatakaundinya",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Akalajalada",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Akalanka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akalmasha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akampana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akampita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akapi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akapivant",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Akara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akarkara",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Akarna",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Akasara",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Akashagarbha",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Akashagarbhi",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Akashamani",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Akashapa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akashapoli",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Akashapratishthita",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Akashavani",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Akashavyabhicharin",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Akashaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akhyanakushala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akhyata",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Akidanti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akopa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akri",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akrisha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akrishakirti",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Akrishashva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akritashva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akritavrana",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Akriti",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Akriya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akrodhana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akrura",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Akrura",
+   "meaning_en": "Not cruel, gentle; the devout uncle of Krishna."
+  }
+ },
+ {
+  "name": "Akshachandra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akshakshapana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akshapada",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akshar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Aksharachanchu",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Aksharaja",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Akshayamati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akshayasena",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akshayavata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akshina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akshobhya",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Akshobhyatirtha",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Akshotamalla",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Aktakshya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Akula",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Akuli",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Akutashchana",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Akuti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Alaghu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Alakadhipa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Alakeshvara",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Alakhana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Alamarya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Alambayana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Alambayaniputra",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Alambeya",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Alambeyagana",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Alambi",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Alambiputra",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Alamkarashila",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Alamkarishnu",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Alamkaropadhyaya",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Alamma",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Alana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Alarka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Alayudha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Alekhana",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Alekhani",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Alidha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Aligu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Alika",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Alikayu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Alikhant",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Aliman",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Alipindaka",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Allada",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Allala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Allama",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Allapadina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Allata",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Aloha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Alokasuvegadhvaja",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Alolupa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Alpamedhas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Alpavayas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Aluki",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Aluptamahiman",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Ama",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amadana",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Amahatha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Amahiyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amala",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "meaning_en": "Pure, spotless."
+  }
+ },
+ {
+  "name": "Amalagarbha",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Amalananda",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Amanas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Amanju",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Amantra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amantravid",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Amarachandra",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Amaradatta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amaraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amaramjaya",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Amaramrigidrish",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Amaraniya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Amaraprakhya",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Amararaja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amarashakti",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Amarasimha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amarendramuni",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amarishnu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Amarka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amaropama",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Amarsha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amarshana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amarta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Amartta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amaru",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Amaruka",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Amavasu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amavasya",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Amba",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ambaka",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Ambalagachchhanayakaguru",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Ambara",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Ambaramani",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ambarisha",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Ambarisha",
+   "meaning_en": "Name of a king renowned as a devotee of Vishnu."
+  }
+ },
+ {
+  "name": "Ambeka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ambhojabandhu",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Ambhonidhi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ambhoruha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ambika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ambikapati",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Ambikeya",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Ambujabandhava",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Ambuka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ambukantara",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Ambuvasa",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Ambuvicha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ameyatman",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Amhaspati",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Amhomuch",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Amhu",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Amitabha",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Amitadhvaja",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Amitadyuti",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Amitagati",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Amitaprabhava",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Amitaruchi",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Amitashva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amitatejas",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Amitaujas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Amitodana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amitra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amitraghata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amitraha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amitrajit",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Amitrasaha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amitravarman",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Amkriti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amnaya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Amnayapara",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Amnayayoni",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Amoda",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Amod",
+   "meaning_en": "Joy, delight, pleasant fragrance."
+  }
+ },
+ {
+  "name": "Amodayana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amoghabhuti",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Amoghacharya",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Amoghadarshana",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Amoghadarshin",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Amoghadeva",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Amogharaja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amoghasiddhi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amoghavarsha",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Amragupta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amrakavi",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Amrapala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amraprasada",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amratirtha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Amritachandasuri",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Amritadatta",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Amritakara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amritamshu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Amritananda",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "meaning_en": "Bliss of immortality (amrita-ananda)."
+  }
+ },
+ {
+  "name": "Amritapa",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Amritaprabha",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Amritatejas",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Amritavapus",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Amritavardhana",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Amritodana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amrityu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Amsha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amshu",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Anshu",
+   "meaning_en": "Ray of light, sunbeam."
+  }
+ },
+ {
+  "name": "Amshumalin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Amshumat",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Anshuman",
+   "iast": "aṃśumān",
+   "devanagari": "अंशुमान्",
+   "meaning_en": "Radiant, full of rays; name of an ancestor of Bhagiratha."
+  }
+ },
+ {
+  "name": "Amshupati",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Amukhya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Amurtarajas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Amurtaraya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amurtarayas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Amurtarayasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Amurti",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Anabhayin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Anabhihita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anabhimlata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anadhrishti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anadhrishya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Anadrishta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anadrishti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anaduha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anadyanta",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Anagha",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "meaning_en": "Sinless, faultless."
+  }
+ },
+ {
+  "name": "Anahavaniya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Anahlada",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Anaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anakadundubha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Anakadundubhi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Anala",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Anal",
+   "meaning_en": "Fire."
+  }
+ },
+ {
+  "name": "Analada",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Analasakha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Analavi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anamitra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ananata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anandabhairava",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anandabodhaparamahamsa",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anandabodhendra",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anandachaula",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anandadeva",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anandagiri",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anandaja",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anandajnana",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anandakanda",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anandanatha",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anandapurna",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anandarama",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anandaraya",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anandashrama",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anandathu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anandatirtha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Anandatman",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anandavardhana",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anandaveda",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anandavimala",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anandin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Anandita",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "meaning_en": "Delighted, joyful."
+  }
+ },
+ {
+  "name": "Ananga",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Anangabhima",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anangaharsha",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anangana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anangapala",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anangapida",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anangasena",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anangodaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anantabhagin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Anantabhatta",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anantacharitra",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Anantadeva",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anantadrishti",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anantaganya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anantajit",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Anantakirti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anantamati",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Anantananda",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anantanarayana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anantanatha",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anantanemi",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anantapala",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anantapuri",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Anantarama",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anantaraya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anantashakti",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anantasira",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anantatirtha",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anantavarman",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anantavat",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Anantavikramin",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Anantavirya",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Ananya",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "meaning_en": "Unique, having no other."
+  }
+ },
+ {
+  "name": "Ananyaja",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Ananyanubhava",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Anapana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anaranya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anarshani",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Anarta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anarvana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anashvan",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Anasuya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anathapuri",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Anavamadarshin",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Anavarana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anavararatha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anavarardhya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anavaratha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anavasthana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anavatapta",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Anayasindhu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anayya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Anda",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Andadhara",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Andapille",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Andaraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Andha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Andhaka",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Andhakantaka",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Andhakaraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Andhigu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Andhra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Andhukabhatta",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Andida",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Andira",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Andraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anedhas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Aneka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anekadhrit",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Anekajanmajanana",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anekakshatrabaddha",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anenas",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Anga",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Angadeva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Angadinna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anganadeva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Angara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Angaraj",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Angaraja",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Angaraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Angaraparna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Angarasetu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Angarishtha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anghari",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anghrika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Angir",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Angiras",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Angiras",
+   "meaning_en": "Name of a great ancient sage (ṛṣi)."
+  }
+ },
+ {
+  "name": "Angirasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Angula",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Angulimalin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Anguliya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anichadarshin",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Anichidarshin",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Anichin",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Anida",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Anidaghadidhiti",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Anighateshu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anikavan",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Anikavidarana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anikshiptadhura",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Anilantaka",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Anili",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Animandavya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Animisha",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "name": "Animesh",
+   "meaning_en": "Unblinking, ever-watchful; a name of Vishnu."
+  }
+ },
+ {
+  "name": "Animishacharya",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Anirjita",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Aniruddhabhatta",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ }
+]
