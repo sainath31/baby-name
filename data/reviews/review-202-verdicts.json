@@ -1,0 +1,1098 @@
+[
+ {
+  "name": "Aviddha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Avihotra",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Avosha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Avyushta",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Ayana",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Ayana",
+   "devanagari": "अयन",
+   "iast": "ayana",
+   "meaning_en": "path, course, movement; also the solstice"
+  }
+ },
+ {
+  "name": "Ayanvita",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Ayasmaya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Ayasya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ayatha",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Ayavasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ayomukha",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Ayurdana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ayusha",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Ayusha",
+   "devanagari": "आयुष",
+   "iast": "āyuṣa",
+   "meaning_en": "long life, vitality"
+  }
+ },
+ {
+  "name": "Ayuta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ayutayu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Babhrava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Badaha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bahava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bahugana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bahugata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bahugava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bahugavi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bahula",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Bahuli",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bahvashva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bahyaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Baijika",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Bailva",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Baladhruva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Balaka",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Balakashva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Balaki",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Balamdhana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Balapati",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Balavastha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Baleya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Balibahu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Balika",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Ballala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Balula",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Bana",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Bandhana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Bandhu",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Bandhu",
+   "devanagari": "बन्धु",
+   "iast": "bandhu",
+   "meaning_en": "friend, kinsman, relative"
+  }
+ },
+ {
+  "name": "Barhana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Barhi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Barhiketu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Barku",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Basavanna",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Basavanna",
+   "devanagari": "बसवण्णा",
+   "iast": "basavaṇṇa",
+   "meaning_en": "Revered elder Basava (Basava = bull, Nandi); name of the 12th-century Lingayat reformer-poet"
+  }
+ },
+ {
+  "name": "Bhadita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhadrabahu",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Bhadradeva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhadraka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhadraksha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Bhadrama",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Bhadrasena",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhadrashva",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhadravaha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhaga",
+  "verdict": "reject",
+  "reason": "deity_not_for_person"
+ },
+ {
+  "name": "Bhagadatta",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Bhagadatta",
+   "devanagari": "भगदत्त",
+   "iast": "bhagadatta",
+   "meaning_en": "given by good fortune (Bhaga)"
+  }
+ },
+ {
+  "name": "Bhaganya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhagavata",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Bhagavitti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhairika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhajamana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhajina",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhalachandra",
+  "verdict": "keep",
+  "reason": "auspicious, well-formed"
+ },
+ {
+  "name": "Bhalla",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Bhallabha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhallada",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhalu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Bhanava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhandi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhandita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhanga",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Bhanudatta",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Bhanudatta",
+   "devanagari": "भानुदत्त",
+   "iast": "bhānudatta",
+   "meaning_en": "given by the Sun (Bhanu)"
+  }
+ },
+ {
+  "name": "Bharama",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bharijika",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Bhartsya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bharu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bharupa",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Bhasanta",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Bhasu",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Bhasura",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Bhasvara",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Bhasvara",
+   "devanagari": "भास्वर",
+   "iast": "bhāsvara",
+   "meaning_en": "radiant, shining; the sun"
+  }
+ },
+ {
+  "name": "Bhata",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Bhattara",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Bhattaraka",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Bhatu",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Bhaumari",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhauvana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhavava",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Bhayasakha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhena",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Bhetta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhimakarma",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Bhishana",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Bholenath",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Bhraja",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Bhrajita",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhrigudasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhrikuti",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Bhujyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhumanyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhumi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Bhumindra",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Bhuranya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhurishena",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhurivasu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhutagana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhutapati",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Bhutesha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Bhuti",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Bhutikama",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Bhuvamanyu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhuvana",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Bhuvana",
+   "devanagari": "भुवन",
+   "iast": "bhuvana",
+   "meaning_en": "the world, universe; abode of beings"
+  }
+ },
+ {
+  "name": "Bhuvata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhuyomedha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bibhishana",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Bilvi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bimba",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Bindu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Bindukara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Binduketu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bodhana",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Bodhana",
+   "devanagari": "बोधन",
+   "iast": "bodhana",
+   "meaning_en": "awakening, enlightening; instruction"
+  }
+ },
+ {
+  "name": "Bodhi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Bodhya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bradhna",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Brahmaha",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Brahmasuta",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Brahmavaha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Brihadanu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Brihadbala",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Brihadbanu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Brihadgira",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Brihadkaya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Brihadutta",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Brihadvapu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Brihadya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Brihangira",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Brihanmaya",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Brihatrupa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Brihatsena",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chahuana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chahuvana",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Chaidya",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Chaitayata",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chaitra",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Chaitra",
+   "devanagari": "चैत्र",
+   "iast": "caitra",
+   "meaning_en": "born in or belonging to Chaitra, the first spring month"
+  }
+ },
+ {
+  "name": "Chaitrogni",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chaitya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Chala",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Champaka",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Champaka",
+   "devanagari": "चम्पक",
+   "iast": "campaka",
+   "meaning_en": "the champak tree and its fragrant golden flower (Magnolia champaca)"
+  }
+ },
+ {
+  "name": "Champesha",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Chanaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chanchala",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Chandaka",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Chandisha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chandraka",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Chandrashekhar",
+  "verdict": "keep",
+  "reason": "auspicious, well-formed"
+ },
+ {
+  "name": "Chapala",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Charaka",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Charishna",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Charishnu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Charu",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Charu",
+   "devanagari": "चारु",
+   "iast": "cāru",
+   "meaning_en": "beautiful, charming, pleasing"
+  }
+ },
+ {
+  "name": "Charuhasa",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Charuhasa",
+   "devanagari": "चारुहास",
+   "iast": "cāruhāsa",
+   "meaning_en": "one with a charming smile"
+  }
+ },
+ {
+  "name": "Charuka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Charuvidya",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Charya",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Chasa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chedipa",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chhagala",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Chhala",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Chhandaka",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Chhattra",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Chhini",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chhudda",
+  "verdict": "reject",
+  "reason": "markup_or_garbled"
+ },
+ {
+  "name": "Chibilaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chidi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chikitana",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chikiti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chirantaka",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chiratna",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Chirava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chitra",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Chitrabahu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chitragu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chitrarati",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Chitrasena",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Chitrasena",
+   "devanagari": "चित्रसेन",
+   "iast": "citrasena",
+   "meaning_en": "having a splendid army; a Gandharva king and friend of Arjuna"
+  }
+ },
+ {
+  "name": "Chitravara",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chitresha",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Chitrya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Chitti",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Chola",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Cholaka",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Chyavana",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Chyavana",
+   "devanagari": "च्यवन",
+   "iast": "cyavana",
+   "meaning_en": "the Vedic sage Chyavana (from root cyu, to move or fall), husband of Sukanya and linked with Chyavanaprash"
+  }
+ },
+ {
+  "name": "Dabhiti",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Dabhra",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Dadhicha",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Dadhichi",
+  "verdict": "fix",
+  "reason": "meaning/spelling corrected",
+  "fix": {
+   "name": "Dadhichi",
+   "devanagari": "दधीचि",
+   "iast": "dadhīci",
+   "meaning_en": "the sage Dadhichi, who gave his bones to make Indra's thunderbolt; etymology uncertain"
+  }
+ },
+ {
+  "name": "Dadhikrava",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Dadhyancha",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ }
+]
