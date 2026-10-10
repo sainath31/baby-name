@@ -28472,5 +28472,1180 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Chandran",
+    "iast": "candran",
+    "devanagari": "चन्द्रन्",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "The moon (Tamil/Malayalam form of Chandra).",
+    "components": [
+      {
+        "part": "candra",
+        "gloss": "moon"
+      },
+      {
+        "part": "-an",
+        "gloss": "Tamil/Malayalam masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ganesan",
+    "iast": "gaṇeśan",
+    "devanagari": "गणेशन्",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Ganesha (Tamil form).",
+    "components": [
+      {
+        "part": "gaṇeśa",
+        "gloss": "Ganesha"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gopalan",
+    "iast": "gopālan",
+    "devanagari": "गोपालन्",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Protector of cows; Krishna (Tamil/Malayalam form of Gopal).",
+    "components": [
+      {
+        "part": "gopāla",
+        "gloss": "cowherd"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hariharan",
+    "iast": "hariharan",
+    "devanagari": "हरिहरन्",
+    "letter": "H",
+    "syllable_count": 4,
+    "meaning_en": "Vishnu and Shiva united (Tamil form of Harihara).",
+    "components": [
+      {
+        "part": "harihara",
+        "gloss": "Vishnu-Shiva"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Karthikeyan",
+    "iast": "kārttikeyan",
+    "devanagari": "कार्त्तिकेयन्",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Murugan, son of the Krittikas (Tamil form).",
+    "components": [
+      {
+        "part": "kārttikeya",
+        "gloss": "Murugan"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Krishnan",
+    "iast": "kṛṣṇan",
+    "devanagari": "कृष्णन्",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Krishna (Tamil/Malayalam form).",
+    "components": [
+      {
+        "part": "kṛṣṇa",
+        "gloss": "Krishna"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Lakshmanan",
+    "iast": "lakṣmaṇan",
+    "devanagari": "लक्ष्मणन्",
+    "letter": "L",
+    "syllable_count": 3,
+    "meaning_en": "Lakshmana, Rama's brother (Tamil form).",
+    "components": [
+      {
+        "part": "lakṣmaṇa",
+        "gloss": "Lakshmana"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Madhavan",
+    "iast": "mādhavan",
+    "devanagari": "माधवन्",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Krishna (Tamil/Malayalam form of Madhava).",
+    "components": [
+      {
+        "part": "mādhava",
+        "gloss": "Krishna"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mohanan",
+    "iast": "mohanan",
+    "devanagari": "मोहनन्",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Enchanting one; Krishna (Malayalam form of Mohan).",
+    "components": [
+      {
+        "part": "mohana",
+        "gloss": "enchanting"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nandakumar",
+    "iast": "nandakumār",
+    "stem": "nandakumāra",
+    "devanagari": "नन्दकुमार",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Son of Nanda; Krishna.",
+    "components": [
+      {
+        "part": "nanda",
+        "gloss": "Nanda"
+      },
+      {
+        "part": "kumāra",
+        "gloss": "son"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Padmanabhan",
+    "iast": "padmanābhan",
+    "devanagari": "पद्मनाभन्",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "Lotus-naveled Vishnu (Malayalam form).",
+    "components": [
+      {
+        "part": "padmanābha",
+        "gloss": "Vishnu"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Raghavan",
+    "iast": "rāghavan",
+    "devanagari": "राघवन्",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Rama, descendant of Raghu (Tamil/Malayalam form).",
+    "components": [
+      {
+        "part": "rāghava",
+        "gloss": "Rama"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rajan",
+    "iast": "rājan",
+    "devanagari": "राजन्",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "King.",
+    "components": [
+      {
+        "part": "rājan",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ramachandran",
+    "iast": "rāmacandran",
+    "devanagari": "रामचन्द्रन्",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "Rama, moon-like (Tamil/Malayalam form).",
+    "components": [
+      {
+        "part": "rāmacandra",
+        "gloss": "Rama"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Selvan",
+    "iast": "celvan",
+    "devanagari": "सेल्वन्",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Wealthy, fortunate one.",
+    "components": [
+      {
+        "part": "celvam",
+        "gloss": "wealth (Tamil)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sivakumar",
+    "iast": "śivakumār",
+    "stem": "śivakumāra",
+    "devanagari": "शिवकुमार",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Son of Shiva; Murugan.",
+    "components": [
+      {
+        "part": "śiva",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "kumāra",
+        "gloss": "son"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Srinivasan",
+    "iast": "śrīnivāsan",
+    "devanagari": "श्रीनिवासन्",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Abode of Lakshmi; Venkateswara (Tamil form).",
+    "components": [
+      {
+        "part": "śrīnivāsa",
+        "gloss": "Vishnu"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sundaram",
+    "iast": "sundaram",
+    "devanagari": "सुन्दरम्",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Beautiful (Tamil form of Sundara).",
+    "components": [
+      {
+        "part": "sundara",
+        "gloss": "beautiful"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Thyagarajan",
+    "iast": "tyāgarājan",
+    "devanagari": "त्यागराजन्",
+    "letter": "T",
+    "syllable_count": 4,
+    "meaning_en": "King of renunciation; Shiva of Tiruvarur (Tamil form).",
+    "components": [
+      {
+        "part": "tyāgarāja",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Venkataraman",
+    "iast": "veṅkaṭaramaṇan",
+    "devanagari": "वेङ्कटरमणन्",
+    "letter": "V",
+    "syllable_count": 6,
+    "meaning_en": "Lord of the Venkata hill; Venkateswara.",
+    "components": [
+      {
+        "part": "veṅkaṭa",
+        "gloss": "the hill"
+      },
+      {
+        "part": "ramaṇa",
+        "gloss": "beloved lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vijayan",
+    "iast": "vijayan",
+    "devanagari": "विजयन्",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Victorious one (Malayalam form of Vijay).",
+    "components": [
+      {
+        "part": "vijaya",
+        "gloss": "victory"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Viswanathan",
+    "iast": "viśvanāthan",
+    "devanagari": "विश्वनाथन्",
+    "letter": "V",
+    "syllable_count": 4,
+    "meaning_en": "Lord of the universe (Tamil form).",
+    "components": [
+      {
+        "part": "viśvanātha",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anirudhan",
+    "iast": "aniruddhan",
+    "devanagari": "अनिरुद्धन्",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Unobstructed (Malayalam form of Aniruddha).",
+    "components": [
+      {
+        "part": "aniruddha",
+        "gloss": "unobstructed"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Harikrishnan",
+    "iast": "harikṛṣṇan",
+    "devanagari": "हरिकृष्णन्",
+    "letter": "H",
+    "syllable_count": 4,
+    "meaning_en": "Hari and Krishna; Krishna (Malayalam).",
+    "components": [
+      {
+        "part": "hari",
+        "gloss": "Vishnu"
+      },
+      {
+        "part": "kṛṣṇa",
+        "gloss": "Krishna"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jayakrishnan",
+    "iast": "jayakṛṣṇan",
+    "devanagari": "जयकृष्णन्",
+    "letter": "J",
+    "syllable_count": 4,
+    "meaning_en": "Victorious Krishna (Malayalam).",
+    "components": [
+      {
+        "part": "jaya",
+        "gloss": "victory"
+      },
+      {
+        "part": "kṛṣṇa",
+        "gloss": "Krishna"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Unnikrishnan",
+    "iast": "uṇṇikṛṣṇan",
+    "devanagari": "उण्णिकृष्णन्",
+    "letter": "U",
+    "syllable_count": 4,
+    "meaning_en": "Baby Krishna (Malayalam).",
+    "components": [
+      {
+        "part": "uṇṇi",
+        "gloss": "little one (Malayalam)"
+      },
+      {
+        "part": "kṛṣṇa",
+        "gloss": "Krishna"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sreekumar",
+    "iast": "śrīkumār",
+    "stem": "śrīkumāra",
+    "devanagari": "श्रीकुमार",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Auspicious son; Murugan.",
+    "components": [
+      {
+        "part": "śrī",
+        "gloss": "auspicious"
+      },
+      {
+        "part": "kumāra",
+        "gloss": "son"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kesavan",
+    "iast": "keśavan",
+    "devanagari": "केशवन्",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Krishna (Malayalam form of Keshava).",
+    "components": [
+      {
+        "part": "keśava",
+        "gloss": "Krishna"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Achyuthan",
+    "iast": "acyutan",
+    "devanagari": "अच्युतन्",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "The infallible; Vishnu (Malayalam form).",
+    "components": [
+      {
+        "part": "acyuta",
+        "gloss": "infallible"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhaskaran",
+    "iast": "bhāskaran",
+    "devanagari": "भास्करन्",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "The sun (Tamil/Malayalam form of Bhaskar).",
+    "components": [
+      {
+        "part": "bhāskara",
+        "gloss": "sun"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Narayanan",
+    "iast": "nārāyaṇan",
+    "devanagari": "नारायणन्",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Vishnu (Tamil/Malayalam form of Narayana).",
+    "components": [
+      {
+        "part": "nārāyaṇa",
+        "gloss": "Vishnu"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Manikandan",
+    "iast": "maṇikaṇṭhan",
+    "devanagari": "मणिकण्ठन्",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "One with a jewel at the throat; Ayyappa.",
+    "components": [
+      {
+        "part": "maṇi",
+        "gloss": "jewel"
+      },
+      {
+        "part": "kaṇṭha",
+        "gloss": "throat"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Sabarimala tradition",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Muthu",
+    "iast": "muttu",
+    "devanagari": "मुत्तु",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Pearl (Tamil).",
+    "components": [
+      {
+        "part": "muttu",
+        "gloss": "pearl (Tamil)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sooraj",
+    "iast": "sūraj",
+    "stem": "sūraja",
+    "devanagari": "सूरज",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "The sun (Hindi).",
+    "components": [
+      {
+        "part": "sūraj",
+        "gloss": "sun"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "North India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-019-south-forms.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
