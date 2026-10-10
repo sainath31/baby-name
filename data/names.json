@@ -37942,5 +37942,785 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Avanish",
+    "iast": "avaneś",
+    "stem": "avaneśa",
+    "devanagari": "अवनीश",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Lord of the earth.",
+    "components": [
+      {
+        "part": "avani",
+        "gloss": "earth"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chinmayananda",
+    "iast": "cinmayānanda",
+    "devanagari": "चिन्मयानन्द",
+    "letter": "C",
+    "syllable_count": 5,
+    "meaning_en": "Bliss of pure consciousness.",
+    "components": [
+      {
+        "part": "cinmaya",
+        "gloss": "full of consciousness"
+      },
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dhanvanth",
+    "iast": "dhanvant",
+    "stem": "dhanvanta",
+    "devanagari": "धन्वन्त",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Possessing a bow; archer (Telugu form of Dhanvant).",
+    "components": [
+      {
+        "part": "dhanus",
+        "gloss": "bow"
+      },
+      {
+        "part": "-vant",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ganeshwar",
+    "iast": "gaṇeśvar",
+    "stem": "gaṇeśvara",
+    "devanagari": "गणेश्वर",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Lord of the hosts; Ganesha.",
+    "components": [
+      {
+        "part": "gaṇa",
+        "gloss": "host"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gopichand",
+    "iast": "gopīcand",
+    "stem": "gopīcanda",
+    "devanagari": "गोपीचन्द",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Moon of the gopis; a legendary king-ascetic.",
+    "components": [
+      {
+        "part": "gopī",
+        "gloss": "cowherd woman"
+      },
+      {
+        "part": "candra",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "North India"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Haresh",
+    "iast": "hareś",
+    "stem": "hareśa",
+    "devanagari": "हरेश",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Lord Hari; Vishnu.",
+    "components": [
+      {
+        "part": "hari",
+        "gloss": "Vishnu"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Harivansh",
+    "iast": "harivaṃś",
+    "stem": "harivaṃśa",
+    "devanagari": "हरिवंश",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Family of Hari (Vishnu); the Harivamsha.",
+    "components": [
+      {
+        "part": "hari",
+        "gloss": "Vishnu"
+      },
+      {
+        "part": "vaṃśa",
+        "gloss": "lineage"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "North India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Harivamsha",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kalyanaraman",
+    "iast": "kalyāṇarāman",
+    "devanagari": "कल्याणरामन्",
+    "letter": "K",
+    "syllable_count": 5,
+    "meaning_en": "Auspicious Rama (Tamil form).",
+    "components": [
+      {
+        "part": "kalyāṇa",
+        "gloss": "auspicious"
+      },
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Lingaraj",
+    "iast": "liṅgarāj",
+    "stem": "liṅgarāja",
+    "devanagari": "लिंगराज",
+    "letter": "L",
+    "syllable_count": 3,
+    "meaning_en": "King of lingas; Shiva of Bhubaneswar.",
+    "components": [
+      {
+        "part": "liṅga",
+        "gloss": "linga"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mahadevan",
+    "iast": "mahādevan",
+    "devanagari": "महादेवन्",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Mahadeva, the great god (Tamil/Malayalam form).",
+    "components": [
+      {
+        "part": "mahādeva",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mallinath",
+    "iast": "mallināth",
+    "stem": "mallinātha",
+    "devanagari": "मल्लिनाथ",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Lord Mallinatha; Shiva; also the 19th Jain Tirthankara.",
+    "components": [
+      {
+        "part": "malli",
+        "gloss": "Malli"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nandish",
+    "iast": "nandīś",
+    "stem": "nandīśa",
+    "devanagari": "नन्दीश",
+    "letter": "N",
+    "syllable_count": 2,
+    "meaning_en": "Lord of Nandi; Shiva.",
+    "components": [
+      {
+        "part": "nandin",
+        "gloss": "Nandi"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Parameshwaran",
+    "iast": "parameśvaran",
+    "devanagari": "परमेश्वरन्",
+    "letter": "P",
+    "syllable_count": 5,
+    "meaning_en": "Supreme lord (Tamil/Malayalam form).",
+    "components": [
+      {
+        "part": "parameśvara",
+        "gloss": "supreme lord"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pundalik",
+    "iast": "puṇḍalīk",
+    "stem": "puṇḍalīka",
+    "devanagari": "पुंडलिक",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "The devoted saint of Pandharpur whose service brought Vithoba.",
+    "components": [
+      {
+        "part": "puṇḍalīka",
+        "gloss": "lotus"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "deity_epic_ref": "Abhangas of Maharashtra saints",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ramanujam",
+    "iast": "rāmānujam",
+    "devanagari": "रामानुजम्",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "Younger brother of Rama (Tamil form).",
+    "components": [
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      },
+      {
+        "part": "anuja",
+        "gloss": "younger brother"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rangaswamy",
+    "iast": "raṅgasvāmi",
+    "devanagari": "रंगस्वामी",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "Lord of Srirangam; Vishnu.",
+    "components": [
+      {
+        "part": "raṅga",
+        "gloss": "Srirangam"
+      },
+      {
+        "part": "svāmin",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sai",
+    "iast": "sāyi",
+    "devanagari": "साई",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Divine father; associated with Sai Baba.",
+    "components": [
+      {
+        "part": "sāyi",
+        "gloss": "lord, master"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Siddharameshwar",
+    "iast": "siddharāmeśvar",
+    "stem": "siddharāmeśvara",
+    "devanagari": "सिद्धरामेश्वर",
+    "letter": "S",
+    "syllable_count": 5,
+    "meaning_en": "Lord of the perfected Rama; Shiva.",
+    "components": [
+      {
+        "part": "siddha",
+        "gloss": "perfected"
+      },
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sriharsha",
+    "iast": "śrīharṣa",
+    "devanagari": "श्रीहर्ष",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Auspicious joy; the Sanskrit poet Sriharsha.",
+    "components": [
+      {
+        "part": "śrī",
+        "gloss": "auspicious"
+      },
+      {
+        "part": "harṣa",
+        "gloss": "joy"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Venkatachalam",
+    "iast": "veṅkaṭācalam",
+    "devanagari": "वेङ्कटाचलम्",
+    "letter": "V",
+    "syllable_count": 5,
+    "meaning_en": "The Venkata hill; Venkateswara.",
+    "components": [
+      {
+        "part": "veṅkaṭa",
+        "gloss": "hill"
+      },
+      {
+        "part": "acala",
+        "gloss": "mountain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vishwesh",
+    "iast": "viśveś",
+    "stem": "viśveśa",
+    "devanagari": "विश्वेश",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Lord of the universe.",
+    "components": [
+      {
+        "part": "viśva",
+        "gloss": "universe"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yadagiri",
+    "iast": "yādagiri",
+    "devanagari": "यादगिरि",
+    "letter": "Y",
+    "syllable_count": 4,
+    "meaning_en": "The hill of Yada; Narasimha of Yadagirigutta.",
+    "components": [
+      {
+        "part": "yāda",
+        "gloss": "Yada"
+      },
+      {
+        "part": "giri",
+        "gloss": "hill"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-028-south-marathi.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
