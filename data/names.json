@@ -40986,5 +40986,426 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Tanu",
+    "iast": "tanu",
+    "devanagari": "तनु",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "Slender, delicate; the body.",
+    "components": [
+      {
+        "part": "tanu",
+        "gloss": "slender, body"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dhrubajyoti",
+    "iast": "dhruvajyoti",
+    "devanagari": "ध्रुवज्योति",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "Light of the pole star; steady light.",
+    "components": [
+      {
+        "part": "dhruva",
+        "gloss": "pole star"
+      },
+      {
+        "part": "jyotis",
+        "gloss": "light"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Assam"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-034-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dibyajyoti",
+    "iast": "divyajyoti",
+    "devanagari": "दिव्यज्योति",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "Divine light.",
+    "components": [
+      {
+        "part": "divya",
+        "gloss": "divine"
+      },
+      {
+        "part": "jyotis",
+        "gloss": "light"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Assam"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-034-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rituraj",
+    "iast": "ṛturāj",
+    "stem": "ṛturāja",
+    "devanagari": "ऋतुराज",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "King of seasons; spring.",
+    "components": [
+      {
+        "part": "ṛtu",
+        "gloss": "season"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Assam"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-034-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Subrat",
+    "iast": "suvrat",
+    "stem": "suvrata",
+    "devanagari": "सुब्रत",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "One with good vows (Odia spelling).",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "vrata",
+        "gloss": "vow"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-034-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sambit",
+    "iast": "saṃvit",
+    "devanagari": "सम्बित",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Consciousness, knowledge (Odia form).",
+    "components": [
+      {
+        "part": "saṃvit",
+        "gloss": "knowledge"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-034-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ashwini",
+    "iast": "aśvinī",
+    "devanagari": "अश्विनी",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Of the horse; the first nakshatra; used also for boys in parts of the south.",
+    "components": [
+      {
+        "part": "aśvin",
+        "gloss": "horseman"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-034-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ramulu",
+    "iast": "rāmulu",
+    "devanagari": "रामुलु",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Rama (Telugu honorific form).",
+    "components": [
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      },
+      {
+        "part": "-lu",
+        "gloss": "Telugu honorific"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-034-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shyamlal",
+    "iast": "śyāmalāl",
+    "stem": "śyāmalāla",
+    "devanagari": "श्यामलाल",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Dark-complexioned darling; Krishna.",
+    "components": [
+      {
+        "part": "śyāma",
+        "gloss": "dark"
+      },
+      {
+        "part": "lāla",
+        "gloss": "darling"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Bihar"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-034-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ramnath",
+    "iast": "rāmanāth",
+    "stem": "rāmanātha",
+    "devanagari": "रामनाथ",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Lord Rama; Shiva of Rameswaram.",
+    "components": [
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Bihar"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-034-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhagwan",
+    "iast": "bhagavān",
+    "devanagari": "भगवान",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Blessed one; God.",
+    "components": [
+      {
+        "part": "bhagavat",
+        "gloss": "blessed"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Bihar"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-034-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rampal",
+    "iast": "rāmapāl",
+    "stem": "rāmapāla",
+    "devanagari": "रामपाल",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Protected by Rama.",
+    "components": [
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      },
+      {
+        "part": "pāla",
+        "gloss": "protector"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Madhya Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-034-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
