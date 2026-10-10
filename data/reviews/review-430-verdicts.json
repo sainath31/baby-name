@@ -1,0 +1,82 @@
+[
+ {
+  "name": "Yamunajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Yamunakanta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Yamunamayi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Yamunamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Yamunananda",
+  "verdict": "keep",
+  "reason": ""
+ },
+ {
+  "name": "Yamunanandana",
+  "verdict": "keep",
+  "reason": ""
+ },
+ {
+  "name": "Yamunanandini",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Yamunanatha",
+  "verdict": "keep",
+  "reason": ""
+ },
+ {
+  "name": "Yamunanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Yamunapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Yamunapriya",
+  "verdict": "keep",
+  "reason": ""
+ },
+ {
+  "name": "Yamunashekhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Yamunasundari",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Yamunavati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Yamunendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Yamunesha",
+  "verdict": "keep",
+  "reason": ""
+ }
+]
