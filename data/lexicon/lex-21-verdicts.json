@@ -1,0 +1,332 @@
+[
+ {
+  "iast": "kāverī",
+  "use": true,
+  "type": "nature",
+  "gloss": "the Kaveri river"
+ },
+ {
+  "iast": "godāvarī",
+  "use": true,
+  "type": "nature",
+  "gloss": "the Godavari river"
+ },
+ {
+  "iast": "narmadā",
+  "use": true,
+  "type": "nature",
+  "gloss": "the Narmada river"
+ },
+ {
+  "iast": "tuṅgabhadrā",
+  "use": true,
+  "type": "nature",
+  "gloss": "the Tungabhadra river"
+ },
+ {
+  "iast": "sarayū",
+  "use": true,
+  "type": "nature",
+  "gloss": "the Sarayu river"
+ },
+ {
+  "iast": "himavat",
+  "use": true,
+  "type": "nature",
+  "gloss": "snowy mountain"
+ },
+ {
+  "iast": "mandara",
+  "use": true,
+  "type": "nature",
+  "gloss": "Mount Mandara"
+ },
+ {
+  "iast": "sumeru",
+  "use": true,
+  "type": "nature",
+  "gloss": "the great Meru"
+ },
+ {
+  "iast": "citrakūṭa",
+  "use": true,
+  "type": "nature",
+  "gloss": "Chitrakuta hill"
+ },
+ {
+  "iast": "grīṣma",
+  "use": true,
+  "type": "nature",
+  "gloss": "summer"
+ },
+ {
+  "iast": "varṣā",
+  "use": true,
+  "type": "nature",
+  "gloss": "rain"
+ },
+ {
+  "iast": "aruṇodaya",
+  "use": true,
+  "type": "nature",
+  "gloss": "sunrise"
+ },
+ {
+  "iast": "locana",
+  "use": true,
+  "type": "virtue",
+  "gloss": "eye"
+ },
+ {
+  "iast": "vadana",
+  "use": true,
+  "type": "virtue",
+  "gloss": "face"
+ },
+ {
+  "iast": "bāhu",
+  "use": true,
+  "type": "virtue",
+  "gloss": "arm"
+ },
+ {
+  "iast": "nūpura",
+  "use": true,
+  "type": "virtue",
+  "gloss": "anklet"
+ },
+ {
+  "iast": "kuṇḍala",
+  "use": true,
+  "type": "virtue",
+  "gloss": "earring"
+ },
+ {
+  "iast": "kaṅkaṇa",
+  "use": true,
+  "type": "virtue",
+  "gloss": "bracelet"
+ },
+ {
+  "iast": "mekhalā",
+  "use": true,
+  "type": "virtue",
+  "gloss": "girdle"
+ },
+ {
+  "iast": "hāra",
+  "use": true,
+  "type": "virtue",
+  "gloss": "garland"
+ },
+ {
+  "iast": "cūḍāmaṇi",
+  "use": true,
+  "type": "virtue",
+  "gloss": "crest jewel"
+ },
+ {
+  "iast": "murali",
+  "use": true,
+  "type": "sacred",
+  "gloss": "flute"
+ },
+ {
+  "iast": "mṛdaṅga",
+  "use": true,
+  "type": "virtue",
+  "gloss": "drum"
+ },
+ {
+  "iast": "dīpikā",
+  "use": true,
+  "type": "nature",
+  "gloss": "lamp"
+ },
+ {
+  "iast": "ābhā",
+  "use": true,
+  "type": "nature",
+  "gloss": "radiance"
+ },
+ {
+  "iast": "lāvaṇya",
+  "use": true,
+  "type": "virtue",
+  "gloss": "loveliness"
+ },
+ {
+  "iast": "mādhurī",
+  "use": true,
+  "type": "virtue",
+  "gloss": "sweetness"
+ },
+ {
+  "iast": "komala",
+  "use": true,
+  "type": "virtue",
+  "gloss": "tender"
+ },
+ {
+  "iast": "kanyā",
+  "use": true,
+  "type": "virtue",
+  "gloss": "maiden"
+ },
+ {
+  "iast": "bālā",
+  "use": true,
+  "type": "virtue",
+  "gloss": "young girl"
+ },
+ {
+  "iast": "kumārī",
+  "use": true,
+  "type": "virtue",
+  "gloss": "maiden"
+ },
+ {
+  "iast": "anuprabha",
+  "use": true,
+  "type": "nature",
+  "gloss": "following radiance"
+ },
+ {
+  "iast": "maṇikarṇikā",
+  "use": true,
+  "type": "nature",
+  "gloss": "jewel earring"
+ },
+ {
+  "iast": "svarṇalatā",
+  "use": true,
+  "type": "nature",
+  "gloss": "golden creeper"
+ },
+ {
+  "iast": "padmāvatī",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Padmavati"
+ },
+ {
+  "iast": "nīlakamala",
+  "use": true,
+  "type": "nature",
+  "gloss": "blue lotus"
+ },
+ {
+  "iast": "sāranga",
+  "use": true,
+  "type": "nature",
+  "gloss": "deer"
+ },
+ {
+  "iast": "cātaka",
+  "use": true,
+  "type": "nature",
+  "gloss": "rain-bird"
+ },
+ {
+  "iast": "kalāpin",
+  "use": true,
+  "type": "nature",
+  "gloss": "peacock"
+ },
+ {
+  "iast": "kauśalya",
+  "use": true,
+  "type": "virtue",
+  "gloss": "skill"
+ },
+ {
+  "iast": "vibhīṣaṇa",
+  "use": true,
+  "type": "deity",
+  "gloss": "Vibhishana"
+ },
+ {
+  "iast": "kṛṣṇā",
+  "use": true,
+  "type": "deity",
+  "gloss": "Draupadi"
+ },
+ {
+  "iast": "ulūpī",
+  "use": true,
+  "type": "deity",
+  "gloss": "Ulupi"
+ },
+ {
+  "iast": "sītā",
+  "use": true,
+  "type": "deity",
+  "gloss": "Sita"
+ },
+ {
+  "iast": "urmilā",
+  "use": true,
+  "type": "deity",
+  "gloss": "Urmila"
+ },
+ {
+  "iast": "māṇḍavī",
+  "use": true,
+  "type": "deity",
+  "gloss": "Mandavi"
+ },
+ {
+  "iast": "śrutakīrti",
+  "use": true,
+  "type": "deity",
+  "gloss": "Shrutakirti"
+ },
+ {
+  "iast": "kauśalyā",
+  "use": true,
+  "type": "deity",
+  "gloss": "Kausalya"
+ },
+ {
+  "iast": "sumitrā",
+  "use": true,
+  "type": "deity",
+  "gloss": "Sumitra"
+ },
+ {
+  "iast": "śabarī",
+  "use": true,
+  "type": "deity",
+  "gloss": "Shabari"
+ },
+ {
+  "iast": "ahalyā",
+  "use": true,
+  "type": "deity",
+  "gloss": "Ahalya"
+ },
+ {
+  "iast": "mandodarī",
+  "use": true,
+  "type": "deity",
+  "gloss": "Mandodari"
+ },
+ {
+  "iast": "damayantī",
+  "use": true,
+  "type": "deity",
+  "gloss": "Damayanti"
+ },
+ {
+  "iast": "śakuntalā",
+  "use": true,
+  "type": "deity",
+  "gloss": "Shakuntala"
+ },
+ {
+  "iast": "draupadī",
+  "use": true,
+  "type": "deity",
+  "gloss": "Draupadi"
+ }
+]
