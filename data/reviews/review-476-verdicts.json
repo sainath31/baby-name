@@ -1,0 +1,110 @@
+[
+ {
+  "name": "Nityashree",
+  "verdict": "keep",
+  "reason": "Eternal prosperity; nitya + śrī sound, script agrees."
+ },
+ {
+  "name": "Padmakshi",
+  "verdict": "keep",
+  "reason": "Lotus-eyed; classical epithet used as a name; IAST and Devanagari agree."
+ },
+ {
+  "name": "Padmalaya",
+  "verdict": "keep",
+  "reason": "Abode in a lotus, epithet of Lakshmi; auspicious and agrees."
+ },
+ {
+  "name": "Parinita",
+  "verdict": "reject",
+  "reason": "Pariṇītā means 'wedded/married'; a marital status, unsuitable as a baby girl's name; 'matured' is weak. Code: common_noun_or_technical_term."
+ },
+ {
+  "name": "Parnika",
+  "verdict": "keep",
+  "reason": "Little leaf; regular -ikā diminutive; fine."
+ },
+ {
+  "name": "Sahana",
+  "verdict": "fix",
+  "reason": "Sanskrit sahanā (forbearance, patience) agrees with Devanagari सहना; plain Latin spelling Sahana is acceptable. Meaning line mixes in raga; tidied.",
+  "fix": {
+   "name": "Sahana",
+   "devanagari": "सहना",
+   "iast": "sahanā",
+   "meaning_en": "Patience, forbearance, endurance; also the name of a raga."
+  }
+ },
+ {
+  "name": "Sejal",
+  "verdict": "reject",
+  "reason": "IAST sejala does not match any Sanskrit word; se- unexplained, so 'jala:water' etymology is unsupported (probably a Gujarati variant of sajala, 'with water/tearful', not auspicious). Code: nonsensical_compound."
+ },
+ {
+  "name": "Shivali",
+  "verdict": "fix",
+  "reason": "Suitable modern name but the stated meaning 'row of Shiva's blessings' is invented; etymology uncertain.",
+  "fix": {
+   "name": "Shivali",
+   "devanagari": "शिवाली",
+   "iast": "śivālī",
+   "meaning_en": "Modern name from Shiva (auspicious) + ālī (row; female companion); etymology uncertain."
+  }
+ },
+ {
+  "name": "Shrilekha",
+  "verdict": "keep",
+  "reason": "Śrī + lekhā, 'line/writing of fortune'; valid compound, agrees."
+ },
+ {
+  "name": "Siddhima",
+  "verdict": "reject",
+  "reason": "Suffix -mā is not a possessive; correct forms would be Siddhimatī or just Siddhi. Siddhimā breaks Sanskrit morphology. Code: nonsensical_compound."
+ },
+ {
+  "name": "Swarnalata",
+  "verdict": "keep",
+  "reason": "Golden creeper; svarṇa + latā, classical and auspicious."
+ },
+ {
+  "name": "Swasti",
+  "verdict": "keep",
+  "reason": "Well-being, welfare (Vedic svasti); accepted as a girl's name."
+ },
+ {
+  "name": "Tulika",
+  "verdict": "keep",
+  "reason": "Tūlikā, painter's brush; Latin Tulika without macron acceptable; agrees."
+ },
+ {
+  "name": "Upasana",
+  "verdict": "keep",
+  "reason": "Upāsanā, worship; widely used girl's name, auspicious."
+ },
+ {
+  "name": "Vandita",
+  "verdict": "keep",
+  "reason": "Vanditā, revered/praised; agrees."
+ },
+ {
+  "name": "Varnika",
+  "verdict": "keep",
+  "reason": "Varṇikā, little colour/letter; acceptable diminutive."
+ },
+ {
+  "name": "Vedavati",
+  "verdict": "fix",
+  "reason": "Valid name, but Vedavatī's Ramayana story ends tragically and meaning line is loose; meaning corrected, mild reservation for traditional families.",
+  "fix": {
+   "name": "Vedavati",
+   "devanagari": "वेदवती",
+   "iast": "vedavatī",
+   "meaning_en": "Endowed with Vedic knowledge; in the Ramayana, a sage's daughter regarded as a former birth of Sita."
+  }
+ },
+ {
+  "name": "Vibhavari",
+  "verdict": "keep",
+  "reason": "Vibhāvarī, night (radiant, starlit); classical; agrees."
+ }
+]
