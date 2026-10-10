@@ -63376,5 +63376,421 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Arul",
+    "iast": "aruḷ",
+    "devanagari": "अरुळ",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Grace (Tamil).",
+    "components": [
+      {
+        "part": "aruḷ",
+        "gloss": "grace"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-062-boys-south3.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Arulmozhi",
+    "iast": "aruḷmoḻi",
+    "devanagari": "अरुळ्मोळि",
+    "letter": "A",
+    "syllable_count": 5,
+    "meaning_en": "Gracious speech; Rajaraja Chola's birth name.",
+    "components": [
+      {
+        "part": "aruḷ",
+        "gloss": "grace"
+      },
+      {
+        "part": "moḻi",
+        "gloss": "word"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-062-boys-south3.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bharani",
+    "iast": "bharaṇī",
+    "devanagari": "भरणी",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "The second nakshatra; bearer.",
+    "components": [
+      {
+        "part": "bharaṇī",
+        "gloss": "star name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-062-boys-south3.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dinakaran",
+    "iast": "dinakaran",
+    "devanagari": "दिनकरन",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "Maker of day; the sun.",
+    "components": [
+      {
+        "part": "dina",
+        "gloss": "day"
+      },
+      {
+        "part": "kara",
+        "gloss": "maker"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-062-boys-south3.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Elangovan",
+    "iast": "iḷaṅkōvaṉ",
+    "devanagari": "इळंकोवन",
+    "letter": "E",
+    "syllable_count": 4,
+    "meaning_en": "Young king.",
+    "components": [
+      {
+        "part": "iḷa",
+        "gloss": "young"
+      },
+      {
+        "part": "kōvan",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-062-boys-south3.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ilayaraja",
+    "iast": "iḷayarāja",
+    "devanagari": "इळयराजा",
+    "letter": "I",
+    "syllable_count": 6,
+    "meaning_en": "Young king.",
+    "components": [
+      {
+        "part": "iḷaya",
+        "gloss": "young"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-062-boys-south3.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mahesan",
+    "iast": "maheśan",
+    "devanagari": "महेसन",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Great lord; Shiva.",
+    "components": [
+      {
+        "part": "mahā",
+        "gloss": "great"
+      },
+      {
+        "part": "īśan",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-062-boys-south3.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rangan",
+    "iast": "raṅgan",
+    "devanagari": "रंगन",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Stage; Vishnu of Srirangam.",
+    "components": [
+      {
+        "part": "raṅga",
+        "gloss": "stage"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-062-boys-south3.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ravichandran",
+    "iast": "ravicandran",
+    "devanagari": "रविचन्द्रन",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "Sun and moon.",
+    "components": [
+      {
+        "part": "ravi",
+        "gloss": "sun"
+      },
+      {
+        "part": "candra",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-062-boys-south3.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Saravanan",
+    "iast": "śaravaṇan",
+    "devanagari": "सरवणन",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Born in the reed forest; Murugan.",
+    "components": [
+      {
+        "part": "śara",
+        "gloss": "reed"
+      },
+      {
+        "part": "vana",
+        "gloss": "forest"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-062-boys-south3.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Surendran",
+    "iast": "surendran",
+    "devanagari": "सुरेन्द्रन",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Lord of gods; Indra.",
+    "components": [
+      {
+        "part": "sura",
+        "gloss": "god"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-062-boys-south3.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Thiru",
+    "iast": "tiru",
+    "devanagari": "तिरु",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "Sacred (Tamil honorific).",
+    "components": [
+      {
+        "part": "tiru",
+        "gloss": "sacred"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-062-boys-south3.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

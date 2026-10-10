@@ -1,0 +1,70 @@
+[
+ {
+  "name": "Arul",
+  "verdict": "keep",
+  "reason": "Genuine Tamil name aruḷ, grace; meaning correct."
+ },
+ {
+  "name": "Arulmozhi",
+  "verdict": "keep",
+  "reason": "Real Tamil name (Arulmozhi Varman, Rajaraja Chola); aruḷ + moḻi correct."
+ },
+ {
+  "name": "Bharani",
+  "verdict": "reject",
+  "reason": "Name of a nakshatra (technical term), usually given to girls; not a standard boy name."
+ },
+ {
+  "name": "Dinakaran",
+  "verdict": "keep",
+  "reason": "Sanskrit dinakara, sun, Tamil -an ending; correct."
+ },
+ {
+  "name": "Elangovan",
+  "verdict": "keep",
+  "reason": "Tamil iḷaṅkōvaṉ, young king/prince; established name."
+ },
+ {
+  "name": "Ilayaraja",
+  "verdict": "fix",
+  "reason": "Tamil form is iḷaiyarāja (with ai); spelling/IAST corrected.",
+  "fix": {
+   "devanagari": "इळैयराजा",
+   "iast": "iḷaiyarāja",
+   "meaning_en": "Young king (Tamil iḷaiya, young + rāja, king)."
+  }
+ },
+ {
+  "name": "Mahesan",
+  "verdict": "fix",
+  "reason": "Devanagari used स instead of श for maheśan.",
+  "fix": {
+   "devanagari": "महेशन",
+   "iast": "maheśan",
+   "meaning_en": "Great lord; an epithet of Shiva (mahā + īśa)."
+  }
+ },
+ {
+  "name": "Rangan",
+  "verdict": "fix",
+  "reason": "Meaning \"Stage\" is weak; it is a short form of Ranganatha.",
+  "fix": {
+   "meaning_en": "Short form of Ranganatha, Vishnu of Srirangam (from raṅga, as in the temple name)."
+  }
+ },
+ {
+  "name": "Ravichandran",
+  "verdict": "keep",
+  "reason": "Sanskrit ravi (sun) + candra (moon); established Tamil name."
+ },
+ {
+  "name": "Surendran",
+  "verdict": "keep",
+  "reason": "Sanskrit sura + indra, lord of the gods; established name."
+ },
+ {
+  "name": "Thiru",
+  "verdict": "reject",
+  "reason": "Honorific word (Tamil \"sacred\", like Sri/Mr), not a personal name."
+ }
+]
