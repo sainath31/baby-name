@@ -1,0 +1,493 @@
+[
+ {
+  "name": "Prana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: breath, not a given name"
+ },
+ {
+  "name": "Prathita",
+  "verdict": "reject",
+  "reason": "obscure_figure: wrong/obscure meaning (Manu name)"
+ },
+ {
+  "name": "Pratishrava",
+  "verdict": "reject",
+  "reason": "obscure_figure: Rudra name from a cakra scheme"
+ },
+ {
+  "name": "Prayag",
+  "verdict": "reject",
+  "reason": "place_or_river: Prayag is a place"
+ },
+ {
+  "name": "Prisha",
+  "verdict": "fix",
+  "reason": "Beloved, dear (modern name from priya); etymology uncertain",
+  "fix": {
+   "meaning_en": "Beloved, dear (modern name from priya); etymology uncertain"
+  }
+ },
+ {
+  "name": "Pritha",
+  "verdict": "fix",
+  "reason": "Devanagari should be पृथा",
+  "fix": {
+   "devanagari": "पृथा",
+   "iast": "pṛthā"
+  }
+ },
+ {
+  "name": "Priya",
+  "verdict": "fix",
+  "reason": "Priya is chiefly a girl's name",
+  "fix": {
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Punaradheya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: a Soma rite"
+ },
+ {
+  "name": "Puranasimha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: obscure epithet"
+ },
+ {
+  "name": "Pushpa",
+  "verdict": "fix",
+  "reason": "Pushpa used for both genders",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Pushtimati",
+  "verdict": "reject",
+  "reason": "other: feminine -mati form, Agni epithet, non-meaning"
+ },
+ {
+  "name": "Rahul",
+  "verdict": "fix",
+  "reason": "Meaning unclear; Rahul is popular, gloss honestly",
+  "fix": {
+   "meaning_en": "Capable, efficient (popular gloss); also Rahula, son of the Buddha; etymology uncertain"
+  }
+ },
+ {
+  "name": "Rajatadyuti",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: obscure Hanuman epithet"
+ },
+ {
+  "name": "Raka",
+  "verdict": "fix",
+  "reason": "Devanagari wrong, should be राका",
+  "fix": {
+   "devanagari": "राका",
+   "iast": "rākā"
+  }
+ },
+ {
+  "name": "Rani",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Rani means queen, common noun"
+ },
+ {
+  "name": "Rayishtha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: obscure Vedic epithet, vague meaning"
+ },
+ {
+  "name": "Renuka",
+  "verdict": "fix",
+  "reason": "Devanagari should be रेणुका for feminine",
+  "fix": {
+   "devanagari": "रेणुका",
+   "iast": "reṇukā"
+  }
+ },
+ {
+  "name": "Reyansh",
+  "verdict": "fix",
+  "reason": "Parts re+aṃśa invented; modern coinage",
+  "fix": {
+   "meaning_en": "Modern name, glossed 'ray of light'; etymology uncertain"
+  }
+ },
+ {
+  "name": "Rita",
+  "verdict": "fix",
+  "reason": "Meaning 'Name of a Rudra' is a non-meaning; ṛta is truth/cosmic order; name is used for girls too",
+  "fix": {
+   "meaning_en": "Truth; cosmic order (ṛta)",
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Roshni",
+  "verdict": "fix",
+  "reason": "State tag Himachal Pradesh arbitrary for a pan-Indian Hindi word",
+  "fix": {
+   "states": [
+    "All India"
+   ]
+  }
+ },
+ {
+  "name": "Ruru",
+  "verdict": "reject",
+  "reason": "Ruru: obscure deer/sage name, not a realistic given name (other)"
+ },
+ {
+  "name": "Sachin",
+  "verdict": "fix",
+  "reason": "Parts sat+cit are invented; etymology uncertain",
+  "fix": {
+   "meaning_en": "Popular modern name; etymology uncertain"
+  }
+ },
+ {
+  "name": "Samharakhya",
+  "verdict": "reject",
+  "reason": "Obscure Agni epithet, not a given name (epithet_not_given_name)"
+ },
+ {
+  "name": "Samskriti",
+  "verdict": "fix",
+  "reason": "Samskriti means culture/refinement, not a name of Krishna; feminine noun",
+  "fix": {
+   "meaning_en": "Culture, refinement",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Samtosha",
+  "verdict": "reject",
+  "reason": "duplicate_variant of Santosh"
+ },
+ {
+  "name": "Saptajihva",
+  "verdict": "reject",
+  "reason": "Obscure epithet of Agni, 'tongue' compound (epithet_not_given_name)"
+ },
+ {
+  "name": "Saumitri",
+  "verdict": "fix",
+  "reason": "Garbled dictionary-note meaning",
+  "fix": {
+   "meaning_en": "Son of Sumitra; Lakshmana"
+  }
+ },
+ {
+  "name": "Saura",
+  "verdict": "reject",
+  "reason": "Adjective 'solar', not a name (compound_or_adjective)"
+ },
+ {
+  "name": "Shamkara",
+  "verdict": "reject",
+  "reason": "duplicate_variant of Shankar"
+ },
+ {
+  "name": "Shauri",
+  "verdict": "fix",
+  "reason": "Meaning is only an epithet label",
+  "fix": {
+   "meaning_en": "Descendant of Shura; a name of Krishna"
+  }
+ },
+ {
+  "name": "Sheetal",
+  "verdict": "fix",
+  "reason": "State tag odd for pan-Indian name; commonly unisex",
+  "fix": {
+   "states": [
+    "All India"
+   ],
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Shighrya",
+  "verdict": "reject",
+  "reason": "Non-meaning 'Name of a Rudra'; obscure"
+ },
+ {
+  "name": "Shivadatta",
+  "verdict": "fix",
+  "reason": "Meaning is an obscure figure reference, wrong",
+  "fix": {
+   "meaning_en": "Given by Shiva"
+  }
+ },
+ {
+  "name": "Shivaji",
+  "verdict": "fix",
+  "reason": "Meaning garbled",
+  "fix": {
+   "meaning_en": "Devotee-style name from Shiva with honorific -ji; made famous by Chhatrapati Shivaji, founder of the Maratha kingdom"
+  }
+ },
+ {
+  "name": "Shlesh",
+  "verdict": "reject",
+  "reason": "Common noun/pun, not a given name (common_noun_or_technical_term)"
+ },
+ {
+  "name": "Shoshana",
+  "verdict": "reject",
+  "reason": "Means drying up; Agni epithet; negative/obscure"
+ },
+ {
+  "name": "Shriranga",
+  "verdict": "fix",
+  "reason": "Meaning is a dictionary dump",
+  "fix": {
+   "meaning_en": "Vishnu as Ranganatha, reclining at Srirangam; fortune plus delight"
+  }
+ },
+ {
+  "name": "Shruti",
+  "verdict": "fix",
+  "reason": "State tag odd; pan-Indian name",
+  "fix": {
+   "states": [
+    "All India"
+   ]
+  }
+ },
+ {
+  "name": "Shukla",
+  "verdict": "reject",
+  "reason": "Surname/community name, not a given name"
+ },
+ {
+  "name": "Shunashira",
+  "verdict": "reject",
+  "reason": "Obscure Indra epithet, unusual as a given name"
+ },
+ {
+  "name": "Shvana",
+  "verdict": "reject",
+  "reason": "Means dog; non-meaning Rudra label"
+ },
+ {
+  "name": "Siddha",
+  "verdict": "reject",
+  "reason": "Names a class of beings; not a personal name"
+ },
+ {
+  "name": "Simha",
+  "verdict": "reject",
+  "reason": "Common noun (lion) and surname"
+ },
+ {
+  "name": "Somashraya",
+  "verdict": "reject",
+  "reason": "Obscure epithet, not used as a given name"
+ },
+ {
+  "name": "Soumya",
+  "verdict": "fix",
+  "reason": "Used for both genders",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Srisailam",
+  "verdict": "reject",
+  "reason": "Name of a place/mountain shrine"
+ },
+ {
+  "name": "Stubha",
+  "verdict": "reject",
+  "reason": "Non-meaning 'Name of an Agni'; obscure"
+ },
+ {
+  "name": "Subahu",
+  "verdict": "reject",
+  "reason": "Best known as a rakshasa of Ramayana; avoid"
+ },
+ {
+  "name": "Suchitra",
+  "verdict": "reject",
+  "reason": "Non-meaning label; Suchitra is a girl's name"
+ },
+ {
+  "name": "Sudakshina",
+  "verdict": "fix",
+  "reason": "Girl's name needs feminine ending",
+  "fix": {
+   "devanagari": "सुदक्षिणा",
+   "iast": "sudakṣiṇā"
+  }
+ },
+ {
+  "name": "Sudana",
+  "verdict": "reject",
+  "reason": "Non-meaning 'Name of a Śiva god'"
+ },
+ {
+  "name": "Sugandhara",
+  "verdict": "reject",
+  "reason": "Garbled meaning; invented-looking name"
+ },
+ {
+  "name": "Sumanjasa",
+  "verdict": "reject",
+  "reason": "other: Meaning 'Name of a Śiva god' is a non-meaning"
+ },
+ {
+  "name": "Sunetra",
+  "verdict": "fix",
+  "reason": "Girl form needs feminine ending",
+  "fix": {
+   "devanagari": "सुनेत्रा",
+   "iast": "sunetrā"
+  }
+ },
+ {
+  "name": "Suryakanti",
+  "verdict": "fix",
+  "reason": "Devanagari should end in short i to match kānti",
+  "fix": {
+   "devanagari": "सूर्यकान्ति"
+  }
+ },
+ {
+  "name": "Susaha",
+  "verdict": "reject",
+  "reason": "other: Garbled non-meaning ('= sOmya')"
+ },
+ {
+  "name": "Sushanti",
+  "verdict": "reject",
+  "reason": "obscure_figure: Obscure Indra of a Manu epoch"
+ },
+ {
+  "name": "Sushikha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Obscure Agni epithet, garbled form"
+ },
+ {
+  "name": "Sutapa",
+  "verdict": "fix",
+  "reason": "Devanagari सूतप is sūtapa (charioteer-drinker); Sutapa is सुतप",
+  "fix": {
+   "devanagari": "सुतप",
+   "meaning_en": "Of good austerity; a sage",
+   "iast": "sutapa"
+  }
+ },
+ {
+  "name": "Suvamsha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: Generic adjective 'of noble lineage'"
+ },
+ {
+  "name": "Suvan",
+  "verdict": "reject",
+  "reason": "other: Dubious etymology and meaning"
+ },
+ {
+  "name": "Suvasini",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Title/category for a married woman"
+ },
+ {
+  "name": "Suvipra",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: Generic adjective"
+ },
+ {
+  "name": "Svarmani",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Obscure epithet of the sun"
+ },
+ {
+  "name": "Svarpati",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Epithet of Indra"
+ },
+ {
+  "name": "Tamopaha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Epithet of the sun"
+ },
+ {
+  "name": "Tapas",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Technical term, not a given name"
+ },
+ {
+  "name": "Tarak",
+  "verdict": "reject",
+  "reason": "demon_or_villain: Tāraka is a demon"
+ },
+ {
+  "name": "Tikesh",
+  "verdict": "reject",
+  "reason": "other: Invented etymology, uncertain"
+ },
+ {
+  "name": "Tirupati",
+  "verdict": "reject",
+  "reason": "place_or_river: Place name"
+ },
+ {
+  "name": "Uchchadeva",
+  "verdict": "reject",
+  "reason": "other: Garbled non-meaning"
+ },
+ {
+  "name": "Ugra",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Fierce; Rudra epithet"
+ },
+ {
+  "name": "Ulapya",
+  "verdict": "reject",
+  "reason": "obscure_figure: Name of a Rudra, non-meaning"
+ },
+ {
+  "name": "Urdhva",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Obscure Vishnu epithet"
+ },
+ {
+  "name": "Vaidhrita",
+  "verdict": "reject",
+  "reason": "obscure_figure: Obscure Indra of a Manu epoch"
+ },
+ {
+  "name": "Vaidhriti",
+  "verdict": "reject",
+  "reason": "obscure_figure: Obscure Indra, garbled"
+ },
+ {
+  "name": "Vaimridha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Obscure Indra epithet, garbled"
+ },
+ {
+  "name": "Vaishvadeva",
+  "verdict": "reject",
+  "reason": "other: Garbled non-meaning"
+ },
+ {
+  "name": "Shraddha",
+  "verdict": "fix",
+  "reason": "parts wrongly śrāddha (funeral rite); should be śraddhā",
+  "fix": {
+   "components": [
+    {
+     "part": "śraddhā",
+     "gloss": "faith"
+    }
+   ]
+  }
+ }
+]

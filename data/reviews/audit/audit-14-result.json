@@ -1,0 +1,53 @@
+[
+ {
+  "name": "Yogesh",
+  "verdict": "keep",
+  "reason": "Lord of yoga; sound name."
+ },
+ {
+  "name": "Yogeshwar",
+  "verdict": "keep",
+  "reason": "Yogeshwar, epithet of Krishna and Shiva, valid given name."
+ },
+ {
+  "name": "Yogin",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: generic word for a practitioner, not a given name."
+ },
+ {
+  "name": "Yogiraj",
+  "verdict": "keep",
+  "reason": "Yogiraj is widely used as a given name; meaning correct."
+ },
+ {
+  "name": "Yogitha",
+  "verdict": "fix",
+  "reason": "Valid girl's name (Yogita); meaning was weak.",
+  "fix": {
+   "meaning_en": "Feminine of yogi; one devoted to yoga."
+  }
+ },
+ {
+  "name": "Yudhishthir",
+  "verdict": "keep",
+  "reason": "Eldest Pandava; yudhi + sthira correct."
+ },
+ {
+  "name": "Yuvan",
+  "verdict": "fix",
+  "reason": "Meaning fine; Devanagari carries a halant not matching spoken form.",
+  "fix": {
+   "devanagari": "युवन"
+  }
+ },
+ {
+  "name": "Yuvana",
+  "verdict": "reject",
+  "reason": "duplicate_variant of Yuvan; ends in feminine-sounding a."
+ },
+ {
+  "name": "Yuvika",
+  "verdict": "keep",
+  "reason": "Girl's name from yuvatī, modern formation, acceptable."
+ }
+]

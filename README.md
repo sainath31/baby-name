@@ -12,8 +12,8 @@ _Last updated: 2026-10-10_
 
 | Measure | Count |
 |---|---|
-| Names listed (shown to users) | 2,975 (boys 2,286, girls 662, gender-neutral 27) |
-| - attested (found in texts, dictionaries or common use) | 1,873 |
+| Names listed (shown to users) | 2,912 (boys 2,227, girls 652, gender-neutral 33) |
+| - attested (found in texts, dictionaries or common use) | 1,810 |
 | - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 1,102 |
 | Hidden candidate records kept in data | ~18,700 |
 | Total records | 23,398 |
@@ -51,6 +51,9 @@ Vetted attested names number in the low thousands at most; anything beyond that 
 ### Recently added
 - Girl names: gender filter (Boys / Girls / Gender-neutral), about 300 reviewed attested girl names plus reviewed feminine compounds (-vati, -mayi, -nandini, -sundari, -dasi, -priya).
 - Astrology syllable coverage check: every naming syllable should have names; a few (Ng, Cho, Vo, Ho, Yi) are rare sounds at the start of Sanskrit names and stay thin.
+
+### Quality audit (done)
+- Every listed attested name (1,959) was re-read by an independent AI auditor (not a human priest). About 13% (261) had a problem: wrong or non-meaning, invented etymology, wrong script or spelling, wrong gender or state tag, or an unsuitable name. All were corrected or removed (reviews 394-398). Constructed names were reviewed separately.
 
 ### To do
 - Widen the generator's lexicon: 265 elements yields about 500 surviving names; 100k would need roughly 10,000

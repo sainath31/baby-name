@@ -1,0 +1,778 @@
+[
+ {
+  "name": "Vama",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vamsi",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vanamali",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vandana",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vanitha",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vansh",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vanya",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Varad",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Varadarajan",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Varalakshmi",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Varaprasad",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Varchasvi",
+  "verdict": "fix",
+  "reason": "Masculine -ī form; suits unisex",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Vardhamana",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vardhan",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Varendra",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Varenya",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Varun",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vasant",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vasanti",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vasavi",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vasishtha",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vasu",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vasudev",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vasudevan",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vasudha",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vasuki",
+  "verdict": "reject",
+  "reason": "Serpent king; etymology from vasu is invented; not a suitable personal name (demon_or_villain)"
+ },
+ {
+  "name": "Vatsa",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vatsal",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vayu",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vayuputra",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Ved",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vedagarbha",
+  "verdict": "fix",
+  "reason": "Meaning was a non-meaning",
+  "fix": {
+   "meaning_en": "Womb or source of the Vedas; epithet of Brahma and Vishnu"
+  }
+ },
+ {
+  "name": "Vedamitra",
+  "verdict": "fix",
+  "reason": "Meaning had meta text",
+  "fix": {
+   "meaning_en": "Friend of the Veda"
+  }
+ },
+ {
+  "name": "Vedang",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vedansh",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vedant",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vedarth",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vedik",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vedprakash",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vedvyas",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Veer",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Veerabhadra",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Veeresh",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Velan",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Velayudham",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Venkat",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Venkata Ramana",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Venkatachalam",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Venkatalakshmi",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Venkataraman",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Venkatesan",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Venkateshwarlu",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Venkateswarlu",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Venu",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Venugopal",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vetri",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vibha",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vibhavasu",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vibhor",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vibhu",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vibhuti",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vichitra",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vidhu",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vidita",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vidur",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vidyasagar",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vidyut",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vighnaraj",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vignesh",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vihaan",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vihang",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vijay",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vijay Kumar",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vijayalakshmi",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vijayan",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vijayendra",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vijayesha",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vikas",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vikram",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vikramaditya",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vikramarka",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vikrant",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vimal",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vinamra",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vinata",
+  "verdict": "fix",
+  "reason": "Girl form needs long ā in Devanagari",
+  "fix": {
+   "devanagari": "विनता",
+   "meaning_en": "Humble, modest; the mother of Garuda"
+  }
+ },
+ {
+  "name": "Vinay",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vinayak",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vineeth",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vinod",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vipin",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vipul",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Viraj",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Viral",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Virat",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Virendra",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vireshvara",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Viruja",
+  "verdict": "reject",
+  "reason": "obscure_figure: a minor Agni name"
+ },
+ {
+  "name": "Virupaksha",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vishakha",
+  "verdict": "fix",
+  "reason": "Meaning was a non-meaning; also a lunar mansion, so unisex",
+  "fix": {
+   "meaning_en": "Name of Kartikeya; also a lunar mansion",
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Vishal",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vishantaka",
+  "verdict": "fix",
+  "reason": "Garbled meaning",
+  "fix": {
+   "meaning_en": "Destroyer of poison; Shiva, who swallowed the poison from the churning of the ocean"
+  }
+ },
+ {
+  "name": "Vishatana",
+  "verdict": "reject",
+  "reason": "obscure_figure: garbled meaning, obscure epithet"
+ },
+ {
+  "name": "Vishnu",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vishnuvardhan",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vishrut",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vishuddha",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vishwa",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vishwakarma",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vishwamitra",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vishwanath",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vishwas",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vishwesh",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Viswanathan",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vitthal",
+  "verdict": "fix",
+  "reason": "Correct Devanagari conjunct is ट्ठ",
+  "fix": {
+   "devanagari": "विट्ठल"
+  }
+ },
+ {
+  "name": "Vivaan",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vivekananda",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vratesha",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vrinda",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vrisha",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vrishank",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vrishendra",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vrishya",
+  "verdict": "fix",
+  "reason": "Garbled meaning",
+  "fix": {
+   "meaning_en": "Most manly or vigorous; an epithet of Shiva"
+  }
+ },
+ {
+  "name": "Vyas",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Vyom",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yadavendra",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yadunandan",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yagna",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yagnesh",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yajur",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: the Yajurveda"
+ },
+ {
+  "name": "Yamini",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yamuna",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yash",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yash Raj",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yashasvi",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yashoda",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yashodanandan",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yashpal",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yashvardhan",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yashvi",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yashwant",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yatharth",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yatin",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yatindra",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yayati",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yellamma",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: a goddess"
+ },
+ {
+  "name": "Yellappa",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yethiraj",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ },
+ {
+  "name": "Yogachara",
+  "verdict": "reject",
+  "reason": "Non-meaning; also a Buddhist school name (epithet_not_given_name)"
+ },
+ {
+  "name": "Yogaka",
+  "verdict": "reject",
+  "reason": "obscure_figure: obscure Agni name"
+ },
+ {
+  "name": "Yogendra",
+  "verdict": "keep",
+  "reason": "suitable with correct meaning"
+ }
+]

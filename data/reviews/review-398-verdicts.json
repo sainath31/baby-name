@@ -1,0 +1,130 @@
+[
+ {
+  "name": "Varchasvi",
+  "verdict": "fix",
+  "reason": "Masculine -ī form; suits unisex",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Vasuki",
+  "verdict": "reject",
+  "reason": "Serpent king; etymology from vasu is invented; not a suitable personal name (demon_or_villain)"
+ },
+ {
+  "name": "Vedagarbha",
+  "verdict": "fix",
+  "reason": "Meaning was a non-meaning",
+  "fix": {
+   "meaning_en": "Womb or source of the Vedas; epithet of Brahma and Vishnu"
+  }
+ },
+ {
+  "name": "Vedamitra",
+  "verdict": "fix",
+  "reason": "Meaning had meta text",
+  "fix": {
+   "meaning_en": "Friend of the Veda"
+  }
+ },
+ {
+  "name": "Vinata",
+  "verdict": "fix",
+  "reason": "Girl form needs long ā in Devanagari",
+  "fix": {
+   "devanagari": "विनता",
+   "meaning_en": "Humble, modest; the mother of Garuda",
+   "iast": "vinatā"
+  }
+ },
+ {
+  "name": "Viruja",
+  "verdict": "reject",
+  "reason": "obscure_figure: a minor Agni name"
+ },
+ {
+  "name": "Vishakha",
+  "verdict": "fix",
+  "reason": "Meaning was a non-meaning; also a lunar mansion, so unisex",
+  "fix": {
+   "meaning_en": "Name of Kartikeya; also a lunar mansion",
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Vishantaka",
+  "verdict": "fix",
+  "reason": "Garbled meaning",
+  "fix": {
+   "meaning_en": "Destroyer of poison; Shiva, who swallowed the poison from the churning of the ocean"
+  }
+ },
+ {
+  "name": "Vishatana",
+  "verdict": "reject",
+  "reason": "obscure_figure: garbled meaning, obscure epithet"
+ },
+ {
+  "name": "Vitthal",
+  "verdict": "fix",
+  "reason": "Correct Devanagari conjunct is ट्ठ",
+  "fix": {
+   "devanagari": "विट्ठल"
+  }
+ },
+ {
+  "name": "Vrishya",
+  "verdict": "fix",
+  "reason": "Garbled meaning",
+  "fix": {
+   "meaning_en": "Most manly or vigorous; an epithet of Shiva"
+  }
+ },
+ {
+  "name": "Yajur",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: the Yajurveda"
+ },
+ {
+  "name": "Yellamma",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: a goddess"
+ },
+ {
+  "name": "Yogachara",
+  "verdict": "reject",
+  "reason": "Non-meaning; also a Buddhist school name (epithet_not_given_name)"
+ },
+ {
+  "name": "Yogaka",
+  "verdict": "reject",
+  "reason": "obscure_figure: obscure Agni name"
+ },
+ {
+  "name": "Yogin",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: generic word for a practitioner, not a given name."
+ },
+ {
+  "name": "Yogitha",
+  "verdict": "fix",
+  "reason": "Valid girl's name (Yogita); meaning was weak.",
+  "fix": {
+   "meaning_en": "Feminine of yogi; one devoted to yoga."
+  }
+ },
+ {
+  "name": "Yuvan",
+  "verdict": "fix",
+  "reason": "Meaning fine; Devanagari carries a halant not matching spoken form.",
+  "fix": {
+   "devanagari": "युवन"
+  }
+ },
+ {
+  "name": "Yuvana",
+  "verdict": "reject",
+  "reason": "duplicate_variant of Yuvan; ends in feminine-sounding a."
+ }
+]
