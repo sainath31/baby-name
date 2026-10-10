@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Anal",
+    "verdict": "fix",
+    "reason": "Real boy's name (Agni); IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Anal",
+      "devanagari": "अनल",
+      "iast": "anal",
+      "meaning_en": "Fire."
+    }
+  },
+  {
+    "name": "Arka",
+    "verdict": "keep",
+    "reason": "Common boy's name; meaning, script and IAST correct."
+  },
+  {
+    "name": "Hans",
+    "verdict": "fix",
+    "reason": "Used for boys (Hans, Hansraj); IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Hans",
+      "devanagari": "हंस",
+      "iast": "haṃs",
+      "meaning_en": "Swan; the soul in yogic imagery."
+    }
+  },
+  {
+    "name": "Himadri",
+    "verdict": "keep",
+    "reason": "Given to boys (esp. Bengal); meaning, script and IAST correct."
+  },
+  {
+    "name": "Jalad",
+    "verdict": "fix",
+    "reason": "Rare but genuine boy's name; IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Jalad",
+      "devanagari": "जलद",
+      "iast": "jalad",
+      "meaning_en": "Cloud; giver of water."
+    }
+  },
+  {
+    "name": "Kadamb",
+    "verdict": "fix",
+    "reason": "Auspicious, used for boys; IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Kadamb",
+      "devanagari": "कदम्ब",
+      "iast": "kadamb",
+      "meaning_en": "The kadamba tree, beloved of Krishna."
+    }
+  },
+  {
+    "name": "Neeraj",
+    "verdict": "fix",
+    "reason": "Very common boy's name; IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Neeraj",
+      "devanagari": "नीरज",
+      "iast": "nīraj",
+      "meaning_en": "Lotus; born in water."
+    }
+  },
+  {
+    "name": "Nishakar",
+    "verdict": "fix",
+    "reason": "Genuine name for the moon; IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Nishakar",
+      "devanagari": "निशाकर",
+      "iast": "niśākar",
+      "meaning_en": "Maker of the night; the moon."
+    }
+  },
+  {
+    "name": "Nishith",
+    "verdict": "fix",
+    "reason": "Common boy's name (Nishith/Nisheeth); IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Nishith",
+      "devanagari": "निशीथ",
+      "iast": "niśīth",
+      "meaning_en": "Midnight."
+    }
+  },
+  {
+    "name": "Parijat",
+    "verdict": "fix",
+    "reason": "Given to boys (esp. Bengal); IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Parijat",
+      "devanagari": "पारिजात",
+      "iast": "pārijāt",
+      "meaning_en": "The night-flowering coral jasmine; the celestial wish-granting tree."
+    }
+  },
+  {
+    "name": "Pawak",
+    "verdict": "fix",
+    "reason": "Standard romanization is Pavak (पावक); IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Pavak",
+      "devanagari": "पावक",
+      "iast": "pāvak",
+      "meaning_en": "Fire, the purifier."
+    }
+  },
+  {
+    "name": "Prabhat",
+    "verdict": "fix",
+    "reason": "Common boy's name; IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Prabhat",
+      "devanagari": "प्रभात",
+      "iast": "prabhāt",
+      "meaning_en": "Dawn, daybreak."
+    }
+  },
+  {
+    "name": "Samir",
+    "verdict": "fix",
+    "reason": "Common boy's name; IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Samir",
+      "devanagari": "समीर",
+      "iast": "samīr",
+      "meaning_en": "Breeze, gentle wind."
+    }
+  },
+  {
+    "name": "Shail",
+    "verdict": "fix",
+    "reason": "Used for boys (Shail, Shailesh); IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Shail",
+      "devanagari": "शैल",
+      "iast": "śail",
+      "meaning_en": "Mountain, rock."
+    }
+  },
+  {
+    "name": "Shikhar",
+    "verdict": "fix",
+    "reason": "Common boy's name; IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Shikhar",
+      "devanagari": "शिखर",
+      "iast": "śikhar",
+      "meaning_en": "Peak, summit."
+    }
+  },
+  {
+    "name": "Shishir",
+    "verdict": "fix",
+    "reason": "Common boy's name; IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Shishir",
+      "devanagari": "शिशिर",
+      "iast": "śiśir",
+      "meaning_en": "The cool season, late winter."
+    }
+  },
+  {
+    "name": "Sudhanshu",
+    "verdict": "keep",
+    "reason": "Common boy's name; meaning, script and IAST correct."
+  },
+  {
+    "name": "Sushrut",
+    "verdict": "keep",
+    "reason": "Given in this form; meaning, script and IAST (suśrut) correct."
+  },
+  {
+    "name": "Tarak",
+    "verdict": "fix",
+    "reason": "Common boy's name (Tarak mantra of Rama); IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Tarak",
+      "devanagari": "तारक",
+      "iast": "tārak",
+      "meaning_en": "Star; protector, one who carries across."
+    }
+  },
+  {
+    "name": "Taru",
+    "verdict": "reject",
+    "reason": "female_name: though the noun is masculine, Taru is mainly given to girls in current use."
+  },
+  {
+    "name": "Utpal",
+    "verdict": "fix",
+    "reason": "Common boy's name (esp. Bengal); IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Utpal",
+      "devanagari": "उत्पल",
+      "iast": "utpal",
+      "meaning_en": "Blue lotus, water lily."
+    }
+  },
+  {
+    "name": "Vipin",
+    "verdict": "fix",
+    "reason": "Common boy's name; IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Vipin",
+      "devanagari": "विपिन",
+      "iast": "vipin",
+      "meaning_en": "Forest, grove."
+    }
+  }
+]
