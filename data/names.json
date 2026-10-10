@@ -22153,5 +22153,646 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Vihaan",
+    "iast": "vihāna",
+    "devanagari": "विहान",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Dawn, morning (modern popular name; etymology uncertain).",
+    "components": [
+      {
+        "part": "vihāna",
+        "gloss": "dawn (uncertain)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ayansh",
+    "iast": "ayaṃśa",
+    "devanagari": "अयांश",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "A ray of light; a part of the divine (modern coinage; etymology uncertain).",
+    "components": [
+      {
+        "part": "aṃśa",
+        "gloss": "part (probable)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Krish",
+    "iast": "kṛṣ",
+    "devanagari": "कृष",
+    "letter": "K",
+    "syllable_count": 1,
+    "meaning_en": "Short form of Krishna.",
+    "components": [
+      {
+        "part": "kṛṣṇa",
+        "gloss": "Krishna (shortened)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ved",
+    "iast": "veda",
+    "devanagari": "वेद",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Sacred knowledge; the Vedas.",
+    "components": [
+      {
+        "part": "veda",
+        "gloss": "knowledge"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vansh",
+    "iast": "vaṃśa",
+    "devanagari": "वंश",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Lineage, family line; also bamboo.",
+    "components": [
+      {
+        "part": "vaṃśa",
+        "gloss": "lineage"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Darsh",
+    "iast": "darśa",
+    "devanagari": "दर्श",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Sight, vision; the new-moon day.",
+    "components": [
+      {
+        "part": "darśa",
+        "gloss": "seeing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ahaan",
+    "iast": "ahan",
+    "devanagari": "अहन्",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Day; dawn, the first light.",
+    "components": [
+      {
+        "part": "ahan",
+        "gloss": "day"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Laksh",
+    "iast": "lakṣa",
+    "devanagari": "लक्ष",
+    "letter": "L",
+    "syllable_count": 2,
+    "meaning_en": "Aim, target; also a hundred thousand.",
+    "components": [
+      {
+        "part": "lakṣa",
+        "gloss": "mark, aim"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Prakhar",
+    "iast": "prakhara",
+    "devanagari": "प्रखर",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Sharp, brilliant, intense.",
+    "components": [
+      {
+        "part": "prakhara",
+        "gloss": "sharp"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rachit",
+    "iast": "racita",
+    "devanagari": "रचित",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Created, composed, arranged.",
+    "components": [
+      {
+        "part": "racita",
+        "gloss": "made"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Agrim",
+    "iast": "agrima",
+    "devanagari": "अग्रिम",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Foremost, leading, first.",
+    "components": [
+      {
+        "part": "agra",
+        "gloss": "front"
+      },
+      {
+        "part": "-ima",
+        "gloss": "being at"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kairav",
+    "iast": "kairava",
+    "devanagari": "कैरव",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "White lotus that blooms at night.",
+    "components": [
+      {
+        "part": "kairava",
+        "gloss": "white water-lily"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vedik",
+    "iast": "vaidika",
+    "devanagari": "वैदिक",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Of the Vedas; sacred.",
+    "components": [
+      {
+        "part": "veda",
+        "gloss": "Veda"
+      },
+      {
+        "part": "-ika",
+        "gloss": "relating to"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Aniket",
+    "iast": "aniketa",
+    "devanagari": "अनिकेत",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Without a fixed abode; an epithet of Shiva, the lord of all.",
+    "components": [
+      {
+        "part": "a",
+        "gloss": "without"
+      },
+      {
+        "part": "niketa",
+        "gloss": "house"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Harshil",
+    "iast": "harṣila",
+    "devanagari": "हर्षिल",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Joyful, full of delight.",
+    "components": [
+      {
+        "part": "harṣa",
+        "gloss": "joy"
+      },
+      {
+        "part": "-ila",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kanav",
+    "iast": "kaṇva",
+    "devanagari": "कण्व",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Name of a revered Vedic sage, foster-father of Shakuntala.",
+    "components": [
+      {
+        "part": "kaṇva",
+        "gloss": "the sage Kanva"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Rigveda",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Lakshit",
+    "iast": "lakṣita",
+    "devanagari": "लक्षित",
+    "letter": "L",
+    "syllable_count": 3,
+    "meaning_en": "Marked, distinguished, noticed.",
+    "components": [
+      {
+        "part": "lakṣita",
+        "gloss": "marked"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nimai",
+    "iast": "nimāi",
+    "devanagari": "निमाई",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Childhood name of Chaitanya Mahaprabhu (from the neem tree).",
+    "components": [
+      {
+        "part": "nimba",
+        "gloss": "neem tree"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Parv",
+    "iast": "parva",
+    "devanagari": "पर्व",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Festival; a sacred occasion.",
+    "components": [
+      {
+        "part": "parvan",
+        "gloss": "festival, section"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Saarth",
+    "iast": "sārtha",
+    "devanagari": "सार्थ",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Meaningful, purposeful.",
+    "components": [
+      {
+        "part": "sa",
+        "gloss": "with"
+      },
+      {
+        "part": "artha",
+        "gloss": "meaning"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-013-modern-popular.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
