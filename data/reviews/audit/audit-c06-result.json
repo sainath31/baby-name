@@ -1,0 +1,705 @@
+[
+ {
+  "name": "Manudatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Manupriya",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Marutidasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Marutidatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Marutinatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Lord of Maruti is a forced reading; Hanuman is not a master of Rama in this form."
+ },
+ {
+  "name": "Matinatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Mativati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Mayureshadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Mayureshadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Medhadevi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Medhapriya",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Medhavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Meghanandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Merunandana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Delight of a mountain is unnatural pairing."
+ },
+ {
+  "name": "Merunatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Mihiranatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Mitradatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Mrigankanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Mrigendranatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Mrigendra already means lion-king; nātha is redundant."
+ },
+ {
+  "name": "Muktanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Lord of the pearl is forced; reads as Muktinath place."
+ },
+ {
+  "name": "Muktavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Mukundadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Mukundadasi",
+  "verdict": "reject",
+  "reason": "other: Dasi as a girl's name connotes maidservant; not given."
+ },
+ {
+  "name": "Mukundadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Mukundanandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Muninatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Lord of the sage is weak; also a Jain Tirthankara name."
+ },
+ {
+  "name": "Munindranatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Redundant lord of chief of sages."
+ },
+ {
+  "name": "Munishadasa",
+  "verdict": "reject",
+  "reason": "overlong_compound: Clumsy, no family would give it."
+ },
+ {
+  "name": "Muraridasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Muraridasi",
+  "verdict": "reject",
+  "reason": "other: Dasi as a girl's name connotes maidservant; not given."
+ },
+ {
+  "name": "Muraridatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Murarikumara",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Nageshadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Nageshadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Nageshakumara",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Nageshanandana",
+  "verdict": "fix",
+  "reason": "Meaning muddled.",
+  "fix": {
+   "meaning_en": "Son of Nagesha (Shiva)."
+  }
+ },
+ {
+  "name": "Nakshatranatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Nandamayi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Nandanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Nandapala",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Nandapriya",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Nandikumara",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Nandinatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Naraharidasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Naraharidatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Narasimhadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Narayanadasi",
+  "verdict": "reject",
+  "reason": "other: Dasi as a girl's name connotes maidservant; not given."
+ },
+ {
+  "name": "Narayanapriya",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Natarajadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Natarajadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Natarajaputra",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Nilakanthadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Nirajanandini",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Nishanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Padmanabhadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Padmanandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Padmanandini",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Padmanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Padmasundari",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pandurangadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pankajanandini",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pankajasundari",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pankajavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pashupatidasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pashupatidatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pashupatiputra",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pavananandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Prabhanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Prabhasamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Meaning muddled with a place name."
+ },
+ {
+  "name": "Prabhudasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Prabhudatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Prabhumitra",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Prabhunandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Prakashavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pranavanandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pratapavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Premamayi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Premanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Premavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Prithvinatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pritimayi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pritinatha",
+  "verdict": "reject",
+  "reason": "other: Reads as husband of Priti, i.e. Kama."
+ },
+ {
+  "name": "Pritivardhana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pritivati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pundarikanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Punyaketu",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Punyapala",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Punyavardhana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pushkaranatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pushpanandini",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pushpanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Lord of the flower is forced; Pushpa-associations with Kama."
+ },
+ {
+  "name": "Pushpashekhara",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pushpasundari",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Pushpavati",
+  "verdict": "reject",
+  "reason": "negative_meaning: Pushpavati also denotes a menstruating woman."
+ },
+ {
+  "name": "Pushyanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Radhadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Radhadasi",
+  "verdict": "reject",
+  "reason": "other: Dasi as a girl's name connotes maidservant; not given."
+ },
+ {
+  "name": "Radhakantadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Radhapriya",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Radhasundari",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Raghavadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Raghavanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Lord of Rama is redundant/forced."
+ },
+ {
+  "name": "Raghavapriya",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Raghunandini",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Raghunathadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Raghunathadasi",
+  "verdict": "reject",
+  "reason": "other: Dasi as a girl's name connotes maidservant; not given."
+ },
+ {
+  "name": "Raghupatidasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Raghupatidasi",
+  "verdict": "reject",
+  "reason": "other: Dasi as a girl's name connotes maidservant; not given."
+ },
+ {
+  "name": "Raghupatidatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Raghupatiputra",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Raghuvardhana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Raghuviradasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Raghuviradatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Raghuviraputra",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Rajaramadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Rajaramadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Rajaramaputra",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Ramadasi",
+  "verdict": "reject",
+  "reason": "other: Dasi as a girl's name connotes maidservant; not given."
+ },
+ {
+  "name": "Ramakantadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Ramakantadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Ramanandini",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Ramapriya",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Ramasundari",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Rameshadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Rameshadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Rameshakumara",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Rameshvaradasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Ranganathadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Ranganathadasi",
+  "verdict": "reject",
+  "reason": "other: Dasi as a girl's name connotes maidservant; not given."
+ },
+ {
+  "name": "Ravinatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Ravishekhara",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Rishidatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Rishinandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Ritadhara",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Ritaketu",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Ritapala",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Ritapati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Ritaraja",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ },
+ {
+  "name": "Rudradasi",
+  "verdict": "reject",
+  "reason": "other: Dasi as a girl's name connotes maidservant; not given."
+ },
+ {
+  "name": "Rudranandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct."
+ }
+]

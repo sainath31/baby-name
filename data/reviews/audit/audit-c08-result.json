@@ -1,0 +1,576 @@
+[
+ {
+  "name": "Suprakasha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Supurnendu",
+  "verdict": "reject",
+  "reason": "Su- on pūrṇendu is redundant and awkward"
+ },
+ {
+  "name": "Surasundari",
+  "verdict": "fix",
+  "reason": "sūra is wrong; should be sura (celestial)",
+  "fix": {
+   "devanagari": "सुरसुन्दरी",
+   "iast": "surasundarī",
+   "meaning_en": "Beautiful as a celestial maiden."
+  }
+ },
+ {
+  "name": "Sureshakumara",
+  "verdict": "reject",
+  "reason": "Forced pairing; not a natural given name"
+ },
+ {
+  "name": "Sureshanandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Suryamitra",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Suryanandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Suryanandini",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Suryanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Suryapriya",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Suryasundari",
+  "verdict": "reject",
+  "reason": "Forced pairing"
+ },
+ {
+  "name": "Susatya",
+  "verdict": "reject",
+  "reason": "Su- redundant with satya"
+ },
+ {
+  "name": "Suviveka",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Svarnadevi",
+  "verdict": "reject",
+  "reason": "Forced; goddess-of-gold pairing unnatural"
+ },
+ {
+  "name": "Svarnamayi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Svarnavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Taradevi",
+  "verdict": "reject",
+  "reason": "Tara devi is Buddhist/Tantric goddess name"
+ },
+ {
+  "name": "Taramayi",
+  "verdict": "reject",
+  "reason": "Tārā as Buddhist-linked goddess; unnatural"
+ },
+ {
+  "name": "Tarasundari",
+  "verdict": "reject",
+  "reason": "Tārā as Buddhist-linked goddess; unnatural"
+ },
+ {
+  "name": "Taravati",
+  "verdict": "fix",
+  "reason": "Meaning clumsy",
+  "fix": {
+   "meaning_en": "Starry; endowed with stars."
+  }
+ },
+ {
+  "name": "Trilokanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Trilokasundari",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Trivikramadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Umadasi",
+  "verdict": "reject",
+  "reason": "Servant of Uma, unnatural for a girl"
+ },
+ {
+  "name": "Umanandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Umanandini",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Umapatidasa",
+  "verdict": "reject",
+  "reason": "Overlong, forced"
+ },
+ {
+  "name": "Umeshadatta",
+  "verdict": "reject",
+  "reason": "Given by Shiva-lord phrase, unnatural"
+ },
+ {
+  "name": "Umeshakumara",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Umeshanandana",
+  "verdict": "reject",
+  "reason": "Forced, redundant"
+ },
+ {
+  "name": "Utpaladevi",
+  "verdict": "reject",
+  "reason": "Deity-style devi on a lotus; unnatural"
+ },
+ {
+  "name": "Utpalasundari",
+  "verdict": "reject",
+  "reason": "Utpala-sundari evokes Buddhist Utpalavarna; forced"
+ },
+ {
+  "name": "Utpalavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vaikunthadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vaikunthanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vanadevi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vananandini",
+  "verdict": "reject",
+  "reason": "Forced pairing"
+ },
+ {
+  "name": "Vanasundari",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Varinatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Varunadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vasantadevi",
+  "verdict": "reject",
+  "reason": "Goddess of spring unnatural"
+ },
+ {
+  "name": "Vasantamayi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vasantanandini",
+  "verdict": "reject",
+  "reason": "Forced pairing"
+ },
+ {
+  "name": "Vasantasundari",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vasantavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vasudevadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vasudevadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vayumitra",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vayunandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vedadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vedamayi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vedanandini",
+  "verdict": "reject",
+  "reason": "Forced pairing"
+ },
+ {
+  "name": "Vedanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vedapriya",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Venkatadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Venkatadasi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Venkatadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Venkatanandana",
+  "verdict": "reject",
+  "reason": "Forced, awkward"
+ },
+ {
+  "name": "Venkatapriya",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Venkateshadasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vibhamayi",
+  "verdict": "reject",
+  "reason": "Vibhā + mayī forced"
+ },
+ {
+  "name": "Vibhavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vidhushekhara",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vidhuvati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vidyadevi",
+  "verdict": "reject",
+  "reason": "Vidyadevi is Jain/Sarasvati title, deity name"
+ },
+ {
+  "name": "Vidyamayi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vidyanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vidyavardhana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vidyavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vijayadevi",
+  "verdict": "reject",
+  "reason": "Forced deity-style name"
+ },
+ {
+  "name": "Vijayamayi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vijayanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vijayavardhana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vijayavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vinayavardhana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vinayavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Viravardhana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Viravati",
+  "verdict": "fix",
+  "reason": "Meaning clumsy",
+  "fix": {
+   "meaning_en": "Heroic; rich in heroes."
+  }
+ },
+ {
+  "name": "Viryavardhana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Viryavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vishnudasi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vishnudatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vishnumitra",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vishnunandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vishnupriya",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vishvamayi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vitthaladasa",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vitthaladasi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vitthalanatha",
+  "verdict": "fix",
+  "reason": "Meaning clumsy",
+  "fix": {
+   "meaning_en": "Lord Vitthala (Krishna as worshipped at Pandharpur)."
+  }
+ },
+ {
+  "name": "Vivekavardhana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vivekavati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vrajadatta",
+  "verdict": "reject",
+  "reason": "Given by a place, unnatural"
+ },
+ {
+  "name": "Vrajakumara",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vrajamayi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vrajanandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vrajanandini",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vrajanatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Vrajeshakumara",
+  "verdict": "reject",
+  "reason": "Overlong, forced"
+ },
+ {
+  "name": "Vyasadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Yadunandini",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Yadunatha",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Yajnadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Yashamayi",
+  "verdict": "reject",
+  "reason": "Wrong stem; yaśas needs yaśo-"
+ },
+ {
+  "name": "Yashavardhana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Yashavati",
+  "verdict": "reject",
+  "reason": "Wrong stem; yaśas needs yaśo-"
+ },
+ {
+  "name": "Yashodevi",
+  "verdict": "reject",
+  "reason": "Deity-title style; unnatural"
+ },
+ {
+  "name": "Yashomayi",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Yashovati",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Yogadatta",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Yogamayi",
+  "verdict": "reject",
+  "reason": "Yogamaya is a deity name"
+ },
+ {
+  "name": "Yoganandana",
+  "verdict": "keep",
+  "reason": "Natural, auspicious, sandhi correct"
+ },
+ {
+  "name": "Yoganandini",
+  "verdict": "reject",
+  "reason": "Forced pairing"
+ }
+]
