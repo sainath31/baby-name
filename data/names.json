@@ -38722,5 +38722,719 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Abhilash",
+    "iast": "abhilāṣ",
+    "stem": "abhilāṣa",
+    "devanagari": "अभिलाष",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Desire, longing.",
+    "components": [
+      {
+        "part": "abhi",
+        "gloss": "towards"
+      },
+      {
+        "part": "lāṣa",
+        "gloss": "wishing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ankush",
+    "iast": "aṅkuś",
+    "stem": "aṅkuśa",
+    "devanagari": "अंकुश",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Elephant goad; control, restraint.",
+    "components": [
+      {
+        "part": "aṅkuśa",
+        "gloss": "goad"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Arghya",
+    "iast": "arghya",
+    "devanagari": "अर्घ्य",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Ritual offering of water; worthy of honour.",
+    "components": [
+      {
+        "part": "arghya",
+        "gloss": "offering"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chiranjit",
+    "iast": "cirañjit",
+    "devanagari": "चिरंजित्",
+    "letter": "C",
+    "syllable_count": 3,
+    "meaning_en": "Ever victorious.",
+    "components": [
+      {
+        "part": "ciram",
+        "gloss": "long"
+      },
+      {
+        "part": "jit",
+        "gloss": "victor"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Debabrata",
+    "iast": "devavrata",
+    "devanagari": "देवव्रत",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "One devoted to the gods; Bhishma's original name.",
+    "components": [
+      {
+        "part": "deva",
+        "gloss": "god"
+      },
+      {
+        "part": "vrata",
+        "gloss": "vow"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Mahabharata",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Debjit",
+    "iast": "devajit",
+    "devanagari": "देबजित",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Conqueror of the gods; the winner by divine grace.",
+    "components": [
+      {
+        "part": "deva",
+        "gloss": "god"
+      },
+      {
+        "part": "jit",
+        "gloss": "winner"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dibyendu",
+    "iast": "divyendu",
+    "devanagari": "दिव्येन्दु",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "The divine moon.",
+    "components": [
+      {
+        "part": "divya",
+        "gloss": "divine"
+      },
+      {
+        "part": "indu",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mrinmoy",
+    "iast": "mṛnmay",
+    "stem": "mṛnmaya",
+    "devanagari": "मृण्मय",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Made of earth.",
+    "components": [
+      {
+        "part": "mṛd",
+        "gloss": "earth"
+      },
+      {
+        "part": "maya",
+        "gloss": "made of"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nilanjan",
+    "iast": "nīlāñjan",
+    "stem": "nīlāñjana",
+    "devanagari": "नीलांजन",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Blue collyrium; dark and beautiful.",
+    "components": [
+      {
+        "part": "nīla",
+        "gloss": "blue"
+      },
+      {
+        "part": "añjana",
+        "gloss": "collyrium"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rajarshi",
+    "iast": "rājarṣi",
+    "devanagari": "राजर्षि",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Royal sage; a king who is also a sage.",
+    "components": [
+      {
+        "part": "rāja",
+        "gloss": "king"
+      },
+      {
+        "part": "ṛṣi",
+        "gloss": "sage"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Saptarshi",
+    "iast": "saptarṣi",
+    "devanagari": "सप्तर्षि",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "The seven sages; the Great Bear.",
+    "components": [
+      {
+        "part": "sapta",
+        "gloss": "seven"
+      },
+      {
+        "part": "ṛṣi",
+        "gloss": "sage"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Soumik",
+    "iast": "saumik",
+    "stem": "saumika",
+    "devanagari": "सौमिक",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Gentle, moon-like (Bengali coinage from Soumya).",
+    "components": [
+      {
+        "part": "saumya",
+        "gloss": "gentle"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tamal",
+    "iast": "tamāl",
+    "stem": "tamāla",
+    "devanagari": "तमाल",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "The dark-barked tamala tree.",
+    "components": [
+      {
+        "part": "tamāla",
+        "gloss": "dark tree"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tirthankar",
+    "iast": "tīrthaṅkar",
+    "stem": "tīrthaṅkara",
+    "devanagari": "तीर्थंकर",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Ford-maker; one who guides across.",
+    "components": [
+      {
+        "part": "tīrtha",
+        "gloss": "ford"
+      },
+      {
+        "part": "kara",
+        "gloss": "maker"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tuhin",
+    "iast": "tuhin",
+    "stem": "tuhina",
+    "devanagari": "तुहिन",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "Snow, frost, dew.",
+    "components": [
+      {
+        "part": "tuhina",
+        "gloss": "snow"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Aritra",
+    "iast": "aritra",
+    "devanagari": "अरित्र",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Oar, one who steers a boat; the helmsman.",
+    "components": [
+      {
+        "part": "aritra",
+        "gloss": "oar"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kallol",
+    "iast": "kallol",
+    "stem": "kallola",
+    "devanagari": "कल्लोल",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "A great wave; joyful excitement.",
+    "components": [
+      {
+        "part": "kallola",
+        "gloss": "wave"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kaustav",
+    "iast": "kaustubh",
+    "stem": "kaustubha",
+    "devanagari": "कौस्तुभ",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "The jewel worn by Vishnu (Bengali form).",
+    "components": [
+      {
+        "part": "kaustubha",
+        "gloss": "Vishnu's gem"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nirmalya",
+    "iast": "nirmālya",
+    "devanagari": "निर्माल्य",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Flowers offered to a deity; sacred remnant.",
+    "components": [
+      {
+        "part": "nir",
+        "gloss": "from"
+      },
+      {
+        "part": "mālya",
+        "gloss": "garland"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Prasenjit",
+    "iast": "prasenajit",
+    "devanagari": "प्रसेनजित्",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "Conqueror of armies; a king of Kosala.",
+    "components": [
+      {
+        "part": "prasena",
+        "gloss": "army"
+      },
+      {
+        "part": "jit",
+        "gloss": "conqueror"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tathagata",
+    "iast": "tathāgata",
+    "devanagari": "तथागत",
+    "letter": "T",
+    "syllable_count": 4,
+    "meaning_en": "One who has thus gone; an epithet of the Buddha.",
+    "components": [
+      {
+        "part": "tathā",
+        "gloss": "thus"
+      },
+      {
+        "part": "gata",
+        "gloss": "gone"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-029-bengali.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
