@@ -1,0 +1,13 @@
+[
+{"name":"Allama","verdict":"fix","reason":"Used in Karnataka after the Veerashaiva saint Allama Prabhu; meaning given was only a figure reference.","fix":{"meaning_en":"Name honouring the Veerashaiva saint Allama Prabhu; etymology uncertain."}},
+{"name":"Annamayya","verdict":"fix","reason":"Suitable devotional Telugu name; meaning weak and speculative.","fix":{"meaning_en":"Telugu name honouring the saint-poet Annamacharya; etymology uncertain."}},
+{"name":"Bhimashankar","verdict":"fix","reason":"Auspicious Jyotirlinga name; IAST lacked final a.","fix":{"iast":"bhīmaśaṅkara","meaning_en":"Shiva as the mighty and auspicious one; also the name of a Jyotirlinga."}},
+{"name":"Nrupatunga","verdict":"keep","reason":"Correct compound (nṛpa + tuṅga), meaning understandable, usable name."},
+{"name":"Pampa","verdict":"reject","reason":"place_or_river: name of the Pampa/Tungabhadra river and a poet."},
+{"name":"Potana","verdict":"reject","reason":"author_or_scholar: the poet Bammera Potana."},
+{"name":"Pullaiah","verdict":"fix","reason":"Real Telugu given name; IAST was truncated and the meaning guessed.","fix":{"iast":"pullayya","meaning_en":"Traditional Telugu respectful name (Pulla + ayya); etymology uncertain."}},
+{"name":"Subbarao","verdict":"fix","reason":"Common Telugu given name; meaning clarified.","fix":{"meaning_en":"Subba (a Telugu form of Subrahmanya) + Rao (chief, leader); Subrahmanya the chief."}},
+{"name":"Tikkana","verdict":"reject","reason":"author_or_scholar: the poet Tikkana."},
+{"name":"Venkat","verdict":"fix","reason":"Meaning was wrong; it is a short form of Venkatesha/Venkateshwara.","fix":{"meaning_en":"Short form of Venkatesha or Venkateshwara, names of Vishnu worshipped at Tirupati."}},
+{"name":"Venkateshwarlu","verdict":"fix","reason":"Valid Telugu form; IAST truncated and meaning reworded.","fix":{"iast":"veṅkaṭeśvaralu","meaning_en":"Telugu form of Venkateshwara, a name of Vishnu worshipped at Tirupati."}}
+]
