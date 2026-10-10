@@ -20,7 +20,7 @@ function load(letter) {
       const qs = new Array(recs.length);
       recs.forEach((r, i) => {
         r.name = r.n; r.letter = letter; r.syllable_count = r.s; r.states = r.st || []; r.iast = r.i; r._i = i;
-        qs[i] = fold(norm(`${r.n} ${r.i} ${r.m || ''}`)) + ' ' + (r.d || '') + ' ' + fold(norm(r.n)).replace(/ /g, '');   // compact form so 'saikrishna' finds 'Sai Krishna'
+        qs[i] = fold(norm(`${r.n} ${r.i} ${(r.al || []).join(' ')} ${r.m || ''}`)) + ' ' + (r.d || '') + ' ' + fold(norm(r.n)).replace(/ /g, '');   // compact form so 'saikrishna' finds 'Sai Krishna'
       });
       return { recs, qs };
     });

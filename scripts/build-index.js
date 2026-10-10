@@ -73,6 +73,7 @@ const compact = (n) => {
   if (n.kind) o.k = n.kind;
   if (n.curation === 'unreviewed') o.u = 1;
   if (n.origin === 'constructed') o.cn = 1;
+  if (n.alt_spellings?.length) o.al = n.alt_spellings;
   if (n.gender === 'unisex') o.gu = 1;
   if (n.gender === 'girl') o.gg = 1;
   if (n.confidence) o.cf = n.confidence;

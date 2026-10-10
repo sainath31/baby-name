@@ -415,6 +415,7 @@ function renderDetail(r) {
     r.d && h('div', { class: 'd-deva', lang: 'sa', text: r.d }),
     (r.te || r.kn) && h('div', { class: 'd-regional' }, r.te && h('span', { lang: 'te', class: 'd-telu', text: `Telugu: ${r.te}` }), r.kn && h('span', { lang: 'kn', class: 'd-knda', text: `Kannada: ${r.kn}` })),
     h('div', { class: 'd-iast', text: r.i }),
+    r.al?.length && h('div', { class: 'd-iast', text: `Also spelled: ${r.al.join(', ')}` }),
     h('p', { class: 'd-meaning', text: r.m || 'Meaning not recorded.' }),
     h('div', { class: 'tags' }, meta.map((t) => h('span', { class: 'tag', text: t })), (r.cn ? h('span', { class: 'tag warn', text: 'Constructed' }) : r.u && h('span', { class: 'tag warn', text: 'Unreviewed' }))),
     h('div', { class: 'd-actions' }, favBtn, shareBtn),
