@@ -1,0 +1,144 @@
+[
+ {
+  "name": "Bhupali",
+  "verdict": "keep",
+  "reason": "Used as a girl name; also a well-known raga; meaning fine."
+ },
+ {
+  "name": "Chameli",
+  "verdict": "keep",
+  "reason": "Jasmine; genuinely given as a girl name."
+ },
+ {
+  "name": "Greeshma",
+  "verdict": "fix",
+  "reason": "Real girl name; IAST lacked final long a for the Devanagari ग्रीष्मा.",
+  "fix": {
+   "iast": "grīṣmā",
+   "meaning_en": "Summer; the hot season."
+  }
+ },
+ {
+  "name": "Gulmohar",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Persian-derived name of a tree, not given to children."
+ },
+ {
+  "name": "Heera",
+  "verdict": "keep",
+  "reason": "Hindi form of diamond, used as a name for boys and girls."
+ },
+ {
+  "name": "Himalay",
+  "verdict": "keep",
+  "reason": "Himalaya-derived boy name in real use."
+ },
+ {
+  "name": "Jal",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Plain word for water, not a Hindu given name (Jal is Parsi); Neer is the usual name form."
+ },
+ {
+  "name": "Kusum",
+  "verdict": "keep",
+  "reason": "Classic name, female or unisex."
+ },
+ {
+  "name": "Kusumita",
+  "verdict": "keep",
+  "reason": "Girl name in use; meaning blossomed/in bloom is correct."
+ },
+ {
+  "name": "Manik",
+  "verdict": "fix",
+  "reason": "IAST had a stray y; correct spoken form is māṇik.",
+  "fix": {
+   "iast": "māṇik",
+   "meaning_en": "Ruby; precious gem."
+  }
+ },
+ {
+  "name": "Moti",
+  "verdict": "keep",
+  "reason": "Pearl; genuinely used as a name (e.g. Motilal, Moti)."
+ },
+ {
+  "name": "Nalina",
+  "verdict": "keep",
+  "reason": "Lotus; used as a girl name."
+ },
+ {
+  "name": "Neer",
+  "verdict": "keep",
+  "reason": "Water; used as a boy name."
+ },
+ {
+  "name": "Nirjhar",
+  "verdict": "keep",
+  "reason": "Boy name in real use, mainly Bengali/Hindi."
+ },
+ {
+  "name": "Panna",
+  "verdict": "keep",
+  "reason": "Emerald; used as a name in Hindu families; origin of the word is debated."
+ },
+ {
+  "name": "Parvat",
+  "verdict": "keep",
+  "reason": "Mountain; used as a boy name, though uncommon."
+ },
+ {
+  "name": "Pravala",
+  "verdict": "keep",
+  "reason": "Coral; used as a girl name (cf. Pravalika)."
+ },
+ {
+  "name": "Pundarik",
+  "verdict": "keep",
+  "reason": "Sanskrit puṇḍarīka; name of sages and a Vishnu epithet, used as a boy name."
+ },
+ {
+  "name": "Ragini",
+  "verdict": "keep",
+  "reason": "Established girl name; meaning acceptable."
+ },
+ {
+  "name": "Sevanti",
+  "verdict": "keep",
+  "reason": "White chrysanthemum; used as a girl name."
+ },
+ {
+  "name": "Sphatik",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Word for crystal, not used as a given name."
+ },
+ {
+  "name": "Vaidurya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Name of a gem; not in genuine use as a given name."
+ },
+ {
+  "name": "Vajra",
+  "verdict": "keep",
+  "reason": "Thunderbolt of Indra; used as a boy name."
+ },
+ {
+  "name": "Vanraj",
+  "verdict": "fix",
+  "reason": "Real boy name; spoken form is vanrāj, not vanarāj.",
+  "fix": {
+   "iast": "vanrāj",
+   "meaning_en": "King of the forest; lion."
+  }
+ },
+ {
+  "name": "Varsha",
+  "verdict": "keep",
+  "reason": "Common girl name."
+ },
+ {
+  "name": "Vriksh",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Plain word for tree, not given as a name; IAST also wrong."
+ }
+]

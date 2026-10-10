@@ -67180,5 +67180,825 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Champa",
+    "iast": "campā",
+    "devanagari": "चम्पा",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "The champak flower.",
+    "components": [
+      {
+        "part": "campaka",
+        "gloss": "magnolia"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chameli",
+    "iast": "camelī",
+    "devanagari": "चमेली",
+    "letter": "C",
+    "syllable_count": 3,
+    "meaning_en": "Jasmine.",
+    "components": [
+      {
+        "part": "camelī",
+        "gloss": "jasmine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sevanti",
+    "iast": "sevantī",
+    "devanagari": "सेवन्ती",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "White chrysanthemum.",
+    "components": [
+      {
+        "part": "sevantī",
+        "gloss": "chrysanthemum"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gulmohar",
+    "iast": "gulamohar",
+    "stem": "gulamohara",
+    "devanagari": "गुलमोहर",
+    "letter": "G",
+    "syllable_count": 4,
+    "meaning_en": "Flame tree.",
+    "components": [
+      {
+        "part": "gulmohar",
+        "gloss": "royal poinciana"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kusum",
+    "iast": "kusum",
+    "stem": "kusuma",
+    "devanagari": "कुसुम",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Flower.",
+    "components": [
+      {
+        "part": "kusuma",
+        "gloss": "flower"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kusumita",
+    "iast": "kusumitā",
+    "devanagari": "कुसुमिता",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Blossomed.",
+    "components": [
+      {
+        "part": "kusumita",
+        "gloss": "flowering"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nalina",
+    "iast": "nalinā",
+    "devanagari": "नलिना",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Lotus.",
+    "components": [
+      {
+        "part": "nalina",
+        "gloss": "lotus"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pundarik",
+    "iast": "puṇḍarīk",
+    "stem": "puṇḍarīka",
+    "devanagari": "पुण्डरीक",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "White lotus.",
+    "components": [
+      {
+        "part": "puṇḍarīka",
+        "gloss": "white lotus"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Manik",
+    "iast": "māṇiky",
+    "stem": "māṇikya",
+    "devanagari": "माणिक",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Ruby.",
+    "components": [
+      {
+        "part": "māṇikya",
+        "gloss": "ruby"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Heera",
+    "iast": "hīrā",
+    "devanagari": "हीरा",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Diamond.",
+    "components": [
+      {
+        "part": "hīra",
+        "gloss": "diamond"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Panna",
+    "iast": "pannā",
+    "devanagari": "पन्ना",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Emerald.",
+    "components": [
+      {
+        "part": "pannā",
+        "gloss": "emerald"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Moti",
+    "iast": "motī",
+    "devanagari": "मोती",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Pearl.",
+    "components": [
+      {
+        "part": "moti",
+        "gloss": "pearl"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pravala",
+    "iast": "pravāla",
+    "devanagari": "प्रवाल",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Coral.",
+    "components": [
+      {
+        "part": "pravāla",
+        "gloss": "coral"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "South India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vajra",
+    "iast": "vajra",
+    "devanagari": "वज्र",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Diamond; thunderbolt.",
+    "components": [
+      {
+        "part": "vajra",
+        "gloss": "thunderbolt"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vaidurya",
+    "iast": "vaiḍūrya",
+    "devanagari": "वैडूर्य",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Cat's-eye gem.",
+    "components": [
+      {
+        "part": "vaiḍūrya",
+        "gloss": "gem"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sphatik",
+    "iast": "sphaṭik",
+    "stem": "sphaṭika",
+    "devanagari": "स्फटिक",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Crystal.",
+    "components": [
+      {
+        "part": "sphaṭika",
+        "gloss": "crystal"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Varsha",
+    "iast": "varṣā",
+    "devanagari": "वर्षा",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Rain; monsoon.",
+    "components": [
+      {
+        "part": "varṣā",
+        "gloss": "rain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Greeshma",
+    "iast": "grīṣma",
+    "devanagari": "ग्रीष्मा",
+    "letter": "G",
+    "syllable_count": 2,
+    "meaning_en": "Summer.",
+    "components": [
+      {
+        "part": "grīṣma",
+        "gloss": "summer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jal",
+    "iast": "jal",
+    "stem": "jala",
+    "devanagari": "जल",
+    "letter": "J",
+    "syllable_count": 1,
+    "meaning_en": "Water.",
+    "components": [
+      {
+        "part": "jala",
+        "gloss": "water"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Neer",
+    "iast": "nīr",
+    "stem": "nīra",
+    "devanagari": "नीर",
+    "letter": "N",
+    "syllable_count": 1,
+    "meaning_en": "Water.",
+    "components": [
+      {
+        "part": "nīra",
+        "gloss": "water"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vriksh",
+    "iast": "vṛkṣ",
+    "stem": "vṛkṣa",
+    "devanagari": "वृक्ष",
+    "letter": "V",
+    "syllable_count": 1,
+    "meaning_en": "Tree.",
+    "components": [
+      {
+        "part": "vṛkṣa",
+        "gloss": "tree"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vanraj",
+    "iast": "vanarāj",
+    "stem": "vanarāja",
+    "devanagari": "वनराज",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "King of the forest; lion.",
+    "components": [
+      {
+        "part": "vana",
+        "gloss": "forest"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Parvat",
+    "iast": "parvat",
+    "stem": "parvata",
+    "devanagari": "पर्वत",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Mountain.",
+    "components": [
+      {
+        "part": "parvata",
+        "gloss": "mountain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Himalay",
+    "iast": "himālay",
+    "stem": "himālaya",
+    "devanagari": "हिमालय",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Abode of snow.",
+    "components": [
+      {
+        "part": "hima",
+        "gloss": "snow"
+      },
+      {
+        "part": "ālaya",
+        "gloss": "abode"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttarakhand"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nirjhar",
+    "iast": "nirjhar",
+    "stem": "nirjhara",
+    "devanagari": "निर्झर",
+    "letter": "N",
+    "syllable_count": 2,
+    "meaning_en": "Waterfall.",
+    "components": [
+      {
+        "part": "nirjhara",
+        "gloss": "cascade"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-069-nature.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
