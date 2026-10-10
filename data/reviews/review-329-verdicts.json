@@ -1,0 +1,137 @@
+[
+ {
+  "name": "Abhilash",
+  "verdict": "keep",
+  "reason": "Established name; desire/longing, fine for a boy."
+ },
+ {
+  "name": "Ankush",
+  "verdict": "keep",
+  "reason": "Common boy name; goad, control."
+ },
+ {
+  "name": "Arghya",
+  "verdict": "keep",
+  "reason": "Common Bengali boy name; ritual offering."
+ },
+ {
+  "name": "Aritra",
+  "verdict": "keep",
+  "reason": "Used Bengali boy name; oar/helmsman meaning is attested in Sanskrit."
+ },
+ {
+  "name": "Chiranjit",
+  "verdict": "keep",
+  "reason": "Common Bengali boy name, ever-victorious."
+ },
+ {
+  "name": "Debabrata",
+  "verdict": "fix",
+  "reason": "IAST should follow the Bengali spelling as written.",
+  "fix": {
+   "devanagari": "देवव्रत",
+   "iast": "debabrata",
+   "meaning_en": "One devoted to the gods; original name of Bhishma (Devavrata)."
+  }
+ },
+ {
+  "name": "Debjit",
+  "verdict": "fix",
+  "reason": "Devanagari/IAST inconsistent with written form; meaning \"conqueror of the gods\" is misleading.",
+  "fix": {
+   "devanagari": "देबजित",
+   "iast": "debjit",
+   "meaning_en": "Victorious through divine favour (deva + jit); exact etymology interpreted variously."
+  }
+ },
+ {
+  "name": "Dibyendu",
+  "verdict": "fix",
+  "reason": "IAST should match the Bengali spelling as written.",
+  "fix": {
+   "devanagari": "दिव्येन्दु",
+   "iast": "dibyendu",
+   "meaning_en": "The divine moon."
+  }
+ },
+ {
+  "name": "Kallol",
+  "verdict": "keep",
+  "reason": "Used Bengali boy name; large wave, joy."
+ },
+ {
+  "name": "Kaustav",
+  "verdict": "fix",
+  "reason": "Devanagari/IAST gave the Sanskrit Kaustubha rather than the Bengali form as written.",
+  "fix": {
+   "devanagari": "कौस्तव",
+   "iast": "kaustav",
+   "meaning_en": "Bengali form of Kaustubha, the jewel worn by Vishnu."
+  }
+ },
+ {
+  "name": "Mrinmoy",
+  "verdict": "keep",
+  "reason": "Used Bengali boy name; made of earth/clay."
+ },
+ {
+  "name": "Nilanjan",
+  "verdict": "keep",
+  "reason": "Used Bengali boy name; blue collyrium."
+ },
+ {
+  "name": "Nirmalya",
+  "verdict": "keep",
+  "reason": "Used Bengali boy name; flowers offered to a deity, also sense of purity."
+ },
+ {
+  "name": "Prasenjit",
+  "verdict": "fix",
+  "reason": "IAST should match the Bengali spelling as written.",
+  "fix": {
+   "devanagari": "प्रसेनजित्",
+   "iast": "prasenjit",
+   "meaning_en": "Conqueror of armies; name of a king of Kosala."
+  }
+ },
+ {
+  "name": "Rajarshi",
+  "verdict": "keep",
+  "reason": "Used boy name; royal sage."
+ },
+ {
+  "name": "Saptarshi",
+  "verdict": "keep",
+  "reason": "Used Bengali boy name; the seven sages."
+ },
+ {
+  "name": "Soumik",
+  "verdict": "fix",
+  "reason": "Meaning is speculative.",
+  "fix": {
+   "devanagari": "सौमिक",
+   "iast": "soumik",
+   "meaning_en": "Gentle, pleasant; likely from saumya (etymology uncertain)."
+  }
+ },
+ {
+  "name": "Tamal",
+  "verdict": "keep",
+  "reason": "Used Bengali boy name; tamala tree, also Krishna-associated dark hue."
+ },
+ {
+  "name": "Tathagata",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure: principally a Buddha epithet; though used by some Bengalis, not a clearly Hindu given name."
+ },
+ {
+  "name": "Tirthankar",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure: Jain term for the liberated teachers; despite Bengali use, not a Hindu given name."
+ },
+ {
+  "name": "Tuhin",
+  "verdict": "keep",
+  "reason": "Common Bengali boy name; snow, frost."
+ }
+]
