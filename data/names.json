@@ -109933,5 +109933,287 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Anandu",
+    "iast": "ānandu",
+    "devanagari": "आनन्दु",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Joyful one (Malayali form of Ananda).",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "joy"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-099-kerala-odisha.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sudheesh",
+    "iast": "sudhīś",
+    "stem": "sudhīśa",
+    "devanagari": "सुधीश",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Lord of the wise; the learned.",
+    "components": [
+      {
+        "part": "sudhī",
+        "gloss": "wise"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-099-kerala-odisha.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Madhusmita",
+    "iast": "madhusmitā",
+    "devanagari": "मधुस्मिता",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Sweet smile.",
+    "components": [
+      {
+        "part": "madhu",
+        "gloss": "sweet"
+      },
+      {
+        "part": "smita",
+        "gloss": "smile"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-099-kerala-odisha.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rashmita",
+    "iast": "raśmitā",
+    "devanagari": "रश्मिता",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Radiant; possessing rays.",
+    "components": [
+      {
+        "part": "raśmi",
+        "gloss": "ray"
+      },
+      {
+        "part": "-itā",
+        "gloss": "possessing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-099-kerala-odisha.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Itishree",
+    "iast": "itiśrī",
+    "devanagari": "इतिश्री",
+    "letter": "I",
+    "syllable_count": 3,
+    "meaning_en": "Auspicious completion.",
+    "components": [
+      {
+        "part": "iti",
+        "gloss": "thus"
+      },
+      {
+        "part": "śrī",
+        "gloss": "fortune"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-099-kerala-odisha.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bibhuti",
+    "iast": "vibhūti",
+    "devanagari": "विभूति",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Glory; sacred ash.",
+    "components": [
+      {
+        "part": "vibhūti",
+        "gloss": "glory, might"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-099-kerala-odisha.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nilamadhab",
+    "iast": "nīlamādhav",
+    "stem": "nīlamādhava",
+    "devanagari": "नीलमाधव",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Blue-complexioned Madhava; Jagannath.",
+    "components": [
+      {
+        "part": "nīla",
+        "gloss": "blue"
+      },
+      {
+        "part": "mādhava",
+        "gloss": "Krishna"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-099-kerala-odisha.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Lalatendu",
+    "iast": "lalāṭendu",
+    "devanagari": "ललाटेन्दु",
+    "letter": "L",
+    "syllable_count": 4,
+    "meaning_en": "Moon on the forehead; Shiva.",
+    "components": [
+      {
+        "part": "lalāṭa",
+        "gloss": "forehead"
+      },
+      {
+        "part": "indu",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-099-kerala-odisha.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

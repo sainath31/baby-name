@@ -1,0 +1,10 @@
+[
+{"name":"Anandu","verdict":"keep","reason":"ānandu/आनन्दु agree; Malayali form of Ānanda, joy; fine for a boy"},
+{"name":"Sudheesh","verdict":"keep","reason":"sudhī+īśa=sudhīśa, sandhi correct; IAST and Devanagari agree; lord of the wise"},
+{"name":"Madhusmita","verdict":"keep","reason":"madhu+smitā, sweet smile; scripts agree; suitable girl's name"},
+{"name":"Rashmita","verdict":"fix","reason":"raśmitā is acceptable as a modern name but the 'possessing rays' -itā gloss is not sound Sanskrit; meaning softened","fix":{"name":"Rashmita","devanagari":"रश्मिता","iast":"raśmitā","meaning_en":"Radiant, ray-like (from raśmi, ray of light); modern name, etymology uncertain"}},
+{"name":"Itishree","verdict":"reject","reason":"negative_meaning: itiśrī is the colophon 'thus ends', i.e. finish/end, not auspicious as a name"},
+{"name":"Bibhuti","verdict":"keep","reason":"vibhūti/विभूति agree; glory, might, sacred ash; established Bengali boy's name"},
+{"name":"Nilamadhab","verdict":"keep","reason":"nīla+mādhava, Jagannath epithet; scripts agree; no ē/ō/f"},
+{"name":"Lalatendu","verdict":"keep","reason":"lalāṭa+indu=lalāṭendu, a+i to e sandhi correct; Shiva epithet, moon on the forehead"}
+]
