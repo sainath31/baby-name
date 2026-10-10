@@ -1,0 +1,1002 @@
+[
+ {
+  "name": "Chandrikadevi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Chandrikajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Chandrikakanta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Chandrikamayi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Chandrikamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Chandrikananda",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chandrikanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Chandrikanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Chandrikapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Chandrikapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Chandrikavati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Chandrikendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Chandrikesha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Divyakripa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Divyapushti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Divyasamata",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Divyasanatana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Divyasubuddhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Divyasukrita",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Divyasumati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Divyasuniti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Divyatushti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Divyavivek",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jalajadevi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Jalajajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Jalajakanta",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jalajamayi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Jalajamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Jalajananda",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jalajanandana",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jalajanandini",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Jalajanatha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jalajanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Jalajapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Jalajapriya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jalajashekhara",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jalajasundari",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Jalajavati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Jalajendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Jalajesha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jyotsnadevi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Jyotsnajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Jyotsnakanta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Jyotsnamayi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Jyotsnamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Jyotsnananda",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jyotsnanandana",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jyotsnanandini",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Jyotsnanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Jyotsnanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Jyotsnapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Jyotsnapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Jyotsnasundari",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Jyotsnavati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Jyotsnendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Kripabhushana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Kripadevi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Kripadhara",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Kripadipa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Kripajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Kripaketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Kripamayi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Kripamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Kripanatha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Kripanidhi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Kripapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Kripapati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Kripaprakasha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Kripapriya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Kriparaja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Kripavardhana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Kripavati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Kripendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Kripesha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mahachandrika",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahahanumat",
+  "verdict": "reject",
+  "reason": "deity_not_for_person"
+ },
+ {
+  "name": "Mahajalaja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahajyotsna",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahakripa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahamayukha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahanalina",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahaprabodh",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahapushti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Maharajani",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahasamata",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahasamba",
+  "verdict": "reject",
+  "reason": "deity_not_for_person"
+ },
+ {
+  "name": "Mahasanatana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahasubuddhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahasukrita",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahasumati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahasuniti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahatman",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Mahatushti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahavivek",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahosha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mayukhadevi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Mayukhajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mayukhakanta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mayukhamayi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Mayukhamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mayukhananda",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mayukhanandana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mayukhanandini",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Mayukhanatha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mayukhanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mayukhapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mayukhapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mayukhasundari",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Mayukhavati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Mayukhendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nabhadevi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Nabhajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nabhakanta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nabhamayi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Nabhamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nabhananda",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nabhanandana",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nabhanandini",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Nabhanatha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nabhanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nabhapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nabhapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nabhashekhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nabhasundari",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Nabhavati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Nabhendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nabhesha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nalinadevi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Nalinajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nalinakanta",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nalinamayi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Nalinamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nalinananda",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nalinanandana",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nalinanandini",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Nalinanatha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nalinanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nalinapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nalinapriya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nalinashekhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nalinasundari",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Nalinavati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Nalinendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Nalinesha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pushtibhushana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushtidevi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Pushtidhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushtidipa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushtijit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushtiketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushtimayi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Pushtimitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushtinatha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pushtinidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushtipala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushtipati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushtiprakasha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushtipriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushtiraja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushtivardhana",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pushtivati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Rajanidevi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Rajanijit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rajanikanta",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rajanimayi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Rajanimitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rajaninandana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rajaninandini",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Rajaninatha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rajaninidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rajanipala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rajanipriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rajanishekhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rajanisundari",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Rajanivati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Samatabhushana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samatadevi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Samatadhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samatadipa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samatajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samataketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samatamayi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Samatamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samatanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samatanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samatapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samatapati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samataprakasha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samatapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samataraja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samatavardhana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samatavati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Samatendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samatesha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sambadasa",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sambadasi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sambadatta",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sambadipa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sambakanta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sambakumara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ }
+]
