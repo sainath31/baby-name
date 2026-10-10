@@ -61972,5 +61972,752 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Aarthi",
+    "iast": "ārti",
+    "devanagari": "आर्ति",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Variant of Arati; lamp-offering (southern spelling).",
+    "components": [
+      {
+        "part": "ārati",
+        "gloss": "worship"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Abinaya",
+    "iast": "abhinayā",
+    "devanagari": "अभिनया",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Expression; dramatic art.",
+    "components": [
+      {
+        "part": "abhinaya",
+        "gloss": "acting"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Devi",
+    "iast": "devī",
+    "devanagari": "देवी",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Goddess.",
+    "components": [
+      {
+        "part": "devī",
+        "gloss": "goddess"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gomathi",
+    "iast": "gomatī",
+    "devanagari": "गोमती",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Rich in cattle; the river Gomati.",
+    "components": [
+      {
+        "part": "go",
+        "gloss": "cow"
+      },
+      {
+        "part": "matī",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Indumathi",
+    "iast": "indumatī",
+    "devanagari": "इन्दुमती",
+    "letter": "I",
+    "syllable_count": 4,
+    "meaning_en": "Moon-like; a princess in the Raghuvamsha.",
+    "components": [
+      {
+        "part": "indu",
+        "gloss": "moon"
+      },
+      {
+        "part": "matī",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Raghuvamsha",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kalaivani",
+    "iast": "kalāvāṇī",
+    "devanagari": "कलैवाणी",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Goddess of arts (Tamil Saraswati).",
+    "components": [
+      {
+        "part": "kalā",
+        "gloss": "art"
+      },
+      {
+        "part": "vāṇī",
+        "gloss": "speech"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Karpagam",
+    "iast": "kalpakam",
+    "devanagari": "कर्पगम",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Wish-granting tree (Tamil).",
+    "components": [
+      {
+        "part": "kalpa",
+        "gloss": "wish tree"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kokila",
+    "iast": "kokilā",
+    "devanagari": "कोकिला",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Cuckoo.",
+    "components": [
+      {
+        "part": "kokila",
+        "gloss": "cuckoo"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kousalya",
+    "iast": "kausalyā",
+    "devanagari": "कौसल्या",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Princess of Kosala; Rama's mother.",
+    "components": [
+      {
+        "part": "kosala",
+        "gloss": "region"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ramayana",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Malathi",
+    "iast": "mālatī",
+    "devanagari": "मालती",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Jasmine; a heroine of Bhavabhuti's play.",
+    "components": [
+      {
+        "part": "mālatī",
+        "gloss": "jasmine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Malatimadhava",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nagalakshmi",
+    "iast": "nāgalakṣmī",
+    "devanagari": "नागलक्ष्मी",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Lakshmi of serpents.",
+    "components": [
+      {
+        "part": "nāga",
+        "gloss": "serpent"
+      },
+      {
+        "part": "lakṣmī",
+        "gloss": "fortune"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Padmaja",
+    "iast": "padmajā",
+    "devanagari": "पद्मजा",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Lotus-born; Lakshmi.",
+    "components": [
+      {
+        "part": "padma",
+        "gloss": "lotus"
+      },
+      {
+        "part": "ja",
+        "gloss": "born"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Parimala",
+    "iast": "parimalā",
+    "devanagari": "परिमला",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "Fragrance.",
+    "components": [
+      {
+        "part": "parimala",
+        "gloss": "fragrance"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pavani",
+    "iast": "pāvanī",
+    "devanagari": "पावनी",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Purifying.",
+    "components": [
+      {
+        "part": "pāvana",
+        "gloss": "purifying"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Prabhavathi",
+    "iast": "prabhāvatī",
+    "devanagari": "प्रभावती",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "Radiant.",
+    "components": [
+      {
+        "part": "prabhā",
+        "gloss": "light"
+      },
+      {
+        "part": "vatī",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pushpa",
+    "iast": "puṣpā",
+    "devanagari": "पुष्पा",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Flower.",
+    "components": [
+      {
+        "part": "puṣpa",
+        "gloss": "flower"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ramani",
+    "iast": "ramaṇī",
+    "devanagari": "रमणी",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Charming woman.",
+    "components": [
+      {
+        "part": "ramaṇī",
+        "gloss": "lovely"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sarala",
+    "iast": "saralā",
+    "devanagari": "सरला",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Straightforward; simple.",
+    "components": [
+      {
+        "part": "sarala",
+        "gloss": "upright"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shailaja",
+    "iast": "śailajā",
+    "devanagari": "शैलजा",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Born of the mountain; Parvati.",
+    "components": [
+      {
+        "part": "śaila",
+        "gloss": "mountain"
+      },
+      {
+        "part": "ja",
+        "gloss": "born"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sumangala",
+    "iast": "sumaṅgalā",
+    "devanagari": "सुमंगला",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Highly auspicious.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "very"
+      },
+      {
+        "part": "maṅgala",
+        "gloss": "auspicious"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Usharani",
+    "iast": "uṣārāṇī",
+    "devanagari": "उषारानी",
+    "letter": "U",
+    "syllable_count": 4,
+    "meaning_en": "Queen of dawn.",
+    "components": [
+      {
+        "part": "uṣas",
+        "gloss": "dawn"
+      },
+      {
+        "part": "rāṇī",
+        "gloss": "queen"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vanaja",
+    "iast": "vanajā",
+    "devanagari": "वनजा",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Lotus; born in water or forest.",
+    "components": [
+      {
+        "part": "vana",
+        "gloss": "water"
+      },
+      {
+        "part": "ja",
+        "gloss": "born"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-060-girls-south2.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

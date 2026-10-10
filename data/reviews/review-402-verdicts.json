@@ -1,0 +1,126 @@
+[
+ {
+  "name": "Aarthi",
+  "verdict": "fix",
+  "reason": "wrong_devanagari",
+  "fix": {
+   "devanagari": "आरती",
+   "iast": "ārati",
+   "meaning_en": "Southern spelling of Arati; the ritual waving of a lamp before the deity."
+  }
+ },
+ {
+  "name": "Abinaya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gomathi",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Indumathi",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Moon-like, moon-faced (indu + -mati); Indumati, wife of Aja in the Raghuvamsha."
+  }
+ },
+ {
+  "name": "Kalaivani",
+  "verdict": "fix",
+  "reason": "iast_mismatch",
+  "fix": {
+   "devanagari": "कलैवाणी",
+   "iast": "kalaivāṇī",
+   "meaning_en": "Art and speech; a Tamil name used for Saraswati (Tamil kalai, art + Sanskrit vāṇī, speech)."
+  }
+ },
+ {
+  "name": "Karpagam",
+  "verdict": "fix",
+  "reason": "iast_mismatch",
+  "fix": {
+   "devanagari": "कर्पगम",
+   "iast": "karpagam",
+   "meaning_en": "Wish-granting tree; Tamil form of Sanskrit kalpaka."
+  }
+ },
+ {
+  "name": "Kokila",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Kousalya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Malathi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nagalakshmi",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Lakshmi in the form worshipped with the Naga (serpent); prosperity (Lakshmi) associated with the Naga."
+  }
+ },
+ {
+  "name": "Padmaja",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Parimala",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pavani",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Prabhavathi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ramani",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sarala",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shailaja",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sumangala",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Usharani",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vanaja",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Forest-born; also lotus (vana can mean water)."
+  }
+ }
+]
