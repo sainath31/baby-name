@@ -1,0 +1,262 @@
+[
+ {
+  "name": "Bhesaj",
+  "verdict": "keep",
+  "reason": "Sanskrit bheṣaja, healing remedy/physician; uncommon but sound."
+ },
+ {
+  "name": "Bhojraj",
+  "verdict": "keep",
+  "reason": "Bhoja + rāja; real Rajasthani/Maharashtrian given name."
+ },
+ {
+  "name": "Bhoomij",
+  "verdict": "keep",
+  "reason": "bhūmija, born of the earth; used as a boy name."
+ },
+ {
+  "name": "Chotu",
+  "verdict": "reject",
+  "reason": "other: pet name, no Sanskrit basis as a formal name."
+ },
+ {
+  "name": "Chudamani",
+  "verdict": "fix",
+  "reason": "Correct Devanagari (no nukta).",
+  "fix": {
+   "devanagari": "चूडामणि"
+  }
+ },
+ {
+  "name": "Chunnilal",
+  "verdict": "reject",
+  "reason": "other: pet name (north Indian affectionate form)."
+ },
+ {
+  "name": "Dolagovinda",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: name of a temple form of Krishna, not a usable given name."
+ },
+ {
+  "name": "Dorjay",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure: Tibetan Buddhist vajra name, not Hindu."
+ },
+ {
+  "name": "Gehan",
+  "verdict": "fix",
+  "reason": "Hindu form is Gahan (gahana); Gehan is Sinhala/Persian.",
+  "fix": {
+   "name": "Gahan",
+   "devanagari": "गहन",
+   "iast": "gahan",
+   "meaning_en": "Deep; profound."
+  }
+ },
+ {
+  "name": "Ghanesh",
+  "verdict": "keep",
+  "reason": "ghana + īśa, lord of clouds; rare but grammatical."
+ },
+ {
+  "name": "Girdhari",
+  "verdict": "keep",
+  "reason": "Giridhārī, mountain-bearer (Krishna); widely used given name."
+ },
+ {
+  "name": "Girik",
+  "verdict": "keep",
+  "reason": "From giri, mountain; acceptable modern name."
+ },
+ {
+  "name": "Hoysala",
+  "verdict": "reject",
+  "reason": "other: dynasty name, not a given name."
+ },
+ {
+  "name": "Hunar",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Persian word for skill, not a established given name."
+ },
+ {
+  "name": "Jhankar",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: onomatopoeic word for jingling sound."
+ },
+ {
+  "name": "Jharna",
+  "verdict": "fix",
+  "reason": "Valid girl name (waterfall/spring); spoken iast corrected.",
+  "fix": {
+   "iast": "jharnā",
+   "meaning_en": "Waterfall; spring (girl's name)."
+  }
+ },
+ {
+  "name": "Jhulan",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: means swing; used mainly for girls."
+ },
+ {
+  "name": "Jitesh",
+  "verdict": "keep",
+  "reason": "jita + īśa, lord of victory/conqueror; common name."
+ },
+ {
+  "name": "Khemraj",
+  "verdict": "keep",
+  "reason": "kṣema + rāja; used Rajasthani name. Meaning: lord of welfare/safety."
+ },
+ {
+  "name": "Khilan",
+  "verdict": "reject",
+  "reason": "other: no established name basis; a participle-like word for blooming."
+ },
+ {
+  "name": "Khushal",
+  "verdict": "keep",
+  "reason": "Persian khush-hāl, but genuinely in Hindu use (Khushal Chand, Khushal Singh)."
+ },
+ {
+  "name": "Kodanda",
+  "verdict": "keep",
+  "reason": "Rama's bow; used as South Indian given name (Kodandarama)."
+ },
+ {
+  "name": "Lekhan",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: means the act of writing."
+ },
+ {
+  "name": "Lekhraj",
+  "verdict": "fix",
+  "reason": "Real Sindhi/Hindu name; meaning clarified.",
+  "fix": {
+   "meaning_en": "Lord of writing (lekha + rāja)."
+  }
+ },
+ {
+  "name": "Likhit",
+  "verdict": "fix",
+  "reason": "Used as modern name; meaning clarified.",
+  "fix": {
+   "meaning_en": "Written; also name of the sage Likhita."
+  }
+ },
+ {
+  "name": "Lipin",
+  "verdict": "reject",
+  "reason": "other: meaning \"script; writer\" not supported; Lipin is a Malayalam form of unclear origin."
+ },
+ {
+  "name": "Lochan",
+  "verdict": "keep",
+  "reason": "locana, eye; used as given name."
+ },
+ {
+  "name": "Lunkaran",
+  "verdict": "reject",
+  "reason": "other: Rajasthani historical name; iast and etymology cannot be grounded."
+ },
+ {
+  "name": "Milan",
+  "verdict": "keep",
+  "reason": "Meeting/union; common boy name."
+ },
+ {
+  "name": "Mithun",
+  "verdict": "keep",
+  "reason": "mithuna, pair/Gemini; common boy name."
+ },
+ {
+  "name": "Nemi",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure: chiefly the Jain tirthankara."
+ },
+ {
+  "name": "Nutan",
+  "verdict": "keep",
+  "reason": "nūtana, new; used unisex."
+ },
+ {
+  "name": "Periyaswamy",
+  "verdict": "keep",
+  "reason": "Tamil periya + svāmi, great lord; used Tamil given name (Periyasamy)."
+ },
+ {
+  "name": "Phalguna",
+  "verdict": "fix",
+  "reason": "Used name of Arjuna; meaning clarified.",
+  "fix": {
+   "meaning_en": "Born under the Phalguni stars; a name of Arjuna."
+  }
+ },
+ {
+  "name": "Phanindra",
+  "verdict": "keep",
+  "reason": "phaṇin + indra, lord of serpents; common name."
+ },
+ {
+  "name": "Phanish",
+  "verdict": "keep",
+  "reason": "phaṇi + īśa, lord of serpents; used name."
+ },
+ {
+  "name": "Pooran",
+  "verdict": "keep",
+  "reason": "pūraṇa, fulfilling; used name."
+ },
+ {
+  "name": "Pooranchand",
+  "verdict": "fix",
+  "reason": "Spoken iast corrected (was pūrṇacandr); pūraṇa + candra.",
+  "fix": {
+   "iast": "pūraṇacand",
+   "meaning_en": "Full moon (pūrṇa + candra)."
+  }
+ },
+ {
+  "name": "Poorvesh",
+  "verdict": "keep",
+  "reason": "pūrva + īśa, lord of the east; used Gujarati name Purvesh."
+ },
+ {
+  "name": "Rochan",
+  "verdict": "keep",
+  "reason": "rocana, shining; used name."
+ },
+ {
+  "name": "Roshan",
+  "verdict": "fix",
+  "reason": "Persian roshan, but genuinely in Hindu use; iast corrected.",
+  "fix": {
+   "iast": "roshan",
+   "meaning_en": "Bright; illuminated."
+  }
+ },
+ {
+  "name": "Thakur",
+  "verdict": "reject",
+  "reason": "title_or_honorific: title of lord/landowner."
+ },
+ {
+  "name": "Toran",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: means festive archway."
+ },
+ {
+  "name": "Toshan",
+  "verdict": "keep",
+  "reason": "toṣaṇa, pleasing; used name."
+ },
+ {
+  "name": "Vubhav",
+  "verdict": "reject",
+  "reason": "markup_or_garbled: garbled form of Vaibhav; iast contradicts Devanagari."
+ },
+ {
+  "name": "Yethiraj",
+  "verdict": "keep",
+  "reason": "yati + rāja, king of ascetics; used Karnataka name (Yathiraj)."
+ }
+]
