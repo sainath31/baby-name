@@ -3,6 +3,8 @@ import { filterNames } from './src/filters.js';
 
 const DATA = new URL('./data/', import.meta.url);
 const norm = (s) => String(s).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, ' ').trim();
+// Fold common Indian-English spelling variants so Ishan finds Ishaan, Arav finds Aarav, Sidharth finds Siddharth.
+const fold = (s) => s.replace(/w/g, 'v').replace(/ee/g, 'i').replace(/oo/g, 'u').replace(/([a-z])\1+/g, '$1');
 
 let manifest = null;
 const shards = new Map(); // letter -> Promise<{recs, qs}>
@@ -18,7 +20,7 @@ function load(letter) {
       const qs = new Array(recs.length);
       recs.forEach((r, i) => {
         r.name = r.n; r.letter = letter; r.syllable_count = r.s; r.states = r.st || []; r.iast = r.i; r._i = i;
-        qs[i] = norm(`${r.n} ${r.i} ${r.m || ''}`) + ' ' + (r.d || '');
+        qs[i] = fold(norm(`${r.n} ${r.i} ${r.m || ''}`)) + ' ' + (r.d || '');
       });
       return { recs, qs };
     });
@@ -43,7 +45,7 @@ function filterShard({ recs, qs }, q) {
   const themes = q.themes?.length ? q.themes : null;
   const deities = q.deities?.length ? q.deities : null;
   const names = q.names ? new Set(q.names) : null;
-  const terms = q.text ? norm(q.text).split(' ').filter(Boolean) : null;
+  const terms = q.text ? fold(norm(q.text)).split(' ').filter(Boolean) : null;
   return list.filter((r) => {
     if (q.reviewedOnly && r.u) return false;
     if (r.cn && !q.withConstructed) return false;          // constructed names only when asked for
