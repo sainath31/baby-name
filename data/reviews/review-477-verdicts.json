@@ -1,0 +1,18 @@
+[
+{"name":"Anvita","verdict":"fix","reason":"meaning wrong: Durga gloss unsupported","fix":{"meaning_en":"Endowed with; accompanied by; connected"}},
+{"name":"Arunika","verdict":"keep","reason":"aruṇa dawn-red plus feminine -ikā; sound"},
+{"name":"Chaitrali","verdict":"fix","reason":"ālī means row or female friend, not 'born in'; Marathi name of Chaitra","fix":{"meaning_en":"Of Chaitra, the spring month (Marathi name; etymology uncertain)"}},
+{"name":"Daivi","verdict":"keep","reason":"daivī, divine; Gita 16 daivī sampad"},
+{"name":"Esha","verdict":"keep","reason":"eṣā, wish; IAST and Devanagari agree"},
+{"name":"Hasini","verdict":"keep","reason":"hasinī, smiling woman; fine"},
+{"name":"Himagauri","verdict":"keep","reason":"hima plus gaurī, fair as snow; epithet of Parvati, well formed"},
+{"name":"Kadambini","verdict":"fix","reason":"kādambinī is derived from kādamba/kadamba cluster, not 'kadamba: cloud-bank'; used historically, acceptable","fix":{"meaning_en":"Line or bank of rain clouds"}},
+{"name":"Kamalini","verdict":"keep","reason":"kamalinī, lotus pond or lotus-like woman"},
+{"name":"Kundana","verdict":"fix","reason":"kundan is Hindi-derived, not Sanskrit; meaning needs honest etymology","fix":{"meaning_en":"Pure gold (from Hindi kundan; etymology uncertain)"}},
+{"name":"Latika","verdict":"keep","reason":"latikā, small creeper; fine"},
+{"name":"Madhulika","verdict":"fix","reason":"'honey bee' is madhulih; madhulikā is sweet or honey-like","fix":{"meaning_en":"Sweet, honey-like one"}},
+{"name":"Manjusha","verdict":"fix","reason":"mañjūṣā is a casket or chest, not 'jewel casket'; also a madder plant","fix":{"meaning_en":"Casket; treasure chest"}},
+{"name":"Nirupa","verdict":"reject","reason":"negative_meaning: nirūpā is formless or without beauty; 'beautiful' is wrong"},
+{"name":"Nitika","verdict":"fix","reason":"nītikā weakly attested, modern coinage from nīti but understandable","fix":{"meaning_en":"Right conduct; guidance (from nīti; modern form)"}},
+{"name":"Nivedya","verdict":"reject","reason":"common_noun_or_technical_term: naivedya is a ritual food offering; name and IAST also disagree"}
+]

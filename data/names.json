@@ -113022,5 +113022,542 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Anvita",
+    "iast": "anvitā",
+    "devanagari": "अन्विता",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Accompanied; endowed; Goddess Durga.",
+    "components": [
+      {
+        "part": "anvita",
+        "gloss": "endowed"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Arunika",
+    "iast": "aruṇikā",
+    "devanagari": "अरुणिका",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Dawn-coloured; the first light.",
+    "components": [
+      {
+        "part": "aruṇa",
+        "gloss": "dawn-red"
+      },
+      {
+        "part": "-ikā",
+        "gloss": "feminine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chaitrali",
+    "iast": "caitrālī",
+    "devanagari": "चैत्राली",
+    "letter": "C",
+    "syllable_count": 3,
+    "meaning_en": "Born in the month of Chaitra.",
+    "components": [
+      {
+        "part": "caitra",
+        "gloss": "Chaitra month"
+      },
+      {
+        "part": "ālī",
+        "gloss": "row"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Daivi",
+    "iast": "daivī",
+    "devanagari": "दैवी",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Divine.",
+    "components": [
+      {
+        "part": "daiva",
+        "gloss": "divine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Bhagavad Gita",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Esha",
+    "iast": "eṣā",
+    "devanagari": "एषा",
+    "letter": "E",
+    "syllable_count": 2,
+    "meaning_en": "Desire; wish; one who seeks.",
+    "components": [
+      {
+        "part": "eṣā",
+        "gloss": "wish"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hasini",
+    "iast": "hasinī",
+    "devanagari": "हसिनी",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Smiling woman.",
+    "components": [
+      {
+        "part": "hasa",
+        "gloss": "laugh"
+      },
+      {
+        "part": "-inī",
+        "gloss": "feminine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Himagauri",
+    "iast": "himagaurī",
+    "devanagari": "हिमगौरी",
+    "letter": "H",
+    "syllable_count": 4,
+    "meaning_en": "Snow-white; Parvati, daughter of Himalaya.",
+    "components": [
+      {
+        "part": "hima",
+        "gloss": "snow"
+      },
+      {
+        "part": "gaurī",
+        "gloss": "fair"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kadambini",
+    "iast": "kādambinī",
+    "devanagari": "कादम्बिनी",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Line of clouds.",
+    "components": [
+      {
+        "part": "kadamba",
+        "gloss": "cloud-bank"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kamalini",
+    "iast": "kamalinī",
+    "devanagari": "कमलिनी",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Lotus pond; lotus-like.",
+    "components": [
+      {
+        "part": "kamala",
+        "gloss": "lotus"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kundana",
+    "iast": "kundanā",
+    "devanagari": "कुन्दना",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Pure gold; fine gold.",
+    "components": [
+      {
+        "part": "kundana",
+        "gloss": "pure gold"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Latika",
+    "iast": "latikā",
+    "devanagari": "लतिका",
+    "letter": "L",
+    "syllable_count": 3,
+    "meaning_en": "Small creeper.",
+    "components": [
+      {
+        "part": "latā",
+        "gloss": "creeper"
+      },
+      {
+        "part": "-ikā",
+        "gloss": "diminutive"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Madhulika",
+    "iast": "madhulikā",
+    "devanagari": "मधुलिका",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Sweet; honey bee.",
+    "components": [
+      {
+        "part": "madhu",
+        "gloss": "honey"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Manjusha",
+    "iast": "mañjūṣā",
+    "devanagari": "मञ्जूषा",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Jewel casket.",
+    "components": [
+      {
+        "part": "mañjūṣā",
+        "gloss": "casket"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nirupa",
+    "iast": "nirūpā",
+    "devanagari": "निरूपा",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Formless; beautiful.",
+    "components": [
+      {
+        "part": "nir",
+        "gloss": "without"
+      },
+      {
+        "part": "rūpa",
+        "gloss": "form"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nitika",
+    "iast": "nītikā",
+    "devanagari": "नीतिका",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Virtuous conduct; ethics.",
+    "components": [
+      {
+        "part": "nīti",
+        "gloss": "conduct"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nivedya",
+    "iast": "naivedya",
+    "devanagari": "नैवेद्य",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Offering to the deity.",
+    "components": [
+      {
+        "part": "naivedya",
+        "gloss": "offering"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-108-sanskrit-girls4.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
