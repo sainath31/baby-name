@@ -1,0 +1,143 @@
+[
+ {
+  "name": "Avanish",
+  "verdict": "fix",
+  "reason": "iast did not match name (avanīśa/avanīś)",
+  "fix": {
+   "iast": "avanīś"
+  }
+ },
+ {
+  "name": "Chinmayananda",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhanvanth",
+  "verdict": "fix",
+  "reason": "Telugu spelling ends in th; script/iast should match",
+  "fix": {
+   "devanagari": "धन्वन्थ",
+   "iast": "dhanvanth",
+   "meaning_en": "Telugu form of Dhanvant/Dhanvantari; possessing a bow, or name of the divine physician."
+  }
+ },
+ {
+  "name": "Ganeshwar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gopichand",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Haresh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harivansh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Kalyanaraman",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Lingaraj",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mahadevan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mallinath",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure: chiefly the 19th Jain Tirthankara; Shiva sense unsupported"
+ },
+ {
+  "name": "Mrigank",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nandish",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Parameshwaran",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pundalik",
+  "verdict": "fix",
+  "reason": "iast should follow Marathi spelling; etymology note",
+  "fix": {
+   "iast": "puṇḍalik",
+   "meaning_en": "Marathi saint-devotee of Pandharpur whose devotion brought Vithoba; from puṇḍarīka (lotus), etymology of the name itself uncertain."
+  }
+ },
+ {
+  "name": "Ramanujam",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rangaswamy",
+  "verdict": "fix",
+  "reason": "iast final long vowel to match -swamy",
+  "fix": {
+   "iast": "raṅgasvāmī",
+   "meaning_en": "Lord of Ranga (Srirangam); Vishnu as Ranganatha."
+  }
+ },
+ {
+  "name": "Sai",
+  "verdict": "fix",
+  "reason": "iast and meaning weak; etymology disputed",
+  "fix": {
+   "iast": "sāī",
+   "meaning_en": "Saint or divine master; from the name of Sai Baba. Etymology disputed (Persian sāʾī, mendicant, or Sanskrit-derived)."
+  }
+ },
+ {
+  "name": "Siddharameshwar",
+  "verdict": "fix",
+  "reason": "meaning wrong: refers to Siddharama, Lingayat saint of Solapur",
+  "fix": {
+   "meaning_en": "Lord of Siddharama; Shiva as worshipped at Solapur in association with the saint Siddharama."
+  }
+ },
+ {
+  "name": "Sriharsha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Venkatachalam",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vishwesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Yadagiri",
+  "verdict": "fix",
+  "reason": "meaning clarified",
+  "fix": {
+   "meaning_en": "Hill of the sage Yada (Yadarishi); Narasimha of Yadagirigutta, Telangana. Popular Telugu boy name."
+  }
+ }
+]
