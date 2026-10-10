@@ -38,6 +38,7 @@ Vetted attested names number in the low thousands at most; anything beyond that 
 - Gender filter (boys / girls / gender-neutral) and a "Making new names from this one" section on every name (which suffixes and prefixes it can take, from the reviewed word list).
 - Spelling-variant search: Ishan finds Ishaan, Arav finds Aarav, Sidharth finds Siddharth, Rajiv finds Rajeev.
 - Telugu/Kannada support: conversion, a validator (`scripts/check-name.js`) and Telugu/Kannada display in the UI.
+- Suffix/prefix notes: names that are bases show their suffixes and prefixes (317 names); compounds show the pairings of their first part (329 more); the rest say they are complete names on their own.
 - Offline mode: a service worker caches what has been visited (network first, so new deploys show at once); the site opens and searches offline after the first visit.
 - Lighthouse (mobile, local run): performance 96, accessibility 100, best practices 100, SEO 100. Fonts load without blocking; the birth panel is built at once and space is reserved for the list to avoid layout jumps.
 - Live site: https://sainath31.github.io/baby-name/ (GitHub Pages, redeployed on every push).

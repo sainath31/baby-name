@@ -67,6 +67,10 @@ const compact = (n) => {
   const p = n.pairs_with;
   if (p?.prefixes?.length || p?.suffixes?.length) o.pw = [p.prefixes || [], p.suffixes || []];
   const pr = pairingFor(n); if (pr) o.px = [pr.type, pr.prefixes, pr.suffixes, pr.examples];
+  else if ((n.components || []).length >= 2) {            // not a root itself: offer the pairings of its first part
+    const root = ELEMENTS.get(norm(n.components[0].part));
+    if (root) o.rt = [n.components[0].part, root.type, SUF.filter((s) => s.types.includes(root.type)).map((s) => latinSuffix(s.iast)).slice(0, 12)];
+  }
   if (n.compounds?.length) o.cp = n.compounds.map((c) => [c.name, c.meaning || '']);
   if (n.states?.length) o.st = n.states;
   if (n.era) o.e = n.era;
