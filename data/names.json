@@ -60387,5 +60387,338 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Sumit",
+    "iast": "sumitr",
+    "stem": "sumitra",
+    "devanagari": "सुमित",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Good friend.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "mitra",
+        "gloss": "friend"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Bihar"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-058-central-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anshu",
+    "iast": "aṃśu",
+    "devanagari": "अंशु",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Ray of light.",
+    "components": [
+      {
+        "part": "aṃśu",
+        "gloss": "ray"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Bihar"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-058-central-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Madhubala",
+    "iast": "madhubālā",
+    "devanagari": "मधुबाला",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Sweet girl; honey-sweet.",
+    "components": [
+      {
+        "part": "madhu",
+        "gloss": "honey"
+      },
+      {
+        "part": "bālā",
+        "gloss": "girl"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Bihar"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-058-central-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rinky",
+    "iast": "riṅkī",
+    "devanagari": "रिंकी",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Pet name; etymology uncertain.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Bihar"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-058-central-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Birsa",
+    "iast": "birsā",
+    "devanagari": "बिरसा",
+    "letter": "B",
+    "syllable_count": 2,
+    "meaning_en": "Name of the tribal leader Birsa Munda; Thursday-born.",
+    "components": [
+      {
+        "part": "birsā",
+        "gloss": "born on Thursday"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Jharkhand"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-058-central-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sidhu",
+    "iast": "siddhu",
+    "devanagari": "सिद्धू",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Accomplished one (Santhali/Hindi form).",
+    "components": [
+      {
+        "part": "siddha",
+        "gloss": "accomplished"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Jharkhand"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-058-central-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tikesh",
+    "iast": "tīkeś",
+    "stem": "tīkeśa",
+    "devanagari": "टिकेश",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "Lord of the tilak; Chhattisgarhi form.",
+    "components": [
+      {
+        "part": "tilaka",
+        "gloss": "mark"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Chhattisgarh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-058-central-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhumika",
+    "iast": "bhūmikā",
+    "devanagari": "भूमिका",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Role; earth.",
+    "components": [
+      {
+        "part": "bhūmikā",
+        "gloss": "ground"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Chhattisgarh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-058-central-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tamanna",
+    "iast": "tamannā",
+    "devanagari": "तमन्ना",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Desire; wish.",
+    "components": [
+      {
+        "part": "tamannā",
+        "gloss": "desire (Persian-derived)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Chhattisgarh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-058-central-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Namrata",
+    "iast": "namratā",
+    "devanagari": "नम्रता",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Humility.",
+    "components": [
+      {
+        "part": "namratā",
+        "gloss": "modesty"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Madhya Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-058-central-east.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

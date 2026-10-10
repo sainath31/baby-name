@@ -1,0 +1,11 @@
+[
+{"name":"Anshu","verdict":"keep","reason":"Boy's name, ray of light; correct."},
+{"name":"Bhumika","verdict":"fix","reason":"Girl's name, fine; meaning needs correcting.","fix":{"meaning_en":"Earth, land (from bhūmi); also a role or preface."}},
+{"name":"Birsa","verdict":"reject","reason":"other: full name of a tribal leader (Birsa Munda); not a generic given name with an independent meaning; 'Thursday-born' etymology is folk, not verified."},
+{"name":"Madhubala","verdict":"keep","reason":"Girl's name, honey-sweet girl; madhu + bālā is sound."},
+{"name":"Namrata","verdict":"keep","reason":"Girl's name, humility; correct."},
+{"name":"Rinky","verdict":"reject","reason":"other: nickname with no Indian etymology; etymology uncertain; not a proper formal name."},
+{"name":"Sidhu","verdict":"fix","reason":"Plausibly from siddha; 'Santhali form' claim unsupported.","fix":{"name":"Siddhu","devanagari":"सिद्धू","iast":"siddhu","meaning_en":"Accomplished one, perfected (from siddha); etymology of this form uncertain."}},
+{"name":"Tamanna","verdict":"fix","reason":"Girl's name of Persian-Urdu origin, in common Hindu use; meaning ok but origin should be stated.","fix":{"meaning_en":"Desire, wish, longing (Persian-Urdu origin)."}},
+{"name":"Tikesh","verdict":"fix","reason":"'Lord of the tilak' etymology is invented; used regionally but derivation unclear.","fix":{"iast":"ṭīkeś","devanagari":"टीकेश","meaning_en":"Etymology uncertain; possibly ṭīkā (mark) + īśa (lord)."}}
+]
