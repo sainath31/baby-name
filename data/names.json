@@ -30419,5 +30419,901 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Budh",
+    "iast": "budh",
+    "stem": "budha",
+    "devanagari": "बुध",
+    "letter": "B",
+    "syllable_count": 1,
+    "meaning_en": "Wise; the planet Mercury.",
+    "components": [
+      {
+        "part": "budha",
+        "gloss": "wise"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Navagraha",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shukra",
+    "iast": "śukra",
+    "devanagari": "शुक्र",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Bright; the planet Venus; the preceptor Shukracharya.",
+    "components": [
+      {
+        "part": "śukra",
+        "gloss": "bright"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Navagraha",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Brihaspati",
+    "iast": "bṛhaspati",
+    "devanagari": "बृहस्पति",
+    "letter": "B",
+    "syllable_count": 4,
+    "meaning_en": "Lord of prayer; the planet Jupiter and guru of the gods.",
+    "components": [
+      {
+        "part": "bṛhas",
+        "gloss": "prayer"
+      },
+      {
+        "part": "pati",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Navagraha",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Parashuram",
+    "iast": "paraśurām",
+    "stem": "paraśurāma",
+    "devanagari": "परशुराम",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "Rama with the axe; the sixth avatar of Vishnu.",
+    "components": [
+      {
+        "part": "paraśu",
+        "gloss": "axe"
+      },
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Dashavatara",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kalki",
+    "iast": "kalki",
+    "devanagari": "कल्कि",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "The tenth, future avatar of Vishnu.",
+    "components": [
+      {
+        "part": "kalki",
+        "gloss": "Kalki"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Dashavatara",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dharmashasta",
+    "iast": "dharmaśāstā",
+    "devanagari": "धर्मशास्ता",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "Ruler of dharma; Ayyappa.",
+    "components": [
+      {
+        "part": "dharma",
+        "gloss": "righteousness"
+      },
+      {
+        "part": "śāstā",
+        "gloss": "ruler"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Sabarimala tradition",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Raag",
+    "iast": "rāg",
+    "stem": "rāga",
+    "devanagari": "राग",
+    "letter": "R",
+    "syllable_count": 1,
+    "meaning_en": "A melodic mode of Indian music; love, colour.",
+    "components": [
+      {
+        "part": "rāga",
+        "gloss": "melody, colour"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Swar",
+    "iast": "svar",
+    "stem": "svara",
+    "devanagari": "स्वर",
+    "letter": "S",
+    "syllable_count": 1,
+    "meaning_en": "A musical note; voice.",
+    "components": [
+      {
+        "part": "svara",
+        "gloss": "tone"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sangeet",
+    "iast": "saṅgīt",
+    "stem": "saṅgīta",
+    "devanagari": "संगीत",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Music.",
+    "components": [
+      {
+        "part": "saṅgīta",
+        "gloss": "music"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Malhar",
+    "iast": "malhār",
+    "stem": "malhāra",
+    "devanagari": "मल्हार",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "The monsoon raga, said to bring rain.",
+    "components": [
+      {
+        "part": "malhāra",
+        "gloss": "a raga"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hindol",
+    "iast": "hindol",
+    "stem": "hindola",
+    "devanagari": "हिन्दोल",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "A swing; the spring raga Hindol.",
+    "components": [
+      {
+        "part": "hindola",
+        "gloss": "swing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhupal",
+    "iast": "bhūpāl",
+    "stem": "bhūpāla",
+    "devanagari": "भूपाल",
+    "letter": "B",
+    "syllable_count": 2,
+    "meaning_en": "Protector of the earth, king; also a morning raga.",
+    "components": [
+      {
+        "part": "bhū",
+        "gloss": "earth"
+      },
+      {
+        "part": "pāla",
+        "gloss": "protector"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sanyam",
+    "iast": "saṃyam",
+    "stem": "saṃyama",
+    "devanagari": "संयम",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Self-control, restraint.",
+    "components": [
+      {
+        "part": "saṃyama",
+        "gloss": "restraint"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vinamra",
+    "iast": "vinamra",
+    "devanagari": "विनम्र",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Humble, polite.",
+    "components": [
+      {
+        "part": "vinamra",
+        "gloss": "bowing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Udaar",
+    "iast": "udār",
+    "stem": "udāra",
+    "devanagari": "उदार",
+    "letter": "U",
+    "syllable_count": 2,
+    "meaning_en": "Generous, noble.",
+    "components": [
+      {
+        "part": "udāra",
+        "gloss": "generous"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sahas",
+    "iast": "sāhas",
+    "stem": "sāhasa",
+    "devanagari": "साहस",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Courage, boldness.",
+    "components": [
+      {
+        "part": "sāhasa",
+        "gloss": "daring"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tejasvi",
+    "iast": "tejasvī",
+    "devanagari": "तेजस्वी",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Radiant, brilliant.",
+    "components": [
+      {
+        "part": "tejas",
+        "gloss": "radiance"
+      },
+      {
+        "part": "-vin",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ojasvi",
+    "iast": "ojasvī",
+    "devanagari": "ओजस्वी",
+    "letter": "O",
+    "syllable_count": 3,
+    "meaning_en": "Vigorous, full of energy.",
+    "components": [
+      {
+        "part": "ojas",
+        "gloss": "vigour"
+      },
+      {
+        "part": "-vin",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yashasvi",
+    "iast": "yaśasvī",
+    "devanagari": "यशस्वी",
+    "letter": "Y",
+    "syllable_count": 3,
+    "meaning_en": "Famous, successful.",
+    "components": [
+      {
+        "part": "yaśas",
+        "gloss": "fame"
+      },
+      {
+        "part": "-vin",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pragyan",
+    "iast": "prajñān",
+    "stem": "prajñāna",
+    "devanagari": "प्रज्ञान",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Wisdom, supreme knowledge.",
+    "components": [
+      {
+        "part": "pra",
+        "gloss": "supreme"
+      },
+      {
+        "part": "jñāna",
+        "gloss": "knowledge"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "deity_epic_ref": "Aitareya Upanishad",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gyan",
+    "iast": "jñān",
+    "stem": "jñāna",
+    "devanagari": "ज्ञान",
+    "letter": "G",
+    "syllable_count": 1,
+    "meaning_en": "Knowledge, wisdom.",
+    "components": [
+      {
+        "part": "jñāna",
+        "gloss": "knowledge"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "North India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bodh",
+    "iast": "bodh",
+    "stem": "bodha",
+    "devanagari": "बोध",
+    "letter": "B",
+    "syllable_count": 1,
+    "meaning_en": "Awakening, understanding.",
+    "components": [
+      {
+        "part": "bodha",
+        "gloss": "awakening"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chetas",
+    "iast": "cetas",
+    "devanagari": "चेतस्",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "Consciousness, mind.",
+    "components": [
+      {
+        "part": "cetas",
+        "gloss": "mind"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dhyan",
+    "iast": "dhyān",
+    "stem": "dhyāna",
+    "devanagari": "ध्यान",
+    "letter": "D",
+    "syllable_count": 1,
+    "meaning_en": "Meditation, contemplation.",
+    "components": [
+      {
+        "part": "dhyāna",
+        "gloss": "meditation"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vedang",
+    "iast": "vedāṅg",
+    "stem": "vedāṅga",
+    "devanagari": "वेदाङ्ग",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "A limb of the Vedas; the auxiliary sciences of the Veda.",
+    "components": [
+      {
+        "part": "veda",
+        "gloss": "Veda"
+      },
+      {
+        "part": "aṅga",
+        "gloss": "limb"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yagna",
+    "iast": "yajña",
+    "devanagari": "यज्ञ",
+    "letter": "Y",
+    "syllable_count": 2,
+    "meaning_en": "Sacred offering, sacrifice.",
+    "components": [
+      {
+        "part": "yajña",
+        "gloss": "worship"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Havish",
+    "iast": "haviṣ",
+    "devanagari": "हविष्",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Sacred offering into the fire.",
+    "components": [
+      {
+        "part": "haviṣ",
+        "gloss": "oblation"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-021-virtue-music.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
