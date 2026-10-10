@@ -1,0 +1,6 @@
+[{"name":"Ayyappa","verdict":"keep","reason":"Widely given South Indian boy's name after the deity of Sabarimala, son of Shiva and Mohini (Vishnu); meaning acceptable."},
+{"name":"Haridas","verdict":"keep","reason":"Classic Vaishnava boy's name, servant of Hari (Vishnu); meaning correct."},
+{"name":"Kamalnayan","verdict":"keep","reason":"Common Vishnu/Krishna-linked name, lotus-eyed; meaning correct."},
+{"name":"Saravana","verdict":"fix","reason":"Devanagari was misspelled; the sibilant should be palatal, so शरवण matches IAST śaravaṇa.","fix":{"devanagari":"शरवण","iast":"śaravaṇa","meaning_en":"Born in the reed thicket (śara-vana); a name of Kartikeya/Murugan, son of Shiva."}},
+{"name":"Shashishekhar","verdict":"keep","reason":"Established Shiva name, moon-crested; script and meaning correct."},
+{"name":"Siddhidata","verdict":"reject","reason":"Descriptive epithet of Ganesha (and close to Siddhidatri, a form of Durga), not a standard personal name for a boy.","fix":null}]

@@ -56377,5 +56377,328 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Shashishekhar",
+    "iast": "śaśiśekhar",
+    "stem": "śaśiśekhara",
+    "devanagari": "शशिशेखर",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Wearing the moon as a crest; Shiva.",
+    "components": [
+      {
+        "part": "śaśin",
+        "gloss": "moon"
+      },
+      {
+        "part": "śekhara",
+        "gloss": "crest"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Shiva Sahasranama",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-052-deva-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Omkar",
+    "iast": "oṅkār",
+    "stem": "oṅkāra",
+    "devanagari": "ओंकार",
+    "letter": "O",
+    "syllable_count": 2,
+    "meaning_en": "The sacred syllable Om.",
+    "components": [
+      {
+        "part": "oṃ",
+        "gloss": "sacred syllable"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-052-deva-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Siddhidata",
+    "iast": "siddhidātā",
+    "devanagari": "सिद्धिदाता",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Giver of success; Ganesha.",
+    "components": [
+      {
+        "part": "siddhi",
+        "gloss": "success"
+      },
+      {
+        "part": "dātṛ",
+        "gloss": "giver"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-052-deva-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Murugan",
+    "iast": "murugan",
+    "devanagari": "मुरुगन",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Youthful beauty; the Tamil god Kartikeya.",
+    "components": [
+      {
+        "part": "muruku",
+        "gloss": "beauty"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Tirumurugatruppadai",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-052-deva-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kumaraswamy",
+    "iast": "kumārasvāmī",
+    "devanagari": "कुमारस्वामी",
+    "letter": "K",
+    "syllable_count": 5,
+    "meaning_en": "Lord Kumara; Kartikeya.",
+    "components": [
+      {
+        "part": "kumāra",
+        "gloss": "youthful"
+      },
+      {
+        "part": "svāmī",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-052-deva-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Saravana",
+    "iast": "śaravaṇa",
+    "devanagari": "सरवण",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Born in the reed forest; Kartikeya.",
+    "components": [
+      {
+        "part": "śara",
+        "gloss": "reed"
+      },
+      {
+        "part": "vana",
+        "gloss": "forest"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-052-deva-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ayyappa",
+    "iast": "ayyappa",
+    "devanagari": "अय्यप्पा",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Lord Ayyappa of Sabarimala.",
+    "components": [
+      {
+        "part": "ayya",
+        "gloss": "father"
+      },
+      {
+        "part": "appa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-052-deva-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Haridas",
+    "iast": "haridās",
+    "stem": "haridāsa",
+    "devanagari": "हरिदास",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Servant of Hari.",
+    "components": [
+      {
+        "part": "hari",
+        "gloss": "Vishnu"
+      },
+      {
+        "part": "dāsa",
+        "gloss": "servant"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-052-deva-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kamalnayan",
+    "iast": "kamalanayan",
+    "stem": "kamalanayana",
+    "devanagari": "कमलनयन",
+    "letter": "K",
+    "syllable_count": 5,
+    "meaning_en": "Lotus-eyed.",
+    "components": [
+      {
+        "part": "kamala",
+        "gloss": "lotus"
+      },
+      {
+        "part": "nayana",
+        "gloss": "eye"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Vishnu Sahasranama",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-052-deva-names.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
