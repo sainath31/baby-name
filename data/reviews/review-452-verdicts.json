@@ -1,0 +1,229 @@
+[
+ {
+  "name": "Charmi",
+  "verdict": "keep",
+  "reason": "Gujarati girl name from cāru (charming); meaning sound."
+ },
+ {
+  "name": "Debosmita",
+  "verdict": "fix",
+  "reason": "iast must be spoken Bengali form.",
+  "fix": {
+   "iast": "debosmitā"
+  }
+ },
+ {
+  "name": "Dhruvi",
+  "verdict": "keep",
+  "reason": "Feminine of dhruva; auspicious."
+ },
+ {
+  "name": "Foram",
+  "verdict": "fix",
+  "reason": "In real use, etymology doubtful; iast corrected to spoken form.",
+  "fix": {
+   "iast": "phorama",
+   "meaning_en": "Gujarati modern name; etymology uncertain."
+  }
+ },
+ {
+  "name": "Heli",
+  "verdict": "fix",
+  "reason": "In real use; claimed meaning unsupported.",
+  "fix": {
+   "meaning_en": "Gujarati name in use; etymology uncertain."
+  }
+ },
+ {
+  "name": "Hiren",
+  "verdict": "fix",
+  "reason": "iast had stray d; spoken form is hīren.",
+  "fix": {
+   "iast": "hīren"
+  }
+ },
+ {
+  "name": "Jaimini",
+  "verdict": "keep",
+  "reason": "Used as a girl name in Gujarat; feminine of the sage Jaimini."
+ },
+ {
+  "name": "Jay",
+  "verdict": "keep",
+  "reason": "Common boy name; jaya, victory."
+ },
+ {
+  "name": "Jignesh",
+  "verdict": "fix",
+  "reason": "iast should be spoken form; meaning refined.",
+  "fix": {
+   "iast": "jigneś",
+   "meaning_en": "Lord of curiosity; eager seeker of knowledge."
+  }
+ },
+ {
+  "name": "Jinal",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Kalpesh",
+  "verdict": "keep",
+  "reason": "Established boy name; kalpa + īśa."
+ },
+ {
+  "name": "Kinjal",
+  "verdict": "fix",
+  "reason": "iast had a stray final k.",
+  "fix": {
+   "iast": "kiñjal"
+  }
+ },
+ {
+  "name": "Mahua",
+  "verdict": "keep",
+  "reason": "Name in real use from madhūka tree."
+ },
+ {
+  "name": "Minal",
+  "verdict": "fix",
+  "reason": "Meaning was vague; mīnā is enamel.",
+  "fix": {
+   "meaning_en": "Precious blue stone, enamel (from mīnā); etymology uncertain."
+  }
+ },
+ {
+  "name": "Moumita",
+  "verdict": "fix",
+  "reason": "In real use; derivation unclear.",
+  "fix": {
+   "meaning_en": "Bengali name in use; etymology uncertain."
+  }
+ },
+ {
+  "name": "Niyati",
+  "verdict": "keep",
+  "reason": "Sanskrit niyati, destiny; fine."
+ },
+ {
+  "name": "Oindrila",
+  "verdict": "fix",
+  "reason": "iast must be spoken Bengali form; meaning trimmed.",
+  "fix": {
+   "iast": "oindrilā",
+   "meaning_en": "Relating to Indra; etymology of the ending uncertain."
+  }
+ },
+ {
+  "name": "Palak",
+  "verdict": "keep",
+  "reason": "Widely used girl name despite being a common noun."
+ },
+ {
+  "name": "Paromita",
+  "verdict": "fix",
+  "reason": "Bengali spoken form is paromitā; Devanagari matched.",
+  "fix": {
+   "devanagari": "परोमिता",
+   "iast": "paromitā",
+   "meaning_en": "Perfection; one who has reached the far shore."
+  }
+ },
+ {
+  "name": "Payal",
+  "verdict": "keep",
+  "reason": "Widely used girl name."
+ },
+ {
+  "name": "Pinal",
+  "verdict": "keep",
+  "reason": "Real Gujarati name; etymology uncertain already marked."
+ },
+ {
+  "name": "Piyali",
+  "verdict": "keep",
+  "reason": "Bengali name from the piyal tree."
+ },
+ {
+  "name": "Rupal",
+  "verdict": "keep",
+  "reason": "Gujarati name from rūpa; fine."
+ },
+ {
+  "name": "Sagarika",
+  "verdict": "keep",
+  "reason": "Sanskrit sāgarikā; fine."
+ },
+ {
+  "name": "Saikat",
+  "verdict": "keep",
+  "reason": "Established Bengali boy name."
+ },
+ {
+  "name": "Samrat",
+  "verdict": "keep",
+  "reason": "Established boy name, emperor."
+ },
+ {
+  "name": "Shalaka",
+  "verdict": "keep",
+  "reason": "Marathi name in use; meaning acceptable."
+ },
+ {
+  "name": "Sharvari",
+  "verdict": "keep",
+  "reason": "Sanskrit śarvarī, night; used in Marathi."
+ },
+ {
+  "name": "Soma",
+  "verdict": "keep",
+  "reason": "Used as a girl name in Bengal; meaning fine."
+ },
+ {
+  "name": "Sonal",
+  "verdict": "keep",
+  "reason": "Gujarati name, golden."
+ },
+ {
+  "name": "Srabanti",
+  "verdict": "fix",
+  "reason": "Devanagari and iast did not match Bengali spoken form.",
+  "fix": {
+   "devanagari": "श्राबन्ती",
+   "iast": "śrābantī",
+   "meaning_en": "Relating to the month of Shravan, the monsoon."
+  }
+ },
+ {
+  "name": "Sraboni",
+  "verdict": "fix",
+  "reason": "Devanagari and iast mismatched.",
+  "fix": {
+   "devanagari": "श्राबोनी",
+   "iast": "śrābonī"
+  }
+ },
+ {
+  "name": "Subhasree",
+  "verdict": "keep",
+  "reason": "śubha + śrī; auspicious."
+ },
+ {
+  "name": "Swara",
+  "verdict": "keep",
+  "reason": "Sanskrit svara; fine."
+ },
+ {
+  "name": "Tanima",
+  "verdict": "keep",
+  "reason": "tanimā, slenderness; Bengali name in use."
+ },
+ {
+  "name": "Vrushali",
+  "verdict": "fix",
+  "reason": "Meaning claim unsupported.",
+  "fix": {
+   "meaning_en": "Name of Karna's wife in the Mahabharata; etymology uncertain."
+  }
+ }
+]

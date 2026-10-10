@@ -104832,5 +104832,1219 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Jinal",
+    "iast": "jinal",
+    "stem": "jinala",
+    "devanagari": "जिनल",
+    "letter": "J",
+    "syllable_count": 2,
+    "meaning_en": "Victorious; follower of the Jina.",
+    "components": [
+      {
+        "part": "jina",
+        "gloss": "victor"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Foram",
+    "iast": "phoram",
+    "stem": "phorama",
+    "devanagari": "फोरम",
+    "letter": "F",
+    "syllable_count": 2,
+    "meaning_en": "Gujarati modern name; etymology uncertain.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Heli",
+    "iast": "helī",
+    "devanagari": "हेली",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Sun's ray; a friend (Gujarati).",
+    "components": [
+      {
+        "part": "heli",
+        "gloss": "sun"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Palak",
+    "iast": "palak",
+    "stem": "palaka",
+    "devanagari": "पलक",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Eyelid; eyelash.",
+    "components": [
+      {
+        "part": "palaka",
+        "gloss": "eyelash"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pinal",
+    "iast": "pinal",
+    "stem": "pinala",
+    "devanagari": "पिनल",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Modern Gujarati name; etymology uncertain.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rupal",
+    "iast": "rūpal",
+    "stem": "rūpala",
+    "devanagari": "रूपल",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Beautiful; silvery.",
+    "components": [
+      {
+        "part": "rūpa",
+        "gloss": "beauty"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vidhi",
+    "iast": "vidhi",
+    "devanagari": "विधि",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Method; destiny; rule.",
+    "components": [
+      {
+        "part": "vidhi",
+        "gloss": "rule"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Charmi",
+    "iast": "cārmī",
+    "devanagari": "चार्मी",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "Charming; graceful.",
+    "components": [
+      {
+        "part": "cāru",
+        "gloss": "lovely"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dhruvi",
+    "iast": "dhruvī",
+    "devanagari": "ध्रुवी",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Of the pole star; constant.",
+    "components": [
+      {
+        "part": "dhruva",
+        "gloss": "fixed"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jaimini",
+    "iast": "jaiminī",
+    "devanagari": "जैमिनी",
+    "letter": "J",
+    "syllable_count": 3,
+    "meaning_en": "Descended from Jaimini; sage's name.",
+    "components": [
+      {
+        "part": "jaimini",
+        "gloss": "sage"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kinjal",
+    "iast": "kiñjalk",
+    "stem": "kiñjalka",
+    "devanagari": "किंजल",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Pollen of a lotus flower; river bank.",
+    "components": [
+      {
+        "part": "kiñjalka",
+        "gloss": "filament"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Minal",
+    "iast": "mīnal",
+    "stem": "mīnala",
+    "devanagari": "मीनल",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Precious stone; blue.",
+    "components": [
+      {
+        "part": "mīnā",
+        "gloss": "enamel"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Niyati",
+    "iast": "niyati",
+    "devanagari": "नियति",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Destiny; fate.",
+    "components": [
+      {
+        "part": "niyati",
+        "gloss": "fate"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Payal",
+    "iast": "pāyal",
+    "stem": "pāyala",
+    "devanagari": "पायल",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Anklet.",
+    "components": [
+      {
+        "part": "pāyala",
+        "gloss": "anklet"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Debosmita",
+    "iast": "devasmitā",
+    "devanagari": "देबोस्मिता",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "Divine smile.",
+    "components": [
+      {
+        "part": "deva",
+        "gloss": "divine"
+      },
+      {
+        "part": "smita",
+        "gloss": "smile"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mahua",
+    "iast": "mahuā",
+    "devanagari": "महुआ",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "The mahua tree and its flower.",
+    "components": [
+      {
+        "part": "madhūka",
+        "gloss": "mahua tree"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Moumita",
+    "iast": "maumitā",
+    "devanagari": "मौमिता",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Friendly; sweet-natured.",
+    "components": [
+      {
+        "part": "mitra",
+        "gloss": "friend"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Oindrila",
+    "iast": "aindrilā",
+    "devanagari": "ऐन्द्रिला",
+    "letter": "O",
+    "syllable_count": 3,
+    "meaning_en": "Of Indra; Indrani's grace.",
+    "components": [
+      {
+        "part": "indra",
+        "gloss": "Indra"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Paromita",
+    "iast": "pāramitā",
+    "devanagari": "परमिता",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "Perfection; wisdom beyond.",
+    "components": [
+      {
+        "part": "pāramitā",
+        "gloss": "perfection"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Piyali",
+    "iast": "piyālī",
+    "devanagari": "पियाली",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "The piyal tree.",
+    "components": [
+      {
+        "part": "piyāla",
+        "gloss": "tree"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sagarika",
+    "iast": "sāgarikā",
+    "devanagari": "सागरिका",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Of the ocean; a princess in Harsha's play.",
+    "components": [
+      {
+        "part": "sāgara",
+        "gloss": "ocean"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ratnavali",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Soma",
+    "iast": "somā",
+    "devanagari": "सोमा",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Moon; moon-like.",
+    "components": [
+      {
+        "part": "soma",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sraboni",
+    "iast": "śrābonī",
+    "devanagari": "श्रावणी",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Of the month Shravan (Bengali).",
+    "components": [
+      {
+        "part": "śrāvaṇa",
+        "gloss": "month"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Srabanti",
+    "iast": "śrāvantī",
+    "devanagari": "श्रावन्ती",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Of the monsoon.",
+    "components": [
+      {
+        "part": "śrāvaṇa",
+        "gloss": "monsoon month"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Subhasree",
+    "iast": "śubhaśrī",
+    "devanagari": "शुभश्री",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Auspicious glory.",
+    "components": [
+      {
+        "part": "śubha",
+        "gloss": "auspicious"
+      },
+      {
+        "part": "śrī",
+        "gloss": "glory"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tanima",
+    "iast": "tanimā",
+    "devanagari": "तनिमा",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Slenderness; delicacy.",
+    "components": [
+      {
+        "part": "tanimā",
+        "gloss": "slimness"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shalaka",
+    "iast": "śalākā",
+    "devanagari": "शलाका",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Rod; pencil of light.",
+    "components": [
+      {
+        "part": "śalākā",
+        "gloss": "rod"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sharvari",
+    "iast": "śarvarī",
+    "devanagari": "शर्वरी",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Night.",
+    "components": [
+      {
+        "part": "śarvarī",
+        "gloss": "night"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sonal",
+    "iast": "sonal",
+    "stem": "sonala",
+    "devanagari": "सोनल",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Golden.",
+    "components": [
+      {
+        "part": "svarṇa",
+        "gloss": "gold"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Swara",
+    "iast": "svarā",
+    "devanagari": "स्वरा",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Musical note; voice.",
+    "components": [
+      {
+        "part": "svara",
+        "gloss": "note"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vrushali",
+    "iast": "vṛṣālī",
+    "devanagari": "वृषाली",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Virtue-possessing; Karna's wife.",
+    "components": [
+      {
+        "part": "vṛṣa",
+        "gloss": "virtue"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hiren",
+    "iast": "hīrend",
+    "stem": "hīrenda",
+    "devanagari": "हिरेन",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Lord of diamonds.",
+    "components": [
+      {
+        "part": "hīra",
+        "gloss": "diamond"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jignesh",
+    "iast": "jijñeś",
+    "stem": "jijñeśa",
+    "devanagari": "जिग्नेश",
+    "letter": "J",
+    "syllable_count": 2,
+    "meaning_en": "Curious one; seeker of knowledge.",
+    "components": [
+      {
+        "part": "jijñāsā",
+        "gloss": "wish to know"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jay",
+    "iast": "jay",
+    "stem": "jaya",
+    "devanagari": "जय",
+    "letter": "J",
+    "syllable_count": 1,
+    "meaning_en": "Victory.",
+    "components": [
+      {
+        "part": "jaya",
+        "gloss": "victory"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kalpesh",
+    "iast": "kalpeś",
+    "stem": "kalpeśa",
+    "devanagari": "कल्पेश",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Lord of imagination.",
+    "components": [
+      {
+        "part": "kalpa",
+        "gloss": "imagination"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Saikat",
+    "iast": "saikat",
+    "stem": "saikata",
+    "devanagari": "सैकत",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Sandy bank; river shore.",
+    "components": [
+      {
+        "part": "saikata",
+        "gloss": "sandbank"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Samrat",
+    "iast": "samrāṭ",
+    "devanagari": "सम्राट",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Emperor.",
+    "components": [
+      {
+        "part": "samrāj",
+        "gloss": "emperor"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-084-regional-gaps.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
