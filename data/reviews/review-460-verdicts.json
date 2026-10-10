@@ -1,0 +1,7 @@
+[
+{"name":"Harshad","verdict":"keep","reason":"harṣada/हर्षद agree; giver of joy"},
+{"name":"Sumedh","verdict":"fix","reason":"IAST ends in -as but Devanagari is the a-stem; align to sumedha","fix":{"name":"Sumedh","devanagari":"सुमेध","iast":"sumedha","meaning_en":"Of good wisdom; intelligent."}},
+{"name":"Rangarajan","verdict":"keep","reason":"raṅgarājan/रङ्गराजन agree; established Vaishnava name"},
+{"name":"Bhoopati","verdict":"keep","reason":"bhūpati/भूपति agree; lord of the earth"},
+{"name":"Obulesh","verdict":"fix","reason":"ahobileśa does not match the spelling Obulesh; Obulesha is the Telugu form of Ahobilesha (Obulam = Ahobilam). Etymology of vernacular contraction moderately certain","fix":{"name":"Obulesh","devanagari":"ओबुलेश","iast":"obuleśa","meaning_en":"Lord of Obulam (Ahobilam); Narasimha."}}
+]

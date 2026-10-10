@@ -108093,5 +108093,187 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Harshad",
+    "iast": "harṣad",
+    "stem": "harṣada",
+    "devanagari": "हर्षद",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Giver of joy.",
+    "components": [
+      {
+        "part": "harṣa",
+        "gloss": "joy"
+      },
+      {
+        "part": "da",
+        "gloss": "giver"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-092-boys-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sumedh",
+    "iast": "sumedhas",
+    "devanagari": "सुमेध",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Of good wisdom.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "medhas",
+        "gloss": "wisdom"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-092-boys-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rangarajan",
+    "iast": "raṅgarājan",
+    "devanagari": "रङ्गराजन",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "King of Srirangam; Ranganatha.",
+    "components": [
+      {
+        "part": "raṅga",
+        "gloss": "Srirangam"
+      },
+      {
+        "part": "rājan",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-092-boys-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhoopati",
+    "iast": "bhūpati",
+    "devanagari": "भूपति",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Lord of the earth; king.",
+    "components": [
+      {
+        "part": "bhū",
+        "gloss": "earth"
+      },
+      {
+        "part": "pati",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-092-boys-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Obulesh",
+    "iast": "ahobileś",
+    "stem": "ahobileśa",
+    "devanagari": "अहोबिलेश",
+    "letter": "O",
+    "syllable_count": 4,
+    "meaning_en": "Lord of Ahobilam; Narasimha.",
+    "components": [
+      {
+        "part": "ahobila",
+        "gloss": "Ahobilam"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-092-boys-gaps.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
