@@ -1,0 +1,72 @@
+[
+ {
+  "name": "Nabanita",
+  "verdict": "keep",
+  "reason": "Bengali form of navanītā (fresh butter, tender); IAST and Devanagari agree."
+ },
+ {
+  "name": "Pratyasha",
+  "verdict": "keep",
+  "reason": "pratyāśā, hope; scripts agree."
+ },
+ {
+  "name": "Smrutirekha",
+  "verdict": "keep",
+  "reason": "Odia spelling of smṛtirekhā; sensible compound, scripts agree."
+ },
+ {
+  "name": "Swagatika",
+  "verdict": "keep",
+  "reason": "svāgatikā from svāgata, welcome; scripts agree."
+ },
+ {
+  "name": "Jonaki",
+  "verdict": "fix",
+  "reason": "IAST jyotsnākī is not a real form. Jonaki is the Assamese/Bengali word for firefly or moonlit glow, close to jyotsnikā; etymology uncertain.",
+  "fix": {
+   "iast": "jyotsnikā",
+   "devanagari": "ज्योत्स्निका",
+   "meaning_en": "Moonlit; firefly (Assamese/Bengali jonaki); etymology uncertain."
+  }
+ },
+ {
+  "name": "Mridula",
+  "verdict": "keep",
+  "reason": "mṛdulā, soft and gentle; scripts agree."
+ },
+ {
+  "name": "Meher",
+  "verdict": "reject",
+  "reason": "Persian mehr, not Sanskrit; IAST mehara is unsupported and the source note confuses it with mihira (sun)."
+ },
+ {
+  "name": "Nandana",
+  "verdict": "keep",
+  "reason": "nandanā, daughter or delighting one; scripts agree."
+ },
+ {
+  "name": "Indulekha",
+  "verdict": "keep",
+  "reason": "indulekhā, moon's crescent; scripts agree."
+ },
+ {
+  "name": "Janani",
+  "verdict": "keep",
+  "reason": "jananī, mother; scripts agree."
+ },
+ {
+  "name": "Dharani",
+  "verdict": "keep",
+  "reason": "dharaṇī, the earth; scripts agree."
+ },
+ {
+  "name": "Mathangi",
+  "verdict": "keep",
+  "reason": "mātaṅgī and मातङ्गी match; Matangi is a used given name."
+ },
+ {
+  "name": "Sivagami",
+  "verdict": "keep",
+  "reason": "Tamil spelling of śivakāminī; IAST and Devanagari match."
+ }
+]
