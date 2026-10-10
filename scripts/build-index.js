@@ -46,6 +46,7 @@ const compact = (n) => {
   if (n.kind) o.k = n.kind;
   if (n.curation === 'unreviewed') o.u = 1;
   if (n.origin === 'constructed') o.cn = 1;
+  if (n.gender === 'unisex') o.gu = 1;
   if (n.confidence) o.cf = n.confidence;
   if (n.deity_epic_ref) o.r = n.deity_epic_ref;
   if (n.sources?.length) o.so = n.sources.map((s) => [s.title, s.license || '']);

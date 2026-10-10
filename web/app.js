@@ -32,7 +32,7 @@ const store = {
 let favs = new Set(store.get('bn.favs', []).filter((x) => typeof x === 'string'));
 
 // ---- state
-const fresh = () => ({ text: '', letters: new Set(), states: new Set(), eras: new Set(), syl: new Set(), groups: new Set(), nak: '', rashi: '', numSystem: 'chaldean', nums: new Set(), reviewedOnly: false, withConstructed: false, themes: new Set(), deities: new Set(), asp: '', syls: new Set(), sort: 'az' });
+const fresh = () => ({ text: '', letters: new Set(), states: new Set(), eras: new Set(), syl: new Set(), groups: new Set(), nak: '', rashi: '', numSystem: 'chaldean', nums: new Set(), reviewedOnly: false, withConstructed: false, gender: '', themes: new Set(), deities: new Set(), asp: '', syls: new Set(), sort: 'az' });
 let S = fresh();
 let favView = false;
 let manifest = null;
@@ -74,6 +74,7 @@ function buildQuery() {
   if (S.nums.size) { q.numbers = [...S.nums].map(Number); q.numSystem = S.numSystem; }
   if (S.reviewedOnly) q.reviewedOnly = true;
   if (S.withConstructed) q.withConstructed = true;
+  if (S.gender) q.gender = S.gender;
   return q;
 }
 
@@ -209,6 +210,8 @@ function buildFilters() {
     h('div', { class: 'switch-row' },
       h('input', { type: 'checkbox', id: 'constructed', 'data-f': 'constructed' }),
       h('label', { for: 'constructed' }, h('strong', { text: 'Include constructed names' }), h('span', { text: 'Names built by rule from real Sanskrit elements (for example Hari + dasa). Not found in any text, and not yet reviewed. Off by default.' }))),
+    group('Gender', h('div', {}, h('p', { class: 'hint', text: 'Names for boys, or gender-neutral names that are used for any child across India.' }),
+      h('div', { class: 'opt-grid' }, [['', 'All names'], ['boy', 'Boys'], ['unisex', 'Gender-neutral']].map(([v, l]) => h('label', { class: 'opt' }, h('input', { type: 'radio', name: 'gender', 'data-r': 'gender', value: v, checked: v === '' }), h('span', { text: l })))))),
     group('State or region', [stateSearch, stateList]),
     group('Era', h('div', {}, checkList('eras', manifest.eras))),
     group('Syllables', chipOptions('syl', SYL)),
@@ -295,6 +298,7 @@ function activeFilters() {
   S.nums.forEach((v) => add(`${S.numSystem === 'chaldean' ? 'Chaldean' : 'Pythagorean'} number ${v}`, () => S.nums.delete(v)));
   if (S.reviewedOnly) add('Reviewed only', () => { S.reviewedOnly = false; });
   if (S.withConstructed) add('Including constructed names', () => { S.withConstructed = false; });
+  if (S.gender) add(S.gender === 'unisex' ? 'Gender-neutral' : 'Boys', () => { S.gender = ''; });
   if (S.text.trim()) add(`Search: "${S.text.trim()}"`, () => { S.text = ''; });
   return out;
 }
@@ -319,7 +323,7 @@ function writeUrl() {
   for (const [k, f] of Object.entries(SETS)) if (S[f].size) p.set(k, [...S[f]].join('|'));
   if (S.nak) p.set('nak', S.nak); if (S.rashi) p.set('rashi', S.rashi);
   if (S.nums.size) p.set('sys', S.numSystem);
-  if (S.asp) p.set('asp', S.asp); if (S.reviewedOnly) p.set('rev', '1'); if (S.withConstructed) p.set('con', '1');
+  if (S.asp) p.set('asp', S.asp); if (S.reviewedOnly) p.set('rev', '1'); if (S.withConstructed) p.set('con', '1'); if (S.gender) p.set('g', S.gender);
   if (S.sort !== 'az') p.set('sort', S.sort); if (favView) p.set('fav', '1');
   const qs = p.toString();
   try { history.replaceState(null, '', location.pathname + (qs ? `?${qs}` : '') + location.hash); } catch { /* ignore */ }
@@ -330,7 +334,7 @@ function readUrl() {
   for (const [k, f] of Object.entries(SETS)) if (p.get(k)) S[f] = new Set(p.get(k).split('|'));
   S.nak = p.get('nak') || ''; S.rashi = p.get('rashi') || ''; S.asp = p.get('asp') || '';
   if (p.get('sys') === 'pythagorean') S.numSystem = 'pythagorean';
-  S.withConstructed = p.get('con') === '1'; S.reviewedOnly = p.get('rev') === '1'; S.sort = ['short', 'long'].includes(p.get('sort')) ? p.get('sort') : 'az';
+  S.gender = ['boy', 'unisex'].includes(p.get('g')) ? p.get('g') : ''; S.withConstructed = p.get('con') === '1'; S.reviewedOnly = p.get('rev') === '1'; S.sort = ['short', 'long'].includes(p.get('sort')) ? p.get('sort') : 'az';
   favView = p.get('fav') === '1';
 }
 function clearAll() { S = fresh(); favView = false; syncInputs(); apply(); }

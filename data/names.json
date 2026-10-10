@@ -2799,7 +2799,8 @@
         "license": "original compilation"
       }
     ],
-    "stem": "nīla"
+    "stem": "nīla",
+    "gender": "unisex"
   },
   {
     "name": "Om",
@@ -4203,7 +4204,8 @@
         "license": "original compilation"
       }
     ],
-    "stem": "guñjana"
+    "stem": "guñjana",
+    "gender": "unisex"
   },
   {
     "name": "Hitesh",
@@ -5667,7 +5669,8 @@
         "license": "original compilation"
       }
     ],
-    "stem": "amṛta"
+    "stem": "amṛta",
+    "gender": "unisex"
   },
   {
     "name": "Anurag",
@@ -5893,7 +5896,8 @@
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-004.json",
         "license": "original compilation"
       }
-    ]
+    ],
+    "gender": "unisex"
   },
   {
     "name": "Brijesh",
@@ -6519,7 +6523,8 @@
         "license": "original compilation"
       }
     ],
-    "stem": "kiraṇa"
+    "stem": "kiraṇa",
+    "gender": "unisex"
   },
   {
     "name": "Krishna",
@@ -13710,7 +13715,8 @@
         "license": "original compilation"
       }
     ],
-    "stem": "madhura"
+    "stem": "madhura",
+    "gender": "unisex"
   },
   {
     "name": "Manan",
@@ -17643,7 +17649,8 @@
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-009.json",
         "license": "original compilation"
       }
-    ]
+    ],
+    "gender": "unisex"
   },
   {
     "name": "Pankaj",
@@ -17711,7 +17718,8 @@
         "license": "original compilation"
       }
     ],
-    "stem": "parama"
+    "stem": "parama",
+    "gender": "unisex"
   },
   {
     "name": "Parag",
@@ -25860,7 +25868,8 @@
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-017-common.json",
         "license": "original compilation"
       }
-    ]
+    ],
+    "gender": "unisex"
   },
   {
     "name": "Rameshwar",
@@ -26036,7 +26045,8 @@
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-017-common.json",
         "license": "original compilation"
       }
-    ]
+    ],
+    "gender": "unisex"
   },
   {
     "name": "Srijan",
@@ -31834,7 +31844,8 @@
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-022-popular.json",
         "license": "original compilation"
       }
-    ]
+    ],
+    "gender": "unisex"
   },
   {
     "name": "Paras",
@@ -32029,7 +32040,8 @@
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-022-popular.json",
         "license": "original compilation"
       }
-    ]
+    ],
+    "gender": "unisex"
   },
   {
     "name": "Subodh",
@@ -32304,7 +32316,8 @@
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-022-popular.json",
         "license": "original compilation"
       }
-    ]
+    ],
+    "gender": "unisex"
   },
   {
     "name": "Garvit",
@@ -34288,7 +34301,8 @@
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-024-popular.json",
         "license": "original compilation"
       }
-    ]
+    ],
+    "gender": "unisex"
   },
   {
     "name": "Kirtan",
@@ -34420,7 +34434,8 @@
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-024-popular.json",
         "license": "original compilation"
       }
-    ]
+    ],
+    "gender": "unisex"
   },
   {
     "name": "Prabal",
@@ -39775,7 +39790,7 @@
     },
     "compounds": [],
     "states": [
-      "Andhra Pradesh"
+      "All India"
     ],
     "origin": "attested",
     "era": "modern",
@@ -40363,7 +40378,7 @@
     },
     "compounds": [],
     "states": [
-      "Karnataka"
+      "All India"
     ],
     "origin": "attested",
     "era": "classical",
@@ -40600,7 +40615,7 @@
     },
     "compounds": [],
     "states": [
-      "Karnataka"
+      "All India"
     ],
     "origin": "attested",
     "era": "modern",
@@ -40639,6 +40654,367 @@
     "sources": [
       {
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-032-kannada.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sneh",
+    "iast": "sneh",
+    "stem": "sneha",
+    "devanagari": "स्नेह",
+    "letter": "S",
+    "syllable_count": 1,
+    "meaning_en": "Affection, love, tenderness.",
+    "components": [
+      {
+        "part": "sneha",
+        "gloss": "affection"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Arpan",
+    "iast": "arpaṇ",
+    "stem": "arpaṇa",
+    "devanagari": "अर्पण",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Offering, dedication.",
+    "components": [
+      {
+        "part": "arpaṇa",
+        "gloss": "offering"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Madhu",
+    "iast": "madhu",
+    "devanagari": "मधु",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Honey, sweetness; spring.",
+    "components": [
+      {
+        "part": "madhu",
+        "gloss": "honey"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shanu",
+    "iast": "śānu",
+    "devanagari": "शानु",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Peaceful, calm (affectionate short form of Shantanu and Shanti).",
+    "components": [
+      {
+        "part": "śānti",
+        "gloss": "peace"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "North India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tanu",
+    "iast": "tanu",
+    "devanagari": "तनु",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "Slender, delicate; the body.",
+    "components": [
+      {
+        "part": "tanu",
+        "gloss": "slender, body"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anu",
+    "iast": "aṇu",
+    "devanagari": "अनु",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Small, subtle, atom; following.",
+    "components": [
+      {
+        "part": "aṇu",
+        "gloss": "atom, minute"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Deep",
+    "iast": "dīp",
+    "stem": "dīpa",
+    "devanagari": "दीप",
+    "letter": "D",
+    "syllable_count": 1,
+    "meaning_en": "Lamp, light.",
+    "components": [
+      {
+        "part": "dīpa",
+        "gloss": "lamp"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jyotirmay",
+    "iast": "jyotirmay",
+    "stem": "jyotirmaya",
+    "devanagari": "ज्योतिर्मय",
+    "letter": "J",
+    "syllable_count": 3,
+    "meaning_en": "Full of light, radiant.",
+    "components": [
+      {
+        "part": "jyotis",
+        "gloss": "light"
+      },
+      {
+        "part": "maya",
+        "gloss": "made of"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anya",
+    "iast": "anya",
+    "devanagari": "अन्य",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Another, unique, different.",
+    "components": [
+      {
+        "part": "anya",
+        "gloss": "other"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ayan",
+    "iast": "ayan",
+    "stem": "ayana",
+    "devanagari": "अयन",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Path, journey; the sun's course.",
+    "components": [
+      {
+        "part": "ayana",
+        "gloss": "path"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ishu",
+    "iast": "iṣu",
+    "devanagari": "इषु",
+    "letter": "I",
+    "syllable_count": 2,
+    "meaning_en": "Arrow; desire, wish.",
+    "components": [
+      {
+        "part": "iṣu",
+        "gloss": "arrow"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "North India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
         "license": "original compilation"
       }
     ]
