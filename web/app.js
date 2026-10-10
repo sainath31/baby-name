@@ -96,6 +96,12 @@ function onResult(m) {
   $('count').replaceChildren(label, loading ? h('small', { text: ` (loading ${m.loaded}/${m.of} sections)` }) : '');
   $('showBtn').textContent = loading ? `Show ${fmt(total)}+ names` : `Show ${fmt(total)} ${total === 1 ? 'name' : 'names'}`;
   $('empty').hidden = !(m.done && total === 0);
+  // few matches for a birth star or moon sign: some naming syllables start very few Sanskrit names
+  let few = $('fewHint');
+  if (!few) { few = h('p', { class: 'hint', id: 'fewHint', hidden: true }); $('activeChips').after(few); }
+  const bySyllable = S.nak || S.rashi || S.syls.size;
+  few.hidden = !(m.done && bySyllable && total > 0 && total < 15);
+  if (!few.hidden) few.textContent = `Only ${total} ${total === 1 ? 'name starts' : 'names start'} with these syllables in this library, because few names begin with some of these sounds. You can narrow to one syllable, switch to Include constructed names, or ask your family priest about alternative syllables.`;
   if (m.done && label !== lastCount) { $('live').textContent = `${label} found`; lastCount = label; }
   if (m.done) window.__lastQueryMs = m.ms;
   updateMore();
