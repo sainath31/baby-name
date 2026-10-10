@@ -1,0 +1,1091 @@
+[
+ {
+  "name": "Anu Bhavani",
+  "verdict": "reject",
+  "reason": "meaningless prefix before a deity name"
+ },
+ {
+  "name": "Anu Devi",
+  "verdict": "reject",
+  "reason": "Devi as honorific tail; meaningless prefix"
+ },
+ {
+  "name": "Anu Durga",
+  "verdict": "reject",
+  "reason": "meaningless prefix before a deity name"
+ },
+ {
+  "name": "Anu Gayatri",
+  "verdict": "reject",
+  "reason": "meaningless prefix before a deity name"
+ },
+ {
+  "name": "Anu Kala",
+  "verdict": "fix",
+  "reason": "plausible southern pairing, meaning was mechanical",
+  "fix": {
+   "meaning_en": "Anu (graceful, fine) with Kala (art): graceful art"
+  }
+ },
+ {
+  "name": "Anu Kamakshi",
+  "verdict": "reject",
+  "reason": "meaningless prefix before a deity name"
+ },
+ {
+  "name": "Anu Lakshmi",
+  "verdict": "reject",
+  "reason": "meaningless prefix before a deity name"
+ },
+ {
+  "name": "Anu Latha",
+  "verdict": "fix",
+  "reason": "plausible, meaning was mechanical",
+  "fix": {
+   "meaning_en": "Anu (graceful) with Latha (creeper): a graceful creeper"
+  }
+ },
+ {
+  "name": "Anu Mala",
+  "verdict": "fix",
+  "reason": "plausible, meaning was mechanical",
+  "fix": {
+   "meaning_en": "Anu (graceful) with Mala (garland): a graceful garland"
+  }
+ },
+ {
+  "name": "Anu Meenakshi",
+  "verdict": "reject",
+  "reason": "meaningless prefix before a deity name"
+ },
+ {
+  "name": "Anu Parvati",
+  "verdict": "reject",
+  "reason": "meaningless prefix before a deity name"
+ },
+ {
+  "name": "Anu Prabha",
+  "verdict": "fix",
+  "reason": "plausible, meaning was mechanical",
+  "fix": {
+   "meaning_en": "Anu (graceful) with Prabha (radiance): graceful radiance"
+  }
+ },
+ {
+  "name": "Anu Rekha",
+  "verdict": "fix",
+  "reason": "plausible, meaning was mechanical",
+  "fix": {
+   "meaning_en": "Anu (graceful) with Rekha (line, streak): a fine line"
+  }
+ },
+ {
+  "name": "Anu Sree",
+  "verdict": "reject",
+  "reason": "Sree is an honorific tail; weak pairing"
+ },
+ {
+  "name": "Anu Swathi",
+  "verdict": "fix",
+  "reason": "plausible, meaning weak",
+  "fix": {
+   "meaning_en": "Anu (graceful) with Swathi (the star Svati): graceful Svati star"
+  }
+ },
+ {
+  "name": "Anu Yamuna",
+  "verdict": "reject",
+  "reason": "meaningless prefix before a river name"
+ },
+ {
+  "name": "Bala Kumar",
+  "verdict": "fix",
+  "reason": "real name, weak meaning",
+  "fix": {
+   "meaning_en": "Bala (child, strength) with Kumar (young boy): a strong young boy"
+  }
+ },
+ {
+  "name": "Bala Mohan",
+  "verdict": "fix",
+  "reason": "real name, weak meaning",
+  "fix": {
+   "meaning_en": "Bala (child, strength) with Mohan (charming): the charming child, as Krishna is pictured"
+  }
+ },
+ {
+  "name": "Bala Nandan",
+  "verdict": "fix",
+  "reason": "real name, weak meaning",
+  "fix": {
+   "meaning_en": "Bala (child, strength) with Nandan (son, delight): a delightful child"
+  }
+ },
+ {
+  "name": "Bala Prasad",
+  "verdict": "fix",
+  "reason": "real name, weak meaning",
+  "fix": {
+   "meaning_en": "Bala (strength) with Prasad (grace): strength granted by grace"
+  }
+ },
+ {
+  "name": "Bala Raju",
+  "verdict": "fix",
+  "reason": "Telugu usage, weak meaning",
+  "fix": {
+   "meaning_en": "Bala (child, strength) with Raju (king): young king"
+  }
+ },
+ {
+  "name": "Bala Teja",
+  "verdict": "reject",
+  "reason": "mechanical pairing, not an attested name"
+ },
+ {
+  "name": "Bala Vardhan",
+  "verdict": "fix",
+  "reason": "acceptable, meaning weak",
+  "fix": {
+   "meaning_en": "Bala (strength) with Vardhan (increasing): one who increases strength"
+  }
+ },
+ {
+  "name": "Bhanu Anand",
+  "verdict": "fix",
+  "reason": "acceptable, meaning vague",
+  "fix": {
+   "meaning_en": "Bhanu (the sun) with Anand (bliss): joyful as the sun"
+  }
+ },
+ {
+  "name": "Bhanu Bhushan",
+  "verdict": "fix",
+  "reason": "acceptable, rare",
+  "fix": {
+   "meaning_en": "Bhanu (the sun) with Bhushan (ornament): the ornament of the sun"
+  }
+ },
+ {
+  "name": "Bhanu Dutt",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Bhanu (the sun) with Dutt (given): given by the sun"
+  }
+ },
+ {
+  "name": "Bhanu Kant",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Bhanu (the sun) with Kant (beloved, lord): beloved of the sun"
+  }
+ },
+ {
+  "name": "Bhanu Mohan",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Bhanu (the sun) with Mohan (charming): charming as the sun"
+  }
+ },
+ {
+  "name": "Bhanu Pal",
+  "verdict": "reject",
+  "reason": "Pal surname-style suffix"
+ },
+ {
+  "name": "Bhanu Veer",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Bhanu (the sun) with Veer (brave): brave as the sun"
+  }
+ },
+ {
+  "name": "Dev Dayal",
+  "verdict": "fix",
+  "reason": "real name (Deo Dayal)",
+  "fix": {
+   "meaning_en": "Dev (god) with Dayal (merciful): merciful god"
+  }
+ },
+ {
+  "name": "Dev Kishore",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Dev (god) with Kishore (youth): divine youth"
+  }
+ },
+ {
+  "name": "Dev Nath",
+  "verdict": "reject",
+  "reason": "Nath as tail, redundant god plus lord"
+ },
+ {
+  "name": "Dev Prakash",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Dev (god) with Prakash (light): divine light"
+  }
+ },
+ {
+  "name": "Dev Shankar",
+  "verdict": "reject",
+  "reason": "deity plus its own epithet, redundant"
+ },
+ {
+  "name": "Dev Veer",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Dev (god) with Veer (hero): divine hero"
+  }
+ },
+ {
+  "name": "Deva Kumar",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Deva (god) with Kumar (young boy): divine boy"
+  }
+ },
+ {
+  "name": "Deva Murthy",
+  "verdict": "fix",
+  "reason": "real southern name",
+  "fix": {
+   "meaning_en": "Deva (god) with Murthy (form): form of god"
+  }
+ },
+ {
+  "name": "Deva Nandan",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Deva (god) with Nandan (son, delight): son of god"
+  }
+ },
+ {
+  "name": "Deva Prasad",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Deva (god) with Prasad (grace): the grace of god"
+  }
+ },
+ {
+  "name": "Deva Sekhar",
+  "verdict": "fix",
+  "reason": "real southern name",
+  "fix": {
+   "meaning_en": "Deva (god) with Sekhar (crest): crest of the gods"
+  }
+ },
+ {
+  "name": "Giri Pal",
+  "verdict": "reject",
+  "reason": "Pal surname-style suffix"
+ },
+ {
+  "name": "Giri Prakash",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Giri (mountain) with Prakash (light): light of the mountain"
+  }
+ },
+ {
+  "name": "Giri Pratap",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Giri (mountain) with Pratap (glory): glory of the mountain"
+  }
+ },
+ {
+  "name": "Giri Shankar",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Giri (mountain) with Shankar (Shiva): Shiva, lord of the mountain"
+  }
+ },
+ {
+  "name": "Gopi Anand",
+  "verdict": "reject",
+  "reason": "Gopi means cowherd girl; incoherent pairing"
+ },
+ {
+  "name": "Gopi Kant",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Gopi (cowherd girl) with Kant (beloved): beloved of the gopis, Krishna"
+  }
+ },
+ {
+  "name": "Gopi Kumar",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Gopi (cowherd) with Kumar (young boy): young cowherd"
+  }
+ },
+ {
+  "name": "Gopi Mohan",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Gopi (cowherd girl) with Mohan (charmer): charmer of the gopis, Krishna"
+  }
+ },
+ {
+  "name": "Gopi Nandan",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Gopi (cowherd) with Nandan (son, delight): delight of the gopis"
+  }
+ },
+ {
+  "name": "Gopi Prasad",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Gopi (cowherd) with Prasad (grace): grace of Krishna, the gopis' lord"
+  }
+ },
+ {
+  "name": "Gopi Sekhar",
+  "verdict": "reject",
+  "reason": "weak mechanical pairing"
+ },
+ {
+  "name": "Hari Anand",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Hari (Vishnu) with Anand (bliss): the bliss of Hari",
+   "devanagari": "हरि आनन्द",
+   "iast": "hari ānanda"
+  }
+ },
+ {
+  "name": "Hari Charan",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Hari (Vishnu) with Charan (feet): at the feet of Hari"
+  }
+ },
+ {
+  "name": "Hari Datta",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Hari (Vishnu) with Datta (given): given by Hari"
+  }
+ },
+ {
+  "name": "Hari Dev",
+  "verdict": "reject",
+  "reason": "deity plus its own epithet, redundant"
+ },
+ {
+  "name": "Hari Kiran",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Hari (Vishnu) with Kiran (ray): ray of Hari"
+  }
+ },
+ {
+  "name": "Hari Kishore",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Hari (Vishnu) with Kishore (youth): the youthful Hari"
+  }
+ },
+ {
+  "name": "Hari Kumar",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Hari (Vishnu) with Kumar (young boy): the boy of Hari"
+  }
+ },
+ {
+  "name": "Hari Nath",
+  "verdict": "reject",
+  "reason": "Nath as tail, redundant"
+ },
+ {
+  "name": "Hari Pal",
+  "verdict": "reject",
+  "reason": "Pal surname-style suffix"
+ },
+ {
+  "name": "Hari Prakash",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Hari (Vishnu) with Prakash (light): light of Hari"
+  }
+ },
+ {
+  "name": "Hari Pratap",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Hari (Vishnu) with Pratap (glory): glory of Hari"
+  }
+ },
+ {
+  "name": "Hari Sharan",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Hari (Vishnu) with Sharan (refuge): one who takes refuge in Hari"
+  }
+ },
+ {
+  "name": "Hari Teja",
+  "verdict": "reject",
+  "reason": "mechanical pairing"
+ },
+ {
+  "name": "Hari Veer",
+  "verdict": "reject",
+  "reason": "deity plus hero, mechanical"
+ },
+ {
+  "name": "Jai Anand",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Jai (victory) with Anand (bliss): joyful victory"
+  }
+ },
+ {
+  "name": "Jai Chandra",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Jai (victory) with Chandra (moon): victory of the moon"
+  }
+ },
+ {
+  "name": "Jai Kiran",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Jai (victory) with Kiran (ray): ray of victory"
+  }
+ },
+ {
+  "name": "Jai Kishore",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Jai (victory) with Kishore (youth): victorious youth"
+  }
+ },
+ {
+  "name": "Jai Manohar",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Jai (victory) with Manohar (heart-winning): victorious and charming"
+  }
+ },
+ {
+  "name": "Jai Mohan",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Jai (victory) with Mohan (charming): victorious charmer"
+  }
+ },
+ {
+  "name": "Jai Pal",
+  "verdict": "reject",
+  "reason": "Pal surname-style suffix"
+ },
+ {
+  "name": "Jai Prasad",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Jai (victory) with Prasad (grace): victory by grace"
+  }
+ },
+ {
+  "name": "Jai Pratap",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Jai (victory) with Pratap (glory): victorious glory"
+  }
+ },
+ {
+  "name": "Jai Teja",
+  "verdict": "reject",
+  "reason": "mechanical pairing"
+ },
+ {
+  "name": "Jai Vamsi",
+  "verdict": "fix",
+  "reason": "Telugu-style name",
+  "fix": {
+   "meaning_en": "Jai (victory) with Vamsi (flute): victory of Krishna's flute"
+  }
+ },
+ {
+  "name": "Jaya Annapurna",
+  "verdict": "reject",
+  "reason": "worshipful address before deity name"
+ },
+ {
+  "name": "Jaya Chandrika",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Jaya (victory) with Chandrika (moonlight): victorious moonlight"
+  }
+ },
+ {
+  "name": "Jaya Durga",
+  "verdict": "reject",
+  "reason": "worshipful address before deity name"
+ },
+ {
+  "name": "Jaya Ganga",
+  "verdict": "reject",
+  "reason": "worshipful address before river goddess"
+ },
+ {
+  "name": "Jaya Gayatri",
+  "verdict": "reject",
+  "reason": "worshipful address before deity name"
+ },
+ {
+  "name": "Jaya Kala",
+  "verdict": "fix",
+  "reason": "feminine Devanagari needed",
+  "fix": {
+   "meaning_en": "Jaya (victory) with Kala (art): victorious art",
+   "devanagari": "जया कला",
+   "iast": "jayā kalā"
+  }
+ },
+ {
+  "name": "Jaya Kamakshi",
+  "verdict": "reject",
+  "reason": "worshipful address before deity name"
+ },
+ {
+  "name": "Jaya Latha",
+  "verdict": "fix",
+  "reason": "feminine Devanagari needed",
+  "fix": {
+   "meaning_en": "Jaya (victory) with Latha (creeper): victorious creeper",
+   "devanagari": "जया लता",
+   "iast": "jayā latā"
+  }
+ },
+ {
+  "name": "Jaya Meenakshi",
+  "verdict": "reject",
+  "reason": "worshipful address before deity name"
+ },
+ {
+  "name": "Jaya Murthy",
+  "verdict": "fix",
+  "reason": "real southern boy's name",
+  "fix": {
+   "meaning_en": "Jaya (victory) with Murthy (form): embodiment of victory"
+  }
+ },
+ {
+  "name": "Jaya Nandan",
+  "verdict": "fix",
+  "reason": "acceptable boy's name",
+  "fix": {
+   "meaning_en": "Jaya (victory) with Nandan (son, delight): delight of victory"
+  }
+ },
+ {
+  "name": "Jaya Parvati",
+  "verdict": "reject",
+  "reason": "worshipful address before deity name"
+ },
+ {
+  "name": "Jaya Prabha",
+  "verdict": "fix",
+  "reason": "feminine Devanagari needed",
+  "fix": {
+   "meaning_en": "Jaya (victory) with Prabha (radiance): victorious radiance",
+   "devanagari": "जया प्रभा",
+   "iast": "jayā prabhā"
+  }
+ },
+ {
+  "name": "Jaya Raju",
+  "verdict": "fix",
+  "reason": "Telugu boy's name",
+  "fix": {
+   "meaning_en": "Jaya (victory) with Raju (king): victorious king"
+  }
+ },
+ {
+  "name": "Jaya Rani",
+  "verdict": "reject",
+  "reason": "Rani as honorific tail"
+ },
+ {
+  "name": "Jaya Rekha",
+  "verdict": "fix",
+  "reason": "feminine Devanagari needed",
+  "fix": {
+   "meaning_en": "Jaya (victory) with Rekha (line): line of victory",
+   "devanagari": "जया रेखा",
+   "iast": "jayā rekhā"
+  }
+ },
+ {
+  "name": "Jaya Sekhar",
+  "verdict": "fix",
+  "reason": "real boy's name",
+  "fix": {
+   "meaning_en": "Jaya (victory) with Sekhar (crest): crest of victory"
+  }
+ },
+ {
+  "name": "Jaya Sree",
+  "verdict": "reject",
+  "reason": "Sree honorific, mechanical"
+ },
+ {
+  "name": "Jaya Sudha",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Jaya (victory) with Sudha (nectar): victorious nectar"
+  }
+ },
+ {
+  "name": "Jaya Swathi",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Jaya (victory) with Swathi (the star Svati): victorious Svati star"
+  }
+ },
+ {
+  "name": "Jaya Yamuna",
+  "verdict": "reject",
+  "reason": "worshipful address before river goddess"
+ },
+ {
+  "name": "Krishna Kiran",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Krishna with Kiran (ray): ray of Krishna"
+  }
+ },
+ {
+  "name": "Krishna Nandan",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Krishna with Nandan (son, delight): delight of Krishna"
+  }
+ },
+ {
+  "name": "Krishna Prasad",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Krishna with Prasad (grace): grace of Krishna"
+  }
+ },
+ {
+  "name": "Mahesh Chand",
+  "verdict": "fix",
+  "reason": "real name; iast fix",
+  "fix": {
+   "meaning_en": "Mahesh (Shiva) with Chand (moon): Shiva with the moon",
+   "devanagari": "महेश चन्द्र",
+   "iast": "maheśa candra"
+  }
+ },
+ {
+  "name": "Mahesh Charan",
+  "verdict": "fix",
+  "reason": "real name; iast garbled",
+  "fix": {
+   "meaning_en": "Mahesh (Shiva) with Charan (feet): at the feet of Shiva",
+   "devanagari": "महेश चरण",
+   "iast": "maheśa caraṇa"
+  }
+ },
+ {
+  "name": "Mahesh Prakash",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Mahesh (Shiva) with Prakash (light): light of Shiva"
+  }
+ },
+ {
+  "name": "Mahesh Sharan",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Mahesh (Shiva) with Sharan (refuge): one who takes refuge in Shiva"
+  }
+ },
+ {
+  "name": "Mahesh Swaroop",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Mahesh (Shiva) with Swaroop (form): the form of Shiva"
+  }
+ },
+ {
+  "name": "Naga Kumar",
+  "verdict": "fix",
+  "reason": "real southern name",
+  "fix": {
+   "meaning_en": "Naga (serpent deity) with Kumar (young boy): boy blessed by the serpent deity"
+  }
+ },
+ {
+  "name": "Naga Murthy",
+  "verdict": "fix",
+  "reason": "real southern name",
+  "fix": {
+   "meaning_en": "Naga (serpent deity) with Murthy (form): form of the serpent deity"
+  }
+ },
+ {
+  "name": "Naga Prasad",
+  "verdict": "fix",
+  "reason": "real southern name",
+  "fix": {
+   "meaning_en": "Naga (serpent deity) with Prasad (grace): grace of the serpent deity"
+  }
+ },
+ {
+  "name": "Naga Raju",
+  "verdict": "fix",
+  "reason": "real Telugu name",
+  "fix": {
+   "meaning_en": "Naga (serpent deity) with Raju (king): king of serpents"
+  }
+ },
+ {
+  "name": "Om Anand",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Om (sacred syllable) with Anand (bliss): the bliss of Om"
+  }
+ },
+ {
+  "name": "Om Chandra",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Om (sacred syllable) with Chandra (moon): Om and the moon"
+  }
+ },
+ {
+  "name": "Om Dev",
+  "verdict": "reject",
+  "reason": "Dev tail, redundant"
+ },
+ {
+  "name": "Om Kumar",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Om (sacred syllable) with Kumar (young boy): boy of Om"
+  }
+ },
+ {
+  "name": "Om Mohan",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Om (sacred syllable) with Mohan (charming): charming one of Om"
+  }
+ },
+ {
+  "name": "Om Pratap",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Om (sacred syllable) with Pratap (glory): glory of Om"
+  }
+ },
+ {
+  "name": "Om Sagar",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Om (sacred syllable) with Sagar (ocean): ocean of Om"
+  }
+ },
+ {
+  "name": "Om Shankar",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Om (sacred syllable) with Shankar (Shiva): Shiva, the Om"
+  }
+ },
+ {
+  "name": "Om Sharan",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Om (sacred syllable) with Sharan (refuge): one who takes refuge in Om"
+  }
+ },
+ {
+  "name": "Om Swaroop",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Om (sacred syllable) with Swaroop (form): embodiment of Om"
+  }
+ },
+ {
+  "name": "Om Teja",
+  "verdict": "reject",
+  "reason": "mechanical pairing"
+ },
+ {
+  "name": "Om Vamsi",
+  "verdict": "reject",
+  "reason": "mechanical pairing"
+ },
+ {
+  "name": "Om Veer",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Om (sacred syllable) with Veer (brave): brave one of Om"
+  }
+ },
+ {
+  "name": "Padma Devi",
+  "verdict": "reject",
+  "reason": "Devi as honorific tail"
+ },
+ {
+  "name": "Padma Latha",
+  "verdict": "fix",
+  "reason": "real southern name",
+  "fix": {
+   "meaning_en": "Padma (lotus) with Latha (creeper): lotus creeper"
+  }
+ },
+ {
+  "name": "Padma Prabha",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Padma (lotus) with Prabha (radiance): lotus radiance"
+  }
+ },
+ {
+  "name": "Padma Rani",
+  "verdict": "reject",
+  "reason": "Rani as honorific tail"
+ },
+ {
+  "name": "Padma Rekha",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Padma (lotus) with Rekha (line): lotus line"
+  }
+ },
+ {
+  "name": "Pran Mohan",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Pran (life-breath) with Mohan (charming): charmer of life"
+  }
+ },
+ {
+  "name": "Pran Prakash",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Pran (life-breath) with Prakash (light): light of life"
+  }
+ },
+ {
+  "name": "Pran Pratap",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Pran (life-breath) with Pratap (glory): glory of life"
+  }
+ },
+ {
+  "name": "Pran Shankar",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Pran (life-breath) with Shankar (Shiva): Shiva, the life-breath"
+  }
+ },
+ {
+  "name": "Prem Anand",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Prem (love) with Anand (bliss): blissful love"
+  }
+ },
+ {
+  "name": "Prem Chand",
+  "verdict": "fix",
+  "reason": "real name; iast fix",
+  "fix": {
+   "meaning_en": "Prem (love) with Chand (moon): moon of love",
+   "devanagari": "प्रेम चन्द्र",
+   "iast": "prema candra"
+  }
+ },
+ {
+  "name": "Prem Charan",
+  "verdict": "fix",
+  "reason": "real name; iast garbled",
+  "fix": {
+   "meaning_en": "Prem (love) with Charan (feet): love at the feet of the Lord",
+   "devanagari": "प्रेम चरण",
+   "iast": "prema caraṇa"
+  }
+ },
+ {
+  "name": "Prem Dayal",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Prem (love) with Dayal (merciful): loving and merciful"
+  }
+ },
+ {
+  "name": "Prem Dutt",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Prem (love) with Dutt (given): given in love"
+  }
+ },
+ {
+  "name": "Prem Nath",
+  "verdict": "reject",
+  "reason": "Nath as tail"
+ },
+ {
+  "name": "Prem Pal",
+  "verdict": "reject",
+  "reason": "Pal surname-style suffix"
+ },
+ {
+  "name": "Prem Sagar",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Prem (love) with Sagar (ocean): ocean of love"
+  }
+ },
+ {
+  "name": "Prem Sharan",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Prem (love) with Sharan (refuge): refuge in love"
+  }
+ },
+ {
+  "name": "Raj Anand",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Raj (royal) with Anand (bliss): royal bliss"
+  }
+ },
+ {
+  "name": "Raj Chandra",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Raj (royal) with Chandra (moon): royal moon"
+  }
+ },
+ {
+  "name": "Raj Dev",
+  "verdict": "reject",
+  "reason": "Dev tail, redundant"
+ },
+ {
+  "name": "Raj Ganesh",
+  "verdict": "reject",
+  "reason": "meaningless prefix before a deity name"
+ },
+ {
+  "name": "Raj Gopal",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Raj (king) with Gopal (Krishna): king Gopal"
+  }
+ },
+ {
+  "name": "Raj Govind",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Raj (king) with Govind (Krishna): king Govind"
+  }
+ },
+ {
+  "name": "Raj Karthik",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Raj (king) with Karthik (Kartikeya): king Karthik"
+  }
+ },
+ {
+  "name": "Raj Keshav",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Raj (king) with Keshav (Krishna): king Keshav"
+  }
+ },
+ {
+  "name": "Raj Kiran",
+  "verdict": "fix",
+  "reason": "acceptable",
+  "fix": {
+   "meaning_en": "Raj (royal) with Kiran (ray): royal ray"
+  }
+ }
+]

@@ -1,0 +1,990 @@
+[
+ {
+  "name": "Raj Krishna",
+  "verdict": "fix",
+  "reason": "Plausible; meaning mechanical",
+  "fix": {
+   "meaning_en": "Royal Krishna; Krishna as king"
+  }
+ },
+ {
+  "name": "Raj Manohar",
+  "verdict": "fix",
+  "reason": "Plausible; meaning mechanical",
+  "fix": {
+   "meaning_en": "Royal and heart-captivating"
+  }
+ },
+ {
+  "name": "Raj Prasad",
+  "verdict": "fix",
+  "reason": "Plausible; meaning mechanical",
+  "fix": {
+   "meaning_en": "Gift or grace of the king"
+  }
+ },
+ {
+  "name": "Raj Pratap",
+  "verdict": "keep",
+  "reason": "Good, meaning fine"
+ },
+ {
+  "name": "Raj Shankar",
+  "verdict": "fix",
+  "reason": "Plausible; meaning mechanical",
+  "fix": {
+   "meaning_en": "Royal Shankar; Shiva as king"
+  }
+ },
+ {
+  "name": "Raj Sharan",
+  "verdict": "fix",
+  "reason": "Real name; meaning vague",
+  "fix": {
+   "meaning_en": "One who takes refuge in the king"
+  }
+ },
+ {
+  "name": "Raj Swaroop",
+  "verdict": "fix",
+  "reason": "Real name; meaning ok",
+  "fix": {
+   "meaning_en": "Of royal form; kingly in nature"
+  }
+ },
+ {
+  "name": "Raj Teja",
+  "verdict": "fix",
+  "reason": "Plausible Telugu usage; meaning mechanical",
+  "fix": {
+   "meaning_en": "Royal splendour"
+  }
+ },
+ {
+  "name": "Raj Venkat",
+  "verdict": "fix",
+  "reason": "Plausible south Indian usage; meaning mechanical",
+  "fix": {
+   "meaning_en": "Royal Venkateshwara; Venkateshwara as king"
+  }
+ },
+ {
+  "name": "Ram Anand",
+  "verdict": "fix",
+  "reason": "Real name; meaning mechanical",
+  "fix": {
+   "meaning_en": "Bliss of Rama; one who delights in Rama"
+  }
+ },
+ {
+  "name": "Ram Bhushan",
+  "verdict": "keep",
+  "reason": "Good"
+ },
+ {
+  "name": "Ram Dev",
+  "verdict": "reject",
+  "reason": "Dev as surname-style tail"
+ },
+ {
+  "name": "Ram Gopal",
+  "verdict": "fix",
+  "reason": "Common name; meaning mechanical",
+  "fix": {
+   "meaning_en": "Rama, the cowherd protector; Krishna as Gopala"
+  }
+ },
+ {
+  "name": "Ram Govind",
+  "verdict": "fix",
+  "reason": "Used; meaning mechanical",
+  "fix": {
+   "meaning_en": "Rama and Govinda, joined names of Rama and Krishna"
+  }
+ },
+ {
+  "name": "Ram Kishore",
+  "verdict": "fix",
+  "reason": "Real name; meaning mechanical",
+  "fix": {
+   "meaning_en": "Youth of Rama; young devotee of Rama"
+  }
+ },
+ {
+  "name": "Ram Madhav",
+  "verdict": "fix",
+  "reason": "Real name; meaning mechanical",
+  "fix": {
+   "meaning_en": "Rama and Madhava (Krishna)"
+  }
+ },
+ {
+  "name": "Ram Manohar",
+  "verdict": "fix",
+  "reason": "Real name; meaning mechanical",
+  "fix": {
+   "meaning_en": "Rama the heart-captivating"
+  }
+ },
+ {
+  "name": "Ram Narayan",
+  "verdict": "fix",
+  "reason": "Real name; meaning mechanical",
+  "fix": {
+   "meaning_en": "Rama and Narayana (Vishnu)"
+  }
+ },
+ {
+  "name": "Ram Prakash",
+  "verdict": "keep",
+  "reason": "Good"
+ },
+ {
+  "name": "Ram Sagar",
+  "verdict": "fix",
+  "reason": "Real name; meaning mechanical",
+  "fix": {
+   "meaning_en": "Ocean of Rama; Rama as vast as the ocean"
+  }
+ },
+ {
+  "name": "Ram Sharan",
+  "verdict": "keep",
+  "reason": "Good"
+ },
+ {
+  "name": "Ram Teja",
+  "verdict": "fix",
+  "reason": "Plausible Telugu usage; meaning mechanical",
+  "fix": {
+   "meaning_en": "Radiance of Rama"
+  }
+ },
+ {
+  "name": "Ram Vamsi",
+  "verdict": "reject",
+  "reason": "Mechanical pairing; Rama with Krishna's flute is incoherent"
+ },
+ {
+  "name": "Rama Murthy",
+  "verdict": "fix",
+  "reason": "Common south Indian name; meaning garbled",
+  "fix": {
+   "meaning_en": "Embodiment (form) of Rama"
+  }
+ },
+ {
+  "name": "Rama Nandan",
+  "verdict": "fix",
+  "reason": "Real name; meaning garbled",
+  "fix": {
+   "meaning_en": "Son or delight of Rama"
+  }
+ },
+ {
+  "name": "Rama Prabha",
+  "verdict": "fix",
+  "reason": "Plausible girl's name; meaning garbled",
+  "fix": {
+   "meaning_en": "Radiance of Rama (Lakshmi)"
+  }
+ },
+ {
+  "name": "Rama Priya",
+  "verdict": "fix",
+  "reason": "Plausible girl's name; meaning garbled",
+  "fix": {
+   "meaning_en": "Beloved of Rama"
+  }
+ },
+ {
+  "name": "Rama Raju",
+  "verdict": "fix",
+  "reason": "Common Telugu name; meaning garbled",
+  "fix": {
+   "meaning_en": "King Rama"
+  }
+ },
+ {
+  "name": "Ravi Kumar",
+  "verdict": "fix",
+  "reason": "Common; meaning clumsy",
+  "fix": {
+   "meaning_en": "Son of the sun; sun-like youth"
+  }
+ },
+ {
+  "name": "Ravi Mohan",
+  "verdict": "fix",
+  "reason": "Real name; meaning clumsy",
+  "fix": {
+   "meaning_en": "Charming like the sun"
+  }
+ },
+ {
+  "name": "Ravi Murthy",
+  "verdict": "fix",
+  "reason": "Common south Indian name; meaning clumsy",
+  "fix": {
+   "meaning_en": "Embodiment of the sun"
+  }
+ },
+ {
+  "name": "Ravi Nandan",
+  "verdict": "fix",
+  "reason": "Real name; meaning clumsy",
+  "fix": {
+   "meaning_en": "Delight of the sun; son of the sun"
+  }
+ },
+ {
+  "name": "Ravi Prasad",
+  "verdict": "fix",
+  "reason": "Common; meaning clumsy",
+  "fix": {
+   "meaning_en": "Gift or grace of the sun"
+  }
+ },
+ {
+  "name": "Ravi Sekhar",
+  "verdict": "fix",
+  "reason": "Common; meaning clumsy",
+  "fix": {
+   "meaning_en": "Crest of the sun; crowned with the sun"
+  }
+ },
+ {
+  "name": "Sai Chandra",
+  "verdict": "fix",
+  "reason": "Used; meaning verbose",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Chandra, the moon"
+  }
+ },
+ {
+  "name": "Sai Chandrika",
+  "verdict": "fix",
+  "reason": "Plausible girl's name; meaning ok",
+  "fix": {
+   "meaning_en": "Sai Baba's devotee with Chandrika, moonlight"
+  }
+ },
+ {
+  "name": "Sai Datta",
+  "verdict": "fix",
+  "reason": "Used; meaning verbose",
+  "fix": {
+   "meaning_en": "Given by Sai Baba"
+  }
+ },
+ {
+  "name": "Sai Dev",
+  "verdict": "reject",
+  "reason": "Dev as surname-style tail; Sai is a master, not a deity name"
+ },
+ {
+  "name": "Sai Durga",
+  "verdict": "fix",
+  "reason": "Used in Telugu families; meaning ok",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Durga, the Goddess"
+  }
+ },
+ {
+  "name": "Sai Ganesh",
+  "verdict": "fix",
+  "reason": "Common Telugu name; meaning verbose",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Ganesha"
+  }
+ },
+ {
+  "name": "Sai Ganga",
+  "verdict": "reject",
+  "reason": "Meaningless prefix before a river-goddess name"
+ },
+ {
+  "name": "Sai Gayatri",
+  "verdict": "fix",
+  "reason": "Used; meaning ok",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Gayatri, the sacred mantra"
+  }
+ },
+ {
+  "name": "Sai Gopal",
+  "verdict": "fix",
+  "reason": "Used; meaning verbose",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Gopala (Krishna)"
+  }
+ },
+ {
+  "name": "Sai Govind",
+  "verdict": "fix",
+  "reason": "Used; meaning verbose",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Govinda (Krishna)"
+  }
+ },
+ {
+  "name": "Sai Gowri",
+  "verdict": "fix",
+  "reason": "Used in Telugu families; meaning ok",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Gowri (Parvati)"
+  }
+ },
+ {
+  "name": "Sai Kamakshi",
+  "verdict": "reject",
+  "reason": "Meaningless prefix before a temple-goddess name"
+ },
+ {
+  "name": "Sai Karthik",
+  "verdict": "fix",
+  "reason": "Common; meaning verbose",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Karthik (Kartikeya)"
+  }
+ },
+ {
+  "name": "Sai Keshav",
+  "verdict": "fix",
+  "reason": "Used; meaning verbose",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Keshava (Krishna)"
+  }
+ },
+ {
+  "name": "Sai Kumar",
+  "verdict": "fix",
+  "reason": "Common; meaning verbose",
+  "fix": {
+   "meaning_en": "Youth devoted to Sai Baba"
+  }
+ },
+ {
+  "name": "Sai Madhav",
+  "verdict": "fix",
+  "reason": "Used; meaning verbose",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Madhava (Krishna)"
+  }
+ },
+ {
+  "name": "Sai Meenakshi",
+  "verdict": "reject",
+  "reason": "Meaningless prefix before a temple-goddess name"
+ },
+ {
+  "name": "Sai Mohan",
+  "verdict": "fix",
+  "reason": "Used; meaning verbose",
+  "fix": {
+   "meaning_en": "Charming devotee of Sai Baba"
+  }
+ },
+ {
+  "name": "Sai Narayan",
+  "verdict": "fix",
+  "reason": "Used; meaning verbose",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Narayana (Vishnu)"
+  }
+ },
+ {
+  "name": "Sai Nath",
+  "verdict": "reject",
+  "reason": "Nath as a tail; Sainath is a title of Sai Baba, not a given-name pairing"
+ },
+ {
+  "name": "Sai Parvati",
+  "verdict": "reject",
+  "reason": "Meaningless prefix before a deity name"
+ },
+ {
+  "name": "Sai Prabha",
+  "verdict": "fix",
+  "reason": "Plausible girl's name; meaning garbled",
+  "fix": {
+   "meaning_en": "Radiance of Sai"
+  }
+ },
+ {
+  "name": "Sai Prasad",
+  "verdict": "fix",
+  "reason": "Common; meaning verbose",
+  "fix": {
+   "meaning_en": "Grace or gift of Sai Baba"
+  }
+ },
+ {
+  "name": "Sai Sagar",
+  "verdict": "fix",
+  "reason": "Used; meaning verbose",
+  "fix": {
+   "meaning_en": "Ocean of Sai; Sai Baba as vast as the ocean"
+  }
+ },
+ {
+  "name": "Sai Saraswati",
+  "verdict": "reject",
+  "reason": "Meaningless prefix before a deity name"
+ },
+ {
+  "name": "Sai Shankar",
+  "verdict": "fix",
+  "reason": "Used; meaning verbose",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Shankara (Shiva)"
+  }
+ },
+ {
+  "name": "Sai Sree",
+  "verdict": "fix",
+  "reason": "Used girl's name; meaning garbled",
+  "fix": {
+   "meaning_en": "Fortune of Sai; Sai with auspicious Sri"
+  }
+ },
+ {
+  "name": "Sai Surya",
+  "verdict": "fix",
+  "reason": "Used; meaning verbose",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Surya, the sun"
+  }
+ },
+ {
+  "name": "Sai Swathi",
+  "verdict": "fix",
+  "reason": "Used; meaning ok",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Swati, the star"
+  }
+ },
+ {
+  "name": "Sai Vidya",
+  "verdict": "fix",
+  "reason": "Plausible girl's name; meaning verbose",
+  "fix": {
+   "meaning_en": "Knowledge blessed by Sai"
+  }
+ },
+ {
+  "name": "Sai Vishnu",
+  "verdict": "fix",
+  "reason": "Used; meaning redundant",
+  "fix": {
+   "meaning_en": "Sai (Sai Baba) with Vishnu"
+  }
+ },
+ {
+  "name": "Sai Yamuna",
+  "verdict": "reject",
+  "reason": "Meaningless prefix before a river name"
+ },
+ {
+  "name": "Shiv Anand",
+  "verdict": "fix",
+  "reason": "Real name; meaning mechanical",
+  "fix": {
+   "meaning_en": "Bliss of Shiva"
+  }
+ },
+ {
+  "name": "Shiv Bhushan",
+  "verdict": "keep",
+  "reason": "Good"
+ },
+ {
+  "name": "Shiv Das",
+  "verdict": "reject",
+  "reason": "Das as surname-style tail"
+ },
+ {
+  "name": "Shiv Dayal",
+  "verdict": "fix",
+  "reason": "Real name; meaning loose",
+  "fix": {
+   "meaning_en": "Shiva the merciful"
+  }
+ },
+ {
+  "name": "Shiv Dev",
+  "verdict": "reject",
+  "reason": "Dev as surname-style tail; Shiva is already a deity"
+ },
+ {
+  "name": "Shiv Kant",
+  "verdict": "keep",
+  "reason": "Real name, good"
+ },
+ {
+  "name": "Shiv Kiran",
+  "verdict": "fix",
+  "reason": "Plausible; meaning mechanical",
+  "fix": {
+   "meaning_en": "Ray of Shiva"
+  }
+ },
+ {
+  "name": "Shiv Kishore",
+  "verdict": "fix",
+  "reason": "Real name; meaning mechanical",
+  "fix": {
+   "meaning_en": "Youth of Shiva"
+  }
+ },
+ {
+  "name": "Shiv Manohar",
+  "verdict": "fix",
+  "reason": "Plausible; meaning mechanical",
+  "fix": {
+   "meaning_en": "Shiva the heart-captivating"
+  }
+ },
+ {
+  "name": "Shiv Mohan",
+  "verdict": "fix",
+  "reason": "Plausible; meaning mechanical",
+  "fix": {
+   "meaning_en": "Charming Shiva"
+  }
+ },
+ {
+  "name": "Shiv Nath",
+  "verdict": "reject",
+  "reason": "Nath as a tail; Shiva already means lord"
+ },
+ {
+  "name": "Shiv Prakash",
+  "verdict": "keep",
+  "reason": "Good"
+ },
+ {
+  "name": "Shiv Sagar",
+  "verdict": "fix",
+  "reason": "Real name; meaning mechanical",
+  "fix": {
+   "meaning_en": "Ocean of Shiva"
+  }
+ },
+ {
+  "name": "Shiv Sharan",
+  "verdict": "keep",
+  "reason": "Good"
+ },
+ {
+  "name": "Shiv Swaroop",
+  "verdict": "keep",
+  "reason": "Good"
+ },
+ {
+  "name": "Shiv Teja",
+  "verdict": "fix",
+  "reason": "Plausible Telugu usage; meaning mechanical",
+  "fix": {
+   "meaning_en": "Radiance of Shiva"
+  }
+ },
+ {
+  "name": "Siva Lakshmi",
+  "verdict": "fix",
+  "reason": "Common girl's name; meaning wrong",
+  "fix": {
+   "meaning_en": "Lakshmi, auspicious one of Shiva"
+  }
+ },
+ {
+  "name": "Siva Latha",
+  "verdict": "fix",
+  "reason": "Plausible girl's name; meaning wrong",
+  "fix": {
+   "meaning_en": "Auspicious creeper"
+  }
+ },
+ {
+  "name": "Siva Murthy",
+  "verdict": "fix",
+  "reason": "Common south Indian name; meaning clumsy",
+  "fix": {
+   "meaning_en": "Embodiment of Shiva"
+  }
+ },
+ {
+  "name": "Siva Prabha",
+  "verdict": "fix",
+  "reason": "Plausible girl's name; meaning wrong",
+  "fix": {
+   "meaning_en": "Radiance of Shiva"
+  }
+ },
+ {
+  "name": "Siva Priya",
+  "verdict": "fix",
+  "reason": "Plausible girl's name; meaning wrong",
+  "fix": {
+   "meaning_en": "Beloved of Shiva"
+  }
+ },
+ {
+  "name": "Siva Sekhar",
+  "verdict": "fix",
+  "reason": "Common; meaning clumsy",
+  "fix": {
+   "meaning_en": "Shiva, crested with the moon"
+  }
+ },
+ {
+  "name": "Sri Annapurna",
+  "verdict": "reject",
+  "reason": "Worshipful address (Sri + deity name)"
+ },
+ {
+  "name": "Sri Bhavani",
+  "verdict": "reject",
+  "reason": "Worshipful address (Sri + deity name)"
+ },
+ {
+  "name": "Sri Chandra",
+  "verdict": "fix",
+  "reason": "Real name; meaning mechanical",
+  "fix": {
+   "meaning_en": "Auspicious moon"
+  }
+ },
+ {
+  "name": "Sri Dev",
+  "verdict": "reject",
+  "reason": "Dev as tail; Sri as honorific"
+ },
+ {
+  "name": "Sri Ganesh",
+  "verdict": "reject",
+  "reason": "Worshipful address (Sri + deity name)"
+ },
+ {
+  "name": "Sri Ganga",
+  "verdict": "reject",
+  "reason": "Worshipful address (Sri + river goddess)"
+ },
+ {
+  "name": "Sri Gayatri",
+  "verdict": "reject",
+  "reason": "Worshipful address (Sri + deity name)"
+ },
+ {
+  "name": "Sri Govind",
+  "verdict": "reject",
+  "reason": "Worshipful address (Sri + deity name)"
+ },
+ {
+  "name": "Sri Kala",
+  "verdict": "fix",
+  "reason": "Real girl's name; meaning clumsy",
+  "fix": {
+   "meaning_en": "Auspicious art"
+  }
+ },
+ {
+  "name": "Sri Kamakshi",
+  "verdict": "reject",
+  "reason": "Worshipful address (Sri + deity name)"
+ },
+ {
+  "name": "Sri Kiran",
+  "verdict": "keep",
+  "reason": "Good"
+ },
+ {
+  "name": "Sri Manohar",
+  "verdict": "reject",
+  "reason": "Sri as honorific on an adjective; reads as an address"
+ },
+ {
+  "name": "Sri Meenakshi",
+  "verdict": "reject",
+  "reason": "Worshipful address (Sri + deity name)"
+ },
+ {
+  "name": "Sri Mohan",
+  "verdict": "fix",
+  "reason": "Plausible; meaning ok",
+  "fix": {
+   "meaning_en": "Auspicious and charming"
+  }
+ },
+ {
+  "name": "Sri Parvati",
+  "verdict": "reject",
+  "reason": "Worshipful address (Sri + deity name)"
+ },
+ {
+  "name": "Sri Prabha",
+  "verdict": "fix",
+  "reason": "Plausible girl's name; meaning clumsy",
+  "fix": {
+   "meaning_en": "Auspicious radiance"
+  }
+ },
+ {
+  "name": "Sri Prasad",
+  "verdict": "keep",
+  "reason": "Good"
+ },
+ {
+  "name": "Sri Rekha",
+  "verdict": "fix",
+  "reason": "Real girl's name; meaning clumsy",
+  "fix": {
+   "meaning_en": "Auspicious line; line of fortune"
+  }
+ },
+ {
+  "name": "Sri Sagar",
+  "verdict": "reject",
+  "reason": "Sri as honorific on Sagar; weak and mechanical"
+ },
+ {
+  "name": "Sri Sudha",
+  "verdict": "fix",
+  "reason": "Plausible girl's name; meaning ok",
+  "fix": {
+   "meaning_en": "Auspicious nectar"
+  }
+ },
+ {
+  "name": "Sri Swathi",
+  "verdict": "fix",
+  "reason": "Plausible girl's name; meaning ok",
+  "fix": {
+   "meaning_en": "Auspicious Swati star"
+  }
+ },
+ {
+  "name": "Sri Teja",
+  "verdict": "keep",
+  "reason": "Good"
+ },
+ {
+  "name": "Sri Vamsi",
+  "verdict": "fix",
+  "reason": "Real Telugu name; meaning vague",
+  "fix": {
+   "meaning_en": "Auspicious flute, recalling Krishna's flute"
+  }
+ },
+ {
+  "name": "Sri Yamuna",
+  "verdict": "reject",
+  "reason": "Worshipful address (Sri + river goddess)"
+ },
+ {
+  "name": "Surya Krishna",
+  "verdict": "reject",
+  "reason": "Two deity names stacked; redundant"
+ },
+ {
+  "name": "Surya Mohan",
+  "verdict": "fix",
+  "reason": "Plausible; meaning clumsy",
+  "fix": {
+   "meaning_en": "Charming like the sun"
+  }
+ },
+ {
+  "name": "Surya Murthy",
+  "verdict": "fix",
+  "reason": "Plausible; meaning clumsy",
+  "fix": {
+   "meaning_en": "Embodiment of the sun"
+  }
+ },
+ {
+  "name": "Surya Prasad",
+  "verdict": "fix",
+  "reason": "Used; meaning clumsy",
+  "fix": {
+   "meaning_en": "Gift or grace of the sun"
+  }
+ },
+ {
+  "name": "Surya Teja",
+  "verdict": "fix",
+  "reason": "Used Telugu name; meaning clumsy",
+  "fix": {
+   "meaning_en": "Radiance of the sun"
+  }
+ },
+ {
+  "name": "Veera Kumar",
+  "verdict": "fix",
+  "reason": "Common; meaning clumsy",
+  "fix": {
+   "meaning_en": "Brave youth"
+  }
+ },
+ {
+  "name": "Veera Murthy",
+  "verdict": "fix",
+  "reason": "Common south Indian name; meaning clumsy",
+  "fix": {
+   "meaning_en": "Embodiment of heroism"
+  }
+ },
+ {
+  "name": "Veera Prasad",
+  "verdict": "fix",
+  "reason": "Common; meaning clumsy",
+  "fix": {
+   "meaning_en": "Gift of the brave one; hero's blessing"
+  }
+ },
+ {
+  "name": "Veera Raju",
+  "verdict": "fix",
+  "reason": "Common Telugu name; meaning clumsy",
+  "fix": {
+   "meaning_en": "Heroic king"
+  }
+ },
+ {
+  "name": "Veera Sekhar",
+  "verdict": "fix",
+  "reason": "Common; meaning clumsy",
+  "fix": {
+   "meaning_en": "Crest of heroes; Shiva the hero"
+  }
+ },
+ {
+  "name": "Venkata Krishna",
+  "verdict": "fix",
+  "reason": "Common; meaning garbled",
+  "fix": {
+   "meaning_en": "Venkateshwara and Krishna"
+  }
+ },
+ {
+  "name": "Venkata Kumar",
+  "verdict": "fix",
+  "reason": "Common; meaning garbled",
+  "fix": {
+   "meaning_en": "Son (youth) of Venkateshwara"
+  }
+ },
+ {
+  "name": "Venkata Mohan",
+  "verdict": "fix",
+  "reason": "Common; meaning garbled",
+  "fix": {
+   "meaning_en": "Charming Venkateshwara"
+  }
+ },
+ {
+  "name": "Venkata Murthy",
+  "verdict": "fix",
+  "reason": "Common; meaning garbled",
+  "fix": {
+   "meaning_en": "Embodiment of Venkateshwara"
+  }
+ },
+ {
+  "name": "Venkata Raju",
+  "verdict": "fix",
+  "reason": "Used; meaning ok",
+  "fix": {
+   "meaning_en": "Venkateshwara, the king"
+  }
+ },
+ {
+  "name": "Venkata Sekhar",
+  "verdict": "fix",
+  "reason": "Common; meaning ok",
+  "fix": {
+   "meaning_en": "Crest-jewel of Venkateshwara"
+  }
+ },
+ {
+  "name": "Venkata Teja",
+  "verdict": "fix",
+  "reason": "Used; meaning clumsy",
+  "fix": {
+   "meaning_en": "Radiance of Venkateshwara"
+  }
+ },
+ {
+  "name": "Venkata Vardhan",
+  "verdict": "fix",
+  "reason": "Used; meaning ok",
+  "fix": {
+   "meaning_en": "One who increases Venkateshwara's grace; prosperity-giver"
+  }
+ },
+ {
+  "name": "Vijaya Jyothi",
+  "verdict": "fix",
+  "reason": "Girl's name; Devanagari lacks feminine form",
+  "fix": {
+   "meaning_en": "Victorious light",
+   "devanagari": "विजया ज्योति",
+   "iast": "vijayā jyoti"
+  }
+ },
+ {
+  "name": "Vijaya Kala",
+  "verdict": "fix",
+  "reason": "Girl's name; Devanagari lacks feminine form",
+  "fix": {
+   "meaning_en": "Victorious art",
+   "devanagari": "विजया कला",
+   "iast": "vijayā kalā"
+  }
+ },
+ {
+  "name": "Vijaya Mala",
+  "verdict": "fix",
+  "reason": "Girl's name; Devanagari lacks feminine form",
+  "fix": {
+   "meaning_en": "Garland of victory",
+   "devanagari": "विजया माला",
+   "iast": "vijayā mālā"
+  }
+ },
+ {
+  "name": "Vijaya Priya",
+  "verdict": "fix",
+  "reason": "Girl's name; Devanagari lacks feminine form",
+  "fix": {
+   "meaning_en": "Beloved of victory; one dear to Vijaya",
+   "devanagari": "विजया प्रिया",
+   "iast": "vijayā priyā"
+  }
+ },
+ {
+  "name": "Vijaya Rani",
+  "verdict": "reject",
+  "reason": "Rani as honorific tail"
+ },
+ {
+  "name": "Vijaya Rekha",
+  "verdict": "fix",
+  "reason": "Girl's name; Devanagari lacks feminine form",
+  "fix": {
+   "meaning_en": "Line of victory",
+   "devanagari": "विजया रेखा",
+   "iast": "vijayā rekhā"
+  }
+ },
+ {
+  "name": "Vijaya Sree",
+  "verdict": "fix",
+  "reason": "Girl's name; Devanagari lacks feminine form",
+  "fix": {
+   "meaning_en": "Fortune of victory",
+   "devanagari": "विजया श्री",
+   "iast": "vijayā śrī"
+  }
+ }
+]
