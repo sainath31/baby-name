@@ -1,0 +1,182 @@
+[
+ {
+  "name": "Adwita",
+  "verdict": "keep",
+  "reason": "Correct; modern form of advitā, unique."
+ },
+ {
+  "name": "Alaknanda",
+  "verdict": "reject",
+  "reason": "place_or_river: River name."
+ },
+ {
+  "name": "Asmita",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Atulya",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Avantika",
+  "verdict": "keep",
+  "reason": "Fine; Avantikā is a traditional given name."
+ },
+ {
+  "name": "Bela",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Bharati",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Deepti",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Dhanashree",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Dharini",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Ekavira",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Epithet of Renuka, not a given name."
+ },
+ {
+  "name": "Indrani",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Ishwari",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Jagruti",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Kumud",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Madhumita",
+  "verdict": "fix",
+  "reason": "Meaning of -mitā as friend unsupported (friend is mitra).",
+  "fix": {
+   "meaning_en": "Sweet as honey; etymology of the second part uncertain."
+  }
+ },
+ {
+  "name": "Mahima",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Manjari",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Nandita",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Niharika",
+  "verdict": "fix",
+  "reason": "Meaning refined.",
+  "fix": {
+   "meaning_en": "Mist, dew; in modern use a nebula."
+  }
+ },
+ {
+  "name": "Nikita",
+  "verdict": "reject",
+  "reason": "other: Not Sanskrit; Russian-origin name, claimed meaning ungrounded."
+ },
+ {
+  "name": "Ojaswini",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Paridhi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Geometric term (circumference)."
+ },
+ {
+  "name": "Pragati",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Rajani",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Roopa",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Sadhana",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Samiksha",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Sanjana",
+  "verdict": "fix",
+  "reason": "IAST should be saṃjñā.",
+  "fix": {
+   "iast": "saṃjñā",
+   "meaning_en": "Consciousness, understanding; name of Surya's wife."
+  }
+ },
+ {
+  "name": "Sarika",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Siddhu",
+  "verdict": "reject",
+  "reason": "other: Mainly a Punjabi surname/male nickname; not a girl's name, form uncertain."
+ },
+ {
+  "name": "Supriya",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Tripti",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Vasundhara",
+  "verdict": "keep",
+  "reason": "Fine."
+ }
+]
