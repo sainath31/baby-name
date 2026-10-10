@@ -1,0 +1,155 @@
+[
+ {
+  "name": "Anandabhairavi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: Raga name (compound of ananda + bhairavi); not a given name in use."
+ },
+ {
+  "name": "Bharatanatyam",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Name of a dance form, not given to children."
+ },
+ {
+  "name": "Bhoopali",
+  "verdict": "fix",
+  "reason": "Bhupali is a genuine feminine name; raga name too. Spelling normalised.",
+  "fix": {
+   "name": "Bhupali",
+   "devanagari": "भूपाली",
+   "iast": "bhūpālī",
+   "meaning_en": "Relating to the earth-protector (king); also a raga."
+  }
+ },
+ {
+  "name": "Charukesi",
+  "verdict": "keep",
+  "reason": "Genuine feminine name; meaning correct."
+ },
+ {
+  "name": "Ghungroo",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Ankle bells; an object, not a name."
+ },
+ {
+  "name": "Gowrimanohari",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: Raga compound name; not used as a given name."
+ },
+ {
+  "name": "Hamsadhwani",
+  "verdict": "keep",
+  "reason": "Used as a feminine name (raga); meaning correct."
+ },
+ {
+  "name": "Hindolam",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Raga name in Carnatic form; not a given name."
+ },
+ {
+  "name": "Kamboji",
+  "verdict": "reject",
+  "reason": "place_or_river: Raga name referring to Kamboja region; not a given name."
+ },
+ {
+  "name": "Kathak",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Dance form name; not given to children."
+ },
+ {
+  "name": "Keeravani",
+  "verdict": "keep",
+  "reason": "Real name (also raga); meaning parrot-voiced is acceptable."
+ },
+ {
+  "name": "Kuchipudi",
+  "verdict": "reject",
+  "reason": "place_or_river: Dance form named after a village in Andhra; not a given name."
+ },
+ {
+  "name": "Madhuvanti",
+  "verdict": "fix",
+  "reason": "Genuine feminine name; meaning refined.",
+  "fix": {
+   "meaning_en": "Sweet, honey-like; also a raga."
+  }
+ },
+ {
+  "name": "Mohanam",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Carnatic raga form; the usable name is Mohan/Mohana, not this variant."
+ },
+ {
+  "name": "Mohiniyattam",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Dance form name; not a given name."
+ },
+ {
+  "name": "Mridang",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Drum instrument name; not given to children."
+ },
+ {
+  "name": "Natabhairavi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: Raga compound name; not used as a given name."
+ },
+ {
+  "name": "Nritya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Plain noun for dance; not a customary given name."
+ },
+ {
+  "name": "Odissi",
+  "verdict": "reject",
+  "reason": "place_or_river: Dance form named for Odisha; not a given name."
+ },
+ {
+  "name": "Raagini",
+  "verdict": "fix",
+  "reason": "Ragini is a used feminine name; doubled vowel spelling nonstandard.",
+  "fix": {
+   "name": "Ragini",
+   "devanagari": "रागिणी",
+   "iast": "rāgiṇī",
+   "meaning_en": "Full of melody or love; personification of a raga."
+  }
+ },
+ {
+  "name": "Sargam",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Musical scale (solfege); not a customary Hindu given name."
+ },
+ {
+  "name": "Saveri",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Raga name; not in use as a given name."
+ },
+ {
+  "name": "Shankarabharanam",
+  "verdict": "reject",
+  "reason": "overlong_compound: Raga/film title, long compound, not a given name."
+ },
+ {
+  "name": "Sindhubhairavi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: Raga compound name; not a given name."
+ },
+ {
+  "name": "Sitara",
+  "verdict": "fix",
+  "reason": "Used as a feminine name; meaning needs plain gloss.",
+  "fix": {
+   "meaning_en": "Star (word of Persian origin; also the sitar)."
+  }
+ },
+ {
+  "name": "Taal",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Rhythmic cycle term; not a given name."
+ },
+ {
+  "name": "Veena",
+  "verdict": "keep",
+  "reason": "Common feminine name; instrument of Saraswati."
+ }
+]
