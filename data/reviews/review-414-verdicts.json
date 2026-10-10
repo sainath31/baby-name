@@ -1,0 +1,97 @@
+[
+ {
+  "name": "Abhivriddhi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ahimsa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Avachi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Buddhi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Dharmveer",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nimesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nishtha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Prachi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pratichi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ratri",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Riddhi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Samata",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Samriddhi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Satyam",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Seva",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Sukhada",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Tyagi",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Udichi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ushakant",
+  "verdict": "keep",
+  "reason": "ok"
+ }
+]
