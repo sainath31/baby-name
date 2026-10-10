@@ -41787,5 +41787,101 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Jyoti",
+    "iast": "jyoti",
+    "devanagari": "ज्योति",
+    "letter": "J",
+    "syllable_count": 2,
+    "meaning_en": "Light; flame.",
+    "components": [
+      {
+        "part": "jyotis",
+        "gloss": "light"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-037-unisex-pan-india.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shanti",
+    "iast": "śānti",
+    "devanagari": "शान्ति",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Peace.",
+    "components": [
+      {
+        "part": "śānti",
+        "gloss": "peace"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-037-unisex-pan-india.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sahil",
+    "iast": "sāhil",
+    "devanagari": "साहिल",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Shore; coast.",
+    "components": [
+      {
+        "part": "sāhil",
+        "gloss": "shore (Persian-origin word used in India)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-037-unisex-pan-india.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
