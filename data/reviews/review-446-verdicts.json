@@ -1,0 +1,99 @@
+[
+ {
+  "name": "Arindam",
+  "verdict": "keep",
+  "reason": "Established Bengali/Marathi name; ari + damana, subduer of enemies"
+ },
+ {
+  "name": "Debolina",
+  "verdict": "fix",
+  "reason": "iast did not match Devanagari (Bengali spoken form debolīnā)",
+  "fix": {
+   "iast": "debolīnā"
+  }
+ },
+ {
+  "name": "Dipankar",
+  "verdict": "keep",
+  "reason": "Common Bengali name from dīpaṅkara, light-giver"
+ },
+ {
+  "name": "Harshavardhan",
+  "verdict": "keep",
+  "reason": "Genuine name, harṣa + vardhana, sandhi correct"
+ },
+ {
+  "name": "Jyotishman",
+  "verdict": "keep",
+  "reason": "Genuine name, jyotiṣmān, radiant"
+ },
+ {
+  "name": "Ovi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: ovī is a Marathi verse form, not an established given name grounded in tradition"
+ },
+ {
+  "name": "Priyam",
+  "verdict": "keep",
+  "reason": "Used as a name; priya, dear"
+ },
+ {
+  "name": "Ritika",
+  "verdict": "fix",
+  "reason": "meaning list is unsure; state uncertainty",
+  "fix": {
+   "meaning_en": "Etymology uncertain; rītikā is given as brass or a stream"
+  }
+ },
+ {
+  "name": "Rudra Narayan",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: two deity names joined"
+ },
+ {
+  "name": "Rutuja",
+  "verdict": "keep",
+  "reason": "Established Marathi name, ṛtu + jā"
+ },
+ {
+  "name": "Saee",
+  "verdict": "fix",
+  "reason": "meaning over-claimed; Marathi spelling of Sai",
+  "fix": {
+   "meaning_en": "Marathi form of Sai; etymology uncertain"
+  }
+ },
+ {
+  "name": "Sayan",
+  "verdict": "fix",
+  "reason": "meaning muddled; name used in Bengal",
+  "fix": {
+   "meaning_en": "Evening (sāyaṃ); etymology uncertain, cf. Sayana"
+  }
+ },
+ {
+  "name": "Smaranika",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: smaraṇikā is a memento or souvenir volume"
+ },
+ {
+  "name": "Sohini",
+  "verdict": "keep",
+  "reason": "Used name, raga Sohinī, beautiful"
+ },
+ {
+  "name": "Soumyajit",
+  "verdict": "keep",
+  "reason": "Genuine Bengali name, saumya + jit"
+ },
+ {
+  "name": "Sreemoyee",
+  "verdict": "keep",
+  "reason": "Genuine Bengali name, śrīmayī"
+ },
+ {
+  "name": "Tanushree",
+  "verdict": "keep",
+  "reason": "Genuine name, tanu + śrī"
+ }
+]

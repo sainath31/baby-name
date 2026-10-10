@@ -98524,5 +98524,557 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Ovi",
+    "iast": "ovī",
+    "devanagari": "ओवी",
+    "letter": "O",
+    "syllable_count": 2,
+    "meaning_en": "A Marathi verse form; folk song.",
+    "components": [
+      {
+        "part": "ovī",
+        "gloss": "verse"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Saee",
+    "iast": "sāī",
+    "devanagari": "साई",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Sai; devotee of the divine master.",
+    "components": [
+      {
+        "part": "sāī",
+        "gloss": "Sai Baba"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rutuja",
+    "iast": "ṛtujā",
+    "devanagari": "ऋतुजा",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Born of the season.",
+    "components": [
+      {
+        "part": "ṛtu",
+        "gloss": "season"
+      },
+      {
+        "part": "jā",
+        "gloss": "born"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Soumyajit",
+    "iast": "saumyajit",
+    "devanagari": "सौम्यजित",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Conqueror through gentleness.",
+    "components": [
+      {
+        "part": "saumya",
+        "gloss": "gentle"
+      },
+      {
+        "part": "jit",
+        "gloss": "conqueror"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Arindam",
+    "iast": "arindam",
+    "stem": "arindama",
+    "devanagari": "अरिन्दम",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Subduer of enemies.",
+    "components": [
+      {
+        "part": "ari",
+        "gloss": "enemy"
+      },
+      {
+        "part": "damana",
+        "gloss": "subduing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dipankar",
+    "iast": "dīpaṅkar",
+    "stem": "dīpaṅkara",
+    "devanagari": "दीपंकर",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Lamp-maker; light-giver.",
+    "components": [
+      {
+        "part": "dīpa",
+        "gloss": "lamp"
+      },
+      {
+        "part": "kara",
+        "gloss": "maker"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sayan",
+    "iast": "sāyan",
+    "stem": "sāyana",
+    "devanagari": "सायन",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Evening; the Vedic commentator Sayana.",
+    "components": [
+      {
+        "part": "sāyaṃ",
+        "gloss": "evening"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sreemoyee",
+    "iast": "śrīmayī",
+    "devanagari": "श्रीमयी",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Full of grace.",
+    "components": [
+      {
+        "part": "śrī",
+        "gloss": "grace"
+      },
+      {
+        "part": "maya",
+        "gloss": "full of"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ritika",
+    "iast": "ritikā",
+    "devanagari": "रितिका",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Brass; a stream; movement.",
+    "components": [
+      {
+        "part": "ritikā",
+        "gloss": "stream"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sohini",
+    "iast": "sohinī",
+    "devanagari": "सोहिनी",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Beautiful; a raga.",
+    "components": [
+      {
+        "part": "śobhinī",
+        "gloss": "beautiful"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tanushree",
+    "iast": "tanuśrī",
+    "devanagari": "तनुश्री",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Beautiful of body.",
+    "components": [
+      {
+        "part": "tanu",
+        "gloss": "body"
+      },
+      {
+        "part": "śrī",
+        "gloss": "beauty"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Debolina",
+    "iast": "devalīnā",
+    "devanagari": "देबोलीना",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "Absorbed in the divine.",
+    "components": [
+      {
+        "part": "deva",
+        "gloss": "god"
+      },
+      {
+        "part": "līnā",
+        "gloss": "absorbed"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Smaranika",
+    "iast": "smaraṇikā",
+    "devanagari": "स्मरणिका",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Memento; remembrance.",
+    "components": [
+      {
+        "part": "smaraṇa",
+        "gloss": "remembrance"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rudra Narayan",
+    "iast": "rudranārāyaṇ",
+    "stem": "rudranārāyaṇa",
+    "devanagari": "रुद्र नारायण",
+    "letter": "R",
+    "syllable_count": 5,
+    "meaning_en": "Rudra and Narayana.",
+    "components": [
+      {
+        "part": "rudra",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "nārāyaṇa",
+        "gloss": "Vishnu"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jyotishman",
+    "iast": "jyotiṣmān",
+    "devanagari": "ज्योतिष्मान",
+    "letter": "J",
+    "syllable_count": 3,
+    "meaning_en": "Radiant.",
+    "components": [
+      {
+        "part": "jyotis",
+        "gloss": "light"
+      },
+      {
+        "part": "vant",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Assam"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Priyam",
+    "iast": "priyam",
+    "devanagari": "प्रियम",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Dear; beloved.",
+    "components": [
+      {
+        "part": "priya",
+        "gloss": "dear"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Assam"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-079-marathi-bengali-odia-assamese.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
