@@ -1,0 +1,497 @@
+[
+ {
+  "name": "Aadi",
+  "verdict": "keep",
+  "reason": "Primal, first."
+ },
+ {
+  "name": "Aagam",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Abir",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Adhvik",
+  "verdict": "reject",
+  "reason": "other: No sound Sanskrit basis; meaning invented."
+ },
+ {
+  "name": "Ameya",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Anbu",
+  "verdict": "keep",
+  "reason": "Tamil, acceptable."
+ },
+ {
+  "name": "Anindya",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Ansh",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Arumugam",
+  "verdict": "fix",
+  "reason": "IAST should be aṟumukam.",
+  "fix": {
+   "iast": "aṟumukam"
+  }
+ },
+ {
+  "name": "Ayyappan",
+  "verdict": "keep",
+  "reason": "Widely given."
+ },
+ {
+  "name": "Basavaraj",
+  "verdict": "fix",
+  "reason": "Meaning imprecise.",
+  "fix": {
+   "meaning_en": "Lord Basava; named after Nandi the sacred bull and the saint Basavanna."
+  }
+ },
+ {
+  "name": "Bhanwar",
+  "verdict": "fix",
+  "reason": "Regional form; meaning tidy.",
+  "fix": {
+   "meaning_en": "A bumblebee (Hindi and Rajasthani form of bhramara)."
+  }
+ },
+ {
+  "name": "Bhuvan",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Bishwajit",
+  "verdict": "keep",
+  "reason": "Bengali spelling of Vishwajit."
+ },
+ {
+  "name": "Chintan",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Chirayu",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Devraj",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Dhaval",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Dhrumil",
+  "verdict": "fix",
+  "reason": "Etymology unclear.",
+  "fix": {
+   "meaning_en": "Etymology uncertain; possibly linked to dhruva, steadfast."
+  }
+ },
+ {
+  "name": "Divyansh",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Elango",
+  "verdict": "reject",
+  "reason": "author_or_scholar: Ilango Adigal, a Jain monk and author."
+ },
+ {
+  "name": "Gaurang",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Hardik",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Heet",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Jainil",
+  "verdict": "reject",
+  "reason": "other: Coinage with no clear etymology."
+ },
+ {
+  "name": "Jayesh",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Kamesh",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Kanishk",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Kannan",
+  "verdict": "fix",
+  "reason": "Tamil form of Krishna; eyes gloss is folk.",
+  "fix": {
+   "meaning_en": "Tamil form of Krishna."
+  }
+ },
+ {
+  "name": "Kathir",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Kavisha",
+  "verdict": "fix",
+  "reason": "Reads as girl name; use Kavish.",
+  "fix": {
+   "name": "Kavish",
+   "devanagari": "कवीश",
+   "iast": "kavīśa",
+   "meaning_en": "Lord of poets."
+  }
+ },
+ {
+  "name": "Keyur",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Kodandarama",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Kumaran",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Kunja",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Kushal",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Mahipal",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Manjunath",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Mehul",
+  "verdict": "fix",
+  "reason": "Devanagari did not match name.",
+  "fix": {
+   "devanagari": "मेहुल",
+   "iast": "mehula",
+   "meaning_en": "Rain, cloud (Gujarati name linked to megha)."
+  }
+ },
+ {
+  "name": "Mrinal",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Murugan",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Nachiket",
+  "verdict": "fix",
+  "reason": "Devanagari and IAST should match name.",
+  "fix": {
+   "devanagari": "नचिकेत",
+   "iast": "naciketa"
+  }
+ },
+ {
+  "name": "Nagaraj",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Nirmit",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Ojas",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Pankaj",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Parag",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Param",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Pinak",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Pranit",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Prasad",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Pritam",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Pugazh",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Pulkit",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Punit",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Raghavendra",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Rajveer",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Rakshit",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Ravi",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Ritvik",
+  "verdict": "fix",
+  "reason": "Devanagari and IAST should be ṛtvik form.",
+  "fix": {
+   "devanagari": "ऋत्विक",
+   "iast": "ṛtvik"
+  }
+ },
+ {
+  "name": "Rudraksh",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Sahaj",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Samiran",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Samyak",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Sarvagya",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Saurabh",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Selvam",
+  "verdict": "fix",
+  "reason": "IAST should be selvam.",
+  "fix": {
+   "iast": "selvam"
+  }
+ },
+ {
+  "name": "Shravan",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Shrenik",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure: Bimbisara/Shrenika, Jain figure."
+ },
+ {
+  "name": "Shyamal",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Siddhesh",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Subrata",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Sudhakar",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Sumant",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Swaraj",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Tapas",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Thiruvengadam",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Tirth",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Unni",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Vasudevan",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Venu",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Vetri",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Vibhu",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Vihang",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Vikramaditya",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Vipul",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Virat",
+  "verdict": "fix",
+  "reason": "IAST did not match Devanagari.",
+  "fix": {
+   "iast": "virāṭa"
+  }
+ },
+ {
+  "name": "Vishrut",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Yatharth",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Yogendra",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Yuvan",
+  "verdict": "keep",
+  "reason": "Fine."
+ }
+]
