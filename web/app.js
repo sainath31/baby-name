@@ -215,7 +215,7 @@ function buildFilters() {
       h('label', { for: 'reviewed' }, h('strong', { text: 'Reviewed names only' }), h('span', { text: 'Hide dictionary-imported names that nobody has checked yet. Off by default, so you see everything.' }))),
     h('div', { class: 'switch-row' },
       h('input', { type: 'checkbox', id: 'constructed', 'data-f': 'constructed' }),
-      h('label', { for: 'constructed' }, h('strong', { text: 'Include constructed names' }), h('span', { text: 'Names built by rule from real Sanskrit elements (for example Hari + dasa). Not found in any text, and not yet reviewed. Off by default.' }))),
+      h('label', { for: 'constructed' }, h('strong', { text: 'Include constructed names' }), h('span', { text: 'Names built by rule from real Sanskrit elements (for example Hari + dasa). Each was read by the AI reviewer, but none is found in a text. Off by default.' }))),
     group('Gender', h('div', {}, h('p', { class: 'hint', text: 'Names for boys, names for girls, or gender-neutral names that are used for any child across India.' }),
       h('div', { class: 'opt-grid' }, [['', 'All names'], ['boy', 'Boys'], ['girl', 'Girls'], ['unisex', 'Gender-neutral']].map(([v, l]) => h('label', { class: 'opt' }, h('input', { type: 'radio', name: 'gender', 'data-r': 'gender', value: v, checked: v === '' }), h('span', { text: l })))))),
     group('State or region', [stateSearch, stateList]),

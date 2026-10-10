@@ -80,7 +80,7 @@ const compact = (n) => {
   }
   if (n.era) o.e = n.era;
   if (n.kind) o.k = n.kind;
-  if (n.curation === 'unreviewed') o.u = 1;
+  if (n.curation === 'unreviewed' && !n.reviewed) o.u = 1;   // names that got a reviewer verdict are reviewed, whatever their origin
   if (n.origin === 'constructed') o.cn = 1;
   if (n.alt_spellings?.length) o.al = n.alt_spellings;
   if (n.gender === 'unisex') o.gu = 1;
