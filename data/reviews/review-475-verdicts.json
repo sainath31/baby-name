@@ -1,0 +1,15 @@
+[
+{"name":"Amalika","verdict":"keep","reason":"Amala (spotless) plus feminine -ikā; sound, auspicious."},
+{"name":"Anantara","verdict":"reject","reason":"common_noun_or_technical_term"},
+{"name":"Aradhika","verdict":"keep","reason":"Feminine of ārādhaka, worshipper; devotional and correct."},
+{"name":"Ashalata","verdict":"keep","reason":"Āśā plus latā, creeper of hope; well-formed, auspicious."},
+{"name":"Bhanuja","verdict":"keep","reason":"Bhānujā, daughter of the sun, epithet of Yamuna; IAST and Devanagari agree."},
+{"name":"Chitralekha","verdict":"keep","reason":"Citralekhā, Usha's friend in the Bhagavata Purana; established name."},
+{"name":"Gandhali","verdict":"fix","reason":"Devanagari uses anusvara where IAST has ndh; normalise to conjunct. Gloss 'fragrant row' is awkward and etymology of the Marathi name only partly certain.","fix":{"devanagari":"गन्धाली","iast":"gandhālī","meaning_en":"Row of fragrance (gandha + ālī); etymology partly uncertain"}},
+{"name":"Harshini","verdict":"keep","reason":"Harṣiṇī, joyful; classical and auspicious."},
+{"name":"Induja","verdict":"keep","reason":"Indujā, born of the moon; traditional epithet of the Narmada, fine as a girl's name."},
+{"name":"Kanakalata","verdict":"keep","reason":"Kanaka plus latā, golden creeper; well-formed."},
+{"name":"Madhushree","verdict":"fix","reason":"Gloss 'sweet prosperity' disagrees with the parts line (śrī: beauty); make meaning consistent.","fix":{"meaning_en":"Sweet beauty; sweet grace"}},
+{"name":"Mihika","verdict":"keep","reason":"Mihikā, mist or dew; gentle, in modern use, no negative sense."},
+{"name":"Navami","verdict":"reject","reason":"common_noun_or_technical_term"}
+]

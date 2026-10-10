@@ -111950,5 +111950,462 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Amalika",
+    "iast": "amalikā",
+    "devanagari": "अमलिका",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Pure, spotless one.",
+    "components": [
+      {
+        "part": "amala",
+        "gloss": "spotless"
+      },
+      {
+        "part": "-ikā",
+        "gloss": "feminine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-106-sanskrit-girls2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anantara",
+    "iast": "anantarā",
+    "devanagari": "अनन्तरा",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Immediately following; endless.",
+    "components": [
+      {
+        "part": "an",
+        "gloss": "without"
+      },
+      {
+        "part": "antara",
+        "gloss": "gap"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-106-sanskrit-girls2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Aradhika",
+    "iast": "ārādhikā",
+    "devanagari": "आराधिका",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Worshipper.",
+    "components": [
+      {
+        "part": "ārādhaka",
+        "gloss": "worshipper"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-106-sanskrit-girls2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ashalata",
+    "iast": "āśālatā",
+    "devanagari": "आशालता",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Creeper of hope.",
+    "components": [
+      {
+        "part": "āśā",
+        "gloss": "hope"
+      },
+      {
+        "part": "latā",
+        "gloss": "creeper"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-106-sanskrit-girls2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhanuja",
+    "iast": "bhānujā",
+    "devanagari": "भानुजा",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Daughter of the sun; the Yamuna.",
+    "components": [
+      {
+        "part": "bhānu",
+        "gloss": "sun"
+      },
+      {
+        "part": "jā",
+        "gloss": "born"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-106-sanskrit-girls2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chitralekha",
+    "iast": "citralekhā",
+    "devanagari": "चित्रलेखा",
+    "letter": "C",
+    "syllable_count": 4,
+    "meaning_en": "Painter; the friend of Usha who drew Aniruddha.",
+    "components": [
+      {
+        "part": "citra",
+        "gloss": "picture"
+      },
+      {
+        "part": "lekhā",
+        "gloss": "writing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Bhagavata Purana",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-106-sanskrit-girls2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gandhali",
+    "iast": "gandhālī",
+    "devanagari": "गंधाली",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Fragrant row; a Maharashtrian girl's name.",
+    "components": [
+      {
+        "part": "gandha",
+        "gloss": "fragrance"
+      },
+      {
+        "part": "ālī",
+        "gloss": "row"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-106-sanskrit-girls2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Harshini",
+    "iast": "harṣiṇī",
+    "devanagari": "हर्षिणी",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Joyful woman.",
+    "components": [
+      {
+        "part": "harṣa",
+        "gloss": "joy"
+      },
+      {
+        "part": "-iṇī",
+        "gloss": "feminine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-106-sanskrit-girls2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Induja",
+    "iast": "indujā",
+    "devanagari": "इन्दुजा",
+    "letter": "I",
+    "syllable_count": 3,
+    "meaning_en": "Daughter of the moon; the Narmada river.",
+    "components": [
+      {
+        "part": "indu",
+        "gloss": "moon"
+      },
+      {
+        "part": "jā",
+        "gloss": "born"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-106-sanskrit-girls2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kanakalata",
+    "iast": "kanakalatā",
+    "devanagari": "कनकलता",
+    "letter": "K",
+    "syllable_count": 5,
+    "meaning_en": "Golden creeper.",
+    "components": [
+      {
+        "part": "kanaka",
+        "gloss": "gold"
+      },
+      {
+        "part": "latā",
+        "gloss": "creeper"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-106-sanskrit-girls2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Madhushree",
+    "iast": "madhuśrī",
+    "devanagari": "मधुश्री",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Sweet prosperity.",
+    "components": [
+      {
+        "part": "madhu",
+        "gloss": "sweet"
+      },
+      {
+        "part": "śrī",
+        "gloss": "beauty"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-106-sanskrit-girls2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mihika",
+    "iast": "mihikā",
+    "devanagari": "मिहिका",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Mist; dew.",
+    "components": [
+      {
+        "part": "mihikā",
+        "gloss": "fog"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-106-sanskrit-girls2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Navami",
+    "iast": "navamī",
+    "devanagari": "नवमी",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Ninth day of the lunar fortnight.",
+    "components": [
+      {
+        "part": "navamī",
+        "gloss": "ninth"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-106-sanskrit-girls2.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
