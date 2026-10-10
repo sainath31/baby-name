@@ -6,6 +6,32 @@ import { nameNumber } from '../src/numerology.js';
 import { initialSound } from '../src/sounds.js';
 
 const names = loadAll();
+
+// ---- suffix / prefix pairing, derived from the reviewed lexicon (data/lexicon) and suffix rules
+import { readFileSync, readdirSync } from 'node:fs';
+import { norm } from './lib.js';
+const lexDir = new URL('../data/lexicon/', import.meta.url);
+const { suffixes: SUF, modifiers: MOD } = JSON.parse(readFileSync(new URL('suffixes.json', lexDir)));
+const ELEMENTS = new Map();
+for (const f of readdirSync(lexDir).filter((x) => /^lex-\d+-verdicts\.json$/.test(x)))
+  for (const e of JSON.parse(readFileSync(new URL(f, lexDir)))) if (e.use && e.type) ELEMENTS.set(norm(e.iast), e);
+const toLatin = (s) => s.replace(/[āīū]/g, (c) => ({ ā: 'a', ī: 'i', ū: 'u' })[c]).replace(/[śṣ]/g, 'sh').replace(/ṛ/g, 'ri').replace(/[ṇṭḍṅñṃḥ]/g, (c) => ({ ṇ: 'n', ṭ: 't', ḍ: 'd', ṅ: 'n', ñ: 'n', ṃ: 'm', ḥ: 'h' })[c]);
+const latinSuffix = (s) => toLatin(s).replace(/^./, (c) => c.toUpperCase());
+// Which listed constructed names are built on each element (first component), as concrete examples.
+const EXAMPLES = new Map();
+for (const n of names) if (n.origin === 'constructed' && n.components?.length === 2) {
+  const k = norm(n.components[0].part); (EXAMPLES.get(k) || EXAMPLES.set(k, []).get(k)).push(n.name);
+}
+const pairingFor = (n) => {
+  const el = ELEMENTS.get(norm(n.stem || n.iast)) || ELEMENTS.get(norm(n.iast));
+  if (!el) return null;
+  return {
+    type: el.type,
+    suffixes: SUF.filter((s) => s.types.includes(el.type)).map((s) => latinSuffix(s.iast)),
+    prefixes: MOD.filter((m) => m.types.includes(el.type)).map((m) => latinSuffix(m.iast)),
+    examples: (EXAMPLES.get(norm(el.iast)) || []).slice(0, 8),
+  };
+};
 const dir = new URL('../web/data/', import.meta.url);
 rmSync(dir, { recursive: true, force: true });
 mkdirSync(dir, { recursive: true });
@@ -40,6 +66,7 @@ const compact = (n) => {
   if (n.components?.length) o.co = n.components.map((c) => [c.part, c.gloss || '']);
   const p = n.pairs_with;
   if (p?.prefixes?.length || p?.suffixes?.length) o.pw = [p.prefixes || [], p.suffixes || []];
+  const pr = pairingFor(n); if (pr) o.px = [pr.type, pr.prefixes, pr.suffixes, pr.examples];
   if (n.compounds?.length) o.cp = n.compounds.map((c) => [c.name, c.meaning || '']);
   if (n.states?.length) o.st = n.states;
   if (n.era) o.e = n.era;

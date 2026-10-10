@@ -422,6 +422,11 @@ function renderDetail(r) {
     r.r && section('Reference', h('p', { text: r.r })),
     r.co?.length && section('Components', h('dl', {}, r.co.flatMap(([p, g]) => [h('dt', { text: p }), h('dd', { text: g || '-' })]))),
     pairs.length && section('Prefix and suffix pairings', h('div', { class: 'pill-row' }, pairs.map((p) => h('span', { class: 'pill', text: p })))),
+    section('Making new names from this one', r.px
+      ? h('div', {},
+        h('p', { class: 'hint', text: `Treated as a ${r.px[0]} word. It can take these suffixes (${r.px[2].length}): ${r.px[2].map((s) => `${r.n}${s.toLowerCase()}`).join(', ') || 'none'}; and these prefixes (${r.px[1].length}): ${r.px[1].map((p) => `${p}${r.n.toLowerCase()}`).join(', ') || 'none'}.` }),
+        r.px[3].length ? h('p', { class: 'hint', text: `Reviewed examples: ${r.px[3].join(', ')}. Turn on "Include constructed names" to browse them.` }) : null)
+      : h('p', { class: 'hint', text: /(nath|raj|dev|datt|das|pal|kumar|mohan|chandra|dhar|ish|esh|endra|pati|priya|kant|nandan|putra|mitra|sen|vardhan)$/i.test(r.n) ? 'This name already ends in a name-forming suffix, so it is a finished compound. Its first part may take other suffixes.' : 'No suffix or prefix pairings recorded for this name yet. Short Sanskrit nouns such as deity names, virtues and nature words usually can; check with a Sanskrit scholar.' })),
     r.cp?.length && section('Compound names', h('ul', {}, r.cp.map(([n, m]) => h('li', {}, h('strong', { text: n }), m && ` - ${m}`)))),
     section('Numerology', h('div', { class: 'num-row' }, h('div', { class: 'num' }, h('b', { text: r.c1 }), h('small', { text: 'Chaldean' })), h('div', { class: 'num' }, h('b', { text: r.c2 }), h('small', { text: 'Pythagorean' })))),
     r.so?.length && section('Sources and license', h('ul', {}, r.so.map(([t, l]) => h('li', {}, t, l && h('span', { class: 'tag', style: 'margin-left:8px', text: l }))))),
