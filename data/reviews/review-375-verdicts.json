@@ -1,0 +1,150 @@
+[
+ {
+  "name": "Abhirami",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Archana",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhanya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Divyabharathi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hemalatha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jayanthi",
+  "verdict": "fix",
+  "reason": "weak_meaning",
+  "fix": {
+   "meaning_en": "Victorious; a name of Durga."
+  }
+ },
+ {
+  "name": "Kalpana",
+  "verdict": "fix",
+  "reason": "weak_meaning",
+  "fix": {
+   "meaning_en": "Imagination; creative thought."
+  }
+ },
+ {
+  "name": "Latha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Maithili",
+  "verdict": "fix",
+  "reason": "weak_meaning",
+  "fix": {
+   "meaning_en": "Princess of Mithila; a name of Sita."
+  }
+ },
+ {
+  "name": "Meghana",
+  "verdict": "fix",
+  "reason": "weak_meaning",
+  "fix": {
+   "meaning_en": "Of the clouds; etymology uncertain."
+  }
+ },
+ {
+  "name": "Nalini",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nithya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Prabha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Priyanka",
+  "verdict": "fix",
+  "reason": "weak_meaning",
+  "fix": {
+   "meaning_en": "Dear, beloved; etymology uncertain."
+  }
+ },
+ {
+  "name": "Rachana",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rathna",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Saranya",
+  "verdict": "fix",
+  "reason": "weak_meaning",
+  "fix": {
+   "meaning_en": "Worthy of refuge; protector."
+  }
+ },
+ {
+  "name": "Sharmila",
+  "verdict": "fix",
+  "reason": "weak_meaning",
+  "fix": {
+   "meaning_en": "Giver of happiness or protection; etymology uncertain."
+  }
+ },
+ {
+  "name": "Sridevi",
+  "verdict": "fix",
+  "reason": "weak_meaning",
+  "fix": {
+   "meaning_en": "Lakshmi; auspicious goddess of fortune."
+  }
+ },
+ {
+  "name": "Tejaswini",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Uthara",
+  "verdict": "fix",
+  "reason": "weak_meaning",
+  "fix": {
+   "meaning_en": "Northern, later; Uttara, wife of Abhimanyu."
+  }
+ },
+ {
+  "name": "Yashoda",
+  "verdict": "fix",
+  "reason": "weak_meaning",
+  "fix": {
+   "meaning_en": "Bestower of glory; Krishna's foster mother."
+  }
+ },
+ {
+  "name": "Yogitha",
+  "verdict": "fix",
+  "reason": "weak_meaning",
+  "fix": {
+   "meaning_en": "Skilled in yoga; etymology uncertain."
+  }
+ }
+]
