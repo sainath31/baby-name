@@ -1,0 +1,9 @@
+[
+{"name":"Tapti","verdict":"keep","reason":"Tapti/Tapi river and Surya's daughter; commonly given to girls."},
+{"name":"Shipra","verdict":"keep","reason":"Established girl's name; river of Ujjain."},
+{"name":"Indrayani","verdict":"keep","reason":"Used for girls, esp. Maharashtra; epithet of Indra's consort, also a river."},
+{"name":"Bakul","verdict":"keep","reason":"Flower-tree name used for girls, esp. Bengal/Maharashtra; script agrees."},
+{"name":"Krittika","verdict":"keep","reason":"Nakshatra name, given to girls; script agrees."},
+{"name":"Atasi","verdict":"fix","reason":"Given to girls in Bengal, but meaning should be the plant itself.","fix":{"meaning_en":"Flax (linseed) plant, with blue flowers"}},
+{"name":"Kurangi","verdict":"fix","reason":"Plausible but uncommon girl's name; meaning overstated.","fix":{"meaning_en":"Doe, female antelope"}}
+]

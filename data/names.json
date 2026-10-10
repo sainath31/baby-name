@@ -110358,5 +110358,239 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Tapti",
+    "iast": "taptī",
+    "devanagari": "तप्ती",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "Warming; Surya's daughter, the Tapi river.",
+    "components": [
+      {
+        "part": "tap",
+        "gloss": "to warm"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-101-rivers-flowers.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shipra",
+    "iast": "śiprā",
+    "devanagari": "शिप्रा",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "The river of Ujjain.",
+    "components": [
+      {
+        "part": "śiprā",
+        "gloss": "river name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Madhya Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Meghaduta",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-101-rivers-flowers.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Indrayani",
+    "iast": "indrāyaṇī",
+    "devanagari": "इन्द्रायणी",
+    "letter": "I",
+    "syllable_count": 4,
+    "meaning_en": "Consort of Indra; the river near Pune.",
+    "components": [
+      {
+        "part": "indra",
+        "gloss": "Indra"
+      },
+      {
+        "part": "-āyaṇī",
+        "gloss": "consort"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Devi Mahatmya",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-101-rivers-flowers.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bakul",
+    "iast": "bakul",
+    "stem": "bakula",
+    "devanagari": "बकुल",
+    "letter": "B",
+    "syllable_count": 2,
+    "meaning_en": "The bakula tree, whose flowers are fragrant.",
+    "components": [
+      {
+        "part": "bakula",
+        "gloss": "Mimusops elengi"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Kalidasa",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-101-rivers-flowers.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Krittika",
+    "iast": "kṛttikā",
+    "devanagari": "कृत्तिका",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "The Pleiades, nurses of Kartikeya.",
+    "components": [
+      {
+        "part": "kṛttikā",
+        "gloss": "Pleiades"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-101-rivers-flowers.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Atasi",
+    "iast": "atasī",
+    "devanagari": "अतसी",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Flax flower.",
+    "components": [
+      {
+        "part": "atasī",
+        "gloss": "flax"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-101-rivers-flowers.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kurangi",
+    "iast": "kuraṅgī",
+    "devanagari": "कुरङ्गी",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Doe; the deer-eyed one.",
+    "components": [
+      {
+        "part": "kuraṅga",
+        "gloss": "deer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-101-rivers-flowers.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
