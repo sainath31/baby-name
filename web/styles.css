@@ -201,7 +201,7 @@ body[data-script="iast"] .deva, body[data-script="iast"] .d-deva, body[data-scri
 .tab[aria-selected="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
 .field-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px 12px; margin: 6px 0; }
 .field { display: flex; flex-direction: column; gap: 4px; font-size: 14px; }
-.field input { min-height: 44px; padding: 0 10px; border-radius: 10px; border: 1px solid var(--border, #e8dccf); background: var(--surface); color: var(--text); font: inherit; width: 100%; box-sizing: border-box; }
+.field input, .field select { min-height: 44px; padding: 0 10px; border-radius: 10px; border: 1px solid var(--border, #e8dccf); background: var(--surface); color: var(--text); font: inherit; width: 100%; box-sizing: border-box; }
 .abroad { margin: 6px 0; } .abroad summary { min-height: 44px; display: flex; align-items: center; cursor: pointer; }
 .pane .btn { margin: 8px 8px 0 0; }
 .table-wrap { overflow-x: auto; margin-top: 10px; }

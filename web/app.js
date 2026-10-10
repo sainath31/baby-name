@@ -443,6 +443,25 @@ function renderDetail(r) {
 window.addEventListener('hashchange', () => { const m = location.hash.match(/^#n=(.+)$/); if (m) openDetail(decodeURIComponent(m[1]), null); });
 
 // ---- birth details panel (top of the page): exact birth, or an expected date range
+
+// ---- time zone drop-down: common zones first, then every zone the browser knows
+const COMMON_TZ = [['Asia/Kolkata', 'India'], ['Asia/Colombo', 'Sri Lanka'], ['Asia/Kathmandu', 'Nepal'], ['Asia/Dhaka', 'Bangladesh'], ['Asia/Karachi', 'Pakistan'],
+  ['Asia/Dubai', 'UAE'], ['Asia/Muscat', 'Oman'], ['Asia/Qatar', 'Qatar'], ['Asia/Riyadh', 'Saudi Arabia'], ['Asia/Kuwait', 'Kuwait'], ['Asia/Singapore', 'Singapore'],
+  ['Asia/Kuala_Lumpur', 'Malaysia'], ['Asia/Bangkok', 'Thailand'], ['Asia/Hong_Kong', 'Hong Kong'], ['Asia/Tokyo', 'Japan'], ['Australia/Sydney', 'Sydney'],
+  ['Australia/Perth', 'Perth'], ['Pacific/Auckland', 'New Zealand'], ['Indian/Mauritius', 'Mauritius'], ['Africa/Johannesburg', 'South Africa'], ['Africa/Nairobi', 'Kenya'],
+  ['Africa/Lagos', 'Nigeria'], ['Europe/London', 'United Kingdom'], ['Europe/Paris', 'Western Europe'], ['Europe/Berlin', 'Central Europe'], ['Europe/Moscow', 'Moscow'],
+  ['America/New_York', 'US Eastern'], ['America/Chicago', 'US Central'], ['America/Denver', 'US Mountain'], ['America/Los_Angeles', 'US Pacific'],
+  ['America/Toronto', 'Toronto'], ['America/Vancouver', 'Vancouver'], ['America/Sao_Paulo', 'Brazil']];
+const tzOffset = (z) => { try { return new Intl.DateTimeFormat('en-US', { timeZone: z, timeZoneName: 'shortOffset' }).formatToParts(new Date()).find((p) => p.type === 'timeZoneName')?.value.replace('GMT', 'UTC') || ''; } catch (e) { return ''; } };
+function tzSelect(id, value) {
+  const opt = (z, label) => h('option', { value: z, text: `${label || z.replace(/_/g, ' ')} (${tzOffset(z) || 'UTC'})`, selected: z === value });
+  const common = new Set(COMMON_TZ.map(([z]) => z));
+  let all = [];
+  try { all = (Intl.supportedValuesOf ? Intl.supportedValuesOf('timeZone') : []).filter((z) => !common.has(z)); } catch (e) { /* older browsers: the common list is enough */ }
+  return h('select', { id }, h('optgroup', { label: 'Common time zones' }, COMMON_TZ.map(([z, l]) => opt(z, `${l} - ${z.split('/').pop().replace(/_/g, ' ')}`))),
+    all.length ? h('optgroup', { label: 'All other time zones' }, all.map((z) => opt(z))) : null);
+}
+
 function buildBirthPanel() {
   const box = $('birthPanel');
   if (!box) return;
@@ -462,7 +481,7 @@ function buildBirthPanel() {
           h('div', { class: 'field-row' },
             field('bLat', 'Latitude', h('input', { type: 'text', id: 'bLat', placeholder: 'e.g. 51.5', inputmode: 'decimal' })),
             field('bLon', 'Longitude', h('input', { type: 'text', id: 'bLon', placeholder: 'e.g. -0.12', inputmode: 'decimal' })),
-            field('bTz', 'Time zone', h('input', { type: 'text', id: 'bTz', placeholder: 'e.g. Europe/London' })))),
+            field('bTz', 'Time zone', tzSelect('bTz', 'Asia/Kolkata')))),
         h('p', { class: 'hint', text: 'No exact time? Leave it empty: 12:00 is assumed and the result is approximate.' }),
         h('button', { type: 'button', class: 'btn primary', id: 'bGo', text: 'Find names' }),
         h('div', { id: 'bOut', 'aria-live': 'polite' })),
@@ -471,7 +490,7 @@ function buildBirthPanel() {
         h('div', { class: 'field-row' },
           field('rFrom', 'From', h('input', { type: 'date', id: 'rFrom' })),
           field('rTo', 'To', h('input', { type: 'date', id: 'rTo' })),
-          field('rTz', 'Time zone', h('input', { type: 'text', id: 'rTz', value: 'Asia/Kolkata' }))),
+          field('rTz', 'Time zone', tzSelect('rTz', 'Asia/Kolkata'))),
         h('button', { type: 'button', class: 'btn primary', id: 'rGo', text: 'Find possible names' }),
         h('div', { id: 'rOut', 'aria-live': 'polite' }))));
   box.addEventListener('click', (e) => {
