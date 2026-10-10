@@ -1,0 +1,537 @@
+[
+ {
+  "name": "Divyasaddharma",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Divyasubhagya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Divyasudharma",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Divyasupunya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Girishadasa",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Girishadasi",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Girishadatta",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Girishakumara",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Girishamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Girishanandana",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Girishanandini",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Girishanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Girishapriya",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Girishaputra",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Girishasundari",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Mahagirisha",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Mahaprabhasa",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Mahasaddharma",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Mahasubhagya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahasudharma",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahasumantra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahasupunya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahatrimurti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Prabhasadasa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Prabhasadatta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Prabhasadhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Prabhasakumara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Prabhasamayi",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Prabhasamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Prabhasanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Prabhasapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Prabhasapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Prabhasaputra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Saddharmadevi",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Saddharmadhara",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Saddharmaketu",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Saddharmamayi",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Saddharmamitra",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Saddharmanatha",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Saddharmapala",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Saddharmapati",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Saddharmapriya",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Saddharmaraja",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Saddharmavati",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Shrigirisha",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Shriprabhasa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisaddharma",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Shrisubhagya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisudharma",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Shrisumantra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisupunya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shritrimurti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagyadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagyadhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagyaketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagyamayi",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Subhagyamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagyanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagyapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagyapati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagyapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagyaraja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagyavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudharmadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudharmadhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudharmaketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudharmamayi",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Sudharmamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudharmanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudharmapala",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Sudharmapati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudharmapriya",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Sudharmaraja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudharmavati",
+  "verdict": "keep",
+  "reason": "natural auspicious compound"
+ },
+ {
+  "name": "Sumantradasa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumantradatta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumantradhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumantrakumara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumantramayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumantramitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumantranatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumantrapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumantrapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumantraputra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supunyadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supunyadhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supunyaketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supunyamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supunyamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supunyanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supunyapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supunyapati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supunyapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supunyaraja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supunyavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susaddharma",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Susubhagya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susudharma",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susupunya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Trimurtidasa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Trimurtidasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Trimurtidatta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Trimurtikumara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Trimurtimitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Trimurtinatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Trimurtipriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Trimurtiputra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ }
+]
