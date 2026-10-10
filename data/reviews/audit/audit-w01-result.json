@@ -1,0 +1,985 @@
+[
+ {
+  "name": "Anu Annapurna",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: meaningless prefix before a goddess name"
+ },
+ {
+  "name": "Anu Chandrika",
+  "verdict": "fix",
+  "reason": "plausible South Indian style",
+  "fix": {
+   "meaning_en": "Anu with Chandrika, moonlight; a given name"
+  }
+ },
+ {
+  "name": "Anu Ganga",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: meaningless prefix before a goddess/river name"
+ },
+ {
+  "name": "Anu Jyothi",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Anu with Jyothi (light); a given name"
+  }
+ },
+ {
+  "name": "Anu Kalyani",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Anu with Kalyani (auspicious one)"
+  }
+ },
+ {
+  "name": "Anu Priya",
+  "verdict": "fix",
+  "reason": "plausible; Anupriya",
+  "fix": {
+   "meaning_en": "Anupriya: beloved, dear"
+  }
+ },
+ {
+  "name": "Anu Rani",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Rani is an honorific tail"
+ },
+ {
+  "name": "Anu Saraswati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: meaningless prefix before a goddess name"
+ },
+ {
+  "name": "Anu Sudha",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Anu with Sudha (nectar)"
+  }
+ },
+ {
+  "name": "Anu Vidya",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Anu with Vidya (knowledge)"
+  }
+ },
+ {
+  "name": "Bala Chandra",
+  "verdict": "fix",
+  "reason": "real name Balachandra",
+  "fix": {
+   "meaning_en": "Balachandra: the young (crescent) moon, also an epithet of Shiva"
+  }
+ },
+ {
+  "name": "Bala Kiran",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Balakiran: young ray, the morning sun"
+  }
+ },
+ {
+  "name": "Bala Murthy",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Balamurthy: the child form, a boyish form of the Lord"
+  }
+ },
+ {
+  "name": "Bala Sekhar",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Balasekhar: one crowned with the young moon, Shiva"
+  }
+ },
+ {
+  "name": "Bhanu Narayan",
+  "verdict": "keep",
+  "reason": "Surya-Narayana is a real devotional pairing"
+ },
+ {
+  "name": "Bhanu Nath",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Nath suffix, rarely given as Bhanunath"
+ },
+ {
+  "name": "Bhanu Prakash",
+  "verdict": "keep",
+  "reason": "real, common name"
+ },
+ {
+  "name": "Bhanu Shankar",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Bhanu Swaroop",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Dev Anand",
+  "verdict": "keep",
+  "reason": "well attested"
+ },
+ {
+  "name": "Dev Bhushan",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Dev Kant",
+  "verdict": "keep",
+  "reason": "plausible though uncommon"
+ },
+ {
+  "name": "Dev Pal",
+  "verdict": "reject",
+  "reason": "other: surname-style suffix Pal"
+ },
+ {
+  "name": "Dev Pratap",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Dev Sagar",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Dev Sharan",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Dev Swaroop",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Giri Mohan",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Giri Nath",
+  "verdict": "keep",
+  "reason": "Girinath, lord of the mountain, an attested name"
+ },
+ {
+  "name": "Gopi Chandra",
+  "verdict": "fix",
+  "reason": "real name Gopichand",
+  "fix": {
+   "meaning_en": "Gopichand: moon among the gopas (cowherds), a Krishna-linked name"
+  }
+ },
+ {
+  "name": "Gopi Das",
+  "verdict": "reject",
+  "reason": "other: surname-style suffix Das"
+ },
+ {
+  "name": "Gopi Kishore",
+  "verdict": "fix",
+  "reason": "plausible Telugu/Bengali style",
+  "fix": {
+   "meaning_en": "Gopikishore: the youth beloved of the gopis, Krishna"
+  }
+ },
+ {
+  "name": "Gopi Murthy",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Gopimurthy: the form beloved of the gopis, Krishna"
+  }
+ },
+ {
+  "name": "Hari Bhushan",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Hari Chandra",
+  "verdict": "fix",
+  "reason": "variant of Harishchandra; ok",
+  "fix": {
+   "meaning_en": "Harichandra: Hari with the moon; also a form of Harishchandra"
+  }
+ },
+ {
+  "name": "Hari Dayal",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Hari Kant",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Hari Manohar",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Harimanohar: Vishnu the heart-captivating"
+  }
+ },
+ {
+  "name": "Hari Mohan",
+  "verdict": "fix",
+  "reason": "real name",
+  "fix": {
+   "meaning_en": "Harimohan: Hari the enchanter"
+  }
+ },
+ {
+  "name": "Hari Sagar",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Harisagar: ocean of Hari"
+  }
+ },
+ {
+  "name": "Hari Swaroop",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Jai Kumar",
+  "verdict": "keep",
+  "reason": "common"
+ },
+ {
+  "name": "Jai Nath",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Nath suffix, not an established name"
+ },
+ {
+  "name": "Jai Sagar",
+  "verdict": "fix",
+  "reason": "weak but plausible",
+  "fix": {
+   "meaning_en": "Jaisagar: victorious ocean"
+  }
+ },
+ {
+  "name": "Jaya Bhavani",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: reads as the invocation Jai Bhavani"
+ },
+ {
+  "name": "Jaya Devi",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Devi as honorific"
+ },
+ {
+  "name": "Jaya Jyothi",
+  "verdict": "fix",
+  "reason": "real Telugu name; feminine Devanagari",
+  "fix": {
+   "meaning_en": "Jayajyothi: light of victory",
+   "devanagari": "जया ज्योति"
+  }
+ },
+ {
+  "name": "Jaya Kalyani",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Jaya Mala",
+  "verdict": "fix",
+  "reason": "feminine Devanagari",
+  "fix": {
+   "meaning_en": "Jayamala: garland of victory",
+   "devanagari": "जया माला"
+  }
+ },
+ {
+  "name": "Jaya Priya",
+  "verdict": "fix",
+  "reason": "feminine Devanagari",
+  "fix": {
+   "meaning_en": "Jayapriya: dear to victory, beloved of the victorious",
+   "devanagari": "जया प्रिया"
+  }
+ },
+ {
+  "name": "Jaya Saraswati",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: invocation, not a name"
+ },
+ {
+  "name": "Jaya Vardhan",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Jayavardhan: increaser of victory"
+  }
+ },
+ {
+  "name": "Jaya Vidya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: not an attested pairing"
+ },
+ {
+  "name": "Krishna Chandra",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Krishnachandra: Krishna the moon-like"
+  }
+ },
+ {
+  "name": "Krishna Kumar",
+  "verdict": "fix",
+  "reason": "common",
+  "fix": {
+   "meaning_en": "Krishnakumar: young son of Krishna, Krishna the youth"
+  }
+ },
+ {
+  "name": "Krishna Raju",
+  "verdict": "fix",
+  "reason": "Telugu style",
+  "fix": {
+   "meaning_en": "Krishnaraju: King Krishna"
+  }
+ },
+ {
+  "name": "Krishna Sekhar",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Krishnasekhar: crest of Krishna, Krishna as crown"
+  }
+ },
+ {
+  "name": "Mahesh Anand",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Mahesh Dutt",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Mahesh Pratap",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Om Kant",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: sacred syllable plus Kant, not attested"
+ },
+ {
+  "name": "Om Kiran",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Omkiran: ray of Om"
+  }
+ },
+ {
+  "name": "Om Kishore",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Omkishore: the youth of Om"
+  }
+ },
+ {
+  "name": "Om Manohar",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: not an attested pairing"
+ },
+ {
+  "name": "Om Nath",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Nath suffix, Omnath uncommon"
+ },
+ {
+  "name": "Om Prasad",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Omprasad: grace of Om"
+  }
+ },
+ {
+  "name": "Padma Jyothi",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Padma Kala",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Padma Lakshmi",
+  "verdict": "fix",
+  "reason": "real name; Padma is itself Lakshmi so partly redundant",
+  "fix": {
+   "meaning_en": "Padmalakshmi: Lakshmi of the lotus"
+  }
+ },
+ {
+  "name": "Padma Mala",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Padma Priya",
+  "verdict": "keep",
+  "reason": "real"
+ },
+ {
+  "name": "Padma Sree",
+  "verdict": "keep",
+  "reason": "real"
+ },
+ {
+  "name": "Padma Vidya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: not an attested pairing"
+ },
+ {
+  "name": "Pran Anand",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: not an attested pairing"
+ },
+ {
+  "name": "Pran Kishore",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Prankishore: the youth who is life-breath"
+  }
+ },
+ {
+  "name": "Prem Das",
+  "verdict": "reject",
+  "reason": "other: surname-style suffix Das"
+ },
+ {
+  "name": "Prem Kant",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Prem Kishore",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Prem Mohan",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Prem Narayan",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Prem Prakash",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Prem Pratap",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Prem Shankar",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Prem Swaroop",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Raj Bhushan",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Raj Dayal",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Raj Kant",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Raj Kishore",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Rajkishore: the royal youth"
+  }
+ },
+ {
+  "name": "Raj Madhav",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Rajmadhav: royal Madhava (Krishna)"
+  }
+ },
+ {
+  "name": "Raj Mohan",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Rajmohan: the charming king"
+  }
+ },
+ {
+  "name": "Raj Narayan",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Rajnarayan: king Narayana (Vishnu)"
+  }
+ },
+ {
+  "name": "Raj Prakash",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Raj Sagar",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Rajsagar: royal ocean"
+  }
+ },
+ {
+  "name": "Raj Vamsi",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Rajvamsi: royal one of the flute, Krishna"
+  }
+ },
+ {
+  "name": "Raj Vishnu",
+  "verdict": "fix",
+  "reason": "weak",
+  "fix": {
+   "meaning_en": "Rajvishnu: royal Vishnu"
+  }
+ },
+ {
+  "name": "Ram Dayal",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Ram Kiran",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Ramkiran: ray of Rama"
+  }
+ },
+ {
+  "name": "Ram Mohan",
+  "verdict": "fix",
+  "reason": "real, e.g. Ram Mohan",
+  "fix": {
+   "meaning_en": "Rammohan: Rama the charming"
+  }
+ },
+ {
+  "name": "Ram Pratap",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Ram Shankar",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Ramshankar: Rama and Shankar (Shiva)"
+  }
+ },
+ {
+  "name": "Ram Swaroop",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Ram Veer",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Ramveer: brave devotee of Rama"
+  }
+ },
+ {
+  "name": "Rama Jyothi",
+  "verdict": "fix",
+  "reason": "plausible feminine",
+  "fix": {
+   "meaning_en": "Ramajyothi: pleasing light"
+  }
+ },
+ {
+  "name": "Rama Kala",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Ramakala: charming art"
+  }
+ },
+ {
+  "name": "Rama Latha",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Ramalatha: charming creeper"
+  }
+ },
+ {
+  "name": "Rama Rani",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Rani as honorific tail"
+ },
+ {
+  "name": "Rama Sekhar",
+  "verdict": "fix",
+  "reason": "plausible Telugu",
+  "fix": {
+   "meaning_en": "Ramasekhar: one with Rama as crest, devoted to Rama"
+  }
+ },
+ {
+  "name": "Ravi Krishna",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Ravikrishna: sun and Krishna"
+  }
+ },
+ {
+  "name": "Sai Anand",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Saianand: bliss of Sai"
+  }
+ },
+ {
+  "name": "Sai Annapurna",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Sai plus a goddess name is not attested"
+ },
+ {
+  "name": "Sai Bhavani",
+  "verdict": "fix",
+  "reason": "plausible Telugu",
+  "fix": {
+   "meaning_en": "Saibhavani: Sai with Bhavani, the Goddess"
+  }
+ },
+ {
+  "name": "Sai Hari",
+  "verdict": "fix",
+  "reason": "weak",
+  "fix": {
+   "meaning_en": "Saihari: Sai with Hari (Vishnu)"
+  }
+ },
+ {
+  "name": "Sai Jyothi",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Saijyothi: light of Sai"
+  }
+ },
+ {
+  "name": "Sai Kala",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Saikala: art of Sai"
+  }
+ },
+ {
+  "name": "Sai Kalyani",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Saikalyani: Sai with the auspicious one"
+  }
+ },
+ {
+  "name": "Sai Kishore",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Saikishore: youth of Sai"
+  }
+ },
+ {
+  "name": "Sai Kumari",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Saikumari: maiden of Sai"
+  }
+ },
+ {
+  "name": "Sai Latha",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Sailatha: creeper of Sai"
+  }
+ },
+ {
+  "name": "Sai Manohar",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Saimanohar: heart-captivating Sai"
+  }
+ },
+ {
+  "name": "Sai Sudha",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Saisudha: nectar of Sai"
+  }
+ },
+ {
+  "name": "Sai Vamsi",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Saivamsi: Sai with Krishna's flute"
+  }
+ },
+ {
+  "name": "Sai Venkat",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Saivenkat: Sai with Lord Venkateshwara"
+  }
+ },
+ {
+  "name": "Shiv Chandra",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Shiv Pratap",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Shiv Veer",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Shivveer: brave devotee of Shiva"
+  }
+ },
+ {
+  "name": "Siva Devi",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Devi as honorific"
+ },
+ {
+  "name": "Siva Jyothi",
+  "verdict": "fix",
+  "reason": "plausible Telugu",
+  "fix": {
+   "meaning_en": "Sivajyothi: light of Shiva"
+  }
+ },
+ {
+  "name": "Siva Kala",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Sivakala: art of Shiva"
+  }
+ },
+ {
+  "name": "Siva Nandan",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Sivanandan: son of Shiva, delight of Shiva"
+  }
+ },
+ {
+  "name": "Siva Raju",
+  "verdict": "fix",
+  "reason": "Telugu style",
+  "fix": {
+   "meaning_en": "Sivaraju: king Shiva"
+  }
+ },
+ {
+  "name": "Siva Rani",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Rani as honorific tail"
+ },
+ {
+  "name": "Siva Sree",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Sivasree: auspicious fortune of Shiva"
+  }
+ },
+ {
+  "name": "Sri Anand",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Sri Anand: auspicious bliss"
+  }
+ },
+ {
+  "name": "Sri Chandrika",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Srichandrika: auspicious moonlight"
+  }
+ },
+ {
+  "name": "Sri Durga",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Sri plus Durga is a worshipful address, not a name"
+ },
+ {
+  "name": "Sri Gopal",
+  "verdict": "keep",
+  "reason": "common"
+ },
+ {
+  "name": "Sri Jyothi",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Sri Karthik",
+  "verdict": "keep",
+  "reason": "common"
+ },
+ {
+  "name": "Sri Kishore",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Sri Priya",
+  "verdict": "keep",
+  "reason": "plausible"
+ },
+ {
+  "name": "Sri Rani",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Sri and Rani are both honorifics"
+ },
+ {
+  "name": "Sri Saraswati",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Sri plus Saraswati is a worshipful address, not a name"
+ },
+ {
+  "name": "Sri Surya",
+  "verdict": "fix",
+  "reason": "plausible Telugu",
+  "fix": {
+   "meaning_en": "Srisurya: auspicious sun"
+  }
+ },
+ {
+  "name": "Surya Kumar",
+  "verdict": "fix",
+  "reason": "common",
+  "fix": {
+   "meaning_en": "Suryakumar: son of the sun"
+  }
+ },
+ {
+  "name": "Surya Nandan",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Suryanandan: son of the sun"
+  }
+ },
+ {
+  "name": "Surya Sekhar",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Suryasekhar: crest of the sun"
+  }
+ },
+ {
+  "name": "Veera Krishna",
+  "verdict": "fix",
+  "reason": "plausible",
+  "fix": {
+   "meaning_en": "Veerakrishna: brave Krishna"
+  }
+ },
+ {
+  "name": "Venkata Prasad",
+  "verdict": "fix",
+  "reason": "common",
+  "fix": {
+   "meaning_en": "Venkataprasad: grace of Lord Venkateshwara"
+  }
+ },
+ {
+  "name": "Vijaya Latha",
+  "verdict": "fix",
+  "reason": "feminine Devanagari",
+  "fix": {
+   "meaning_en": "Vijayalatha: creeper of victory",
+   "devanagari": "विजया लता"
+  }
+ },
+ {
+  "name": "Vijaya Prabha",
+  "verdict": "fix",
+  "reason": "feminine Devanagari",
+  "fix": {
+   "meaning_en": "Vijayaprabha: radiance of victory",
+   "devanagari": "विजया प्रभा"
+  }
+ }
+]

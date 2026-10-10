@@ -41,14 +41,16 @@ for (const n of names.filter((x) => x.listed)) {
 // Telugu / Kannada forms derived from Devanagari must be well-formed in their own scripts.
 let regionalChecked = 0, regionalWarn = 0;
 for (const n of names.filter((x) => x.listed)) {
-  const dev = (n.devanagari || '').replace(/\s+/g, '');
+  const words = (n.devanagari || '').split(/\s+/).filter(Boolean);      // two-word names are checked word by word
   for (const [sc, conv] of [['telugu', toTelugu], ['kannada', toKannada]]) {
-    const text = conv(dev);
-    if (text === null) continue;                                   // Devanagari-only sign (e.g. ॐ)
-    regionalChecked++;
-    const r = validateName(text, sc);
-    if (!r.valid) errors.push(`${n.name}: ${sc} form ${text} invalid (${r.errors[0]})`);
-    else if (r.warnings.length) regionalWarn++;
+    words.forEach((dev, i) => {
+      const text = conv(dev);
+      if (text === null) return;                                   // Devanagari-only sign (e.g. ॐ)
+      regionalChecked++;
+      const r = validateName(text, sc);
+      if (!r.valid) errors.push(`${n.name}: ${sc} form ${text} invalid (${r.errors[0]})`);
+      else if (r.warnings.length && i === words.length - 1) regionalWarn++;
+    });
   }
 }
 if (regionalWarn) console.warn(`${regionalWarn} Telugu/Kannada forms of listed names end in a bare consonant (usually need a final vowel there).`);
