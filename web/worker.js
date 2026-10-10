@@ -4,7 +4,7 @@ import { filterNames } from './src/filters.js';
 const DATA = new URL('./data/', import.meta.url);
 const norm = (s) => String(s).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, ' ').trim();
 // Fold common Indian-English spelling variants so Ishan finds Ishaan, Arav finds Aarav, Sidharth finds Siddharth.
-const fold = (s) => s.replace(/w/g, 'v').replace(/ee/g, 'i').replace(/oo/g, 'u').replace(/([a-z])\1+/g, '$1');
+const fold = (s) => s.replace(/w/g, 'v').replace(/ee/g, 'i').replace(/oo/g, 'u').replace(/(s|t|d|b|k|g|p|c)h/g, '$1').replace(/([a-z])\1+/g, '$1');
 
 let manifest = null;
 const shards = new Map(); // letter -> Promise<{recs, qs}>

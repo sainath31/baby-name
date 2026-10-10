@@ -1,0 +1,37 @@
+[
+ {
+  "name": "Srikanth",
+  "verdict": "reject",
+  "reason": "duplicate_variant: spelling variant of Shrikant"
+ },
+ {
+  "name": "Venkata Ramana",
+  "verdict": "reject",
+  "reason": "duplicate_variant: spelling variant of Venkataraman"
+ },
+ {
+  "name": "Venkateshwarlu",
+  "verdict": "reject",
+  "reason": "duplicate_variant: spelling variant of Venkateswarlu"
+ },
+ {
+  "name": "Abir",
+  "verdict": "reject",
+  "reason": "duplicate_variant: spelling variant of Abhir"
+ },
+ {
+  "name": "Subrat",
+  "verdict": "reject",
+  "reason": "duplicate_variant: spelling variant of Subrata"
+ },
+ {
+  "name": "Balachandra",
+  "verdict": "reject",
+  "reason": "duplicate_variant: spelling variant of Bhalachandra"
+ },
+ {
+  "name": "Amay",
+  "verdict": "reject",
+  "reason": "duplicate_variant: spelling variant of Ameya"
+ }
+]
