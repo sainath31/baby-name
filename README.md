@@ -12,11 +12,11 @@ _Last updated: 2026-10-10_
 
 | Measure | Count |
 |---|---|
-| Names listed (shown to users) | 2,374 (boys 2,289, girls 74, gender-neutral 11) |
-| - attested (found in texts, dictionaries or common use) | 1,566 |
-| - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 808 |
+| Names listed (shown to users) | 2,410 (boys 2,288, girls 111, gender-neutral 11) |
+| - attested (found in texts, dictionaries or common use) | 1,599 |
+| - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 811 |
 | Hidden candidate records kept in data | ~18,700 |
-| Total records | 21,842 |
+| Total records | 21,871 |
 | Names read by the AI reviewer | ~6,700 (first round 694, shortlist 2,480, constructed 2,676, hand batches 130, fixes) |
 | Tests | 20 passing |
 
