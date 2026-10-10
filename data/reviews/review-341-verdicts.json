@@ -1,0 +1,175 @@
+[
+ {
+  "name": "Appalaraju",
+  "verdict": "fix",
+  "reason": "Used in coastal Andhra (Appalaswamy devotion); meaning was vague. State tag should be AP.",
+  "fix": {
+   "meaning_en": "King Appala; Appala is a Telugu name for the deity (Appalaswamy, Narasimha of Simhachalam)"
+  }
+ },
+ {
+  "name": "Chalapathi",
+  "verdict": "fix",
+  "reason": "Real Telugu name (Andhra); the 'lord of the moving' gloss is shaky.",
+  "fix": {
+   "meaning_en": "Lord of the moving (cala + pati); etymology uncertain"
+  }
+ },
+ {
+  "name": "Channakeshava",
+  "verdict": "fix",
+  "reason": "Karnataka name (Belur Chennakeshava); IAST did not match the Devanagari as written.",
+  "fix": {
+   "iast": "cannakeśava",
+   "meaning_en": "Beautiful Keshava (Kannada cenna, beautiful); Vishnu of Belur"
+  }
+ },
+ {
+  "name": "Dharmaraj",
+  "verdict": "fix",
+  "reason": "Used in Karnataka and Tamil Nadu; Yama reference is unsuitable for a given name. Note: state tag may be wider than AP/TS/KA.",
+  "fix": {
+   "meaning_en": "King of righteousness; epithet of Yudhishthira"
+  }
+ },
+ {
+  "name": "Gurunath",
+  "verdict": "keep",
+  "reason": "Used in Karnataka and Maharashtra; sound meaning. Note: state tag may be Maharashtra rather than south."
+ },
+ {
+  "name": "Halesh",
+  "verdict": "fix",
+  "reason": "Karnataka name; IAST lacked final vowel and Balarama gloss is doubtful.",
+  "fix": {
+   "iast": "haleśa",
+   "meaning_en": "Lord of the plough (hala + īśa); etymology uncertain"
+  }
+ },
+ {
+  "name": "Jagan",
+  "verdict": "keep",
+  "reason": "Common Telugu name (Jagan Mohan); world-lord short form."
+ },
+ {
+  "name": "Kameswara",
+  "verdict": "keep",
+  "reason": "Telugu form of Kameshvara, Shiva; common in AP/TS."
+ },
+ {
+  "name": "Kiccha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Kannada film nickname, not a traditional given name; no sound Sanskrit meaning."
+ },
+ {
+  "name": "Kishan",
+  "verdict": "fix",
+  "reason": "Northern spelling; Devanagari and IAST were wrong (कृष्ण sounds as kiśan). State tag looks northern (not AP/TS/KA only).",
+  "fix": {
+   "devanagari": "किशन",
+   "iast": "kiśan",
+   "meaning_en": "Krishna (northern spelling of Krishna)"
+  }
+ },
+ {
+  "name": "Krishnamohan",
+  "verdict": "keep",
+  "reason": "Used in Andhra and Karnataka; auspicious Krishna name."
+ },
+ {
+  "name": "Krishnappa",
+  "verdict": "keep",
+  "reason": "Common Kannada name; appa is a Kannada honorific suffix."
+ },
+ {
+  "name": "Lakshmipathi",
+  "verdict": "keep",
+  "reason": "Common southern spelling; Vishnu."
+ },
+ {
+  "name": "Nagabhushan",
+  "verdict": "keep",
+  "reason": "Used in Karnataka and Telugu states; Shiva epithet as name."
+ },
+ {
+  "name": "Rajasekhar",
+  "verdict": "fix",
+  "reason": "Very common Telugu name; meaning wrongly mentions poet.",
+  "fix": {
+   "meaning_en": "Crest-jewel of kings (rāja + śekhara); also Shiva"
+  }
+ },
+ {
+  "name": "Ramu",
+  "verdict": "keep",
+  "reason": "Affectionate short form of Rama, widely used in the south."
+ },
+ {
+  "name": "Sesha",
+  "verdict": "keep",
+  "reason": "Used in Telugu states (Seshagiri, Sesha Reddy); serpent Shesha of Vishnu."
+ },
+ {
+  "name": "Sharath",
+  "verdict": "fix",
+  "reason": "Karnataka spelling; Devanagari did not reflect the written final th.",
+  "fix": {
+   "devanagari": "शरथ",
+   "iast": "śarath",
+   "meaning_en": "Autumn (Sanskrit śarad); southern spelling"
+  }
+ },
+ {
+  "name": "Siddaraju",
+  "verdict": "fix",
+  "reason": "Karnataka name; meaning loosely worded.",
+  "fix": {
+   "meaning_en": "King of the siddhas (perfected ones); from the Siddharameshwara tradition"
+  }
+ },
+ {
+  "name": "Sivaprasad",
+  "verdict": "keep",
+  "reason": "Telugu spelling; grace of Shiva."
+ },
+ {
+  "name": "Somashekar",
+  "verdict": "keep",
+  "reason": "Karnataka and Telugu name; Shiva with the moon on his crest."
+ },
+ {
+  "name": "Srikanth",
+  "verdict": "fix",
+  "reason": "Common Telugu name; Devanagari श्रीकान्त did not match IAST kaṇṭha.",
+  "fix": {
+   "devanagari": "श्रीकण्ठ",
+   "iast": "śrīkaṇṭh",
+   "meaning_en": "Of the auspicious throat (śrī + kaṇṭha); Shiva"
+  }
+ },
+ {
+  "name": "Srikar",
+  "verdict": "keep",
+  "reason": "Used in Telugu states; bringer of prosperity."
+ },
+ {
+  "name": "Subba",
+  "verdict": "reject",
+  "reason": "other: Short nickname fragment of Subrahmanya, used only inside compounds like Subba Rao."
+ },
+ {
+  "name": "Tirupati",
+  "verdict": "keep",
+  "reason": "Given name in AP/TS (Tirupathi Rao); also a place name but accepted for Venkateswara."
+ },
+ {
+  "name": "Varaprasad",
+  "verdict": "keep",
+  "reason": "Common Telugu name; boon-grace."
+ },
+ {
+  "name": "Venugopal",
+  "verdict": "keep",
+  "reason": "Common across all southern states; Krishna."
+ }
+]

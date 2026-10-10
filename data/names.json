@@ -2800,7 +2800,7 @@
       }
     ],
     "stem": "nīla",
-    "gender": "unisex"
+    "gender": "boy"
   },
   {
     "name": "Om",
@@ -13716,7 +13716,7 @@
       }
     ],
     "stem": "madhura",
-    "gender": "unisex"
+    "gender": "boy"
   },
   {
     "name": "Manan",
@@ -17650,7 +17650,7 @@
         "license": "original compilation"
       }
     ],
-    "gender": "unisex"
+    "gender": "boy"
   },
   {
     "name": "Pankaj",
@@ -17719,7 +17719,7 @@
       }
     ],
     "stem": "parama",
-    "gender": "unisex"
+    "gender": "boy"
   },
   {
     "name": "Parag",
@@ -25869,7 +25869,7 @@
         "license": "original compilation"
       }
     ],
-    "gender": "unisex"
+    "gender": "boy"
   },
   {
     "name": "Rameshwar",
@@ -26046,7 +26046,7 @@
         "license": "original compilation"
       }
     ],
-    "gender": "unisex"
+    "gender": "boy"
   },
   {
     "name": "Srijan",
@@ -31845,7 +31845,7 @@
         "license": "original compilation"
       }
     ],
-    "gender": "unisex"
+    "gender": "boy"
   },
   {
     "name": "Paras",
@@ -32041,7 +32041,7 @@
         "license": "original compilation"
       }
     ],
-    "gender": "unisex"
+    "gender": "boy"
   },
   {
     "name": "Subodh",
@@ -34435,7 +34435,7 @@
         "license": "original compilation"
       }
     ],
-    "gender": "unisex"
+    "gender": "boy"
   },
   {
     "name": "Prabal",
@@ -40716,7 +40716,7 @@
     "origin": "attested",
     "era": "modern",
     "confidence": "high",
-    "gender": "unisex",
+    "gender": "boy",
     "sources": [
       {
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
@@ -40789,38 +40789,6 @@
     ]
   },
   {
-    "name": "Tanu",
-    "iast": "tanu",
-    "devanagari": "तनु",
-    "letter": "T",
-    "syllable_count": 2,
-    "meaning_en": "Slender, delicate; the body.",
-    "components": [
-      {
-        "part": "tanu",
-        "gloss": "slender, body"
-      }
-    ],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [
-      "All India"
-    ],
-    "origin": "attested",
-    "era": "modern",
-    "confidence": "high",
-    "gender": "unisex",
-    "sources": [
-      {
-        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
-        "license": "original compilation"
-      }
-    ]
-  },
-  {
     "name": "Anu",
     "iast": "aṇu",
     "devanagari": "अनु",
@@ -40877,7 +40845,7 @@
     "origin": "attested",
     "era": "modern",
     "confidence": "high",
-    "gender": "unisex",
+    "gender": "boy",
     "sources": [
       {
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
@@ -40914,7 +40882,7 @@
     "origin": "attested",
     "era": "modern",
     "confidence": "high",
-    "gender": "unisex",
+    "gender": "boy",
     "sources": [
       {
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",
@@ -40979,7 +40947,7 @@
     "origin": "attested",
     "era": "modern",
     "confidence": "high",
-    "gender": "unisex",
+    "gender": "boy",
     "sources": [
       {
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-033-unisex.json",

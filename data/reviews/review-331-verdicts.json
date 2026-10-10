@@ -1,175 +1,1337 @@
 [
- {
-  "name": "Appalaraju",
-  "verdict": "fix",
-  "reason": "Used in coastal Andhra (Appalaswamy devotion); meaning was vague. State tag should be AP.",
-  "fix": {
-   "meaning_en": "King Appala; Appala is a Telugu name for the deity (Appalaswamy, Narasimha of Simhachalam)"
+  {
+    "name": "Achyutadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Achyutadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Achyutakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Achyuta (Vishnu); Achyuta with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Achyutamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Achyutanandana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Achyutanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Achyutapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Achyutaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Adhokshajadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Aghoradasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Aghoradatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Aghorakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Aghora (Shiva); Aghora with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Aghoramitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Aghoranandana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Aghoranatha",
+    "verdict": "fix",
+    "reason": "Real name Aghoranatha means Lord Aghora (karmadharaya), not lord of Aghora.",
+    "fix": {
+      "meaning_en": "Lord Aghora (Shiva)."
+    }
+  },
+  {
+    "name": "Aghorapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Aghoraputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Anantadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Anantadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Anantakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Ananta (Vishnu); Ananta with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Anantamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Anantanandana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Anantapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Anantaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Aniladasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Aniladatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Anilakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Anila (the wind god); Anila with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Anilamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Anilanandana",
+    "verdict": "fix",
+    "reason": "Anilanandana is a known epithet of Hanuman; -nandana means son.",
+    "fix": {
+      "meaning_en": "Son of the wind god (Hanuman)."
+    }
+  },
+  {
+    "name": "Anilanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Anilapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Anilaputra",
+    "verdict": "fix",
+    "reason": "Anilaputra is a classical epithet of Hanuman and Bhima.",
+    "fix": {
+      "meaning_en": "Son of the wind god (Hanuman or Bhima)."
+    }
+  },
+  {
+    "name": "Anjaneyadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Anjaneyadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Anjaneyamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Anjaneyanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Anjaneyapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Anjaneyaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Ashutoshadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Ashutoshadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Ashutoshamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Ashutoshanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Ashutoshapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Ashutoshaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Avadheshadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Avadheshadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Avadheshamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Avadheshanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Avadheshapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Avadheshaputra",
+    "verdict": "fix",
+    "reason": "Son of the lord of Avadh, i.e. Rama son of Dasharatha.",
+    "fix": {
+      "meaning_en": "Son of the king of Avadh (Rama, son of Dasharatha)."
+    }
+  },
+  {
+    "name": "Balabhadradasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Baladevadasa",
+    "verdict": "fix",
+    "reason": "Baladeva is bala (strength), not bāla; spelling corrected.",
+    "fix": {
+      "devanagari": "बलदेवदास",
+      "iast": "baladevadāsa",
+      "meaning_en": "Servant of Baladeva (Balarama)."
+    }
+  },
+  {
+    "name": "Baladevadatta",
+    "verdict": "fix",
+    "reason": "Baladeva is bala (strength), not bāla; spelling corrected.",
+    "fix": {
+      "devanagari": "बलदेवदत्त",
+      "iast": "baladevadatta",
+      "meaning_en": "Given by Baladeva (Balarama)."
+    }
+  },
+  {
+    "name": "Baladevamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Baladevanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Baladevapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Baladevaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Balaramadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Balaramadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Balaramamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Balaramanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Balaramapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Balaramaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Bhairavadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Bhairavadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Bhairavakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Bhairava (Shiva); Bhairava with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Bhairavamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Bhairavanatha",
+    "verdict": "fix",
+    "reason": "Bhairavanatha is an established name meaning Lord Bhairava, not lord of Bhairava.",
+    "fix": {
+      "meaning_en": "Lord Bhairava (Shiva)."
+    }
+  },
+  {
+    "name": "Bhairavapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Bhairavaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Bhaskaradasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Bhaskaradatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Bhaskarakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Bhaskara (the Sun); Bhaskara with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Bhaskaramitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Bhaskaranatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Bhaskarapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Bhaskaraputra",
+    "verdict": "fix",
+    "reason": "Son of the Sun, an epithet of Karna.",
+    "fix": {
+      "meaning_en": "Son of the Sun (Karna)."
+    }
+  },
+  {
+    "name": "Bholanathadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Chakrapanidasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Dattatreyadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Devendradasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Devendradatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Devendrakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Devendra (Indra); Devendra with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Devendramitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Devendranatha",
+    "verdict": "fix",
+    "reason": "Devendranatha is an established name; meaning is Lord Devendra, lord of the gods.",
+    "fix": {
+      "meaning_en": "Lord Devendra; lord of the gods (Indra)."
+    }
+  },
+  {
+    "name": "Devendrapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Devendraputra",
+    "verdict": "fix",
+    "reason": "Son of Indra, an epithet of Arjuna.",
+    "fix": {
+      "meaning_en": "Son of Indra (Arjuna)."
+    }
+  },
+  {
+    "name": "Gajananadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Gajananadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Gajananamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Gajanananatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Gajananapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Gajananaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Ganapatidasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Ganapatidatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Ganapatimitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Ganapatipriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Ganapatiputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Ganeshadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Ganeshadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Ganeshakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Ganesha; Ganesha with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Ganeshamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Ganeshanandana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Ganeshanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Ganeshapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Ganeshaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Gangadharadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Gaurangadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Gaurangadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Gaurangadhara",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Gaurangakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Gauranga (Chaitanya); Gauranga with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Gaurangamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Gauranganatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Gaurangapala",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Gaurangapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Gaurangaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Gopaladatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Gopalakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Gopala (Krishna); Gopala with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Gopalamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Gopalanandana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Gopalanatha",
+    "verdict": "fix",
+    "reason": "Gopalanatha is in use meaning Lord Gopala, not lord of Gopala.",
+    "fix": {
+      "meaning_en": "Lord Gopala (Krishna)."
+    }
+  },
+  {
+    "name": "Gopalapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Gopalaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Gopinathadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Gopinathadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Gopinathamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Gopinathanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Gopinathapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Gopinathaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Govindadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Govindakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Govinda (Krishna); Govinda with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Govindamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Govindanandana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Govindapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Govindaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Halayudhadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Halayudhadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Halayudhamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Halayudhanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Halayudhapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Halayudhaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Hayagrivadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Hayagrivadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Hayagrivamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Hayagrivanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Hayagrivapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Hayagrivaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Herambadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Herambadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Herambakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Heramba (Ganesha); Heramba with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Herambamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Herambanandana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Herambanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Herambapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Herambaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Ishanadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Ishanadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Ishanakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Ishana (Shiva); Ishana with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Ishanamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Ishananandana",
+    "verdict": "fix",
+    "reason": "-nandana means son; son of Shiva.",
+    "fix": {
+      "meaning_en": "Son of Ishana (Shiva); Ganesha or Kartikeya."
+    }
+  },
+  {
+    "name": "Ishananatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Ishanapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Ishanaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Jagadishadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Jagadishadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Jagadishamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Jagadishanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Jagadishapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Jagadishaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Jagannathadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Janardanadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Janardanadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Janardanamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Janardananatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Janardanapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Janardanaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Karttikeyadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Kashinathadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Kuberadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Kuberakumara",
+    "verdict": "fix",
+    "reason": "-kumara here is the common name-ending meaning boy/prince, not literally a son of the deity; meaning corrected.",
+    "fix": {
+      "meaning_en": "Prince Kubera; Kubera with kumara, \"boy, prince\"."
+    }
+  },
+  {
+    "name": "Kuberamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Kuberanandana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Kuberanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Kuberapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Kuberaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Lambodaradasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Lambodaradatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Lambodaramitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Lambodaranatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Lambodarapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Lambodaraputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Mahabalabhadra",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahabaladeva",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Mahabalarama",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahabhairava",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahabhaskara",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahabholanatha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahachakrapani",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahachyuta",
+    "verdict": "reject",
+    "reason": "negative_meaning"
+  },
+  {
+    "name": "Mahadattatreya",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahadevadasa",
+    "verdict": "keep",
+    "reason": "Servant-of compound in traditional Vaishnava/Shaiva naming style; correct sandhi and meaning."
+  },
+  {
+    "name": "Mahadevadatta",
+    "verdict": "keep",
+    "reason": "Given-by-deity compound in traditional style (cf. Devadatta); meaning correct."
+  },
+  {
+    "name": "Mahadevamitra",
+    "verdict": "keep",
+    "reason": "-mitra compound in the Vishvamitra pattern; sensible and auspicious."
+  },
+  {
+    "name": "Mahadevanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Mahadevapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Mahadevaputra",
+    "verdict": "fix",
+    "reason": "Son of Shiva, i.e. Ganesha or Kartikeya.",
+    "fix": {
+      "meaning_en": "Son of Mahadeva (Shiva); Ganesha or Kartikeya."
+    }
+  },
+  {
+    "name": "Mahadevendra",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahadhokshaja",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahagajanana",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahaganapati",
+    "verdict": "keep",
+    "reason": "Mahaganapati is an established form of Ganesha."
+  },
+  {
+    "name": "Mahagangadhara",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahagauranga",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahaghora",
+    "verdict": "reject",
+    "reason": "negative_meaning"
+  },
+  {
+    "name": "Mahagopala",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahagopinatha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahagovinda",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahahalayudha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahahayagriva",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahaheramba",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahajagadisha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahajagannatha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahajanardana",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahakarttikeya",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahakashinatha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahakubera",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahalambodara",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahamahadeva",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Mahamangesha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahamanjunatha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahamaruti",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahamayuresha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahamurari",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahanagesha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahananta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Mahanarahari",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahanarasimha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahanataraja",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahanilakantha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahanjaneya",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Mahapadmanabha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahapanduranga",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahapashupati",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Mahaprabhu",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Mahaprajapati",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Maharadhakanta",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Maharaghunatha",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Maharaghupati",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Maharaghuvira",
+    "verdict": "reject",
+    "reason": "overlong_compound"
+  },
+  {
+    "name": "Maharajarama",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Maharamakanta",
+    "verdict": "reject",
+    "reason": "overlong_compound"
   }
- },
- {
-  "name": "Chalapathi",
-  "verdict": "fix",
-  "reason": "Real Telugu name (Andhra); the 'lord of the moving' gloss is shaky.",
-  "fix": {
-   "meaning_en": "Lord of the moving (cala + pati); etymology uncertain"
-  }
- },
- {
-  "name": "Channakeshava",
-  "verdict": "fix",
-  "reason": "Karnataka name (Belur Chennakeshava); IAST did not match the Devanagari as written.",
-  "fix": {
-   "iast": "cannakeśava",
-   "meaning_en": "Beautiful Keshava (Kannada cenna, beautiful); Vishnu of Belur"
-  }
- },
- {
-  "name": "Dharmaraj",
-  "verdict": "fix",
-  "reason": "Used in Karnataka and Tamil Nadu; Yama reference is unsuitable for a given name. Note: state tag may be wider than AP/TS/KA.",
-  "fix": {
-   "meaning_en": "King of righteousness; epithet of Yudhishthira"
-  }
- },
- {
-  "name": "Gurunath",
-  "verdict": "keep",
-  "reason": "Used in Karnataka and Maharashtra; sound meaning. Note: state tag may be Maharashtra rather than south."
- },
- {
-  "name": "Halesh",
-  "verdict": "fix",
-  "reason": "Karnataka name; IAST lacked final vowel and Balarama gloss is doubtful.",
-  "fix": {
-   "iast": "haleśa",
-   "meaning_en": "Lord of the plough (hala + īśa); etymology uncertain"
-  }
- },
- {
-  "name": "Jagan",
-  "verdict": "keep",
-  "reason": "Common Telugu name (Jagan Mohan); world-lord short form."
- },
- {
-  "name": "Kameswara",
-  "verdict": "keep",
-  "reason": "Telugu form of Kameshvara, Shiva; common in AP/TS."
- },
- {
-  "name": "Kiccha",
-  "verdict": "reject",
-  "reason": "epithet_not_given_name: Kannada film nickname, not a traditional given name; no sound Sanskrit meaning."
- },
- {
-  "name": "Kishan",
-  "verdict": "fix",
-  "reason": "Northern spelling; Devanagari and IAST were wrong (कृष्ण sounds as kiśan). State tag looks northern (not AP/TS/KA only).",
-  "fix": {
-   "devanagari": "किशन",
-   "iast": "kiśan",
-   "meaning_en": "Krishna (northern spelling of Krishna)"
-  }
- },
- {
-  "name": "Krishnamohan",
-  "verdict": "keep",
-  "reason": "Used in Andhra and Karnataka; auspicious Krishna name."
- },
- {
-  "name": "Krishnappa",
-  "verdict": "keep",
-  "reason": "Common Kannada name; appa is a Kannada honorific suffix."
- },
- {
-  "name": "Lakshmipathi",
-  "verdict": "keep",
-  "reason": "Common southern spelling; Vishnu."
- },
- {
-  "name": "Nagabhushan",
-  "verdict": "keep",
-  "reason": "Used in Karnataka and Telugu states; Shiva epithet as name."
- },
- {
-  "name": "Rajasekhar",
-  "verdict": "fix",
-  "reason": "Very common Telugu name; meaning wrongly mentions poet.",
-  "fix": {
-   "meaning_en": "Crest-jewel of kings (rāja + śekhara); also Shiva"
-  }
- },
- {
-  "name": "Ramu",
-  "verdict": "keep",
-  "reason": "Affectionate short form of Rama, widely used in the south."
- },
- {
-  "name": "Sesha",
-  "verdict": "keep",
-  "reason": "Used in Telugu states (Seshagiri, Sesha Reddy); serpent Shesha of Vishnu."
- },
- {
-  "name": "Sharath",
-  "verdict": "fix",
-  "reason": "Karnataka spelling; Devanagari did not reflect the written final th.",
-  "fix": {
-   "devanagari": "शरथ",
-   "iast": "śarath",
-   "meaning_en": "Autumn (Sanskrit śarad); southern spelling"
-  }
- },
- {
-  "name": "Siddaraju",
-  "verdict": "fix",
-  "reason": "Karnataka name; meaning loosely worded.",
-  "fix": {
-   "meaning_en": "King of the siddhas (perfected ones); from the Siddharameshwara tradition"
-  }
- },
- {
-  "name": "Sivaprasad",
-  "verdict": "keep",
-  "reason": "Telugu spelling; grace of Shiva."
- },
- {
-  "name": "Somashekar",
-  "verdict": "keep",
-  "reason": "Karnataka and Telugu name; Shiva with the moon on his crest."
- },
- {
-  "name": "Srikanth",
-  "verdict": "fix",
-  "reason": "Common Telugu name; Devanagari श्रीकान्त did not match IAST kaṇṭha.",
-  "fix": {
-   "devanagari": "श्रीकण्ठ",
-   "iast": "śrīkaṇṭh",
-   "meaning_en": "Of the auspicious throat (śrī + kaṇṭha); Shiva"
-  }
- },
- {
-  "name": "Srikar",
-  "verdict": "keep",
-  "reason": "Used in Telugu states; bringer of prosperity."
- },
- {
-  "name": "Subba",
-  "verdict": "reject",
-  "reason": "other: Short nickname fragment of Subrahmanya, used only inside compounds like Subba Rao."
- },
- {
-  "name": "Tirupati",
-  "verdict": "keep",
-  "reason": "Given name in AP/TS (Tirupathi Rao); also a place name but accepted for Venkateswara."
- },
- {
-  "name": "Varaprasad",
-  "verdict": "keep",
-  "reason": "Common Telugu name; boon-grace."
- },
- {
-  "name": "Venugopal",
-  "verdict": "keep",
-  "reason": "Common across all southern states; Krishna."
- }
 ]
