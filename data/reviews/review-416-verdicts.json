@@ -1,0 +1,48 @@
+[
+ {
+  "name": "Charu",
+  "verdict": "fix",
+  "reason": "Charu is used for both boys and girls",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Himalay",
+  "verdict": "reject",
+  "reason": "place_or_river: the mountain range, not a person's name"
+ },
+ {
+  "name": "Jasprit",
+  "verdict": "fix",
+  "reason": "Sikh/Punjabi name; state tag Gujarat is wrong",
+  "fix": {
+   "states": [
+    "Punjab"
+   ]
+  }
+ },
+ {
+  "name": "Moti",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: plain Hindi word for pearl, a pet name"
+ },
+ {
+  "name": "Nandi",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Shiva's sacred bull and gatekeeper"
+ },
+ {
+  "name": "Pushpa",
+  "verdict": "fix",
+  "reason": "Pushpa is overwhelmingly a girl's name; unisex tag is weak",
+  "fix": {
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Sitara",
+  "verdict": "reject",
+  "reason": "other: Persian-origin word, not Sanskrit/Hindu"
+ }
+]

@@ -1,0 +1,843 @@
+[
+ {
+  "name": "Abinaya",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Adwita",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Arijit",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Arul",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Arulmozhi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Asha",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Ashu",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Asmita",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Atri",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Atulya",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Avantika",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Babruvahana",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Basava",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Bela",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Bharati",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Bhoomi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Bhupali",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Chameli",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Chandidas",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Chandrima",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Charu",
+  "verdict": "fix",
+  "reason": "Charu is used for both boys and girls",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Charukesi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Chiranjeev",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Chitransh",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Deepti",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Dhanashree",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Dharini",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Dharmveer",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Dhrishtadyumna",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Diksha",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Dinakaran",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Disha",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Dnyandev",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Ekavali",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Elangovan",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Ghanendra",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Greeshma",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Hamsadhwani",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Hansika",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Harin",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Harini",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Heera",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Hema",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Hemavati",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Himalay",
+  "verdict": "reject",
+  "reason": "place_or_river: the mountain range, not a person's name"
+ },
+ {
+  "name": "Ilayaraja",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Ilesh",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Indrani",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Indumathi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Ishika",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Ishwari",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Jagruti",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Jalaram",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Jambavan",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Janamejaya",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Jasprit",
+  "verdict": "fix",
+  "reason": "Sikh/Punjabi name; state tag Gujarat is wrong",
+  "fix": {
+   "states": [
+    "Punjab"
+   ]
+  }
+ },
+ {
+  "name": "Jayatirtha",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Kalaivani",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Karpagam",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Keeravani",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Kokila",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Kousalya",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Kumar",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Kumkum",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Kumud",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Kumudini",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Kunti",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Kushagra",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Kusum",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Kusumita",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Lalan",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Lingesh",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Lokendra",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Madhavdev",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Madhumita",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Madhuvanti",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Mahesan",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Mahi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Mahima",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Makarand",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Malathi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Mandhata",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Manik",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Manjari",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Mayuri",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Moti",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: plain Hindi word for pearl, a pet name"
+ },
+ {
+  "name": "Mrigendra",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Muthuswami",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Nagalakshmi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Nalina",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Nandi",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Shiva's sacred bull and gatekeeper"
+ },
+ {
+  "name": "Nandita",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Neelam",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Neer",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Niharika",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Nilay",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Nimesh",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Nirjhar",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Nisha",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Nishtha",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Ojaswini",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Oormi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Padmaja",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Panna",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Parimala",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Parvat",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Pavani",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Prabhavathi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Prachi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Pragati",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Prasoon",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Pravala",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Pundarik",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Pururava",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Pushpa",
+  "verdict": "fix",
+  "reason": "Pushpa is overwhelmingly a girl's name; unisex tag is weak",
+  "fix": {
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Pushya",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Ragini",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Rajani",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Ramadasu",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Ramani",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Rangan",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Ravichandran",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Ravidas",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Riddhi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Roopa",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Sadhana",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Samata",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Samiksha",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Samriddhi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Sanjana",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Sankaradeva",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Sarala",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Sarika",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Satyam",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Sevanti",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Shailaja",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Shraddha",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Sitara",
+  "verdict": "reject",
+  "reason": "other: Persian-origin word, not Sanskrit/Hindu"
+ },
+ {
+  "name": "Smriti",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Sukhada",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Sumangala",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Sunidhi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Supriya",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Surendran",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Tarang",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Tejendra",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Tirthesh",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Tripti",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Tulsiram",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Unmesh",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Upendra",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Urja",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Urvashi",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Ushakant",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Usharani",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Vajra",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Vanaja",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Vanraj",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Varsha",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Vasundhara",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Veena",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Vishakh",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Vrishabh",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Yaduvir",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Yayati",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ },
+ {
+  "name": "Yugandhar",
+  "verdict": "keep",
+  "reason": "Genuine name, meaning and script acceptable."
+ }
+]
