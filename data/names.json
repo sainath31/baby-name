@@ -23721,5 +23721,711 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Samir",
+    "iast": "samīra",
+    "devanagari": "समीर",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Breeze, gentle wind.",
+    "components": [
+      {
+        "part": "samīra",
+        "gloss": "wind"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jalad",
+    "iast": "jalada",
+    "devanagari": "जलद",
+    "letter": "J",
+    "syllable_count": 3,
+    "meaning_en": "Cloud; giver of water.",
+    "components": [
+      {
+        "part": "jala",
+        "gloss": "water"
+      },
+      {
+        "part": "da",
+        "gloss": "giver"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Himadri",
+    "iast": "himādri",
+    "devanagari": "हिमाद्रि",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "The snow mountain; the Himalaya.",
+    "components": [
+      {
+        "part": "hima",
+        "gloss": "snow"
+      },
+      {
+        "part": "adri",
+        "gloss": "mountain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shail",
+    "iast": "śaila",
+    "devanagari": "शैल",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Mountain, rock.",
+    "components": [
+      {
+        "part": "śaila",
+        "gloss": "mountain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Neeraj",
+    "iast": "nīraja",
+    "devanagari": "नीरज",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Lotus; born in water.",
+    "components": [
+      {
+        "part": "nīra",
+        "gloss": "water"
+      },
+      {
+        "part": "ja",
+        "gloss": "born"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Utpal",
+    "iast": "utpala",
+    "devanagari": "उत्पल",
+    "letter": "U",
+    "syllable_count": 3,
+    "meaning_en": "Blue lotus, water lily.",
+    "components": [
+      {
+        "part": "utpala",
+        "gloss": "blue lotus"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hans",
+    "iast": "haṃsa",
+    "devanagari": "हंस",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Swan; the soul in yogic imagery.",
+    "components": [
+      {
+        "part": "haṃsa",
+        "gloss": "swan"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shikhar",
+    "iast": "śikhara",
+    "devanagari": "शिखर",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Peak, summit.",
+    "components": [
+      {
+        "part": "śikhara",
+        "gloss": "peak"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tarak",
+    "iast": "tāraka",
+    "devanagari": "तारक",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Star; protector, one who carries across.",
+    "components": [
+      {
+        "part": "tāraka",
+        "gloss": "star, deliverer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shashi",
+    "iast": "śaśin",
+    "devanagari": "शशी",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "The moon (marked with a hare).",
+    "components": [
+      {
+        "part": "śaśa",
+        "gloss": "hare"
+      },
+      {
+        "part": "-in",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sudhanshu",
+    "iast": "sudhāṃśu",
+    "devanagari": "सुधांशु",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Nectar-rayed; the moon.",
+    "components": [
+      {
+        "part": "sudhā",
+        "gloss": "nectar"
+      },
+      {
+        "part": "aṃśu",
+        "gloss": "ray"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nishakar",
+    "iast": "niśākara",
+    "devanagari": "निशाकर",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Maker of the night; the moon.",
+    "components": [
+      {
+        "part": "niśā",
+        "gloss": "night"
+      },
+      {
+        "part": "kara",
+        "gloss": "maker"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Arka",
+    "iast": "arka",
+    "devanagari": "अर्क",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "The sun; a ray of light.",
+    "components": [
+      {
+        "part": "arka",
+        "gloss": "sun, ray"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Prabhat",
+    "iast": "prabhāta",
+    "devanagari": "प्रभात",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Dawn, daybreak.",
+    "components": [
+      {
+        "part": "prabhāta",
+        "gloss": "daybreak"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anal",
+    "iast": "anala",
+    "devanagari": "अनल",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Fire.",
+    "components": [
+      {
+        "part": "anala",
+        "gloss": "fire"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pawak",
+    "iast": "pāvaka",
+    "devanagari": "पावक",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Fire, the purifier.",
+    "components": [
+      {
+        "part": "pāvaka",
+        "gloss": "purifier, fire"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shishir",
+    "iast": "śiśira",
+    "devanagari": "शिशिर",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "The cool season, late winter.",
+    "components": [
+      {
+        "part": "śiśira",
+        "gloss": "cool season"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vipin",
+    "iast": "vipina",
+    "devanagari": "विपिन",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Forest, grove.",
+    "components": [
+      {
+        "part": "vipina",
+        "gloss": "forest"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Taru",
+    "iast": "taru",
+    "devanagari": "तरु",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "Tree.",
+    "components": [
+      {
+        "part": "taru",
+        "gloss": "tree"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kadamb",
+    "iast": "kadamba",
+    "devanagari": "कदम्ब",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "The kadamba tree, beloved of Krishna.",
+    "components": [
+      {
+        "part": "kadamba",
+        "gloss": "the kadamba tree"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Parijat",
+    "iast": "pārijāta",
+    "devanagari": "पारिजात",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "The coral-jasmine; the celestial wish-granting tree.",
+    "components": [
+      {
+        "part": "pārijāta",
+        "gloss": "coral jasmine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nishith",
+    "iast": "niśītha",
+    "devanagari": "निशीथ",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Midnight.",
+    "components": [
+      {
+        "part": "niśītha",
+        "gloss": "midnight"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-015-nature.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
