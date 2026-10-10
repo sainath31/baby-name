@@ -1,0 +1,9 @@
+[
+{"name":"Kranthi","verdict":"keep","reason":"krānti (क्रान्ति) matches IAST; meaning acceptable, used as modern unisex name"},
+{"name":"Mahidhar","verdict":"keep","reason":"mahīdhara (महीधर) correct; mahī + dhara, earth-holder, epithet of Vishnu/mountain"},
+{"name":"Mokshith","verdict":"fix","reason":"mokṣita is a real participle (released) but the '-ita having' gloss is wrong; modern coinage, meaning corrected","fix":{"name":"Mokshith","devanagari":"मोक्षित","iast":"mokṣita","meaning_en":"Liberated, set free (from mokṣa, liberation); modern coinage, etymology uncertain"}},
+{"name":"Bhavitha","verdict":"reject","reason":"other"},
+{"name":"Rishika","verdict":"fix","reason":"form is plausible feminine of ṛṣi; 'little sage' diminutive claim unsupported","fix":{"name":"Rishika","devanagari":"ऋषिका","iast":"ṛṣikā","meaning_en":"Female sage or seer; feminine form from ṛṣi"}},
+{"name":"Manvitha","verdict":"reject","reason":"nonsensical_compound"},
+{"name":"Bhagya","verdict":"keep","reason":"bhāgya (भाग्य) correct; fortune, good luck"}
+]
