@@ -1,0 +1,767 @@
+[
+ {
+  "name": "Abhayaraja",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Adityanandini",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Agniputra",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Alokavati",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Anandamayi",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Baladevadatta",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Balajidasa",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Balaramadasa",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Bhairavakumara",
+  "verdict": "reject",
+  "reason": "Bhairava is a terrible form of Shiva; 'prince Bhairava' forced"
+ },
+ {
+  "name": "Bhaktinatha",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Bhanushekhara",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Bharatadatta",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Bharatakumara",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Bhumipala",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Bhutipala",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Bhutipati",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Bhutivati",
+  "verdict": "reject",
+  "reason": "bhūtivatī unnatural, evokes bhūta (ghost)"
+ },
+ {
+  "name": "Bodhivardhana",
+  "verdict": "reject",
+  "reason": "Buddhist-flavoured compound, not a typical Hindu name"
+ },
+ {
+  "name": "Buddhidhara",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Buddhiketu",
+  "verdict": "reject",
+  "reason": "forced pairing, banner of intellect"
+ },
+ {
+  "name": "Buddhipriya",
+  "verdict": "reject",
+  "reason": "reads as fond of the Buddha; forced"
+ },
+ {
+  "name": "Budhapriya",
+  "verdict": "reject",
+  "reason": "forced; dear to Mercury"
+ },
+ {
+  "name": "Chandramayi",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Danaketu",
+  "verdict": "reject",
+  "reason": "forced pairing"
+ },
+ {
+  "name": "Devamitra",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Dhairyavati",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Dharaninatha",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Dharanipala",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Dharmadevi",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Dhritibhushana",
+  "verdict": "reject",
+  "reason": "forced; adorned with steadfastness"
+ },
+ {
+  "name": "Dhritidhara",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Dhritipati",
+  "verdict": "reject",
+  "reason": "forced; lord of steadfastness"
+ },
+ {
+  "name": "Dhruvakumara",
+  "verdict": "fix",
+  "reason": "meaning clumsy",
+  "fix": {
+   "meaning_en": "Prince Dhruva; the steadfast boy"
+  }
+ },
+ {
+  "name": "Divyaguna",
+  "verdict": "reject",
+  "reason": "vague, forced"
+ },
+ {
+  "name": "Divyaharsha",
+  "verdict": "reject",
+  "reason": "vague, forced"
+ },
+ {
+  "name": "Divyakalyana",
+  "verdict": "reject",
+  "reason": "redundant, forced"
+ },
+ {
+  "name": "Divyananda",
+  "verdict": "fix",
+  "reason": "sandhi: divya+ānanda gives divyānanda",
+  "fix": {
+   "devanagari": "दिव्यानन्द"
+  }
+ },
+ {
+  "name": "Divyashakti",
+  "verdict": "reject",
+  "reason": "shakti is feminine/goddess; unnatural for boy"
+ },
+ {
+  "name": "Divyatejah",
+  "verdict": "reject",
+  "reason": "visarga-final compound form unnatural"
+ },
+ {
+  "name": "Divyavidya",
+  "verdict": "reject",
+  "reason": "feminine word for a boy"
+ },
+ {
+  "name": "Dyumitra",
+  "verdict": "reject",
+  "reason": "friend of the sky: unnatural"
+ },
+ {
+  "name": "Dyunatha",
+  "verdict": "reject",
+  "reason": "obscure, forced"
+ },
+ {
+  "name": "Dyutibhushana",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Dyutiketu",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Dyutimayi",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Gaganapala",
+  "verdict": "reject",
+  "reason": "protector of the sky: unnatural"
+ },
+ {
+  "name": "Gajananadatta",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Ganapatidatta",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Ganganandana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Gangapriya",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Gangaputra",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Gaurangadasa",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Gaurangadatta",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Gaurikumara",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Gaurinandini",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Gunabhushana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Gunapati",
+  "verdict": "reject",
+  "reason": "reads as Ganapati; confusing"
+ },
+ {
+  "name": "Halayudhadatta",
+  "verdict": "reject",
+  "reason": "overlong, awkward"
+ },
+ {
+  "name": "Hanumantadasa",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Harshaketu",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Harshamayi",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Harsharaja",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Hemanatha",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Hemasundari",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Herambadatta",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Himavati",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Hiranyanandana",
+  "verdict": "reject",
+  "reason": "hiranya evokes demon Hiranyakashipu"
+ },
+ {
+  "name": "Indusundari",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Ishananandana",
+  "verdict": "fix",
+  "reason": "meaning muddled",
+  "fix": {
+   "meaning_en": "Son of Ishana (Shiva)"
+  }
+ },
+ {
+  "name": "Jaitraketu",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Jnanavardhana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Kanakavati",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Kanchanadevi",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Kedaradasa",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Kiranamayi",
+  "verdict": "fix",
+  "reason": "meaning wording",
+  "fix": {
+   "meaning_en": "Full of rays of light"
+  }
+ },
+ {
+  "name": "Kirtivardhana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Kshemadhara",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Kshemavardhana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Mahakesari",
+  "verdict": "reject",
+  "reason": "parts reversed, just 'great lion'; not a person's name"
+ },
+ {
+  "name": "Mangalamayi",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Mangeshakumara",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Mangeshaputra",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Manjunathadasa",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Manmathadasa",
+  "verdict": "reject",
+  "reason": "servant of Kama; inauspicious"
+ },
+ {
+  "name": "Mantranatha",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Manunandana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Medhanatha",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Meghanatha",
+  "verdict": "reject",
+  "reason": "name of Ravana's son Indrajit (villain)"
+ },
+ {
+  "name": "Mihiranandana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Nageshaputra",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Nandavati",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Narasimhadasa",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Narayanadasa",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Prabhavati",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Prabhukumara",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Punyavati",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Purnendunatha",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Purnendupala",
+  "verdict": "reject",
+  "reason": "protector of the full moon: nonsense"
+ },
+ {
+  "name": "Purnendupriya",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Pushkarapala",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Pushpanandana",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Radhanandana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Radhanandini",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Radhanatha",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Raghupala",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Ramanandana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Rudradasa",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Sagaranatha",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Shambhunandini",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Shankaradasi",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Shanmukhadasa",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Shashinandana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Shashinatha",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Shauridasa",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Shiladevi",
+  "verdict": "fix",
+  "reason": "meaning wording",
+  "fix": {
+   "meaning_en": "Devi of good conduct"
+  }
+ },
+ {
+  "name": "Shivanandana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Shribalarama",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific, deity itself"
+ },
+ {
+  "name": "Shridattatreya",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shrigopala",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shrigovinda",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shrijaya",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Shrikantadatta",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Shrikubera",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shrimahadeva",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shrimayuresha",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shrinilakantha",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shripadmanabha",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shriramakumara",
+  "verdict": "reject",
+  "reason": "awkward, forced"
+ },
+ {
+  "name": "Shrisuvrata",
+  "verdict": "reject",
+  "reason": "redundant, forced"
+ },
+ {
+  "name": "Sindhunandini",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Skandamitra",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Somanandana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Somaputra",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Subodhi",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Sudharmapala",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Sudharmapriya",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Suguna",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Sujnana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Sukalyana",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Sukesari",
+  "verdict": "reject",
+  "reason": "just 'good lion'; not a person's name"
+ },
+ {
+  "name": "Suvijaya",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Suvinaya",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Suyasha",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Suyashah",
+  "verdict": "reject",
+  "reason": "duplicate variant of Suyasha"
+ },
+ {
+  "name": "Svarnasundari",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Trilokadevi",
+  "verdict": "reject",
+  "reason": "goddess of three worlds: deity_not_for_person, grandiose"
+ },
+ {
+  "name": "Umanatha",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Umasundari",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Urjavati",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ },
+ {
+  "name": "Vinayakadasa",
+  "verdict": "keep",
+  "reason": "natural pairing, correct sandhi, sound meaning"
+ }
+]
