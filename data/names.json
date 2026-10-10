@@ -119793,5 +119793,378 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Adhira",
+    "iast": "adhīrā",
+    "devanagari": "अधीरा",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Impatient; lightning.",
+    "components": [
+      {
+        "part": "a",
+        "gloss": "not"
+      },
+      {
+        "part": "dhīra",
+        "gloss": "patient"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-121-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Avyana",
+    "iast": "avyayā",
+    "devanagari": "अव्यना",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Imperishable; unfading.",
+    "components": [
+      {
+        "part": "a",
+        "gloss": "not"
+      },
+      {
+        "part": "vyaya",
+        "gloss": "decay"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-121-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kimaya",
+    "iast": "kimayā",
+    "devanagari": "किमया",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Divine; alchemy; a Marathi word for magic.",
+    "components": [
+      {
+        "part": "kimayā",
+        "gloss": "alchemy"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-121-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Viha",
+    "iast": "vihā",
+    "devanagari": "विहा",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Sky; bird in flight (modern coinage from vihaga).",
+    "components": [
+      {
+        "part": "vihā",
+        "gloss": "sky"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-121-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Aarvi",
+    "iast": "ārvī",
+    "devanagari": "आर्वी",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Peaceful; calm (modern coinage).",
+    "components": [
+      {
+        "part": "uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-121-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sanskar",
+    "iast": "saṃskār",
+    "stem": "saṃskāra",
+    "devanagari": "संस्कार",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Values; refinement; sacraments.",
+    "components": [
+      {
+        "part": "saṃskāra",
+        "gloss": "refinement"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-121-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hitansh",
+    "iast": "hitāṃś",
+    "stem": "hitāṃśa",
+    "devanagari": "हितांश",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Part of well-being; beneficial.",
+    "components": [
+      {
+        "part": "hita",
+        "gloss": "good"
+      },
+      {
+        "part": "aṃśa",
+        "gloss": "part"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-121-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rishaan",
+    "iast": "ṛṣān",
+    "stem": "ṛṣāna",
+    "devanagari": "ऋषान",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Seer-like; sage (modern coinage from ṛṣi).",
+    "components": [
+      {
+        "part": "ṛṣi",
+        "gloss": "sage"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-121-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dhruvan",
+    "iast": "dhruvaṇ",
+    "stem": "dhruvaṇa",
+    "devanagari": "ध्रुवण",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Steadfast; pole star.",
+    "components": [
+      {
+        "part": "dhruva",
+        "gloss": "fixed"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-121-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jayansh",
+    "iast": "jayāṃś",
+    "stem": "jayāṃśa",
+    "devanagari": "जयांश",
+    "letter": "J",
+    "syllable_count": 2,
+    "meaning_en": "Part of victory.",
+    "components": [
+      {
+        "part": "jaya",
+        "gloss": "victory"
+      },
+      {
+        "part": "aṃśa",
+        "gloss": "part"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-121-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Raunak",
+    "iast": "raunak",
+    "stem": "raunaka",
+    "devanagari": "रौनक",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Splendour; brightness; liveliness.",
+    "components": [
+      {
+        "part": "raunaq",
+        "gloss": "splendour (Persian-Hindi)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-121-modern.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

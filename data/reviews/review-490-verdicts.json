@@ -1,0 +1,69 @@
+[
+ {
+  "name": "Adhira",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Avyana",
+  "verdict": "fix",
+  "reason": "other",
+  "fix": {
+   "name": "Avyana",
+   "devanagari": "अव्यना",
+   "iast": "avyanā",
+   "meaning_en": "Etymology uncertain; modern name, often linked to avyaya (imperishable) but not a classical word."
+  }
+ },
+ {
+  "name": "Kimaya",
+  "verdict": "fix",
+  "reason": "other",
+  "fix": {
+   "name": "Kimaya",
+   "devanagari": "किमया",
+   "iast": "kimayā",
+   "meaning_en": "Alchemy, magic; a Marathi word (of Persian/Arabic origin) in current use as a girl's name."
+  }
+ },
+ {
+  "name": "Viha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Aarvi",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Sanskar",
+  "verdict": "keep",
+  "reason": "other"
+ },
+ {
+  "name": "Hitansh",
+  "verdict": "keep",
+  "reason": "other"
+ },
+ {
+  "name": "Rishaan",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Dhruvan",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Jayansh",
+  "verdict": "keep",
+  "reason": "other"
+ },
+ {
+  "name": "Raunak",
+  "verdict": "keep",
+  "reason": "other"
+ }
+]
