@@ -1,0 +1,100 @@
+[
+ {
+  "name": "Arivu",
+  "verdict": "keep",
+  "reason": "Auspicious Tamil name meaning knowledge; suitable for a boy."
+ },
+ {
+  "name": "Azhagan",
+  "verdict": "keep",
+  "reason": "Correct, widely used; also epithet of Lord Kallazhagar."
+ },
+ {
+  "name": "Kadhiravan",
+  "verdict": "keep",
+  "reason": "Sun; auspicious and correct."
+ },
+ {
+  "name": "Maran",
+  "verdict": "keep",
+  "reason": "Traditional Pandya title and Murugan epithet, very common Tamil boy's name; not inauspicious in Tamil usage."
+ },
+ {
+  "name": "Mugilan",
+  "verdict": "keep",
+  "reason": "Correct, neutral to auspicious."
+ },
+ {
+  "name": "Nambi",
+  "verdict": "keep",
+  "reason": "Common devotional name; trusted one."
+ },
+ {
+  "name": "Poovarasan",
+  "verdict": "keep",
+  "reason": "Well-formed Tamil compound, acceptable."
+ },
+ {
+  "name": "Vendhan",
+  "verdict": "fix",
+  "reason": "IAST uses long e (ē), forbidden by validator",
+  "fix": {
+   "iast": "ventaṉ"
+  }
+ },
+ {
+  "name": "Arasi",
+  "verdict": "keep",
+  "reason": "Queen; common Tamil girl's name."
+ },
+ {
+  "name": "Azhagi",
+  "verdict": "keep",
+  "reason": "Beautiful woman; fine."
+ },
+ {
+  "name": "Iniya",
+  "verdict": "keep",
+  "reason": "Sweet; widely used girl's name."
+ },
+ {
+  "name": "Kanmani",
+  "verdict": "keep",
+  "reason": "Correct and affectionate name."
+ },
+ {
+  "name": "Kuzhali",
+  "verdict": "keep",
+  "reason": "Correct."
+ },
+ {
+  "name": "Malar",
+  "verdict": "keep",
+  "reason": "Correct."
+ },
+ {
+  "name": "Pavai",
+  "verdict": "keep",
+  "reason": "Correct, devotional association with Tiruppavai."
+ },
+ {
+  "name": "Vanmathi",
+  "verdict": "fix",
+  "reason": "IAST vaṇ conflicts with meaning breakdown vaṉ (strong); spelling vaṉmati matches the Roman form",
+  "fix": {
+   "iast": "vaṉmati",
+   "devanagari": "वन्मति",
+   "meaning_en": "Strong or brilliant intellect (Tamil); etymology partly uncertain."
+  }
+ },
+ {
+  "name": "Vennila",
+  "verdict": "keep",
+  "reason": "White moon; correct."
+ },
+ {
+  "name": "Vizhi",
+  "verdict": "keep",
+  "reason": "Eye; acceptable girl's name."
+ }
+]
