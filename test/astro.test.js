@@ -67,3 +67,15 @@ test('naming-syllable table: 27 nakshatras x 4 padas, and rashi syllables are co
   // Mesha spans Ashwini, Bharani and the first pada of Krittika.
   assert.deepEqual(syllablesForRashi('Mesha').slice(0, 4), NAKSHATRAS[0][1]);
 });
+
+test('due-date range lists every pada the Moon passes through', async () => {
+  const { rangeChart } = await import('../src/astro-engine.js');
+  const r = await rangeChart({ from: '2024-03-25', to: '2024-03-31' });
+  // The Moon moves ~13 degrees a day, so 7 days cover about 7 nakshatras (~28 padas).
+  assert.ok(r.padas.length >= 24 && r.padas.length <= 32, String(r.padas.length));
+  assert.equal(r.hours, 7 * 24);
+  assert.equal(r.padas.reduce((a, p) => a + p.hours, 0), r.hours);
+  const day1 = await birthChart({ date: '2024-03-25', time: '06:00' });
+  assert.ok(r.padas.some((p) => p.nakshatra === day1.nakshatra && p.pada === day1.pada));
+  await assert.rejects(rangeChart({ from: '2024-01-01', to: '2024-06-01' }), /62 days/);
+});

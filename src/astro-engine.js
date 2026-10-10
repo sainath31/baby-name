@@ -43,3 +43,28 @@ export async function birthChart(birth) {
   }
   return chart;
 }
+
+// Expected-date range (e.g. a due-date window): step through the range hour by hour and list every
+// nakshatra pada the Moon passes through, with how many hours of the window it covers.
+// from/to: 'YYYY-MM-DD' (inclusive, local dates in tz). Ranges are capped at 62 days.
+export async function rangeChart({ from, to, tz = 'Asia/Kolkata', stepHours = 1 }) {
+  const { computePlanetaryPositions } = await load();
+  const start = localToUtc(from, '00:00', tz);
+  const end = new Date(localToUtc(to, '00:00', tz).getTime() + 24 * 3600 * 1000);
+  if (!(end > start)) throw new Error('The end date must be on or after the start date.');
+  if ((end - start) / 86400000 > 62) throw new Error('Please choose a range of at most 62 days.');
+  const step = stepHours * 3600 * 1000;
+  const byKey = new Map();
+  let total = 0;
+  for (let t = start.getTime(); t < end.getTime(); t += step) {
+    const at = new Date(t);
+    const p = fromSiderealLongitude(computePlanetaryPositions(at, 'lahiri').moon.siderealLongitude);
+    const key = `${p.nakshatra}|${p.pada}`;
+    const e = byKey.get(key) || { ...p, hours: 0, firstUtc: at.toISOString() };
+    e.hours += stepHours; total += stepHours;
+    byKey.set(key, e);
+  }
+  const padas = [...byKey.values()].sort((a, b) => a.firstUtc.localeCompare(b.firstUtc));
+  return { from, to, tz, hours: total, padas, syllables: [...new Set(padas.map((p) => p.syllable))],
+    nakshatras: [...new Set(padas.map((p) => p.nakshatra))], rashis: [...new Set(padas.map((p) => p.rashi))] };
+}

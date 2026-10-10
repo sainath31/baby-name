@@ -190,3 +190,20 @@ body[data-script="telugu"] .deva, body[data-script="kannada"] .deva { display: n
 
 body[data-script="deva"] .iast, body[data-script="deva"] .d-iast { display: none; }
 body[data-script="iast"] .deva, body[data-script="iast"] .d-deva, body[data-script="latin"] .deva, body[data-script="latin"] .d-deva, body[data-script="latin"] .iast, body[data-script="latin"] .d-iast { display: none; }
+
+/* birth details panel */
+.birth-panel { background: var(--surface, #fff8f0); border: 1px solid var(--border, #e8dccf); border-radius: 14px; padding: 12px 14px; margin: 8px 0 14px; }
+.birth-panel > summary { cursor: pointer; list-style: none; display: flex; flex-wrap: wrap; gap: 4px 8px; align-items: baseline; min-height: 44px; padding-top: 10px; }
+.birth-panel > summary::-webkit-details-marker { display: none; }
+.birth-panel > summary strong { font-size: 17px; color: var(--accent-text); }
+.tabs { display: flex; gap: 6px; margin: 10px 0; flex-wrap: wrap; }
+.tab { min-height: 44px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--border, #e8dccf); background: transparent; color: inherit; font: inherit; cursor: pointer; }
+.tab[aria-selected="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.field-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px 12px; margin: 6px 0; }
+.field { display: flex; flex-direction: column; gap: 4px; font-size: 14px; }
+.field input { min-height: 44px; padding: 0 10px; border-radius: 10px; border: 1px solid var(--border, #e8dccf); background: var(--surface); color: var(--text); font: inherit; width: 100%; box-sizing: border-box; }
+.abroad { margin: 6px 0; } .abroad summary { min-height: 44px; display: flex; align-items: center; cursor: pointer; }
+.pane .btn { margin: 8px 8px 0 0; }
+.table-wrap { overflow-x: auto; margin-top: 10px; }
+.range-table { border-collapse: collapse; width: 100%; font-size: 14px; }
+.range-table th, .range-table td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--border, #e8dccf); white-space: nowrap; }

@@ -33,6 +33,8 @@ Vetted attested names number in the low thousands at most; anything beyond that 
   `panchang-ts` (MIT). Verified against published Sankranti and eclipse events and an independent ephemeris.
 - Numerology (Chaldean and Pythagorean) and sound-group filters.
 - Names store IAST as written (Neeraj = nīraj) plus the Sanskrit `stem` (nīraja); duplicates are matched on both.
+- "Find names from birth details" panel at the top of the site: exact birth (date, time, place) or an expected date range
+  (lists every nakshatra pada the Moon passes through and shows names for all their syllables).
 - Spelling-variant search: Ishan finds Ishaan, Arav finds Aarav, Sidharth finds Siddharth, Rajiv finds Rajeev.
 - Telugu/Kannada support: conversion, a validator (`scripts/check-name.js`) and Telugu/Kannada display in the UI.
 - Live site: https://sainath31.github.io/baby-name/ (GitHub Pages, redeployed on every push).
