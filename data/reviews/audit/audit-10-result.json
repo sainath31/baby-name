@@ -1,0 +1,771 @@
+[
+ {
+  "name": "Ribhu",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Richika",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rimjhim",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rishabh",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rishi",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rita",
+  "verdict": "fix",
+  "reason": "Meaning 'Name of a Rudra' is a non-meaning; ṛta is truth/cosmic order; name is used for girls too",
+  "fix": {
+   "meaning_en": "Truth; cosmic order (ṛta)",
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Ritesh",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Ritvik",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Riya",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rochan",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rohan",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rohini",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rohit",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Roshan",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Roshni",
+  "verdict": "fix",
+  "reason": "State tag Himachal Pradesh arbitrary for a pan-Indian Hindi word",
+  "fix": {
+   "states": [
+    "All India"
+   ]
+  }
+ },
+ {
+  "name": "Ruchir",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Ruchit",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rudra",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rudraksh",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rudransh",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rudresh",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rukma",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rukmangada",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rukmini",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rupali",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rupesh",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rupinder",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Rupjyoti",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Ruru",
+  "verdict": "reject",
+  "reason": "Ruru: obscure deer/sage name, not a realistic given name (other)"
+ },
+ {
+  "name": "Saarth",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sachidanand",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sachin",
+  "verdict": "fix",
+  "reason": "Parts sat+cit are invented; etymology uncertain",
+  "fix": {
+   "meaning_en": "Popular modern name; etymology uncertain"
+  }
+ },
+ {
+  "name": "Sachin Dev",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sadanand",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sadashiv",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sagar",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sahadev",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sahaj",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sahas",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sahithi",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sai Charan",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sai Kiran",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sai Lakshmi",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sai Priya",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sai Ram",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sai Teja",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sajeev",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Saket",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Saksham",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Samanvay",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Samar",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Samarpan",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Samarth",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sambasiva",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sambhaji",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sambhav",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sambit",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Samharakhya",
+  "verdict": "reject",
+  "reason": "Obscure Agni epithet, not a given name (epithet_not_given_name)"
+ },
+ {
+  "name": "Samir",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Samiran",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Samjaya",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Samkalpa",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sampada",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Samskriti",
+  "verdict": "fix",
+  "reason": "Samskriti means culture/refinement, not a name of Krishna; feminine noun",
+  "fix": {
+   "meaning_en": "Culture, refinement",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Samtosha",
+  "verdict": "reject",
+  "reason": "duplicate_variant of Santosh"
+ },
+ {
+  "name": "Samudra",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Samyak",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sananda",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sanchit",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sandeep",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sandesh",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sandhya",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sandipani",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sangeet",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sanjay",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sanjeev",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Santhanalakshmi",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Santosh",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sanyam",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Saptajihva",
+  "verdict": "reject",
+  "reason": "Obscure epithet of Agni, 'tongue' compound (epithet_not_given_name)"
+ },
+ {
+  "name": "Sara",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sarang",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Saransh",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Saranya",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sarasvata",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Saravana",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Saravanan",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sarita",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sarojini",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sarvagya",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sarvesh",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sarveshwara",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sarvottama",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satbir",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satish",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satvik",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satya",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satyabhama",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satyabrata",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satyajit",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satyajyoti",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satyakama",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satyaki",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satyamitra",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satyananda",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satyanarayana",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satyavanta",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satyayu",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Satyendra",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Saumitra",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Saumitri",
+  "verdict": "fix",
+  "reason": "Garbled dictionary-note meaning",
+  "fix": {
+   "meaning_en": "Son of Sumitra; Lakshmana"
+  }
+ },
+ {
+  "name": "Saura",
+  "verdict": "reject",
+  "reason": "Adjective 'solar', not a name (compound_or_adjective)"
+ },
+ {
+  "name": "Saurabh",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Savitri",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Savyasachi",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sayali",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sayantan",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Seema",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Selvam",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Selvan",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Senthil",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shail",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shailesh",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shaktideva",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shakuntala",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shambhavi",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shambhu",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shambhunath",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shamit",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shamkara",
+  "verdict": "reject",
+  "reason": "duplicate_variant of Shankar"
+ },
+ {
+  "name": "Shanaya",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shandilya",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shankar",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shanmugam",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shanmukh",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shanta",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shantanu",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sharad",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sharada",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sharan",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sharanyu",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sharath",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sharmada",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sharmila",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sharmistha",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Sharvani",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shashank",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shashi",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shashvata",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ },
+ {
+  "name": "Shatrughna",
+  "verdict": "keep",
+  "reason": "Acceptable name with sound meaning, script and tags"
+ }
+]

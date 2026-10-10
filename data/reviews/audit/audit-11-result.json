@@ -1,0 +1,781 @@
+[
+ {
+  "name": "Shaunaka",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shauri",
+  "verdict": "fix",
+  "reason": "Meaning is only an epithet label",
+  "fix": {
+   "meaning_en": "Descendant of Shura; a name of Krishna"
+  }
+ },
+ {
+  "name": "Sheetal",
+  "verdict": "fix",
+  "reason": "State tag odd for pan-Indian name; commonly unisex",
+  "fix": {
+   "states": [
+    "All India"
+   ],
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Shekhar",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shibi",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shighrya",
+  "verdict": "reject",
+  "reason": "Non-meaning 'Name of a Rudra'; obscure"
+ },
+ {
+  "name": "Shikhar",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shishir",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shitamshu",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shiv Kumari",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shiv Ram",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shivadasa",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shivadatta",
+  "verdict": "fix",
+  "reason": "Meaning is an obscure figure reference, wrong",
+  "fix": {
+   "meaning_en": "Given by Shiva"
+  }
+ },
+ {
+  "name": "Shivaji",
+  "verdict": "fix",
+  "reason": "Meaning garbled",
+  "fix": {
+   "meaning_en": "Devotee-style name from Shiva with honorific -ji; made famous by Chhatrapati Shivaji, founder of the Maratha kingdom"
+  }
+ },
+ {
+  "name": "Shivam",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shivananda",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shivani",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shivank",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shivansh",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shivaraj",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shivendra",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shivshankar",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shlesh",
+  "verdict": "reject",
+  "reason": "Common noun/pun, not a given name (common_noun_or_technical_term)"
+ },
+ {
+  "name": "Shlok",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shobha",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shoshana",
+  "verdict": "reject",
+  "reason": "Means drying up; Agni epithet; negative/obscure"
+ },
+ {
+  "name": "Shraddha",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shravan",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shreshtha",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shreyan",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shreyansh",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shreyas",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shrichandra",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shridatta",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shrideva",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shridhar",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shrikant",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shrinath",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shripad",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shripati",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shriram",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shriranga",
+  "verdict": "fix",
+  "reason": "Meaning is a dictionary dump",
+  "fix": {
+   "meaning_en": "Vishnu as Ranganatha, reclining at Srirangam; fortune plus delight"
+  }
+ },
+ {
+  "name": "Shruta",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shruti",
+  "verdict": "fix",
+  "reason": "State tag odd; pan-Indian name",
+  "fix": {
+   "states": [
+    "All India"
+   ]
+  }
+ },
+ {
+  "name": "Shubh",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shubham",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shubhang",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shubhankar",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shubhendu",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shubhra",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shuddha",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shukla",
+  "verdict": "reject",
+  "reason": "Surname/community name, not a given name"
+ },
+ {
+  "name": "Shulapani",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shunashira",
+  "verdict": "reject",
+  "reason": "Obscure Indra epithet, unusual as a given name"
+ },
+ {
+  "name": "Shvana",
+  "verdict": "reject",
+  "reason": "Means dog; non-meaning Rudra label"
+ },
+ {
+  "name": "Shvetaketu",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shyam",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shyamal",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Shyamsundar",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Siddaraju",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Siddha",
+  "verdict": "reject",
+  "reason": "Names a class of beings; not a personal name"
+ },
+ {
+  "name": "Siddhant",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Siddharameshwar",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Siddharth",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Siddhesh",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Siddhu",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Simarjeet",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Simha",
+  "verdict": "reject",
+  "reason": "Common noun (lion) and surname"
+ },
+ {
+  "name": "Simran",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Siradhvaja",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sitaram",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sivakumar",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sivaprasad",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sivaraman",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Siya",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Skanda",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Smita",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sneh",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Snehita",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Snigdha",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sohan",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Somadatta",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Somaka",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Somashekar",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Somashraya",
+  "verdict": "reject",
+  "reason": "Obscure epithet, not used as a given name"
+ },
+ {
+  "name": "Somasundaram",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Somesh",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Somil",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Somnath",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sooraj",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Soumya",
+  "verdict": "fix",
+  "reason": "Used for both genders",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Sparsh",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Spoorthi",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sravani",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sreejith",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sreekumar",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sri Gowri",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sri Hari",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sri Latha",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sri Vidya",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sri Vishnu",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sridevi",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sriharsha",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Srijan",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Srikanth",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Srikar",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Srinivas",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Srinivasan",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Srisailam",
+  "verdict": "reject",
+  "reason": "Name of a place/mountain shrine"
+ },
+ {
+  "name": "Srishti",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Stubha",
+  "verdict": "reject",
+  "reason": "Non-meaning 'Name of an Agni'; obscure"
+ },
+ {
+  "name": "Subahu",
+  "verdict": "reject",
+  "reason": "Best known as a rakshasa of Ramayana; avoid"
+ },
+ {
+  "name": "Subhadeep",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Subhadra",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Subhanu",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Subhash",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Subhojit",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Subodh",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Subrahmanya",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Subrat",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Subrata",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Suchandra",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Suchitra",
+  "verdict": "reject",
+  "reason": "Non-meaning label; Suchitra is a girl's name"
+ },
+ {
+  "name": "Sudaksha",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sudakshina",
+  "verdict": "fix",
+  "reason": "Girl's name needs feminine ending",
+  "fix": {
+   "devanagari": "सुदक्षिणा"
+  }
+ },
+ {
+  "name": "Sudama",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sudana",
+  "verdict": "reject",
+  "reason": "Non-meaning 'Name of a Śiva god'"
+ },
+ {
+  "name": "Sudarshan",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sudas",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sudeep",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sudeva",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sudha",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sudhakar",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sudhana",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sudhanshu",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sudhir",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sudipta",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sugandhara",
+  "verdict": "reject",
+  "reason": "Garbled meaning; invented-looking name"
+ },
+ {
+  "name": "Sugreev",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Suhas",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Suhrida",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sujana",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sujay",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sukanta",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sukesh",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Suketu",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sukhdev",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sukhwinder",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sukratu",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ },
+ {
+  "name": "Sulagna",
+  "verdict": "keep",
+  "reason": "Sound name and meaning"
+ }
+]

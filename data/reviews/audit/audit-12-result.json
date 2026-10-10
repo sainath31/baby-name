@@ -1,0 +1,762 @@
+[
+ {
+  "name": "Suma",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Suman",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sumanjasa",
+  "verdict": "reject",
+  "reason": "other: Meaning 'Name of a Śiva god' is a non-meaning"
+ },
+ {
+  "name": "Sumant",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sumantu",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sumati",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sumedha",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sumit",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sumukh",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sumukhi",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sunanda",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sundar",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sundaram",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sundaresan",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sundari",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sunetra",
+  "verdict": "fix",
+  "reason": "Girl form needs feminine ending",
+  "fix": {
+   "devanagari": "सुनेत्रा"
+  }
+ },
+ {
+  "name": "Sunidhi",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sunil",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sunita",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Surabhi",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Suratha",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Surendra",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Suresh",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Suri",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Surya",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Suryakant",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Suryakanti",
+  "verdict": "fix",
+  "reason": "Devanagari should end in short i to match kānti",
+  "fix": {
+   "devanagari": "सूर्यकान्ति"
+  }
+ },
+ {
+  "name": "Suryanarayana",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Susaha",
+  "verdict": "reject",
+  "reason": "other: Garbled non-meaning ('= sOmya')"
+ },
+ {
+  "name": "Sushant",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sushanti",
+  "verdict": "reject",
+  "reason": "obscure_figure: Obscure Indra of a Manu epoch"
+ },
+ {
+  "name": "Sushen",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sushikha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Obscure Agni epithet, garbled form"
+ },
+ {
+  "name": "Sushil",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sushma",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sushrut",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Susmita",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Sutapa",
+  "verdict": "fix",
+  "reason": "Devanagari सूतप is sūtapa (charioteer-drinker); Sutapa is सुतप",
+  "fix": {
+   "devanagari": "सुतप",
+   "meaning_en": "Of good austerity; a sage"
+  }
+ },
+ {
+  "name": "Sutrama",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Suvamsha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: Generic adjective 'of noble lineage'"
+ },
+ {
+  "name": "Suvan",
+  "verdict": "reject",
+  "reason": "other: Dubious etymology and meaning"
+ },
+ {
+  "name": "Suvasini",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Title/category for a married woman"
+ },
+ {
+  "name": "Suvipra",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: Generic adjective"
+ },
+ {
+  "name": "Suvirya",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Suyajna",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Suyash",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Svabhanu",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Svadha",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Svarmani",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Obscure epithet of the sun"
+ },
+ {
+  "name": "Svarpati",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Epithet of Indra"
+ },
+ {
+  "name": "Swagata",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Swaminathan",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Swapna",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Swapnil",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Swar",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Swaraj",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Swaroop",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Swathi",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tamanna",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tamopaha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Epithet of the sun"
+ },
+ {
+  "name": "Tanay",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tanuj",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tanvi",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tapan",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tapas",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Technical term, not a given name"
+ },
+ {
+  "name": "Tara",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tarak",
+  "verdict": "reject",
+  "reason": "demon_or_villain: Tāraka is a demon"
+ },
+ {
+  "name": "Tarani",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tarendra",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tarun",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tarunendu",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tejas",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tejasvi",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tejaswini",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tejomay",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tejpal",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Thamarai",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Thiruvengadam",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Thyagarajan",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tikesh",
+  "verdict": "reject",
+  "reason": "other: Invented etymology, uncertain"
+ },
+ {
+  "name": "Tilak",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tirth",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tirupati",
+  "verdict": "reject",
+  "reason": "place_or_river: Place name"
+ },
+ {
+  "name": "Tishya",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Toshan",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Triambak",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tribhuvan",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Trilochan",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Trilok",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Trinetra",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tripurari",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tripurasundari",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Triveni",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Trivikram",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tuhin",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tukaram",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tulsi",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tulsidas",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tunga",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tushar",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tushti",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Tyagaraja",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Uchchadeva",
+  "verdict": "reject",
+  "reason": "other: Garbled non-meaning"
+ },
+ {
+  "name": "Udaar",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Uday",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Udayaditya",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Udayan",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Udbhav",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Uddhav",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Udit",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Ugra",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Fierce; Rudra epithet"
+ },
+ {
+  "name": "Ujjwal",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Ulapya",
+  "verdict": "reject",
+  "reason": "obscure_figure: Name of a Rudra, non-meaning"
+ },
+ {
+  "name": "Ulupi",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Uma",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Umakant",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Umapati",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Umesh",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Unnata",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Unni",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Unnikrishnan",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Urdhva",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Obscure Vishnu epithet"
+ },
+ {
+  "name": "Urjasvi",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Urmila",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Utkarsh",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Utpal",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Utsaha",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Utsav",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Uttam",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vadiraj",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vagisha",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vagishvari",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vahni",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vaibhav",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vaidehi",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vaidhrita",
+  "verdict": "reject",
+  "reason": "obscure_figure: Obscure Indra of a Manu epoch"
+ },
+ {
+  "name": "Vaidhriti",
+  "verdict": "reject",
+  "reason": "obscure_figure: Obscure Indra, garbled"
+ },
+ {
+  "name": "Vaijayant",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vaikunth",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vaimridha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Obscure Indra epithet, garbled"
+ },
+ {
+  "name": "Vaishakhi",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vaishnavi",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vaishvadeva",
+  "verdict": "reject",
+  "reason": "other: Garbled non-meaning"
+ },
+ {
+  "name": "Vaivasvata",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vajashruta",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vajrabahu",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vakpati",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vakratund",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Vallabh",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Valmiki",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ }
+]
