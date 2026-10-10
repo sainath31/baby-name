@@ -1,0 +1,393 @@
+[
+ {
+  "name": "Raj Pal",
+  "verdict": "reject",
+  "reason": "other: Pal is a surname-style suffix (common caste surname), not a given-name element"
+ },
+ {
+  "name": "Raj Prakash",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Radiant king; light of a king."
+  }
+ },
+ {
+  "name": "Raj Pratap",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Glorious king; one with kingly valour."
+  }
+ },
+ {
+  "name": "Raj Sharan",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "One whose refuge is the king (or a royal protector)."
+  }
+ },
+ {
+  "name": "Raj Swaroop",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Embodiment of a king; of royal form."
+  }
+ },
+ {
+  "name": "Ram Bhushan",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Ornament of Rama."
+  }
+ },
+ {
+  "name": "Ram Dayal",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Rama the compassionate; one who has Rama's kindness."
+  }
+ },
+ {
+  "name": "Ram Prakash",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Light of Rama."
+  }
+ },
+ {
+  "name": "Ram Pratap",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Glory or valour of Rama."
+  }
+ },
+ {
+  "name": "Ram Sharan",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "One who has taken refuge in Rama."
+  }
+ },
+ {
+  "name": "Ram Swaroop",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Embodiment of Rama; in the form of Rama."
+  }
+ },
+ {
+  "name": "Ram Veer",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Hero devoted to Rama; Rama the brave."
+  }
+ },
+ {
+  "name": "Sai Annapurna",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Annapurna, goddess of nourishment."
+  }
+ },
+ {
+  "name": "Sai Bhavani",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Bhavani, a name of the Goddess."
+  }
+ },
+ {
+  "name": "Sai Chandrika",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Chandrika, moonlight."
+  }
+ },
+ {
+  "name": "Sai Durga",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Durga, the Goddess."
+  }
+ },
+ {
+  "name": "Sai Ganga",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Ganga, the sacred river goddess."
+  }
+ },
+ {
+  "name": "Sai Gayatri",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Gayatri, the sacred mantra goddess."
+  }
+ },
+ {
+  "name": "Sai Kalyani",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Kalyani, auspicious one."
+  }
+ },
+ {
+  "name": "Sai Kamakshi",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Kamakshi, a name of the Goddess (loving-eyed)."
+  }
+ },
+ {
+  "name": "Sai Meenakshi",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Meenakshi, fish-eyed goddess of Madurai."
+  }
+ },
+ {
+  "name": "Sai Parvati",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Parvati, consort of Shiva."
+  }
+ },
+ {
+  "name": "Sai Saraswati",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Saraswati, goddess of learning."
+  }
+ },
+ {
+  "name": "Sai Sudha",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Sudha, nectar."
+  }
+ },
+ {
+  "name": "Sai Swathi",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Swathi, the Swati star."
+  }
+ },
+ {
+  "name": "Sai Yamuna",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sai (revered master) with Yamuna, the sacred river."
+  }
+ },
+ {
+  "name": "Shiv Bhushan",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Ornament of Shiva."
+  }
+ },
+ {
+  "name": "Shiv Das",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Servant or devotee of Shiva."
+  }
+ },
+ {
+  "name": "Shiv Dayal",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Shiva the compassionate; one who has Shiva's kindness."
+  }
+ },
+ {
+  "name": "Shiv Kant",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Beloved of Shiva."
+  }
+ },
+ {
+  "name": "Shiv Pal",
+  "verdict": "reject",
+  "reason": "other: Pal is a surname-style suffix (common surname), not a given-name element"
+ },
+ {
+  "name": "Shiv Prakash",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Light of Shiva."
+  }
+ },
+ {
+  "name": "Shiv Pratap",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Glory or valour of Shiva."
+  }
+ },
+ {
+  "name": "Shiv Sharan",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "One who has taken refuge in Shiva."
+  }
+ },
+ {
+  "name": "Shiv Swaroop",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Embodiment of Shiva; in the form of Shiva."
+  }
+ },
+ {
+  "name": "Shiv Veer",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Hero devoted to Shiva; Shiva the brave."
+  }
+ },
+ {
+  "name": "Sri Annapurna",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sri (auspicious, prosperity) with Annapurna, goddess of nourishment."
+  }
+ },
+ {
+  "name": "Sri Bhavani",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sri (auspicious) with Bhavani, a name of the Goddess."
+  }
+ },
+ {
+  "name": "Sri Chandrika",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sri (auspicious) with Chandrika, moonlight."
+  }
+ },
+ {
+  "name": "Sri Durga",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sri (auspicious) with Durga, the Goddess."
+  }
+ },
+ {
+  "name": "Sri Ganga",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sri (auspicious) with Ganga, the sacred river goddess."
+  }
+ },
+ {
+  "name": "Sri Gayatri",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sri (auspicious) with Gayatri, the sacred mantra goddess."
+  }
+ },
+ {
+  "name": "Sri Kalyani",
+  "verdict": "reject",
+  "reason": "other: redundant double, Sri and Kalyani both mean auspicious"
+ },
+ {
+  "name": "Sri Kamakshi",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sri (auspicious) with Kamakshi, a name of the Goddess (loving-eyed)."
+  }
+ },
+ {
+  "name": "Sri Meenakshi",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sri (auspicious) with Meenakshi, fish-eyed goddess of Madurai."
+  }
+ },
+ {
+  "name": "Sri Parvati",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sri (auspicious) with Parvati, consort of Shiva."
+  }
+ },
+ {
+  "name": "Sri Saraswati",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sri (auspicious) with Saraswati, goddess of learning."
+  }
+ },
+ {
+  "name": "Sri Sudha",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sri (auspicious) with Sudha, nectar."
+  }
+ },
+ {
+  "name": "Sri Swathi",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sri (auspicious) with Swathi, the Swati star."
+  }
+ },
+ {
+  "name": "Sri Yamuna",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Sri (auspicious) with Yamuna, the sacred river."
+  }
+ }
+]
