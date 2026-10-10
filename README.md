@@ -12,7 +12,7 @@ _Last updated: 2026-10-10_
 
 | Measure | Count |
 |---|---|
-| Names listed (shown to users) | 1,905 |
+| Names listed (shown to users) | 2,040 |
 | - attested (found in texts, dictionaries or common use) | 994 |
 | - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 748 |
 | Hidden candidate records kept in data | ~18,700 |
@@ -35,7 +35,7 @@ Vetted attested names number in the low thousands at most; anything beyond that 
 - Names store IAST as written (Neeraj = nīraj) plus the Sanskrit `stem` (nīraja); duplicates are matched on both.
 - Spelling-variant search: Ishan finds Ishaan, Arav finds Aarav, Sidharth finds Siddharth, Rajiv finds Rajeev.
 - Telugu/Kannada support: conversion, a validator (`scripts/check-name.js`) and Telugu/Kannada display in the UI.
-- GitHub Pages workflow (`.github/workflows/pages.yml`); needs the repository public and Pages source set to GitHub Actions.
+- Live site: https://sainath31.github.io/baby-name/ (GitHub Pages, redeployed on every push).
 
 - Compound-name generator (`npm run generate`): 265 reviewer-curated elements x 17 suffixes + 4 prefixes with Sanskrit
   joining rules. Reviewers read all ~2,000 generated names and rejected about 75%, so 505 survive. The generator was

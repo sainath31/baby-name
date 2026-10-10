@@ -1,0 +1,189 @@
+[
+ {
+  "name": "Arunachalam",
+  "verdict": "keep",
+  "reason": "Common Tamil boy name; Shiva as the red mountain of Tiruvannamalai; scripts correct."
+ },
+ {
+  "name": "Avaneesh",
+  "verdict": "keep",
+  "reason": "Widely used boy name; lord of the earth; correct."
+ },
+ {
+  "name": "Chidambaram",
+  "verdict": "keep",
+  "reason": "Used Tamil boy name; sky of consciousness, Shiva's shrine; correct."
+ },
+ {
+  "name": "Dandapani",
+  "verdict": "keep",
+  "reason": "Used Tamil name for Murugan of Palani holding the staff; correct."
+ },
+ {
+  "name": "Ekambaram",
+  "verdict": "keep",
+  "reason": "Used Tamil name from Ekamranatha of Kanchipuram; meaning acceptable."
+ },
+ {
+  "name": "Ganadhish",
+  "verdict": "keep",
+  "reason": "Used Ganesha name; lord of the ganas; correct."
+ },
+ {
+  "name": "Gananath",
+  "verdict": "keep",
+  "reason": "Used Ganesha name; lord of the ganas; correct."
+ },
+ {
+  "name": "Govindarajan",
+  "verdict": "keep",
+  "reason": "Common Tamil name; Govindaraja of Tirupati; correct."
+ },
+ {
+  "name": "Hanumant",
+  "verdict": "fix",
+  "reason": "Used boy name (Marathi/Kannada); meaning too thin.",
+  "fix": {
+   "name": "Hanumant",
+   "devanagari": "हनुमन्त",
+   "iast": "hanumant",
+   "meaning_en": "Lord Hanuman, the devoted servant of Rama; literally one with a strong jaw."
+  }
+ },
+ {
+  "name": "Kailasam",
+  "verdict": "keep",
+  "reason": "Used Tamil boy name; Kailasa, abode of Shiva; correct."
+ },
+ {
+  "name": "Kailashpati",
+  "verdict": "fix",
+  "reason": "Name written with sh; script should use श to match.",
+  "fix": {
+   "name": "Kailashpati",
+   "devanagari": "कैलाशपति",
+   "iast": "kailāśpati",
+   "meaning_en": "Lord of Kailasa; Shiva."
+  }
+ },
+ {
+  "name": "Kandan",
+  "verdict": "fix",
+  "reason": "IAST used Tamil t for written d; align with name and Devanagari.",
+  "fix": {
+   "name": "Kandan",
+   "devanagari": "कन्दन्",
+   "iast": "kandan",
+   "meaning_en": "Murugan (Tamil form of Skanda)."
+  }
+ },
+ {
+  "name": "Kumaresan",
+  "verdict": "keep",
+  "reason": "Common Tamil name; lord Kumara, Murugan; correct."
+ },
+ {
+  "name": "Mangalmurti",
+  "verdict": "fix",
+  "reason": "Used Ganesha name; IAST should match written form without medial a.",
+  "fix": {
+   "name": "Mangalmurti",
+   "devanagari": "मंगलमूर्ति",
+   "iast": "maṅgalmūrti",
+   "meaning_en": "Embodiment of auspiciousness; Ganesha."
+  }
+ },
+ {
+  "name": "Muruganandam",
+  "verdict": "fix",
+  "reason": "IAST in Tamil transliteration does not match name or Devanagari.",
+  "fix": {
+   "name": "Muruganandam",
+   "devanagari": "मुरुगानन्दम्",
+   "iast": "murugānandam",
+   "meaning_en": "Bliss of Murugan."
+  }
+ },
+ {
+  "name": "Nagarajan",
+  "verdict": "keep",
+  "reason": "Common Tamil boy name; king of serpents; correct."
+ },
+ {
+  "name": "Narasimhan",
+  "verdict": "keep",
+  "reason": "Common Tamil name; Narasimha avatar; correct."
+ },
+ {
+  "name": "Palaniappan",
+  "verdict": "fix",
+  "reason": "IAST ḻ does not match Devanagari ळ; appan means father/lord.",
+  "fix": {
+   "name": "Palaniappan",
+   "devanagari": "पळनियप्पन्",
+   "iast": "paḷaniyappan",
+   "meaning_en": "Lord (literally father) of Palani; Murugan."
+  }
+ },
+ {
+  "name": "Perumal",
+  "verdict": "keep",
+  "reason": "Very common Tamil name for Vishnu; scripts consistent."
+ },
+ {
+  "name": "Ranganathan",
+  "verdict": "keep",
+  "reason": "Common Tamil name; Ranganatha of Srirangam; correct."
+ },
+ {
+  "name": "Shambhunath",
+  "verdict": "keep",
+  "reason": "Used boy name; lord Shambhu, Shiva; correct."
+ },
+ {
+  "name": "Sivaraman",
+  "verdict": "keep",
+  "reason": "Common Tamil name combining Shiva and Rama; correct."
+ },
+ {
+  "name": "Somasundaram",
+  "verdict": "keep",
+  "reason": "Common Tamil name; Shiva of Madurai; meaning acceptable."
+ },
+ {
+  "name": "Sundaresan",
+  "verdict": "keep",
+  "reason": "Common Tamil name; beautiful lord, Shiva of Madurai; correct."
+ },
+ {
+  "name": "Swaminathan",
+  "verdict": "keep",
+  "reason": "Common Tamil name; Murugan of Swamimalai; correct."
+ },
+ {
+  "name": "Varadarajan",
+  "verdict": "keep",
+  "reason": "Common Tamil name; Varadaraja of Kanchipuram; correct."
+ },
+ {
+  "name": "Velayudham",
+  "verdict": "keep",
+  "reason": "Used Tamil name; Murugan bearing the vel; correct."
+ },
+ {
+  "name": "Venkatesan",
+  "verdict": "keep",
+  "reason": "Common Tamil name; lord of Venkata hill; correct."
+ },
+ {
+  "name": "Vighneshwar",
+  "verdict": "fix",
+  "reason": "Meaning should say lord over (remover of) obstacles, not of obstacles.",
+  "fix": {
+   "name": "Vighneshwar",
+   "devanagari": "विघ्नेश्वर",
+   "iast": "vighneśvar",
+   "meaning_en": "Lord who rules over and removes obstacles; Ganesha."
+  }
+ }
+]
