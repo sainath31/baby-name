@@ -1,0 +1,6 @@
+[
+{"name":"Sucheta","verdict":"keep","reason":"Good Sanskrit name (su + cetas); IAST and Devanagari agree."},
+{"name":"Kanakadurga","verdict":"keep","reason":"Established Andhra name after Kanaka Durga of Vijayawada; scripts agree."},
+{"name":"Rudrama","verdict":"fix","reason":"Regional Telugu form (cf. Rudramadevi); 'Rudra's consort' gloss is weak; scripts agree.","fix":{"name":"Rudrama","devanagari":"रुद्रमा","iast":"rudramā","meaning_en":"Telugu regional form associated with Rudrāmbā, a name of the Mother Goddess; borne by Queen Rudrama Devi (etymology of the ending uncertain)"}},
+{"name":"Subbulakshmi","verdict":"fix","reason":"IAST (subbalakṣmī) and Devanagari (सुब्बलक्ष्मी) disagree with spelling Subbulakshmi; 'subba = auspicious' is unsupported.","fix":{"name":"Subbulakshmi","devanagari":"सुब्बुलक्ष्मी","iast":"subbulakṣmī","meaning_en":"Lakshmi, goddess of prosperity; 'Subbu' is a regional Tamil/Telugu prefix, etymology uncertain"}}
+]

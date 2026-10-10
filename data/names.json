@@ -115829,5 +115829,149 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Sucheta",
+    "iast": "sucetā",
+    "devanagari": "सुचेता",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Of good mind; attentive.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "cetas",
+        "gloss": "mind"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-114-girls6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kanakadurga",
+    "iast": "kanakadurgā",
+    "devanagari": "कनकदुर्गा",
+    "letter": "K",
+    "syllable_count": 5,
+    "meaning_en": "Golden Durga; goddess of Vijayawada.",
+    "components": [
+      {
+        "part": "kanaka",
+        "gloss": "gold"
+      },
+      {
+        "part": "durgā",
+        "gloss": "Durga"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-114-girls6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rudrama",
+    "iast": "rudramā",
+    "devanagari": "रुद्रमा",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Rudra's consort; after Queen Rudrama Devi.",
+    "components": [
+      {
+        "part": "rudra",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "mā",
+        "gloss": "woman"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-114-girls6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Subbulakshmi",
+    "iast": "subbalakṣmī",
+    "devanagari": "सुब्बलक्ष्मी",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Auspicious Lakshmi (Telugu-Tamil form).",
+    "components": [
+      {
+        "part": "subba",
+        "gloss": "auspicious"
+      },
+      {
+        "part": "lakṣmī",
+        "gloss": "Lakshmi"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-114-girls6.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
