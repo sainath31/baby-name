@@ -1,0 +1,344 @@
+[
+ {
+  "iast": "sveta",
+  "use": true,
+  "type": "nature",
+  "gloss": "white"
+ },
+ {
+  "iast": "saroja",
+  "use": true,
+  "type": "nature",
+  "gloss": "lotus"
+ },
+ {
+  "iast": "padminī",
+  "use": true,
+  "type": "nature",
+  "gloss": "lotus pond"
+ },
+ {
+  "iast": "bakula",
+  "use": true,
+  "type": "nature",
+  "gloss": "bakula blossom"
+ },
+ {
+  "iast": "nīlotpala",
+  "use": true,
+  "type": "nature",
+  "gloss": "blue lotus"
+ },
+ {
+  "iast": "nadī",
+  "use": true,
+  "type": "nature",
+  "gloss": "river"
+ },
+ {
+  "iast": "sarit",
+  "use": true,
+  "type": "nature",
+  "gloss": "stream"
+ },
+ {
+  "iast": "vāhinī",
+  "use": true,
+  "type": "nature",
+  "gloss": "flowing river"
+ },
+ {
+  "iast": "parvata",
+  "use": true,
+  "type": "nature",
+  "gloss": "mountain"
+ },
+ {
+  "iast": "pravāla",
+  "use": true,
+  "type": "nature",
+  "gloss": "coral"
+ },
+ {
+  "iast": "vaiḍūrya",
+  "use": true,
+  "type": "nature",
+  "gloss": "cat's-eye gem"
+ },
+ {
+  "iast": "padmarāga",
+  "use": true,
+  "type": "nature",
+  "gloss": "ruby"
+ },
+ {
+  "iast": "marakata",
+  "use": true,
+  "type": "nature",
+  "gloss": "emerald"
+ },
+ {
+  "iast": "puṣparāga",
+  "use": true,
+  "type": "nature",
+  "gloss": "topaz"
+ },
+ {
+  "iast": "tārakā",
+  "use": true,
+  "type": "nature",
+  "gloss": "star"
+ },
+ {
+  "iast": "svāti",
+  "use": true,
+  "type": "nature",
+  "gloss": "the star Svati"
+ },
+ {
+  "iast": "rohiṇī",
+  "use": true,
+  "type": "nature",
+  "gloss": "the star Rohini"
+ },
+ {
+  "iast": "citrā",
+  "use": true,
+  "type": "nature",
+  "gloss": "the star Chitra"
+ },
+ {
+  "iast": "revatī",
+  "use": true,
+  "type": "nature",
+  "gloss": "the star Revati"
+ },
+ {
+  "iast": "vāridhi",
+  "use": true,
+  "type": "nature",
+  "gloss": "ocean"
+ },
+ {
+  "iast": "ambhoja",
+  "use": true,
+  "type": "nature",
+  "gloss": "lotus"
+ },
+ {
+  "iast": "jaladhi",
+  "use": true,
+  "type": "nature",
+  "gloss": "ocean"
+ },
+ {
+  "iast": "surabhi",
+  "use": true,
+  "type": "nature",
+  "gloss": "fragrance"
+ },
+ {
+  "iast": "sugandha",
+  "use": true,
+  "type": "nature",
+  "gloss": "sweet fragrance"
+ },
+ {
+  "iast": "kalahaṃsa",
+  "use": true,
+  "type": "nature",
+  "gloss": "swan"
+ },
+ {
+  "iast": "hariṇa",
+  "use": true,
+  "type": "nature",
+  "gloss": "deer"
+ },
+ {
+  "iast": "kuraṅga",
+  "use": true,
+  "type": "nature",
+  "gloss": "antelope"
+ },
+ {
+  "iast": "sarasvat",
+  "use": true,
+  "type": "nature",
+  "gloss": "lake"
+ },
+ {
+  "iast": "kuṅkuma",
+  "use": true,
+  "type": "nature",
+  "gloss": "saffron"
+ },
+ {
+  "iast": "dala",
+  "use": true,
+  "type": "nature",
+  "gloss": "petal"
+ },
+ {
+  "iast": "kesara",
+  "use": true,
+  "type": "nature",
+  "gloss": "filament of a flower"
+ },
+ {
+  "iast": "vallarī",
+  "use": true,
+  "type": "nature",
+  "gloss": "creeper"
+ },
+ {
+  "iast": "tāra",
+  "use": true,
+  "type": "nature",
+  "gloss": "star"
+ },
+ {
+  "iast": "ūrmi",
+  "use": true,
+  "type": "nature",
+  "gloss": "wave"
+ },
+ {
+  "iast": "subhaga",
+  "use": true,
+  "type": "virtue",
+  "gloss": "fortunate"
+ },
+ {
+  "iast": "nirbhaya",
+  "use": true,
+  "type": "virtue",
+  "gloss": "fearless"
+ },
+ {
+  "iast": "sattva",
+  "use": true,
+  "type": "virtue",
+  "gloss": "purity"
+ },
+ {
+  "iast": "tejasvin",
+  "use": true,
+  "type": "virtue",
+  "gloss": "radiant"
+ },
+ {
+  "iast": "manasvin",
+  "use": true,
+  "type": "virtue",
+  "gloss": "thoughtful"
+ },
+ {
+  "iast": "ullāsa",
+  "use": true,
+  "type": "virtue",
+  "gloss": "delight"
+ },
+ {
+  "iast": "kamanīya",
+  "use": true,
+  "type": "virtue",
+  "gloss": "desirable"
+ },
+ {
+  "iast": "sulabha",
+  "use": true,
+  "type": "virtue",
+  "gloss": "easily attained"
+ },
+ {
+  "iast": "sudatta",
+  "use": true,
+  "type": "virtue",
+  "gloss": "well given"
+ },
+ {
+  "iast": "sunetra",
+  "use": true,
+  "type": "virtue",
+  "gloss": "fair-eyed"
+ },
+ {
+  "iast": "suhṛd",
+  "use": true,
+  "type": "virtue",
+  "gloss": "good friend"
+ },
+ {
+  "iast": "oṅkāra",
+  "use": true,
+  "type": "sacred",
+  "gloss": "the syllable Om"
+ },
+ {
+  "iast": "japa",
+  "use": true,
+  "type": "sacred",
+  "gloss": "recitation"
+ },
+ {
+  "iast": "homa",
+  "use": true,
+  "type": "sacred",
+  "gloss": "fire offering"
+ },
+ {
+  "iast": "āśrama",
+  "use": true,
+  "type": "sacred",
+  "gloss": "hermitage"
+ },
+ {
+  "iast": "dhāma",
+  "use": true,
+  "type": "sacred",
+  "gloss": "abode"
+ },
+ {
+  "iast": "vrata",
+  "use": true,
+  "type": "sacred",
+  "gloss": "vow"
+ },
+ {
+  "iast": "pūjā",
+  "use": true,
+  "type": "sacred",
+  "gloss": "worship"
+ },
+ {
+  "iast": "arcana",
+  "use": true,
+  "type": "sacred",
+  "gloss": "worship"
+ },
+ {
+  "iast": "bhajana",
+  "use": true,
+  "type": "sacred",
+  "gloss": "devotional song"
+ },
+ {
+  "iast": "sūkta",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Vedic hymn"
+ },
+ {
+  "iast": "sandhyā",
+  "use": true,
+  "type": "sacred",
+  "gloss": "twilight prayer"
+ },
+ {
+  "iast": "arundhatī",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Arundhati"
+ }
+]
