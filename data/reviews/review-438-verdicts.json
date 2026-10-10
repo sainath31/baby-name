@@ -1,0 +1,94 @@
+[
+ {
+  "name": "Venkata Prasad",
+  "verdict": "keep",
+  "reason": "Common real pairing; Venkateshwara's grace."
+ },
+ {
+  "name": "Venkata Raju",
+  "verdict": "fix",
+  "reason": "Real Telugu pairing.",
+  "fix": {
+   "meaning_en": "Lord Venkateshwara, the king"
+  }
+ },
+ {
+  "name": "Venkata Sekhar",
+  "verdict": "fix",
+  "reason": "Real pairing.",
+  "fix": {
+   "meaning_en": "Crest-jewel of Lord Venkateshwara; Venkateshwara as the crowning one"
+  }
+ },
+ {
+  "name": "Venkata Teja",
+  "verdict": "keep",
+  "reason": "Plausible modern pairing; Venkateshwara's radiance."
+ },
+ {
+  "name": "Venkata Vardhan",
+  "verdict": "fix",
+  "reason": "Plausible pairing.",
+  "fix": {
+   "meaning_en": "One who increases the grace of Lord Venkateshwara; prosperity-giver"
+  }
+ },
+ {
+  "name": "Vijaya Devi",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Vijaya Jyothi",
+  "verdict": "keep",
+  "reason": "Real pairing."
+ },
+ {
+  "name": "Vijaya Kala",
+  "verdict": "keep",
+  "reason": "Plausible pairing; victory and art."
+ },
+ {
+  "name": "Vijaya Latha",
+  "verdict": "keep",
+  "reason": "Real pairing."
+ },
+ {
+  "name": "Vijaya Mala",
+  "verdict": "keep",
+  "reason": "Plausible pairing."
+ },
+ {
+  "name": "Vijaya Prabha",
+  "verdict": "keep",
+  "reason": "Real pairing."
+ },
+ {
+  "name": "Vijaya Priya",
+  "verdict": "keep",
+  "reason": "Plausible pairing."
+ },
+ {
+  "name": "Vijaya Rani",
+  "verdict": "fix",
+  "reason": "Real pairing; iast of rani corrected.",
+  "fix": {
+   "iast": "vijayarānī"
+  }
+ },
+ {
+  "name": "Vijaya Rekha",
+  "verdict": "keep",
+  "reason": "Plausible pairing."
+ },
+ {
+  "name": "Vijaya Sree",
+  "verdict": "keep",
+  "reason": "Real pairing."
+ },
+ {
+  "name": "Vijaya Vidya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ }
+]
