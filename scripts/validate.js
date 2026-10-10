@@ -10,7 +10,7 @@ const seen = new Map();
 const seenSpell = new Map();
 
 for (const n of names) {
-  const key = norm(n.iast || n.name);
+  const key = `${n.gender === 'girl' ? 'f' : 'm'}:${norm(n.iast || n.name)}`;   // boy/girl counterparts (Lalit / Lalita) sound alike but are different names
   if (seen.has(key) || seenSpell.has(n.name.toLowerCase())) errors.push(`duplicate: ${n.name} / ${seen.get(key) || seenSpell.get(n.name.toLowerCase())}`);
   seen.set(key, n.name); seenSpell.set(n.name.toLowerCase(), n.name);
   if (!n.meaning_en) errors.push(`${n.name}: missing meaning_en`);
@@ -19,7 +19,7 @@ for (const n of names) {
   if (n.letter !== n.name[0].toUpperCase()) errors.push(`${n.name}: letter mismatch`);
   if (n.syllable_count !== syllableCount(n.iast)) errors.push(`${n.name}: syllable_count ${n.syllable_count} != ${syllableCount(n.iast)}`);
   // compounds must not duplicate top-level names
-  for (const c of n.compounds || []) if (seen.has(norm(c.name))) errors.push(`${c.name}: compound duplicates a top-level name`);
+  for (const c of n.compounds || []) if (seen.has('m:' + norm(c.name)) || seen.has('f:' + norm(c.name))) errors.push(`${c.name}: compound duplicates a top-level name`);
 }
 const top = new Set(names.map((m) => norm(m.name)));
 for (const n of names) for (const c of n.compounds || []) if (top.has(norm(c.name))) errors.push(`${c.name}: listed as both compound and top-level`);

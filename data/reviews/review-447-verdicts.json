@@ -1,0 +1,100 @@
+[
+ {
+  "name": "Akanksha",
+  "verdict": "keep",
+  "reason": "Genuine girl name, correct meaning."
+ },
+ {
+  "name": "Gopesh",
+  "verdict": "keep",
+  "reason": "Genuine boy name, Krishna epithet used as name."
+ },
+ {
+  "name": "Juhi",
+  "verdict": "fix",
+  "reason": "IAST did not match Devanagari जूही.",
+  "fix": {
+   "iast": "jūhī",
+   "meaning_en": "Jasmine (from Sanskrit yūthikā)."
+  }
+ },
+ {
+  "name": "Kajal",
+  "verdict": "fix",
+  "reason": "IAST kajjal did not match spoken काजल.",
+  "fix": {
+   "iast": "kājal",
+   "meaning_en": "Kohl; soot used as eye-liner."
+  }
+ },
+ {
+  "name": "Kanika",
+  "verdict": "keep",
+  "reason": "Genuine girl name, meaning fine."
+ },
+ {
+  "name": "Malini",
+  "verdict": "keep",
+  "reason": "Genuine girl name, fine."
+ },
+ {
+  "name": "Meena",
+  "verdict": "keep",
+  "reason": "Genuine girl name, fine."
+ },
+ {
+  "name": "Preeti",
+  "verdict": "keep",
+  "reason": "Genuine girl name, fine."
+ },
+ {
+  "name": "Pritesh",
+  "verdict": "keep",
+  "reason": "Genuine boy name, fine."
+ },
+ {
+  "name": "Reena",
+  "verdict": "fix",
+  "reason": "Weak, doubtful etymology.",
+  "fix": {
+   "meaning_en": "Etymology uncertain; modern name, sometimes linked to Sanskrit rīṇa (melted, absorbed)."
+  }
+ },
+ {
+  "name": "Saroj",
+  "verdict": "keep",
+  "reason": "Genuine unisex name, lotus."
+ },
+ {
+  "name": "Savita",
+  "verdict": "fix",
+  "reason": "Meaning weak.",
+  "fix": {
+   "meaning_en": "Feminine form of Savitṛ, the sun; the sun-god, the impeller."
+  }
+ },
+ {
+  "name": "Shalini",
+  "verdict": "keep",
+  "reason": "Genuine girl name, fine."
+ },
+ {
+  "name": "Shweta",
+  "verdict": "keep",
+  "reason": "Genuine girl name, fine."
+ },
+ {
+  "name": "Sonali",
+  "verdict": "fix",
+  "reason": "IAST did not match Devanagari सोनाली.",
+  "fix": {
+   "iast": "sonālī",
+   "meaning_en": "Golden (Hindi sonā, from Sanskrit svarṇa, gold)."
+  }
+ },
+ {
+  "name": "Surbhi",
+  "verdict": "keep",
+  "reason": "Genuine girl name, fine."
+ }
+]

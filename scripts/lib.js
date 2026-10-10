@@ -46,10 +46,13 @@ export function loadAll(opts = {}) {
   }
   // Fixes can make two records identical; keep the first (hand-compiled before generated).
   const si = new Set(), sn = new Set();
+  // A boy's name and its feminine counterpart (Lalit / Lalita) share a stem but are different names, so the stem key is per gender group.
+  const groups = (n) => (n.gender === 'girl' ? ['f'] : n.gender === 'unisex' ? ['m', 'f'] : ['m']);
   for (const n of all) {
-    const ki = norm(n.iast), kn = n.name.toLowerCase(), ks = n.stem ? norm(n.stem) : null;
-    if (si.has(ki) || sn.has(kn) || (ks && si.has(ks))) { n.listed = false; n.reject_reason = 'duplicate-after-fix'; continue; }
-    si.add(ki); sn.add(kn); if (ks) si.add(ks);
+    const g = groups(n), kn = n.name.toLowerCase();
+    const keys = [norm(n.iast), ...(n.stem ? [norm(n.stem)] : [])].flatMap((k) => g.map((x) => `${x}:${k}`));
+    if (sn.has(kn) || keys.some((k) => si.has(k))) { n.listed = false; n.reject_reason = 'duplicate-after-fix'; continue; }
+    sn.add(kn); keys.forEach((k) => si.add(k));
   }
   return opts.all ? all : all.filter((n) => n.listed);
 }

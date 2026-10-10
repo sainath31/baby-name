@@ -1,0 +1,230 @@
+[
+ {
+  "name": "Aarya",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Ahana",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Akhila",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Amal",
+  "verdict": "reject",
+  "reason": "other: boys' form (male_name), not for a girl"
+ },
+ {
+  "name": "Ankita",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Anuja",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Anupama",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Apoorva",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Archita",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Arpita",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Chandana",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Chandrakanta",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Chetana",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Darshana",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Deepa",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Dhyana",
+  "verdict": "fix",
+  "reason": "Meaning or script weak; corrected.",
+  "fix": {
+   "meaning_en": "Meditation; contemplation."
+  }
+ },
+ {
+  "name": "Hansa",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Harshitha",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Ishita",
+  "verdict": "fix",
+  "reason": "Meaning or script weak; corrected.",
+  "fix": {
+   "meaning_en": "Mastery; one who has supremacy (also read as desired)."
+  }
+ },
+ {
+  "name": "Kamala",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Karthika",
+  "verdict": "fix",
+  "reason": "Meaning or script weak; corrected.",
+  "fix": {
+   "name": "Karthika",
+   "devanagari": "कार्तिका",
+   "iast": "kārtikā",
+   "meaning_en": "Born under the Krittika (Pleiades) stars; of the month Kartika."
+  }
+ },
+ {
+  "name": "Keerthana",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Kokil",
+  "verdict": "reject",
+  "reason": "other: boys' form (male_name), not for a girl"
+ },
+ {
+  "name": "Kriti",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Lalita",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Manasa",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Manisha",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Megha",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Nayana",
+  "verdict": "fix",
+  "reason": "Meaning or script weak; corrected.",
+  "fix": {
+   "meaning_en": "Eye."
+  }
+ },
+ {
+  "name": "Nirmala",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Praneetha",
+  "verdict": "fix",
+  "reason": "Meaning or script weak; corrected.",
+  "fix": {
+   "meaning_en": "Excellently led; accomplished."
+  }
+ },
+ {
+  "name": "Rasika",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Sangeetha",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Shobhana",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Shyamala",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Sudeepa",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Sushila",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Varada",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Vasantha",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Vedika",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Vijaya",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ },
+ {
+  "name": "Viveka",
+  "verdict": "keep",
+  "reason": "Genuinely given girl name with correct meaning."
+ }
+]

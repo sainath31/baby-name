@@ -12,8 +12,8 @@ _Last updated: 2026-10-10_
 
 | Measure | Count |
 |---|---|
-| Names listed (shown to users) | 3,541 (boys 2,679, girls 826, gender-neutral 36) |
-| - attested (found in texts, dictionaries or common use) | 2,353 |
+| Names listed (shown to users) | 3,602 (boys 2,681, girls 884, gender-neutral 37) |
+| - attested (found in texts, dictionaries or common use) | 2,414 |
 | - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 1,188 |
 | Hidden candidate records kept in data | ~18,700 |
 | Total records | 23,398 |
@@ -37,6 +37,7 @@ Vetted attested names number in the low thousands at most; anything beyond that 
   (lists every nakshatra pada the Moon passes through and shows names for all their syllables).
 - Gender filter (boys / girls / gender-neutral) and a "Making new names from this one" section on every name (which suffixes and prefixes it can take, from the reviewed word list).
 - Two-word names (Sai Krishna, Ram Charan, Sri Lakshmi): about 380 listed after review and a full audit; honorific tails (Devi, Rani, Das, Pal, Nath), worshipful addresses (Sri + deity) and doubled deities are excluded.
+- Boy/girl counterparts (Lalit / Lalita, Vedik / Vedika) are now kept as separate names; duplicate checks work within a gender group.
 - Spelling-variant search: Ishan finds Ishaan, Arav finds Aarav, Sidharth finds Siddharth, Rajiv finds Rajeev.
 - Telugu/Kannada support: conversion, a validator (`scripts/check-name.js`) and Telugu/Kannada display in the UI.
 - Suffix/prefix notes: names that are bases show their suffixes and prefixes (317 names); compounds show the pairings of their first part (329 more); the rest say they are complete names on their own.
