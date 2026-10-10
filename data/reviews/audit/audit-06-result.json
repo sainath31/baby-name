@@ -1,0 +1,791 @@
+[
+ {
+  "name": "Jai Prakash",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jai Shankar",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jaideep",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jaitra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jaiveer",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jalad",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jamadagni",
+  "verdict": "fix",
+  "reason": "Meaning is not a meaning; replace.",
+  "fix": {
+   "meaning_en": "Vedic sage, father of Parashurama; etymology uncertain"
+  }
+ },
+ {
+  "name": "Jambavati",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Janak",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Janakiram",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jananatha",
+  "verdict": "reject",
+  "reason": "title_or_honorific: means king"
+ },
+ {
+  "name": "Janardan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jaspreet",
+  "verdict": "fix",
+  "reason": "Used for boys and girls; meaning loosely stated.",
+  "fix": {
+   "gender": "unisex",
+   "meaning_en": "Love of glory and good repute (Punjabi, from yaśas + prīti)"
+  }
+ },
+ {
+  "name": "Jaswant",
+  "verdict": "fix",
+  "reason": "Devanagari does not match the spoken name.",
+  "fix": {
+   "devanagari": "जसवन्त"
+  }
+ },
+ {
+  "name": "Jatin",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jaya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jaya Lakshmi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jaya Prada",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jayada",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jayadev",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jayadhvaja",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jayakara",
+  "verdict": "fix",
+  "reason": "Devanagari has a stray long vowel; jayakara is the correct form.",
+  "fix": {
+   "devanagari": "जयकर",
+   "iast": "jayakara"
+  }
+ },
+ {
+  "name": "Jayakrishnan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jayant",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jayanthi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jayaram",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jayashri",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jayendra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jayesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jayishnu",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jeet",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jeevan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jharna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jigna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jishnu",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jitendra",
+  "verdict": "fix",
+  "reason": "Meaning odd; standard sense is conqueror of the senses.",
+  "fix": {
+   "meaning_en": "Conqueror of the senses; victorious lord"
+  }
+ },
+ {
+  "name": "Jivanatha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jnanakara",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jnanananda",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Joonmoni",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Juri",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jyothi Lakshmi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jyoti",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jyoti Prakash",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jyotirmay",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Jyotsna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kabir",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kadamb",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kadambari",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kailasam",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kailash",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kailashnath",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kailashpati",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kairav",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kaivalya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kakutstha",
+  "verdict": "reject",
+  "reason": "obscure_figure: ancestor/epithet of Rama, rarely given"
+ },
+ {
+  "name": "Kalidas",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kalika",
+  "verdict": "fix",
+  "reason": "Devanagari lacks final long aa for a girl's name.",
+  "fix": {
+   "devanagari": "कालिका",
+   "iast": "kālikā"
+  }
+ },
+ {
+  "name": "Kalindi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kalki",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: future avatar of Vishnu"
+ },
+ {
+  "name": "Kallol",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kalpana",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kalyan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kalyanaraman",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kamakshi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kamal",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kamaljeet",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kamalnath",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kamalnayan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kamesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kameshwari",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kameswara",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kamini",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kamlesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kanak",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kanav",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kanchan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kanchan Mala",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kandan",
+  "verdict": "fix",
+  "reason": "Devanagari should be the plain Tamil-derived spelling.",
+  "fix": {
+   "devanagari": "कन्दन"
+  }
+ },
+ {
+  "name": "Kanha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kanhaiya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kanishk",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kannan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kanta",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kapil",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kapish",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kapritha",
+  "verdict": "reject",
+  "reason": "other: non-meaning 'Name of Indra []', garbled"
+ },
+ {
+  "name": "Karan",
+  "verdict": "fix",
+  "reason": "Devanagari shows Karna; the name Karan is करण.",
+  "fix": {
+   "devanagari": "करण",
+   "iast": "karaṇ",
+   "meaning_en": "Doer, cause (karaṇa); also a popular variant of Karna"
+  }
+ },
+ {
+  "name": "Kardama",
+  "verdict": "reject",
+  "reason": "negative_meaning: word means mud"
+ },
+ {
+  "name": "Karmanya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kartavya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Karthikeyan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kartik",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kartikeya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Karuna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Karunamayi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Karunesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kashinath",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kashmira",
+  "verdict": "reject",
+  "reason": "place_or_river: Kashmir"
+ },
+ {
+  "name": "Kashyap",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kasturi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kathir",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kaundinya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kaunteya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kaushal",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kaustav",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kaveri",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kavin",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kavisha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kavitha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kavya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kedar",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kedarnath",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kesari",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kesarinandan",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: epithet of Hanuman"
+ },
+ {
+  "name": "Kesavan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Keshav",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Keshavendra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Ketaki",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Ketan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Keyur",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Khemchand",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Khemraj",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Khila",
+  "verdict": "reject",
+  "reason": "other: meaning wrong; khila means supplement or waste land"
+ },
+ {
+  "name": "Khushal",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Khyati",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kiran",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kiranjot",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kiriti",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kirtan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kirti",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kirtiraja",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kishan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kishore",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kodanda",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kodandarama",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Koteswara",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kovid",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kripa",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kripal",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Krish",
+  "verdict": "fix",
+  "reason": "Devanagari malformed with bare halant.",
+  "fix": {
+   "devanagari": "कृष"
+  }
+ },
+ {
+  "name": "Krishna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Krishnakant",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Krishnamohan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Krishnamurthy",
+  "verdict": "fix",
+  "reason": "State tag is a comma-joined string.",
+  "fix": {
+   "states": [
+    "Tamil Nadu",
+    "Karnataka",
+    "Andhra Pradesh"
+   ]
+  }
+ },
+ {
+  "name": "Krishnan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Krishnappa",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kritajna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kshama",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ },
+ {
+  "name": "Kshem",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning, script and tags."
+ }
+]

@@ -1,0 +1,768 @@
+[
+ {
+  "name": "Kshemaka",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kshitij",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kshitindra",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kshitish",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kuber",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kuldeep",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kumaran",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kumaraswamy",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kumaresan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kunal",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kunda",
+  "verdict": "fix",
+  "reason": "Devanagari कुण्ड means pit/bowl; jasmine is कुन्द. Gender fitted to flower name.",
+  "fix": {
+   "devanagari": "कुन्द",
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Kunja",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kunti",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kush",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kushagra",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kushal",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Kusuma",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Laksh",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lakshay",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lakshit",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lakshman",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lakshmanan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lakshmi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lakshmikant",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lakshminarayana",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lakshmipathi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lalit",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lambodar",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Latha",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lavanya",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lavesh",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Leela",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Leelavati",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lekha",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lekhraj",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Likhit",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lingaraj",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lipika",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lipsa",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lochan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lohit",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lokanath",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Lokapala",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: world-guardian, a title/class of deities"
+ },
+ {
+  "name": "Lopamudra",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Luv",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Madan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Madanmohan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Madhav",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Madhavan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Madhavi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Madhu",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Madhubala",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Madhukar",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Madhur",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Madhuraj",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Madhusudana",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mahabahu",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: adjectival epithet 'mighty-armed'"
+ },
+ {
+  "name": "Mahadev",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mahadevan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mahadevappa",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mahadyuti",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: bare adjective, not a given name"
+ },
+ {
+  "name": "Mahalakshmi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mahamana",
+  "verdict": "reject",
+  "reason": "title_or_honorific: honorific adjective (great-souled)"
+ },
+ {
+  "name": "Mahashakti",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: shakti is the goddess principle; meaning 'name of Kartikeya' is unsupported"
+ },
+ {
+  "name": "Mahavir",
+  "verdict": "fix",
+  "reason": "Hindu use is valid (Hanuman epithet) but meaning wrongly points to Jain Tirthankara only.",
+  "fix": {
+   "meaning_en": "Great hero; epithet of Hanuman (also the 24th Jain Tirthankara)."
+  }
+ },
+ {
+  "name": "Mahendra",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mahesh",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Maheshchandra",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Maheshvara",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mahijit",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mahika",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mahinasa",
+  "verdict": "reject",
+  "reason": "obscure_figure: meaning 'Name of a Rudra' is a non-meaning"
+ },
+ {
+  "name": "Mahipal",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Maitreyi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Malhar",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mallesh",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Malleshwar",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mallika",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mallikarjuna",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mamata",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manas",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mandar",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mandaramani",
+  "verdict": "reject",
+  "reason": "markup_or_garbled: gloss itself says doubtful reading (w.r.)"
+ },
+ {
+  "name": "Mandasana",
+  "verdict": "reject",
+  "reason": "obscure_figure: Vedic epithet, not a given name"
+ },
+ {
+  "name": "Mandavi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mandavya",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mandeep",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mandodari",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mangala",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mangalmurti",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mani",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manikandan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manikanta",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manindra",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manini",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manish",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manit",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manju",
+  "verdict": "fix",
+  "reason": "Manju is used for girls and boys.",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Manjula",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manjunath",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manmohan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manohar",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manoj",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Manojava",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: adjective phrase, epithet-like"
+ },
+ {
+  "name": "Manomay",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Upanishadic term (kosha)"
+ },
+ {
+  "name": "Manpreet",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mansi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mantradruma",
+  "verdict": "reject",
+  "reason": "obscure_figure: Indra of a Manvantara, not a usable name"
+ },
+ {
+  "name": "Manu",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Markandeya",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Maruti",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mauli",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Maulik",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Maya",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mayur",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Medha",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Medhavi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Meenakshi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Meenu",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Meghana",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mehul",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mihir",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Milan",
+  "verdict": "fix",
+  "reason": "Milan is used for girls and boys.",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Milind",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mitesh",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Moda",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mohan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mohandas",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mohini",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mohit",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Motiram",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mounika",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Moushumi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mrida",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mridul",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mrigavyadha",
+  "verdict": "reject",
+  "reason": "demon_or_villain: Rudra name meaning 'deer hunter'; unsuitable"
+ },
+ {
+  "name": "Mrinal",
+  "verdict": "fix",
+  "reason": "Mrinal is used for girls and boys.",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Mrinalini",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mrinmoy",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mritunjay",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mudgala",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mukesh",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mukta",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Muktabai",
+  "verdict": "reject",
+  "reason": "obscure_figure: name of a specific saint with honorific -bai; not a given name form"
+ },
+ {
+  "name": "Mukul",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Mukund",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Munindra",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Munisha",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ },
+ {
+  "name": "Muralidhar",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and script acceptable."
+ }
+]
