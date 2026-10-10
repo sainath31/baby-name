@@ -32445,5 +32445,1052 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Kandan",
+    "iast": "kantan",
+    "devanagari": "कन्दन्",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Murugan (Tamil form of Skanda).",
+    "components": [
+      {
+        "part": "kantan",
+        "gloss": "Skanda (Tamil)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kumaresan",
+    "iast": "kumāreśan",
+    "devanagari": "कुमारेशन्",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Lord Kumara; Murugan.",
+    "components": [
+      {
+        "part": "kumāra",
+        "gloss": "Kumara"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Velayudham",
+    "iast": "velāyudham",
+    "devanagari": "वेलायुधम्",
+    "letter": "V",
+    "syllable_count": 4,
+    "meaning_en": "One who holds the vel as his weapon; Murugan.",
+    "components": [
+      {
+        "part": "vēl",
+        "gloss": "spear (Tamil)"
+      },
+      {
+        "part": "āyudha",
+        "gloss": "weapon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Muruganandam",
+    "iast": "murukāṉantam",
+    "devanagari": "मुरुगानन्दम्",
+    "letter": "M",
+    "syllable_count": 5,
+    "meaning_en": "Bliss of Murugan.",
+    "components": [
+      {
+        "part": "murukaṉ",
+        "gloss": "Murugan"
+      },
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Swaminathan",
+    "iast": "svāmināthan",
+    "devanagari": "स्वामिनाथन्",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Lord of lords; Murugan of Swamimalai.",
+    "components": [
+      {
+        "part": "svāmin",
+        "gloss": "master"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dandapani",
+    "iast": "daṇḍapāṇi",
+    "devanagari": "दण्डपाणि",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "Holding a staff; Murugan as the ascetic of Palani.",
+    "components": [
+      {
+        "part": "daṇḍa",
+        "gloss": "staff"
+      },
+      {
+        "part": "pāṇi",
+        "gloss": "hand"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Palaniappan",
+    "iast": "paḻaniyappan",
+    "devanagari": "पळनियप्पन्",
+    "letter": "P",
+    "syllable_count": 5,
+    "meaning_en": "Lord of Palani; Murugan.",
+    "components": [
+      {
+        "part": "paḻani",
+        "gloss": "Palani"
+      },
+      {
+        "part": "appan",
+        "gloss": "father, lord (Tamil)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Perumal",
+    "iast": "perumāḷ",
+    "devanagari": "पेरुमाळ्",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "The great one; Vishnu (Tamil).",
+    "components": [
+      {
+        "part": "peru",
+        "gloss": "great"
+      },
+      {
+        "part": "āḷ",
+        "gloss": "person (Tamil)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ranganathan",
+    "iast": "raṅganāthan",
+    "devanagari": "रङ्गनाथन्",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "Lord of Srirangam; Vishnu (Tamil form).",
+    "components": [
+      {
+        "part": "raṅganātha",
+        "gloss": "Vishnu"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Govindarajan",
+    "iast": "govindarājan",
+    "devanagari": "गोविन्दराजन्",
+    "letter": "G",
+    "syllable_count": 5,
+    "meaning_en": "King Govinda; Vishnu of Tirupati.",
+    "components": [
+      {
+        "part": "govinda",
+        "gloss": "Krishna"
+      },
+      {
+        "part": "rājan",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Varadarajan",
+    "iast": "varadarājan",
+    "devanagari": "वरदराजन्",
+    "letter": "V",
+    "syllable_count": 5,
+    "meaning_en": "King who grants boons; Vishnu of Kanchipuram.",
+    "components": [
+      {
+        "part": "varada",
+        "gloss": "boon-giving"
+      },
+      {
+        "part": "rājan",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Venkatesan",
+    "iast": "veṅkaṭeśan",
+    "devanagari": "वेङ्कटेशन्",
+    "letter": "V",
+    "syllable_count": 4,
+    "meaning_en": "Lord of the Venkata hill (Tamil form).",
+    "components": [
+      {
+        "part": "veṅkaṭeśa",
+        "gloss": "Venkateswara"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Narasimhan",
+    "iast": "narasiṃhan",
+    "devanagari": "नरसिंहन्",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Narasimha, Vishnu as man-lion (Tamil form).",
+    "components": [
+      {
+        "part": "narasiṃha",
+        "gloss": "man-lion"
+      },
+      {
+        "part": "-an",
+        "gloss": "masculine ending"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sivaraman",
+    "iast": "śivarāman",
+    "devanagari": "शिवरामन्",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Shiva and Rama (Tamil).",
+    "components": [
+      {
+        "part": "śiva",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Somasundaram",
+    "iast": "somasundaram",
+    "devanagari": "सोमसुन्दरम्",
+    "letter": "S",
+    "syllable_count": 5,
+    "meaning_en": "Beautiful as the moon; Shiva of Madurai.",
+    "components": [
+      {
+        "part": "soma",
+        "gloss": "moon"
+      },
+      {
+        "part": "sundara",
+        "gloss": "beautiful"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chidambaram",
+    "iast": "cidambaram",
+    "devanagari": "चिदम्बरम्",
+    "letter": "C",
+    "syllable_count": 4,
+    "meaning_en": "Sky of consciousness; Shiva's temple town.",
+    "components": [
+      {
+        "part": "cit",
+        "gloss": "consciousness"
+      },
+      {
+        "part": "ambara",
+        "gloss": "sky"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ekambaram",
+    "iast": "ekāmbaram",
+    "devanagari": "एकाम्बरम्",
+    "letter": "E",
+    "syllable_count": 4,
+    "meaning_en": "Shiva of the single mango tree at Kanchipuram.",
+    "components": [
+      {
+        "part": "eka",
+        "gloss": "one"
+      },
+      {
+        "part": "āmra",
+        "gloss": "mango"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Arunachalam",
+    "iast": "aruṇācalam",
+    "devanagari": "अरुणाचलम्",
+    "letter": "A",
+    "syllable_count": 5,
+    "meaning_en": "The red mountain; Shiva of Tiruvannamalai.",
+    "components": [
+      {
+        "part": "aruṇa",
+        "gloss": "red"
+      },
+      {
+        "part": "acala",
+        "gloss": "mountain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kailasam",
+    "iast": "kailāsam",
+    "devanagari": "कैलासम्",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Kailasa, Shiva's mountain (Tamil form).",
+    "components": [
+      {
+        "part": "kailāsa",
+        "gloss": "Kailasa"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nagarajan",
+    "iast": "nāgarājan",
+    "devanagari": "नागराजन्",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "King of serpents (Tamil form).",
+    "components": [
+      {
+        "part": "nāga",
+        "gloss": "serpent"
+      },
+      {
+        "part": "rājan",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sundaresan",
+    "iast": "sundareśan",
+    "devanagari": "सुन्दरेशन्",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Beautiful lord; Shiva of Madurai.",
+    "components": [
+      {
+        "part": "sundara",
+        "gloss": "beautiful"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ganadhish",
+    "iast": "gaṇādhīś",
+    "stem": "gaṇādhīśa",
+    "devanagari": "गणाधीश",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Lord of the hosts; Ganesha.",
+    "components": [
+      {
+        "part": "gaṇa",
+        "gloss": "host"
+      },
+      {
+        "part": "adhīśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ganesha Ashtottara",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gananath",
+    "iast": "gaṇanāth",
+    "stem": "gaṇanātha",
+    "devanagari": "गणनाथ",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Lord of the hosts; Ganesha.",
+    "components": [
+      {
+        "part": "gaṇa",
+        "gloss": "host"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ganesha Ashtottara",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vighneshwar",
+    "iast": "vighneśvar",
+    "stem": "vighneśvara",
+    "devanagari": "विघ्नेश्वर",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Lord of obstacles; Ganesha.",
+    "components": [
+      {
+        "part": "vighna",
+        "gloss": "obstacle"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ganesha Ashtottara",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mangalmurti",
+    "iast": "maṅgalamūrti",
+    "devanagari": "मंगलमूर्ति",
+    "letter": "M",
+    "syllable_count": 5,
+    "meaning_en": "Embodiment of auspiciousness; Ganesha.",
+    "components": [
+      {
+        "part": "maṅgala",
+        "gloss": "auspicious"
+      },
+      {
+        "part": "mūrti",
+        "gloss": "form"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Avaneesh",
+    "iast": "avanīś",
+    "stem": "avanīśa",
+    "devanagari": "अवनीश",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Lord of the earth.",
+    "components": [
+      {
+        "part": "avanī",
+        "gloss": "earth"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hanumant",
+    "iast": "hanumant",
+    "stem": "hanumanta",
+    "devanagari": "हनुमन्त",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Hanuman.",
+    "components": [
+      {
+        "part": "hanumat",
+        "gloss": "Hanuman"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kesari",
+    "iast": "kesarī",
+    "devanagari": "केसरी",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Lion; Hanuman's father.",
+    "components": [
+      {
+        "part": "kesarin",
+        "gloss": "maned, lion"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kailashpati",
+    "iast": "kailāsapati",
+    "devanagari": "कैलासपति",
+    "letter": "K",
+    "syllable_count": 5,
+    "meaning_en": "Lord of Kailasa; Shiva.",
+    "components": [
+      {
+        "part": "kailāsa",
+        "gloss": "Kailasa"
+      },
+      {
+        "part": "pati",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shambhunath",
+    "iast": "śambhunāth",
+    "stem": "śambhunātha",
+    "devanagari": "शम्भुनाथ",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Lord Shambhu; Shiva.",
+    "components": [
+      {
+        "part": "śambhu",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-023-tamil-temple.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
