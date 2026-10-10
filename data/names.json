@@ -24873,5 +24873,1093 @@
       }
     ],
     "stem": "niśītha"
+  },
+  {
+    "name": "Keshava",
+    "iast": "keśava",
+    "devanagari": "केशव",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "He of beautiful hair; the slayer of the demon Keshi.",
+    "components": [
+      {
+        "part": "keśa",
+        "gloss": "hair"
+      },
+      {
+        "part": "-va",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Vishnu Sahasranama",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-006-vishnu-sahasranama.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Purushottama",
+    "iast": "puruṣottama",
+    "devanagari": "पुरुषोत्तम",
+    "letter": "P",
+    "syllable_count": 5,
+    "meaning_en": "The highest of persons.",
+    "components": [
+      {
+        "part": "puruṣa",
+        "gloss": "person"
+      },
+      {
+        "part": "uttama",
+        "gloss": "highest"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Vishnu Sahasranama",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-006-vishnu-sahasranama.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Padmanabha",
+    "iast": "padmanābha",
+    "devanagari": "पद्मनाभ",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "He from whose navel the lotus springs.",
+    "components": [
+      {
+        "part": "padma",
+        "gloss": "lotus"
+      },
+      {
+        "part": "nābhi",
+        "gloss": "navel"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Vishnu Sahasranama",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-006-vishnu-sahasranama.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ishana",
+    "iast": "īśāna",
+    "devanagari": "ईशान",
+    "letter": "I",
+    "syllable_count": 3,
+    "meaning_en": "The ruler.",
+    "components": [
+      {
+        "part": "īśāna",
+        "gloss": "ruling"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Vishnu Sahasranama",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-006-vishnu-sahasranama.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Madhava",
+    "iast": "mādhava",
+    "devanagari": "माधव",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Husband of Lakshmi; sweet like spring.",
+    "components": [
+      {
+        "part": "mādhava",
+        "gloss": "of Madhu"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Vishnu Sahasranama",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-006-vishnu-sahasranama.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vikrama",
+    "iast": "vikrama",
+    "devanagari": "विक्रम",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "The valiant, the strider.",
+    "components": [
+      {
+        "part": "vikrama",
+        "gloss": "stride, valour"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Vishnu Sahasranama",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-006-vishnu-sahasranama.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Suresha",
+    "iast": "sureśa",
+    "devanagari": "सुरेश",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Lord of the gods.",
+    "components": [
+      {
+        "part": "sura",
+        "gloss": "god"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Vishnu Sahasranama",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-006-vishnu-sahasranama.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Achyuta",
+    "iast": "acyuta",
+    "devanagari": "अच्युत",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "The infallible.",
+    "components": [
+      {
+        "part": "a",
+        "gloss": "not"
+      },
+      {
+        "part": "cyuta",
+        "gloss": "fallen"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Vishnu Sahasranama",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-006-vishnu-sahasranama.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Amrita",
+    "iast": "amṛta",
+    "devanagari": "अमृत",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "The immortal nectar.",
+    "components": [
+      {
+        "part": "a",
+        "gloss": "not"
+      },
+      {
+        "part": "mṛta",
+        "gloss": "dead"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Vishnu Sahasranama",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-006-vishnu-sahasranama.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vyasa",
+    "iast": "vyāsa",
+    "devanagari": "व्यास",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Compiler or arranger; the sage who compiled the Mahabharata.",
+    "components": [
+      {
+        "part": "vi",
+        "gloss": "apart"
+      },
+      {
+        "part": "āsa",
+        "gloss": "placing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Mahabharata",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-008-deity-epithets-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gudakesh",
+    "iast": "guḍākeś",
+    "stem": "guḍākeśa",
+    "devanagari": "गुडाकेश",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Conqueror of sleep; Arjuna in the Bhagavad Gita.",
+    "components": [
+      {
+        "part": "guḍākā",
+        "gloss": "sleep"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Bhagavad Gita",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kaunteya",
+    "iast": "kaunteya",
+    "devanagari": "कौन्तेय",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Son of Kunti; Arjuna.",
+    "components": [
+      {
+        "part": "kuntī",
+        "gloss": "Kunti"
+      },
+      {
+        "part": "-eya",
+        "gloss": "son of"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Bhagavad Gita",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yogeshwar",
+    "iast": "yogeśvar",
+    "stem": "yogeśvara",
+    "devanagari": "योगेश्वर",
+    "letter": "Y",
+    "syllable_count": 3,
+    "meaning_en": "Lord of yoga; Krishna.",
+    "components": [
+      {
+        "part": "yoga",
+        "gloss": "yoga"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Bhagavad Gita",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kiriti",
+    "iast": "kirīṭin",
+    "devanagari": "किरीटी",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Crowned one; Arjuna, who wore Indra's diadem.",
+    "components": [
+      {
+        "part": "kirīṭa",
+        "gloss": "crown"
+      },
+      {
+        "part": "-in",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Bhagavad Gita",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Savyasachi",
+    "iast": "savyasācin",
+    "devanagari": "सव्यसाची",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Ambidextrous archer; Arjuna.",
+    "components": [
+      {
+        "part": "savya",
+        "gloss": "left hand"
+      },
+      {
+        "part": "sācin",
+        "gloss": "drawing the bow"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Bhagavad Gita",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Satyaki",
+    "iast": "sātyaki",
+    "devanagari": "सात्यकि",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Descendant of Satyaka; Krishna's loyal warrior friend.",
+    "components": [
+      {
+        "part": "satyaka",
+        "gloss": "Satyaka"
+      },
+      {
+        "part": "-i",
+        "gloss": "descendant"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Mahabharata",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shatrughna",
+    "iast": "śatrughna",
+    "devanagari": "शत्रुघ्न",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Slayer of enemies; Rama's youngest brother.",
+    "components": [
+      {
+        "part": "śatru",
+        "gloss": "enemy"
+      },
+      {
+        "part": "ghna",
+        "gloss": "slaying"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ramayana",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nal",
+    "iast": "nal",
+    "stem": "nala",
+    "devanagari": "नल",
+    "letter": "N",
+    "syllable_count": 1,
+    "meaning_en": "Name of the righteous king of the Nala-Damayanti story; also the vanara who built Rama's bridge.",
+    "components": [
+      {
+        "part": "nala",
+        "gloss": "reed"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Mahabharata",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sugreev",
+    "iast": "sugrīv",
+    "stem": "sugrīva",
+    "devanagari": "सुग्रीव",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Handsome-necked; the vanara king, Rama's ally.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "fine"
+      },
+      {
+        "part": "grīvā",
+        "gloss": "neck"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ramayana",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vibhishan",
+    "iast": "vibhīṣaṇ",
+    "stem": "vibhīṣaṇa",
+    "devanagari": "विभीषण",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Terrifying (to evil); Ravana's righteous brother, devotee of Rama.",
+    "components": [
+      {
+        "part": "vi",
+        "gloss": "greatly"
+      },
+      {
+        "part": "bhīṣaṇa",
+        "gloss": "terrifying"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Ramayana",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Luv",
+    "iast": "lav",
+    "stem": "lava",
+    "devanagari": "लव",
+    "letter": "L",
+    "syllable_count": 1,
+    "meaning_en": "Name of one of Rama's twin sons.",
+    "components": [
+      {
+        "part": "lava",
+        "gloss": "fragment, moment"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ramayana",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kush",
+    "iast": "kuś",
+    "stem": "kuśa",
+    "devanagari": "कुश",
+    "letter": "K",
+    "syllable_count": 1,
+    "meaning_en": "Sacred kusha grass; one of Rama's twin sons.",
+    "components": [
+      {
+        "part": "kuśa",
+        "gloss": "sacred grass"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ramayana",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sushen",
+    "iast": "suṣeṇ",
+    "stem": "suṣeṇa",
+    "devanagari": "सुषेण",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Having a fine army; the vanara physician of the Ramayana.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "senā",
+        "gloss": "army"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Ramayana",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dasharath",
+    "iast": "daśarath",
+    "stem": "daśaratha",
+    "devanagari": "दशरथ",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Having ten chariots; Rama's father.",
+    "components": [
+      {
+        "part": "daśa",
+        "gloss": "ten"
+      },
+      {
+        "part": "ratha",
+        "gloss": "chariot"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ramayana",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Janak",
+    "iast": "janak",
+    "stem": "janaka",
+    "devanagari": "जनक",
+    "letter": "J",
+    "syllable_count": 2,
+    "meaning_en": "Father, progenitor; the sage-king, father of Sita.",
+    "components": [
+      {
+        "part": "janaka",
+        "gloss": "begetter"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ramayana",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Raghu",
+    "iast": "raghu",
+    "devanagari": "रघु",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Swift; the ancestor of Rama's dynasty.",
+    "components": [
+      {
+        "part": "raghu",
+        "gloss": "swift"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Raghuvamsha",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Harishchandra",
+    "iast": "hariścandra",
+    "devanagari": "हरिश्चन्द्र",
+    "letter": "H",
+    "syllable_count": 4,
+    "meaning_en": "Golden moon; the king famed for truthfulness.",
+    "components": [
+      {
+        "part": "hari",
+        "gloss": "golden"
+      },
+      {
+        "part": "candra",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Markandeya Purana",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Markandeya",
+    "iast": "mārkaṇḍeya",
+    "devanagari": "मार्कण्डेय",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Name of the sage saved from death by Shiva.",
+    "components": [
+      {
+        "part": "mṛkaṇḍu",
+        "gloss": "Mrikandu"
+      },
+      {
+        "part": "-eya",
+        "gloss": "son of"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Markandeya Purana",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ambarish",
+    "iast": "ambarīṣ",
+    "stem": "ambarīṣa",
+    "devanagari": "अम्बरीष",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Name of the devoted king of the Bhagavata Purana.",
+    "components": [
+      {
+        "part": "ambarīṣa",
+        "gloss": "Ambarisha"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Bhagavata Purana",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rantidev",
+    "iast": "rantidev",
+    "stem": "rantideva",
+    "devanagari": "रन्तिदेव",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Name of the generous king who gave away his last food.",
+    "components": [
+      {
+        "part": "ranti",
+        "gloss": "delight"
+      },
+      {
+        "part": "deva",
+        "gloss": "god"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Bhagavata Purana",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shibi",
+    "iast": "śibi",
+    "devanagari": "शिबि",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Name of the king who offered his own flesh to save a dove.",
+    "components": [
+      {
+        "part": "śibi",
+        "gloss": "Shibi"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-016-epics.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
