@@ -1,0 +1,45 @@
+[
+ {
+  "name": "Divit",
+  "verdict": "fix",
+  "reason": "Meaning is a modern gloss; flag uncertainty",
+  "fix": {
+   "name": "Divit",
+   "devanagari": "दिवित",
+   "iast": "divit",
+   "meaning_en": "Commonly glossed as 'immortal' or 'heavenly', linked to Sanskrit div (heaven); modern name, etymology uncertain."
+  }
+ },
+ {
+  "name": "Kabir",
+  "verdict": "fix",
+  "reason": "Name is Arabic in origin; meaning clarified",
+  "fix": {
+   "name": "Kabir",
+   "devanagari": "कबीर",
+   "iast": "kabīr",
+   "meaning_en": "Great (from Arabic kabīr); also the name of the 15th-century saint-poet Kabir."
+  }
+ },
+ {
+  "name": "Kiaan",
+  "verdict": "reject",
+  "reason": "other: modern coinage with no Sanskrit or Indian etymology; meaning 'ancient god' is an unsupported marketing gloss"
+ },
+ {
+  "name": "Naksh",
+  "verdict": "fix",
+  "reason": "Devanagari and IAST wrong; word is Perso-Arabic naqsh used in Hindi",
+  "fix": {
+   "name": "Naksh",
+   "devanagari": "नक्श",
+   "iast": "nakś",
+   "meaning_en": "Pattern, mark, impression (Perso-Arabic naqsh, used in Hindi)."
+  }
+ },
+ {
+  "name": "Viaan",
+  "verdict": "reject",
+  "reason": "duplicate_variant: respelling of Vivaan/Vihaan; stated meaning is a marketing gloss with uncertain etymology"
+ }
+]

@@ -56700,5 +56700,271 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Divit",
+    "iast": "divit",
+    "stem": "divita",
+    "devanagari": "दिवित",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Immortal; heavenly.",
+    "components": [
+      {
+        "part": "div",
+        "gloss": "heaven"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-053-modern-boys.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kabir",
+    "iast": "kabīr",
+    "stem": "kabīra",
+    "devanagari": "कबीर",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Great; the saint-poet Kabir.",
+    "components": [
+      {
+        "part": "kabīr",
+        "gloss": "great"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-053-modern-boys.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Naksh",
+    "iast": "nakṣ",
+    "stem": "nakṣa",
+    "devanagari": "नक्ष",
+    "letter": "N",
+    "syllable_count": 1,
+    "meaning_en": "Pattern; mark.",
+    "components": [
+      {
+        "part": "nakṣa",
+        "gloss": "design"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-053-modern-boys.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Reyansh",
+    "iast": "rayāṃś",
+    "stem": "rayāṃśa",
+    "devanagari": "रेयांश",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Ray of light; part of Vishnu.",
+    "components": [
+      {
+        "part": "raya",
+        "gloss": "ray"
+      },
+      {
+        "part": "aṃśa",
+        "gloss": "part"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-053-modern-boys.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Viaan",
+    "iast": "vīyān",
+    "stem": "vīyāna",
+    "devanagari": "वियान",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Full of life; modern coinage.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-053-modern-boys.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yash",
+    "iast": "yaś",
+    "stem": "yaśa",
+    "devanagari": "यश",
+    "letter": "Y",
+    "syllable_count": 1,
+    "meaning_en": "Fame.",
+    "components": [
+      {
+        "part": "yaśas",
+        "gloss": "fame"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-053-modern-boys.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Atharv",
+    "iast": "atharv",
+    "stem": "atharva",
+    "devanagari": "अथर्व",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "The fourth Veda; Atharvan.",
+    "components": [
+      {
+        "part": "atharva",
+        "gloss": "Veda"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-053-modern-boys.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kiaan",
+    "iast": "kiyān",
+    "stem": "kiyāna",
+    "devanagari": "कियान",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Ancient god (modern coinage).",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-053-modern-boys.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
