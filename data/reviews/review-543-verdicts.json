@@ -1,0 +1,1330 @@
+[
+ {
+  "name": "Pujapriya",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Pujaputra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pujavardhana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pujesha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushparagadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushparagajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushparagamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushparagapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushparagavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushparagendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Pushparagesha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Revatidevi",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Revatijit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Revatimayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Revatimitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Revatinandana",
+  "verdict": "fix",
+  "reason": "Name fine; meaning reworded to read naturally.",
+  "fix": {
+   "name": "Revatinandana",
+   "devanagari": "रेवतीनन्दन",
+   "iast": "revatīnandana",
+   "meaning_en": "Son of Revati; delight of Revati."
+  }
+ },
+ {
+  "name": "Revatinandini",
+  "verdict": "fix",
+  "reason": "Name fine; meaning reworded to read naturally.",
+  "fix": {
+   "name": "Revatinandini",
+   "devanagari": "रेवतीनन्दिनी",
+   "iast": "revatīnandinī",
+   "meaning_en": "Joy of Revati (the nakshatra Revati)."
+  }
+ },
+ {
+  "name": "Revatinatha",
+  "verdict": "fix",
+  "reason": "Name fine; meaning reworded to read naturally.",
+  "fix": {
+   "name": "Revatinatha",
+   "devanagari": "रेवतीनाथ",
+   "iast": "revatīnātha",
+   "meaning_en": "Lord of Revati."
+  }
+ },
+ {
+  "name": "Revatinidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Revatipala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Revatipriya",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Revatishekhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Revatisundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Revativati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rohinidevi",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Rohinijit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rohinikanta",
+  "verdict": "fix",
+  "reason": "Name fine; meaning reworded to read naturally.",
+  "fix": {
+   "name": "Rohinikanta",
+   "devanagari": "रोहिणीकान्त",
+   "iast": "rohiṇīkānta",
+   "meaning_en": "Beloved of Rohini; a poetic epithet of the Moon."
+  }
+ },
+ {
+  "name": "Rohinimayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rohinimitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rohininandana",
+  "verdict": "fix",
+  "reason": "Name fine; meaning reworded to read naturally.",
+  "fix": {
+   "name": "Rohininandana",
+   "devanagari": "रोहिणीनन्दन",
+   "iast": "rohiṇīnandana",
+   "meaning_en": "Son of Rohini; delight of Rohini."
+  }
+ },
+ {
+  "name": "Rohininandini",
+  "verdict": "fix",
+  "reason": "Name fine; meaning reworded to read naturally.",
+  "fix": {
+   "name": "Rohininandini",
+   "devanagari": "रोहिणीनन्दिनी",
+   "iast": "rohiṇīnandinī",
+   "meaning_en": "Joy of Rohini (the nakshatra Rohini)."
+  }
+ },
+ {
+  "name": "Rohininatha",
+  "verdict": "fix",
+  "reason": "Name fine; meaning reworded to read naturally.",
+  "fix": {
+   "name": "Rohininatha",
+   "devanagari": "रोहिणीनाथ",
+   "iast": "rohiṇīnātha",
+   "meaning_en": "Lord of Rohini; a poetic epithet of the Moon."
+  }
+ },
+ {
+  "name": "Rohininidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rohinipala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rohinipriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rohinishekhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rohinisundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rohinivati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyadasa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyadatta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyadhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyadipa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyakanta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyakumara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyananda",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Sandhyanandana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyanidhi",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Sandhyapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyaputra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sandhyesha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarojadevi",
+  "verdict": "fix",
+  "reason": "Name fine; meaning reworded to read naturally.",
+  "fix": {
+   "name": "Sarojadevi",
+   "devanagari": "सरोजदेवी",
+   "iast": "sarojadevī",
+   "meaning_en": "Lotus goddess; lady Saroja."
+  }
+ },
+ {
+  "name": "Sarojajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarojakanta",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Sarojamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarojamitra",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Sarojananda",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Sarojanandana",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Sarojanandini",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Sarojanatha",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Sarojanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarojapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarojapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarojashekhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarojasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarojavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarojendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarojesha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvabhushana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvadhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvadipa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvaketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvamitra",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Sattvanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvapati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvaprakasha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvaraja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvavardhana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sattvesha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shribhajana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shridhama",
+  "verdict": "fix",
+  "reason": "Name fine; meaning reworded to read naturally.",
+  "fix": {
+   "name": "Shridhama",
+   "devanagari": "श्रीधाम",
+   "iast": "śrīdhāma",
+   "meaning_en": "Abode of Shri (Lakshmi); abode of prosperity."
+  }
+ },
+ {
+  "name": "Shrihoma",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrijapa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrikamaniya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrimanasvin",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrinirbhaya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shripuja",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shrisandhya",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shrisattva",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisubhaga",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisudatta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisuhrid",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisukta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisulabha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisunetra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shritejasvin",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrivrata",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subakula",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagadevi",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Subhagadhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagadipa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagaketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhaganatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhaganidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagapati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagaraja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhagesha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattadhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattadipa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattaketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattapati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattaraja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudattesha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sugandhadevi",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Sugandhajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sugandhakanta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sugandhamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sugandhamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sugandhananda",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Sugandhanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sugandhanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sugandhapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sugandhapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sugandhavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sugandhendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sugandhesha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suharina",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sujaladhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sujyotish",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukalahamsa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukamaniya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukesara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktadasa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktadatta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktadhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktadipa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktakanta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktakumara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktananda",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktanandana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktaprakasha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktaputra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktavardhana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suktesha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukunkuma",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukuranga",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhadhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhadipa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhaketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhanidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhapati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabharaja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sulabhesha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumanasvin",
+  "verdict": "fix",
+  "reason": "Name fine; meaning reworded to read naturally.",
+  "fix": {
+   "name": "Sumanasvin",
+   "devanagari": "सुमनस्विन्",
+   "iast": "sumanasvin",
+   "meaning_en": "Of good mind; noble-minded."
+  }
+ },
+ {
+  "name": "Sumarakata",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunadi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sunetradevi",
+  "verdict": "keep",
+  "reason": "Real, sound epithet-style name; sandhi correct."
+ },
+ {
+  "name": "Sunetradhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetradipa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetrajit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetraketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetramayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetramitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetranatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetranidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetrapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetrapati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetrapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetraraja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetravati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetrendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunetresha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunilotpala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunirbhaya",
+  "verdict": "fix",
+  "reason": "Name fine; meaning reworded to read naturally.",
+  "fix": {
+   "name": "Sunirbhaya",
+   "devanagari": "सुनिर्भय",
+   "iast": "sunirbhaya",
+   "meaning_en": "Truly fearless."
+  }
+ },
+ {
+  "name": "Supadmaraga",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supadmini",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Supravala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supushparaga",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surabhidevi",
+  "verdict": "fix",
+  "reason": "Name fine; meaning reworded to read naturally.",
+  "fix": {
+   "name": "Surabhidevi",
+   "devanagari": "सुरभिदेवी",
+   "iast": "surabhidevī",
+   "meaning_en": "Fragrant goddess; lady Surabhi."
+  }
+ },
+ {
+  "name": "Surabhijit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surabhikanta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surabhimayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surabhimitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surabhinandana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surabhinandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surabhinatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surabhinidhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surabhipala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surabhipriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surabhisundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surabhivati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surevati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Surohini",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Susarasvat",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susarit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susaroja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susattva",
+  "verdict": "fix",
+  "reason": "Name fine; meaning reworded to read naturally.",
+  "fix": {
+   "name": "Susattva",
+   "devanagari": "सुसत्त्व",
+   "iast": "susattva",
+   "meaning_en": "Of excellent goodness and inner strength."
+  }
+ },
+ {
+  "name": "Susubhaga",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susudatta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susugandha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susuhrid",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susulabha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susunetra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susurabhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ }
+]

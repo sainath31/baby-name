@@ -1,0 +1,809 @@
+[
+ {
+  "name": "Susvati",
+  "verdict": "reject",
+  "reason": "Su prefix compound is reversed or awkward, and part is a feminine or contrived word; not a usable name."
+ },
+ {
+  "name": "Susveta",
+  "verdict": "reject",
+  "reason": "Su prefix compound is reversed or awkward, and part is a feminine or contrived word; not a usable name."
+ },
+ {
+  "name": "Sutaraka",
+  "verdict": "reject",
+  "reason": "Su prefix compound is reversed or awkward, and part is a feminine or contrived word; not a usable name."
+ },
+ {
+  "name": "Sutejasvin",
+  "verdict": "fix",
+  "reason": "Tejasvin with su is redundant; meaning simplified.",
+  "fix": {
+   "name": "Sutejasvin",
+   "devanagari": "सुतेजस्विन्",
+   "iast": "sutejasvin",
+   "meaning_en": "Very radiant."
+  }
+ },
+ {
+  "name": "Suvahini",
+  "verdict": "reject",
+  "reason": "Su prefix compound is reversed or awkward, and part is a feminine or contrived word; not a usable name."
+ },
+ {
+  "name": "Suvaidurya",
+  "verdict": "reject",
+  "reason": "Su prefix compound is reversed or awkward, and part is a feminine or contrived word; not a usable name."
+ },
+ {
+  "name": "Suvallari",
+  "verdict": "reject",
+  "reason": "Su prefix compound is reversed or awkward, and part is a feminine or contrived word; not a usable name."
+ },
+ {
+  "name": "Suvaridhi",
+  "verdict": "reject",
+  "reason": "Su prefix compound is reversed or awkward, and part is a feminine or contrived word; not a usable name."
+ },
+ {
+  "name": "Svatidevi",
+  "verdict": "reject",
+  "reason": "Nakshatra-name compound is contrived or wrong gender form; not a name families give."
+ },
+ {
+  "name": "Svatijit",
+  "verdict": "reject",
+  "reason": "Nakshatra-name compound is contrived or wrong gender form; not a name families give."
+ },
+ {
+  "name": "Svatikanta",
+  "verdict": "reject",
+  "reason": "Nakshatra-name compound is contrived or wrong gender form; not a name families give."
+ },
+ {
+  "name": "Svatimayi",
+  "verdict": "reject",
+  "reason": "Nakshatra-name compound is contrived or wrong gender form; not a name families give."
+ },
+ {
+  "name": "Svatimitra",
+  "verdict": "reject",
+  "reason": "Nakshatra-name compound is contrived or wrong gender form; not a name families give."
+ },
+ {
+  "name": "Svatinandana",
+  "verdict": "keep",
+  "reason": "Delight of the nakshatra Svati; sound compound."
+ },
+ {
+  "name": "Svatinandini",
+  "verdict": "keep",
+  "reason": "Delight of Svati; sound feminine form."
+ },
+ {
+  "name": "Svatinatha",
+  "verdict": "keep",
+  "reason": "Lord of Svati; sound compound."
+ },
+ {
+  "name": "Svatinidhi",
+  "verdict": "reject",
+  "reason": "Nakshatra-name compound is contrived or wrong gender form; not a name families give."
+ },
+ {
+  "name": "Svatipala",
+  "verdict": "reject",
+  "reason": "Nakshatra-name compound is contrived or wrong gender form; not a name families give."
+ },
+ {
+  "name": "Svatipriya",
+  "verdict": "reject",
+  "reason": "Nakshatra-name compound is contrived or wrong gender form; not a name families give."
+ },
+ {
+  "name": "Svatishekhara",
+  "verdict": "reject",
+  "reason": "Nakshatra-name compound is contrived or wrong gender form; not a name families give."
+ },
+ {
+  "name": "Svatisundari",
+  "verdict": "keep",
+  "reason": "Beauty of Svati; sound feminine form."
+ },
+ {
+  "name": "Svativati",
+  "verdict": "reject",
+  "reason": "Nakshatra-name compound is contrived or wrong gender form; not a name families give."
+ },
+ {
+  "name": "Svetadevi",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetajit",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetakanta",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetamayi",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetamitra",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetananda",
+  "verdict": "fix",
+  "reason": "Spelling should be Shveta (śveta).",
+  "fix": {
+   "name": "Shvetananda",
+   "devanagari": "श्वेतानन्द",
+   "iast": "śvetānanda",
+   "meaning_en": "Joy of purity (white)."
+  }
+ },
+ {
+  "name": "Svetanandana",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetanandini",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetanatha",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetanidhi",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetapala",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetapriya",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetashekhara",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetasundari",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetavati",
+  "verdict": "reject",
+  "reason": "Śveta mis-spelled as sveta in IAST, and compounds with white are contrived, not given names."
+ },
+ {
+  "name": "Svetendra",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Svetesha",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Tarakadevi",
+  "verdict": "reject",
+  "reason": "Tarakā compound is contrived; Taraka also recalls the demoness Tataka/Taraka, inauspicious."
+ },
+ {
+  "name": "Tarakakanta",
+  "verdict": "reject",
+  "reason": "Tarakā compound is contrived; Taraka also recalls the demoness Tataka/Taraka, inauspicious."
+ },
+ {
+  "name": "Tarakamayi",
+  "verdict": "reject",
+  "reason": "Tarakā compound is contrived; Taraka also recalls the demoness Tataka/Taraka, inauspicious."
+ },
+ {
+  "name": "Tarakamitra",
+  "verdict": "reject",
+  "reason": "Tarakā compound is contrived; Taraka also recalls the demoness Tataka/Taraka, inauspicious."
+ },
+ {
+  "name": "Tarakananda",
+  "verdict": "reject",
+  "reason": "Tarakā compound is contrived; Taraka also recalls the demoness Tataka/Taraka, inauspicious."
+ },
+ {
+  "name": "Tarakanandana",
+  "verdict": "reject",
+  "reason": "Tarakā compound is contrived; Taraka also recalls the demoness Tataka/Taraka, inauspicious."
+ },
+ {
+  "name": "Tarakanandini",
+  "verdict": "keep",
+  "reason": "Delight of stars; fine feminine."
+ },
+ {
+  "name": "Tarakanatha",
+  "verdict": "keep",
+  "reason": "Lord of stars; sound."
+ },
+ {
+  "name": "Tarakanidhi",
+  "verdict": "reject",
+  "reason": "Tarakā compound is contrived; Taraka also recalls the demoness Tataka/Taraka, inauspicious."
+ },
+ {
+  "name": "Tarakapala",
+  "verdict": "reject",
+  "reason": "Tarakā compound is contrived; Taraka also recalls the demoness Tataka/Taraka, inauspicious."
+ },
+ {
+  "name": "Tarakapriya",
+  "verdict": "reject",
+  "reason": "Tarakā compound is contrived; Taraka also recalls the demoness Tataka/Taraka, inauspicious."
+ },
+ {
+  "name": "Tarakashekhara",
+  "verdict": "reject",
+  "reason": "Tarakā compound is contrived; Taraka also recalls the demoness Tataka/Taraka, inauspicious."
+ },
+ {
+  "name": "Tarakasundari",
+  "verdict": "keep",
+  "reason": "Beauty of stars; fine feminine."
+ },
+ {
+  "name": "Tarakavati",
+  "verdict": "reject",
+  "reason": "Tarakā compound is contrived; Taraka also recalls the demoness Tataka/Taraka, inauspicious."
+ },
+ {
+  "name": "Tarakendra",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Tarakesha",
+  "verdict": "keep",
+  "reason": "Lord of stars; sandhi a+i correct."
+ },
+ {
+  "name": "Ullasabhushana",
+  "verdict": "reject",
+  "reason": "Ullasa compound is awkward or meaning weak; not a natural name."
+ },
+ {
+  "name": "Ullasadevi",
+  "verdict": "reject",
+  "reason": "Ullasa compound is awkward or meaning weak; not a natural name."
+ },
+ {
+  "name": "Ullasadhara",
+  "verdict": "reject",
+  "reason": "Ullasa compound is awkward or meaning weak; not a natural name."
+ },
+ {
+  "name": "Ullasadipa",
+  "verdict": "keep",
+  "reason": "Lamp of joy; fine."
+ },
+ {
+  "name": "Ullasajit",
+  "verdict": "reject",
+  "reason": "Ullasa compound is awkward or meaning weak; not a natural name."
+ },
+ {
+  "name": "Ullasaketu",
+  "verdict": "reject",
+  "reason": "Ullasa compound is awkward or meaning weak; not a natural name."
+ },
+ {
+  "name": "Ullasamayi",
+  "verdict": "reject",
+  "reason": "Ullasa compound is awkward or meaning weak; not a natural name."
+ },
+ {
+  "name": "Ullasamitra",
+  "verdict": "keep",
+  "reason": "Friend of joy; acceptable."
+ },
+ {
+  "name": "Ullasanatha",
+  "verdict": "keep",
+  "reason": "Lord of joy; fine."
+ },
+ {
+  "name": "Ullasanidhi",
+  "verdict": "reject",
+  "reason": "Ullasa compound is awkward or meaning weak; not a natural name."
+ },
+ {
+  "name": "Ullasapala",
+  "verdict": "reject",
+  "reason": "Ullasa compound is awkward or meaning weak; not a natural name."
+ },
+ {
+  "name": "Ullasapati",
+  "verdict": "reject",
+  "reason": "Ullasa compound is awkward or meaning weak; not a natural name."
+ },
+ {
+  "name": "Ullasaprakasha",
+  "verdict": "reject",
+  "reason": "Ullasa compound is awkward or meaning weak; not a natural name."
+ },
+ {
+  "name": "Ullasapriya",
+  "verdict": "keep",
+  "reason": "Dear to joy; acceptable."
+ },
+ {
+  "name": "Ullasaraja",
+  "verdict": "keep",
+  "reason": "King of joy; fine."
+ },
+ {
+  "name": "Ullasavardhana",
+  "verdict": "keep",
+  "reason": "Increaser of joy; auspicious, correct."
+ },
+ {
+  "name": "Ullasavati",
+  "verdict": "keep",
+  "reason": "Joyful; correct feminine."
+ },
+ {
+  "name": "Ullasendra",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Ullasesha",
+  "verdict": "keep",
+  "reason": "Lord of joy; sandhi correct."
+ },
+ {
+  "name": "Urmidevi",
+  "verdict": "reject",
+  "reason": "Wave compound is contrived; meaning awkward for a person."
+ },
+ {
+  "name": "Urmijit",
+  "verdict": "reject",
+  "reason": "Wave compound is contrived; meaning awkward for a person."
+ },
+ {
+  "name": "Urmikanta",
+  "verdict": "reject",
+  "reason": "Wave compound is contrived; meaning awkward for a person."
+ },
+ {
+  "name": "Urmimayi",
+  "verdict": "reject",
+  "reason": "Wave compound is contrived; meaning awkward for a person."
+ },
+ {
+  "name": "Urmimitra",
+  "verdict": "reject",
+  "reason": "Wave compound is contrived; meaning awkward for a person."
+ },
+ {
+  "name": "Urminandana",
+  "verdict": "reject",
+  "reason": "Wave compound is contrived; meaning awkward for a person."
+ },
+ {
+  "name": "Urminandini",
+  "verdict": "keep",
+  "reason": "Delight of waves; fine feminine."
+ },
+ {
+  "name": "Urminatha",
+  "verdict": "keep",
+  "reason": "Lord of waves (ocean); fine."
+ },
+ {
+  "name": "Urminidhi",
+  "verdict": "keep",
+  "reason": "Treasure of waves, i.e. ocean; fine."
+ },
+ {
+  "name": "Urmipala",
+  "verdict": "reject",
+  "reason": "Wave compound is contrived; meaning awkward for a person."
+ },
+ {
+  "name": "Urmipriya",
+  "verdict": "reject",
+  "reason": "Wave compound is contrived; meaning awkward for a person."
+ },
+ {
+  "name": "Urmishekhara",
+  "verdict": "reject",
+  "reason": "Wave compound is contrived; meaning awkward for a person."
+ },
+ {
+  "name": "Urmisundari",
+  "verdict": "keep",
+  "reason": "Beauty of waves; fine feminine."
+ },
+ {
+  "name": "Urmivati",
+  "verdict": "reject",
+  "reason": "Wave compound is contrived; meaning awkward for a person."
+ },
+ {
+  "name": "Vahinidevi",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vahinijit",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vahinikanta",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vahinimayi",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vahinimitra",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vahininandana",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vahininandini",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vahininatha",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vahininidhi",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vahinipala",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vahinipriya",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vahinishekhara",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vahinisundari",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vahinivati",
+  "verdict": "reject",
+  "reason": "Vahini means river or army; compound is contrived and awkward."
+ },
+ {
+  "name": "Vaiduryadevi",
+  "verdict": "reject",
+  "reason": "Hard to say and overlong; gem compound is contrived."
+ },
+ {
+  "name": "Vaiduryajit",
+  "verdict": "reject",
+  "reason": "Hard to say and overlong; gem compound is contrived."
+ },
+ {
+  "name": "Vaiduryakanta",
+  "verdict": "reject",
+  "reason": "Hard to say and overlong; gem compound is contrived."
+ },
+ {
+  "name": "Vaiduryamayi",
+  "verdict": "reject",
+  "reason": "Hard to say and overlong; gem compound is contrived."
+ },
+ {
+  "name": "Vaiduryamitra",
+  "verdict": "reject",
+  "reason": "Hard to say and overlong; gem compound is contrived."
+ },
+ {
+  "name": "Vaiduryananda",
+  "verdict": "reject",
+  "reason": "Hard to say and overlong; gem compound is contrived."
+ },
+ {
+  "name": "Vaiduryanatha",
+  "verdict": "reject",
+  "reason": "Hard to say and overlong; gem compound is contrived."
+ },
+ {
+  "name": "Vaiduryanidhi",
+  "verdict": "reject",
+  "reason": "Hard to say and overlong; gem compound is contrived."
+ },
+ {
+  "name": "Vaiduryapala",
+  "verdict": "reject",
+  "reason": "Hard to say and overlong; gem compound is contrived."
+ },
+ {
+  "name": "Vaiduryapriya",
+  "verdict": "reject",
+  "reason": "Hard to say and overlong; gem compound is contrived."
+ },
+ {
+  "name": "Vaiduryavati",
+  "verdict": "reject",
+  "reason": "Hard to say and overlong; gem compound is contrived."
+ },
+ {
+  "name": "Vaiduryendra",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vaiduryesha",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vallaridevi",
+  "verdict": "reject",
+  "reason": "Creeper compound is contrived, awkward for boys or a weak form."
+ },
+ {
+  "name": "Vallarijit",
+  "verdict": "reject",
+  "reason": "Creeper compound is contrived, awkward for boys or a weak form."
+ },
+ {
+  "name": "Vallarikanta",
+  "verdict": "reject",
+  "reason": "Creeper compound is contrived, awkward for boys or a weak form."
+ },
+ {
+  "name": "Vallarimayi",
+  "verdict": "reject",
+  "reason": "Creeper compound is contrived, awkward for boys or a weak form."
+ },
+ {
+  "name": "Vallarimitra",
+  "verdict": "reject",
+  "reason": "Creeper compound is contrived, awkward for boys or a weak form."
+ },
+ {
+  "name": "Vallarinandana",
+  "verdict": "reject",
+  "reason": "Creeper compound is contrived, awkward for boys or a weak form."
+ },
+ {
+  "name": "Vallarinandini",
+  "verdict": "reject",
+  "reason": "Creeper compound is contrived, awkward for boys or a weak form."
+ },
+ {
+  "name": "Vallarinatha",
+  "verdict": "reject",
+  "reason": "Creeper compound is contrived, awkward for boys or a weak form."
+ },
+ {
+  "name": "Vallarinidhi",
+  "verdict": "reject",
+  "reason": "Creeper compound is contrived, awkward for boys or a weak form."
+ },
+ {
+  "name": "Vallaripala",
+  "verdict": "reject",
+  "reason": "Creeper compound is contrived, awkward for boys or a weak form."
+ },
+ {
+  "name": "Vallaripriya",
+  "verdict": "reject",
+  "reason": "Creeper compound is contrived, awkward for boys or a weak form."
+ },
+ {
+  "name": "Vallarisundari",
+  "verdict": "keep",
+  "reason": "Beauty of the creeper; fine feminine."
+ },
+ {
+  "name": "Vallarivati",
+  "verdict": "reject",
+  "reason": "Creeper compound is contrived, awkward for boys or a weak form."
+ },
+ {
+  "name": "Varidhidevi",
+  "verdict": "reject",
+  "reason": "Ocean compound is contrived or reads awkwardly as a name."
+ },
+ {
+  "name": "Varidhijit",
+  "verdict": "reject",
+  "reason": "Ocean compound is contrived or reads awkwardly as a name."
+ },
+ {
+  "name": "Varidhikanta",
+  "verdict": "reject",
+  "reason": "Ocean compound is contrived or reads awkwardly as a name."
+ },
+ {
+  "name": "Varidhimayi",
+  "verdict": "reject",
+  "reason": "Ocean compound is contrived or reads awkwardly as a name."
+ },
+ {
+  "name": "Varidhimitra",
+  "verdict": "reject",
+  "reason": "Ocean compound is contrived or reads awkwardly as a name."
+ },
+ {
+  "name": "Varidhinandana",
+  "verdict": "reject",
+  "reason": "Ocean compound is contrived or reads awkwardly as a name."
+ },
+ {
+  "name": "Varidhinandini",
+  "verdict": "keep",
+  "reason": "Delight of the ocean; fine feminine."
+ },
+ {
+  "name": "Varidhinatha",
+  "verdict": "keep",
+  "reason": "Lord of the ocean; fine."
+ },
+ {
+  "name": "Varidhinidhi",
+  "verdict": "reject",
+  "reason": "Ocean compound is contrived or reads awkwardly as a name."
+ },
+ {
+  "name": "Varidhipala",
+  "verdict": "reject",
+  "reason": "Ocean compound is contrived or reads awkwardly as a name."
+ },
+ {
+  "name": "Varidhipriya",
+  "verdict": "reject",
+  "reason": "Ocean compound is contrived or reads awkwardly as a name."
+ },
+ {
+  "name": "Varidhisundari",
+  "verdict": "reject",
+  "reason": "Ocean compound is contrived or reads awkwardly as a name."
+ },
+ {
+  "name": "Varidhivati",
+  "verdict": "reject",
+  "reason": "Ocean compound is contrived or reads awkwardly as a name."
+ },
+ {
+  "name": "Vratadasa",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vratadatta",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vratadhara",
+  "verdict": "keep",
+  "reason": "Bearer of vows; auspicious."
+ },
+ {
+  "name": "Vratadipa",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vratakanta",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vratakumara",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vratamayi",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vratamitra",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vratananda",
+  "verdict": "keep",
+  "reason": "Joy of vows; sandhi correct."
+ },
+ {
+  "name": "Vratanandana",
+  "verdict": "keep",
+  "reason": "Delight of vows; fine."
+ },
+ {
+  "name": "Vratanandini",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vratanatha",
+  "verdict": "keep",
+  "reason": "Lord of vows; fine."
+ },
+ {
+  "name": "Vratanidhi",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vratapala",
+  "verdict": "keep",
+  "reason": "Guardian of vows; fine."
+ },
+ {
+  "name": "Vrataprakasha",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vratapriya",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vrataputra",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ },
+ {
+  "name": "Vratavardhana",
+  "verdict": "reject",
+  "reason": "Vrata compound is contrived, meaning odd or inauspicious (e.g. servant/given by vow)."
+ }
+]

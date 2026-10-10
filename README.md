@@ -12,15 +12,15 @@ _Last updated: 2026-10-10_
 
 | Measure | Count |
 |---|---|
-| Names listed (shown to users) | 4,372 (boys 3,142, girls 1,188, gender-neutral 42) |
-| - attested (found in texts, dictionaries or common use) | 2,547 |
-| - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 1,188 |
-| Hidden candidate records kept in data | ~18,700 |
-| Total records | 23,398 |
-| Names read by the AI reviewer | ~6,700 (first round 694, shortlist 2,480, constructed 2,676, hand batches 130, fixes) |
+| Names listed (shown to users) | 4,480 (boys 3,229, girls 1,209, gender-neutral 42) |
+| - attested (found in texts, dictionaries or common use) | 3,184 |
+| - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 1,296 |
+| Hidden candidate records kept in data | ~24,200 |
+| Total records | 28,658 |
+| Names read by the AI reviewer | ~19,000 (hand batches, constructed names, and about 7,200 dictionary records re-read in the rescue pass) |
 | Tests | 20 passing |
 
-**Goal:** 100,000 unique names. **Reality check:** about 1,860 attested and 744 constructed names survive review today.
+**Goal:** 100,000 unique names. **Reality check:** about 3,180 attested and 1,300 constructed names survive review today.
 Vetted attested names number in the low thousands at most; anything beyond that must come from rule-based generation.
 
 ### Done
