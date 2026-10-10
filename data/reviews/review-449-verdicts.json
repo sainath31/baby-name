@@ -1,0 +1,113 @@
+[
+ {
+  "name": "Amita",
+  "verdict": "keep",
+  "reason": "Genuine girl name, meaning correct"
+ },
+ {
+  "name": "Aruna",
+  "verdict": "keep",
+  "reason": "Used for girls, dawn-red meaning correct"
+ },
+ {
+  "name": "Dharti",
+  "verdict": "fix",
+  "reason": "IAST lacks long i; spoken form is dhartī",
+  "fix": {
+   "iast": "dhartī",
+   "meaning_en": "The earth."
+  }
+ },
+ {
+  "name": "Kishori",
+  "verdict": "fix",
+  "reason": "Meaning wording weak",
+  "fix": {
+   "meaning_en": "Young maiden; a name of Radha."
+  }
+ },
+ {
+  "name": "Mala",
+  "verdict": "keep",
+  "reason": "Common name, garland"
+ },
+ {
+  "name": "Nirupama",
+  "verdict": "keep",
+  "reason": "Common name, incomparable"
+ },
+ {
+  "name": "Parul",
+  "verdict": "fix",
+  "reason": "Meaning vague; etymology link to pāṭalā uncertain",
+  "fix": {
+   "meaning_en": "A flower (trumpet-flower tree); etymology uncertain."
+  }
+ },
+ {
+  "name": "Radhika",
+  "verdict": "keep",
+  "reason": "Common name, correct"
+ },
+ {
+  "name": "Rama",
+  "verdict": "keep",
+  "reason": "Epithet of Lakshmi, used for girls"
+ },
+ {
+  "name": "Shakti",
+  "verdict": "keep",
+  "reason": "Given name for girls; meaning acceptable"
+ },
+ {
+  "name": "Shilpa",
+  "verdict": "keep",
+  "reason": "Common name, correct"
+ },
+ {
+  "name": "Sujata",
+  "verdict": "keep",
+  "reason": "Common name, correct"
+ },
+ {
+  "name": "Sukanya",
+  "verdict": "keep",
+  "reason": "Common name, correct"
+ },
+ {
+  "name": "Sumana",
+  "verdict": "keep",
+  "reason": "Common name, correct"
+ },
+ {
+  "name": "Sunayana",
+  "verdict": "keep",
+  "reason": "Common name; Sita's mother"
+ },
+ {
+  "name": "Surekha",
+  "verdict": "keep",
+  "reason": "Common name, correct"
+ },
+ {
+  "name": "Tanuja",
+  "verdict": "fix",
+  "reason": "Meaning too bare",
+  "fix": {
+   "meaning_en": "Born of the body; daughter."
+  }
+ },
+ {
+  "name": "Tripta",
+  "verdict": "keep",
+  "reason": "Given name, contented"
+ },
+ {
+  "name": "Varuni",
+  "verdict": "fix",
+  "reason": "Meaning clarified",
+  "fix": {
+   "meaning_en": "Belonging to Varuna; the western direction."
+  }
+ }
+]
