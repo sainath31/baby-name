@@ -115680,5 +115680,154 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Aravindaksha",
+    "iast": "aravindākṣa",
+    "devanagari": "अरविन्दाक्ष",
+    "letter": "A",
+    "syllable_count": 5,
+    "meaning_en": "Lotus-eyed; Vishnu.",
+    "components": [
+      {
+        "part": "aravinda",
+        "gloss": "lotus"
+      },
+      {
+        "part": "akṣa",
+        "gloss": "eye"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-113-epithets.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vishvambhar",
+    "iast": "viśvambhar",
+    "stem": "viśvambhara",
+    "devanagari": "विश्वम्भर",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Sustainer of the world; Vishnu.",
+    "components": [
+      {
+        "part": "viśva",
+        "gloss": "world"
+      },
+      {
+        "part": "bhara",
+        "gloss": "bearer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Vishnu Sahasranama",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-113-epithets.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mayureshwar",
+    "iast": "mayūreśvar",
+    "stem": "mayūreśvara",
+    "devanagari": "मयूरेश्वर",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Lord of Mayureshwar; Ganesha at Morgaon.",
+    "components": [
+      {
+        "part": "mayūra",
+        "gloss": "peacock"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ganesha Purana",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-113-epithets.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shaktivel",
+    "iast": "śaktivel",
+    "stem": "śaktivela",
+    "devanagari": "शक्तिवेल",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Spear of Shakti; Murugan.",
+    "components": [
+      {
+        "part": "śakti",
+        "gloss": "power"
+      },
+      {
+        "part": "vel",
+        "gloss": "spear"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-113-epithets.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

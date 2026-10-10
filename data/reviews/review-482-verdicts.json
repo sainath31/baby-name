@@ -1,0 +1,6 @@
+[
+ {"name":"Aravindaksha","verdict":"keep","reason":"aravinda lotus + akṣa eye; lotus-eyed, Vishnu epithet; IAST and Devanagari agree, no ē/ō/f"},
+ {"name":"Vishvambhar","verdict":"keep","reason":"viśvambhara, sustainer of the world; attested boy's name (Chaitanya's birth name); IAST and Devanagari agree"},
+ {"name":"Mayureshwar","verdict":"fix","reason":"suitable Ganesha name (mayūra peacock + īśvara lord) but meaning_en is circular; IAST and Devanagari agree","fix":{"meaning_en":"Lord of the peacock; name of Ganesha at Morgaon"}},
+ {"name":"Shaktivel","verdict":"fix","reason":"Tamil vēl (spear) plus Sanskrit śakti; hybrid but well-used Murugan name; IAST śaktivela has no ē and agrees with Devanagari; meaning_en reworded, etymology of the hybrid compound partly uncertain","fix":{"meaning_en":"Spear of power; Murugan's divine spear"}}
+]
