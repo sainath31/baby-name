@@ -1,0 +1,954 @@
+[
+ {
+  "name": "Achyutapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Aghorapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Akuti",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Intention, desire; name of a daughter of Svayambhuva Manu",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Amba",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Mother; a name of Goddess Durga",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Anantapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Anika",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Grace, splendour (also: front of an army)",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Anilapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Anjana",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Mother of Hanuman; etymology uncertain beyond 'collyrium, kohl'",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Anjaneyapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Anjika",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anumati",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Divine favour, grace; deity of the moon's phase",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Apsara",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Apsarasa",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Ashutoshapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Avadheshapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Baladevapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Balaramapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Balika",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Bhairavapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Bhaskarapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Bhrikuti",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ },
+ {
+  "name": "Bhumi",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Earth; the Earth goddess",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Chitra",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Chitti",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Dakshayani",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Daughter of Daksha; a name of Sati/Durga",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Devendrapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Dhatri",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Nurturer, supporter; a name of the earth",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Dhishana",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Intelligence, wisdom; a Vedic goddess",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Dhriti",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Steadfastness, courage, patience",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Dipti",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Brightness, radiance",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Divyabhakti",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Divyadaya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Divyadhi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Divyakala",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Divyalila",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Divyamedha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Divyaprajaya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Divyapriti",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Divyasha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Divyashobha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Dyuti",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Radiance, splendour",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Gajananapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Ganapatipriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Ganeshapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Gargi",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Descendant of Garga; the Vedic woman philosopher Gargi Vachaknavi",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Gaurangapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Ghritarchi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gopalapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Gopinathapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Govindapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Halayudhapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Haripriya",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Beloved of Hari (Vishnu)",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Harshapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Hastini",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Hayagrivapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Herambapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Ishanapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Jagadishapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Janardanapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Kalika",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Flower bud; a form of Goddess Kali",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Kanyaka",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Kuberapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Kunti",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Mother of the Pandavas; etymology uncertain",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Kusuma",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Flower",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Lambodarapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mahadevapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mahadevi",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Mahaganga",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mahagauri",
+  "verdict": "reject",
+  "reason": "deity_not_for_person"
+ },
+ {
+  "name": "Mahalakshmi",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Great Lakshmi; goddess of wealth and fortune",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Maharadha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Mahasarasvati",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mahavidya",
+  "verdict": "reject",
+  "reason": "deity_not_for_person"
+ },
+ {
+  "name": "Mahoma",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Narayani",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Of Narayana; a name of Lakshmi and Durga",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Nupura",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Prakriti",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Nature, the primal creative principle",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Pratima",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Pritha",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Broad, expansive; birth name of Kunti",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Purandhi",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pushkarani",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Pushti",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Nourishment, prosperity",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Raka",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Night of the full moon; deity of the full moon",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Rambha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Renuka",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Mother of Parashurama; etymology uncertain",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Reva",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Savitri",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Of Savitr, the sun; the devoted heroine who won back Satyavan",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Shobhavati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shraddha",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Faith, trust, reverence",
+   "gender": "girl",
+   "devanagari": "श्रद्धा",
+   "iast": "śraddhā"
+  }
+ },
+ {
+  "name": "Shridaya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shridevaki",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shridevi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shriganga",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shrigauri",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shrikala",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shrilakshmi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shrilila",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shrimedha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shripatipriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shriradha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shriramapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shrirangapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shrisarasvati",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shrishanti",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shrishobha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shrividya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shulapanipriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sitaramapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Snigdha",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Affectionate, tender, smooth",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Somanathapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Srishti",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Creation",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Stambhini",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Subhadra",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Auspicious, fortunate; sister of Krishna",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Subhu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sudakshina",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Very skilful and generous; wife of King Dilipa",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Sudaya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sudharani",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sukshiti",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sulila",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sumahi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sumanika",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sumanikya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sumitra",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Good friend; mother of Lakshmana",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Sumukta",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sunetra",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Beautiful-eyed",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Sunidhi",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Good treasure, rich store",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Sunisha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Surabhi",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Fragrant, pleasing; the divine cow",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Suravinda",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sureshapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Susarasi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sushobha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Svaha",
+  "verdict": "reject",
+  "reason": "deity_not_for_person"
+ },
+ {
+  "name": "Tara",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Star; also a name of a goddess",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Taramitra",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Taranandana",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Tarapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Tarashekhara",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Trinetrapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Tripuraripriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Tryambakapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Tushti",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Contentment, satisfaction",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Umapatipriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Umeshapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Vacha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Vagishapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Vajrangapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Vakpatipriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Vamanapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Vapusha",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Varoru",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Vidusha",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Vighneshapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Vinata",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Humble, modest; mother of Garuda",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Vinayakapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Vishnupriya",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "meaning_en": "Beloved of Vishnu",
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Vitthalapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Vrajeshapriya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Yashodhara",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure"
+ }
+]
