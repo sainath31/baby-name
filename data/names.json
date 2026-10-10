@@ -119537,5 +119537,261 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Chandrahas",
+    "iast": "candrahās",
+    "stem": "candrahāsa",
+    "devanagari": "चन्द्रहास",
+    "letter": "C",
+    "syllable_count": 3,
+    "meaning_en": "Moon-smile; Ravana's sword; the devotee-prince of Kuntala.",
+    "components": [
+      {
+        "part": "candra",
+        "gloss": "moon"
+      },
+      {
+        "part": "hāsa",
+        "gloss": "smile"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-120-boys9.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Charuvrat",
+    "iast": "cāruvrat",
+    "stem": "cāruvrata",
+    "devanagari": "चारुव्रत",
+    "letter": "C",
+    "syllable_count": 3,
+    "meaning_en": "Of beautiful vows.",
+    "components": [
+      {
+        "part": "cāru",
+        "gloss": "beautiful"
+      },
+      {
+        "part": "vrata",
+        "gloss": "vow"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-120-boys9.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chidananda",
+    "iast": "cidānanda",
+    "devanagari": "चिदानन्द",
+    "letter": "C",
+    "syllable_count": 4,
+    "meaning_en": "Bliss of consciousness.",
+    "components": [
+      {
+        "part": "cit",
+        "gloss": "consciousness"
+      },
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-120-boys9.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Lakhan",
+    "iast": "lakhan",
+    "stem": "lakhana",
+    "devanagari": "लखन",
+    "letter": "L",
+    "syllable_count": 2,
+    "meaning_en": "Lakshmana (Hindi form).",
+    "components": [
+      {
+        "part": "lakṣmaṇa",
+        "gloss": "Lakshmana"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ramcharitmanas",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-120-boys9.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Trinath",
+    "iast": "trināth",
+    "stem": "trinātha",
+    "devanagari": "त्रिनाथ",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "Lord of the three; Shiva.",
+    "components": [
+      {
+        "part": "tri",
+        "gloss": "three"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-120-boys9.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yatish",
+    "iast": "yatīś",
+    "stem": "yatīśa",
+    "devanagari": "यतीश",
+    "letter": "Y",
+    "syllable_count": 2,
+    "meaning_en": "Lord of ascetics; Vishnu.",
+    "components": [
+      {
+        "part": "yati",
+        "gloss": "ascetic"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-120-boys9.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Umaprasad",
+    "iast": "umāprasād",
+    "stem": "umāprasāda",
+    "devanagari": "उमाप्रसाद",
+    "letter": "U",
+    "syllable_count": 4,
+    "meaning_en": "Grace of Uma.",
+    "components": [
+      {
+        "part": "umā",
+        "gloss": "Parvati"
+      },
+      {
+        "part": "prasāda",
+        "gloss": "grace"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-120-boys9.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
