@@ -68691,5 +68691,699 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Mayuri",
+    "iast": "mayūrī",
+    "devanagari": "मयूरी",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Peahen.",
+    "components": [
+      {
+        "part": "mayūra",
+        "gloss": "peacock"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hansika",
+    "iast": "haṃsikā",
+    "devanagari": "हंसिका",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Little swan.",
+    "components": [
+      {
+        "part": "haṃsa",
+        "gloss": "swan"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chakor",
+    "iast": "cakor",
+    "stem": "cakora",
+    "devanagari": "चकोर",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "The partridge that loves the moon.",
+    "components": [
+      {
+        "part": "cakora",
+        "gloss": "partridge"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shuk",
+    "iast": "śuk",
+    "stem": "śuka",
+    "devanagari": "शुक",
+    "letter": "S",
+    "syllable_count": 1,
+    "meaning_en": "Parrot; the sage Shuka.",
+    "components": [
+      {
+        "part": "śuka",
+        "gloss": "parrot"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Garud",
+    "iast": "garuḍ",
+    "stem": "garuḍa",
+    "devanagari": "गरुड़",
+    "letter": "G",
+    "syllable_count": 2,
+    "meaning_en": "Vishnu's eagle mount.",
+    "components": [
+      {
+        "part": "garuḍa",
+        "gloss": "eagle"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Simha",
+    "iast": "siṃha",
+    "devanagari": "सिंह",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Lion.",
+    "components": [
+      {
+        "part": "siṃha",
+        "gloss": "lion"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mrigendra",
+    "iast": "mṛgendra",
+    "devanagari": "मृगेन्द्र",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Lord of animals; lion.",
+    "components": [
+      {
+        "part": "mṛga",
+        "gloss": "animal"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vrishabh",
+    "iast": "vṛṣabh",
+    "stem": "vṛṣabha",
+    "devanagari": "वृषभ",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Bull; excellent.",
+    "components": [
+      {
+        "part": "vṛṣabha",
+        "gloss": "bull"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nandi",
+    "iast": "nandī",
+    "devanagari": "नन्दी",
+    "letter": "N",
+    "syllable_count": 2,
+    "meaning_en": "Shiva's bull.",
+    "components": [
+      {
+        "part": "nandin",
+        "gloss": "delighter"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Harin",
+    "iast": "hariṇ",
+    "stem": "hariṇa",
+    "devanagari": "हरिण",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Deer.",
+    "components": [
+      {
+        "part": "hariṇa",
+        "gloss": "deer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Harini",
+    "iast": "hariṇī",
+    "devanagari": "हरिणी",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Doe; female deer.",
+    "components": [
+      {
+        "part": "hariṇī",
+        "gloss": "doe"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mrignayani",
+    "iast": "mṛganayanī",
+    "devanagari": "मृगनयनी",
+    "letter": "M",
+    "syllable_count": 5,
+    "meaning_en": "Deer-eyed.",
+    "components": [
+      {
+        "part": "mṛga",
+        "gloss": "deer"
+      },
+      {
+        "part": "nayana",
+        "gloss": "eye"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vanar",
+    "iast": "vānar",
+    "stem": "vānara",
+    "devanagari": "वानर",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Forest-dweller; monkey.",
+    "components": [
+      {
+        "part": "vānara",
+        "gloss": "monkey"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shyen",
+    "iast": "śyen",
+    "stem": "śyena",
+    "devanagari": "श्येन",
+    "letter": "S",
+    "syllable_count": 1,
+    "meaning_en": "Falcon.",
+    "components": [
+      {
+        "part": "śyena",
+        "gloss": "falcon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jatayu",
+    "iast": "jaṭāyu",
+    "devanagari": "जटायु",
+    "letter": "J",
+    "syllable_count": 3,
+    "meaning_en": "The vulture who fought for Sita.",
+    "components": [
+      {
+        "part": "jaṭā",
+        "gloss": "matted hair"
+      },
+      {
+        "part": "āyu",
+        "gloss": "life"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Ramayana",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sampati",
+    "iast": "sampāti",
+    "devanagari": "सम्पाति",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Jatayu's brother.",
+    "components": [
+      {
+        "part": "sampāti",
+        "gloss": "name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "deity_epic_ref": "Ramayana",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Makarand",
+    "iast": "makarand",
+    "stem": "makaranda",
+    "devanagari": "मकरन्द",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Nectar of flowers.",
+    "components": [
+      {
+        "part": "makaranda",
+        "gloss": "nectar"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhramari",
+    "iast": "bhrāmarī",
+    "devanagari": "भ्रामरी",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Bee; a form of the goddess.",
+    "components": [
+      {
+        "part": "bhramara",
+        "gloss": "bee"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Matsya",
+    "iast": "matsya",
+    "devanagari": "मत्स्य",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Fish; Vishnu's first avatar.",
+    "components": [
+      {
+        "part": "matsya",
+        "gloss": "fish"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kurma",
+    "iast": "kūrma",
+    "devanagari": "कूर्म",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Tortoise; Vishnu's avatar.",
+    "components": [
+      {
+        "part": "kūrma",
+        "gloss": "tortoise"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Varaha",
+    "iast": "varāha",
+    "devanagari": "वराह",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Boar; Vishnu's avatar.",
+    "components": [
+      {
+        "part": "varāha",
+        "gloss": "boar"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-071-animals.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

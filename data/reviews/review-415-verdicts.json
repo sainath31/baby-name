@@ -1,0 +1,96 @@
+[
+ {
+  "name": "Bhramari",
+  "verdict": "reject",
+  "reason": "deity_not_for_person"
+ },
+ {
+  "name": "Chakor",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Garud",
+  "verdict": "reject",
+  "reason": "deity_not_for_person"
+ },
+ {
+  "name": "Hansika",
+  "verdict": "fix",
+  "reason": "",
+  "fix": {
+   "meaning_en": "Swan-like; derived from haṃsa, the swan."
+  }
+ },
+ {
+  "name": "Harin",
+  "verdict": "fix",
+  "reason": "",
+  "fix": {
+   "meaning_en": "Deer; gentle and graceful."
+  }
+ },
+ {
+  "name": "Harini",
+  "verdict": "keep",
+  "reason": ""
+ },
+ {
+  "name": "Jatayu",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kurma",
+  "verdict": "reject",
+  "reason": "deity_not_for_person"
+ },
+ {
+  "name": "Makarand",
+  "verdict": "keep",
+  "reason": ""
+ },
+ {
+  "name": "Mayuri",
+  "verdict": "keep",
+  "reason": ""
+ },
+ {
+  "name": "Mrignayani",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sampati",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shuk",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Shyen",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Vanar",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Varaha",
+  "verdict": "reject",
+  "reason": "deity_not_for_person"
+ },
+ {
+  "name": "Vrishabh",
+  "verdict": "fix",
+  "reason": "",
+  "fix": {
+   "meaning_en": "Bull; best, excellent among its kind."
+  }
+ }
+]
