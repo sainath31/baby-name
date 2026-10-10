@@ -7,7 +7,7 @@ import { spokenIast } from '../src/translit.js';
 const path = new URL('../data/names.json', import.meta.url);
 const names = JSON.parse(readFileSync(path));
 const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, ' ').trim();
-const have = new Set(names.map((n) => norm(n.iast)));
+const have = new Set(names.flatMap((n) => [norm(n.iast), ...(n.stem ? [norm(n.stem)] : [])]));
 let added = 0;
 for (const f of readdirSync(new URL('../data/batches/', import.meta.url)).filter((x) => x.endsWith('.json')).sort()) {
   for (const [name, iast, dev, meaning, comps, state, ref, era, conf] of JSON.parse(readFileSync(new URL(`../data/batches/${f}`, import.meta.url)))) {
