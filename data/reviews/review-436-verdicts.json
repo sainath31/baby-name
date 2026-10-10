@@ -1,0 +1,179 @@
+[
+ {
+  "name": "Sri Jyothi",
+  "verdict": "fix",
+  "reason": "Common Telugu/South Indian prefixed name; meaning made clearer.",
+  "fix": {
+   "name": "Sri Jyothi",
+   "devanagari": "श्री ज्योति",
+   "iast": "śrījyoti",
+   "meaning_en": "Auspicious light; radiance of Lakshmi (girl's name)"
+  }
+ },
+ {
+  "name": "Sri Karthik",
+  "verdict": "fix",
+  "reason": "Common Telugu/South Indian prefixed name; meaning made clearer.",
+  "fix": {
+   "name": "Sri Karthik",
+   "devanagari": "श्री कार्तिक",
+   "iast": "śrīkārttik",
+   "meaning_en": "Auspicious Karthik, after Kartikeya, son of Shiva"
+  }
+ },
+ {
+  "name": "Sri Keshav",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Reads as the honorific Sri plus Keshava (Krishna epithet), a title/phrase rather than a given name"
+ },
+ {
+  "name": "Sri Kiran",
+  "verdict": "fix",
+  "reason": "Common Telugu/South Indian prefixed name; meaning made clearer.",
+  "fix": {
+   "name": "Sri Kiran",
+   "devanagari": "श्री किरण",
+   "iast": "śrīkiraṇ",
+   "meaning_en": "Auspicious ray of light"
+  }
+ },
+ {
+  "name": "Sri Kishore",
+  "verdict": "fix",
+  "reason": "Common Telugu/South Indian prefixed name; meaning made clearer.",
+  "fix": {
+   "name": "Sri Kishore",
+   "devanagari": "श्री किशोर",
+   "iast": "śrīkiśor",
+   "meaning_en": "Auspicious youth; Sri plus Kishore, the youthful Krishna"
+  }
+ },
+ {
+  "name": "Sri Krishna",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Reads as the honorific \"Sri Krishna\" for the deity, not a personal name"
+ },
+ {
+  "name": "Sri Kumari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Kumari is a maiden/surname-like word; Sri Kumari is an awkward pairing rarely used"
+ },
+ {
+  "name": "Sri Madhav",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Reads as honorific plus Madhava (Krishna epithet); a title for the deity"
+ },
+ {
+  "name": "Sri Manohar",
+  "verdict": "fix",
+  "reason": "Common Telugu/South Indian prefixed name; meaning made clearer.",
+  "fix": {
+   "name": "Sri Manohar",
+   "devanagari": "श्री मनोहर",
+   "iast": "śrīmanohar",
+   "meaning_en": "Auspicious and charming; captivating"
+  }
+ },
+ {
+  "name": "Sri Mohan",
+  "verdict": "fix",
+  "reason": "Common Telugu/South Indian prefixed name; meaning made clearer.",
+  "fix": {
+   "name": "Sri Mohan",
+   "devanagari": "श्री मोहन",
+   "iast": "śrīmohan",
+   "meaning_en": "Auspicious and charming; enchanting"
+  }
+ },
+ {
+  "name": "Sri Narayan",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Reads as honorific \"Sri Narayan\" for Vishnu; a title, not a personal name"
+ },
+ {
+  "name": "Sri Prasad",
+  "verdict": "fix",
+  "reason": "Common Telugu/South Indian prefixed name; meaning made clearer.",
+  "fix": {
+   "name": "Sri Prasad",
+   "devanagari": "श्री प्रसाद",
+   "iast": "śrīprasād",
+   "meaning_en": "Auspicious grace; blessed gift"
+  }
+ },
+ {
+  "name": "Sri Priya",
+  "verdict": "fix",
+  "reason": "Common Telugu/South Indian prefixed name; meaning made clearer.",
+  "fix": {
+   "name": "Sri Priya",
+   "devanagari": "श्री प्रिया",
+   "iast": "śrīpriyā",
+   "meaning_en": "Auspicious beloved (girl's name)"
+  }
+ },
+ {
+  "name": "Sri Radha",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Reads as honorific plus Radha, a deity title/phrase"
+ },
+ {
+  "name": "Sri Sagar",
+  "verdict": "fix",
+  "reason": "Common Telugu/South Indian prefixed name; meaning made clearer.",
+  "fix": {
+   "name": "Sri Sagar",
+   "devanagari": "श्री सागर",
+   "iast": "śrīsāgar",
+   "meaning_en": "Auspicious ocean; one of great depth"
+  }
+ },
+ {
+  "name": "Sri Shankar",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Reads as honorific \"Sri Shankar\" for Shiva; a title"
+ },
+ {
+  "name": "Sri Sita",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Reads as honorific \"Sri Sita\" for the goddess; a title"
+ },
+ {
+  "name": "Sri Surya",
+  "verdict": "fix",
+  "reason": "Common Telugu/South Indian prefixed name; meaning made clearer.",
+  "fix": {
+   "name": "Sri Surya",
+   "devanagari": "श्री सूर्य",
+   "iast": "śrīsūrya",
+   "meaning_en": "Auspicious sun; radiant like Surya"
+  }
+ },
+ {
+  "name": "Sri Teja",
+  "verdict": "fix",
+  "reason": "Common Telugu/South Indian prefixed name; meaning made clearer.",
+  "fix": {
+   "name": "Sri Teja",
+   "devanagari": "श्री तेज",
+   "iast": "śrīteja",
+   "meaning_en": "Auspicious radiance; splendour"
+  }
+ },
+ {
+  "name": "Sri Vamsi",
+  "verdict": "fix",
+  "reason": "Common Telugu/South Indian prefixed name; meaning made clearer.",
+  "fix": {
+   "name": "Sri Vamsi",
+   "devanagari": "श्री वंशी",
+   "iast": "śrīvaṃśī",
+   "meaning_en": "Auspicious flute (vamsi), linked with Krishna's flute"
+  }
+ },
+ {
+  "name": "Sri Venkat",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Reads as honorific plus Venkata (Venkateshwara); title for the deity"
+ }
+]
