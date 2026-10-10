@@ -1,0 +1,208 @@
+[
+ {
+  "name": "Achyuthan",
+  "verdict": "keep",
+  "reason": "Common Malayalam/Tamil boy's name; Vishnu epithet, meaning correct."
+ },
+ {
+  "name": "Anirudhan",
+  "verdict": "keep",
+  "reason": "Used in Kerala and Tamil Nadu; correct meaning and script."
+ },
+ {
+  "name": "Bhaskaran",
+  "verdict": "keep",
+  "reason": "Common Tamil/Malayalam boy's name; the sun."
+ },
+ {
+  "name": "Chandran",
+  "verdict": "keep",
+  "reason": "Very common Tamil/Malayalam boy's name; the moon."
+ },
+ {
+  "name": "Ganesan",
+  "verdict": "keep",
+  "reason": "Common Tamil boy's name; correct."
+ },
+ {
+  "name": "Gopalan",
+  "verdict": "keep",
+  "reason": "Common Tamil/Malayalam boy's name; correct."
+ },
+ {
+  "name": "Hariharan",
+  "verdict": "keep",
+  "reason": "Common Tamil/Malayalam name; Harihara, Vishnu-Shiva."
+ },
+ {
+  "name": "Harikrishnan",
+  "verdict": "fix",
+  "reason": "Common Malayalam name; meaning 'Hari and Krishna' is weak: Hari is Vishnu and the name means Krishna as Hari.",
+  "fix": {
+   "name": "Harikrishnan",
+   "devanagari": "हरिकृष्णन्",
+   "iast": "harikṛṣṇan",
+   "meaning_en": "Krishna, who is Hari (Vishnu) (Malayalam form)."
+  }
+ },
+ {
+  "name": "Jayakrishnan",
+  "verdict": "keep",
+  "reason": "Common Malayalam boy's name; correct."
+ },
+ {
+  "name": "Karthikeyan",
+  "verdict": "keep",
+  "reason": "Very common Tamil boy's name; Murugan."
+ },
+ {
+  "name": "Kesavan",
+  "verdict": "keep",
+  "reason": "Common Malayalam/Tamil boy's name; Krishna."
+ },
+ {
+  "name": "Krishnan",
+  "verdict": "keep",
+  "reason": "Very common Tamil/Malayalam boy's name."
+ },
+ {
+  "name": "Lakshmanan",
+  "verdict": "keep",
+  "reason": "Common Tamil boy's name; correct."
+ },
+ {
+  "name": "Madhavan",
+  "verdict": "keep",
+  "reason": "Common Tamil/Malayalam boy's name; correct."
+ },
+ {
+  "name": "Manikandan",
+  "verdict": "fix",
+  "reason": "Very common for boys (Ayyappa); script shows Sanskrit kaṇṭha but the name is written and said Manikandan.",
+  "fix": {
+   "name": "Manikandan",
+   "devanagari": "मणिकण्डन्",
+   "iast": "maṇikaṇḍan",
+   "meaning_en": "One with a jewel at the throat; Ayyappa (Tamil/Malayalam form of Manikantha)."
+  }
+ },
+ {
+  "name": "Mohanan",
+  "verdict": "keep",
+  "reason": "Common Malayalam boy's name; correct."
+ },
+ {
+  "name": "Muthu",
+  "verdict": "keep",
+  "reason": "Common Tamil male name; pearl; Tamil script approximation acceptable."
+ },
+ {
+  "name": "Nandakumar",
+  "verdict": "keep",
+  "reason": "Common in Kerala and Tamil Nadu; son of Nanda, Krishna."
+ },
+ {
+  "name": "Narayanan",
+  "verdict": "keep",
+  "reason": "Very common Tamil/Malayalam boy's name."
+ },
+ {
+  "name": "Padmanabhan",
+  "verdict": "keep",
+  "reason": "Common Malayalam/Tamil boy's name; correct."
+ },
+ {
+  "name": "Raghavan",
+  "verdict": "keep",
+  "reason": "Common Tamil/Malayalam boy's name; correct."
+ },
+ {
+  "name": "Rajan",
+  "verdict": "keep",
+  "reason": "Common South Indian boy's name; king."
+ },
+ {
+  "name": "Ramachandran",
+  "verdict": "keep",
+  "reason": "Very common Tamil/Malayalam boy's name."
+ },
+ {
+  "name": "Selvan",
+  "verdict": "fix",
+  "reason": "Common Tamil boy's name; IAST 'celvan' does not match Devanagari or the name as written/pronounced.",
+  "fix": {
+   "name": "Selvan",
+   "devanagari": "सेल्वन्",
+   "iast": "selvan",
+   "meaning_en": "Wealthy, fortunate one; beloved son (Tamil)."
+  }
+ },
+ {
+  "name": "Sivakumar",
+  "verdict": "keep",
+  "reason": "Very common Tamil/Malayalam name; son of Shiva, Murugan."
+ },
+ {
+  "name": "Sooraj",
+  "verdict": "fix",
+  "reason": "Common boy's name in Kerala; label '(Hindi)' misleading, it derives from Sanskrit Surya.",
+  "fix": {
+   "name": "Sooraj",
+   "devanagari": "सूरज",
+   "iast": "sūraj",
+   "meaning_en": "The sun (from Sanskrit Surya)."
+  }
+ },
+ {
+  "name": "Sreekumar",
+  "verdict": "fix",
+  "reason": "Very common Malayalam name; 'Murugan' link stated too strongly.",
+  "fix": {
+   "name": "Sreekumar",
+   "devanagari": "श्रीकुमार",
+   "iast": "śrīkumār",
+   "meaning_en": "Auspicious or blessed son; Kumara is also a name of Murugan (Malayalam)."
+  }
+ },
+ {
+  "name": "Srinivasan",
+  "verdict": "keep",
+  "reason": "Very common Tamil boy's name; correct."
+ },
+ {
+  "name": "Sundaram",
+  "verdict": "keep",
+  "reason": "Common Tamil boy's name; beautiful."
+ },
+ {
+  "name": "Thyagarajan",
+  "verdict": "keep",
+  "reason": "Common Tamil boy's name; Thyagaraja of Tiruvarur."
+ },
+ {
+  "name": "Unnikrishnan",
+  "verdict": "keep",
+  "reason": "Very common Malayalam boy's name; baby Krishna."
+ },
+ {
+  "name": "Venkataraman",
+  "verdict": "fix",
+  "reason": "Common Tamil name, but script वेङ्कटरमणन् reads Venkataramanan; Tamil form is வெங்கடராமன் (Venkata + Raman).",
+  "fix": {
+   "name": "Venkataraman",
+   "devanagari": "वेङ्कटरामन्",
+   "iast": "veṅkaṭarāman",
+   "meaning_en": "Lord of the Venkata hill; Venkateswara (Tamil form)."
+  }
+ },
+ {
+  "name": "Vijayan",
+  "verdict": "keep",
+  "reason": "Common Malayalam/Tamil boy's name; victorious."
+ },
+ {
+  "name": "Viswanathan",
+  "verdict": "keep",
+  "reason": "Common Tamil boy's name; lord of the universe."
+ }
+]
