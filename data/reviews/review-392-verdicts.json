@@ -1,0 +1,193 @@
+[
+ {
+  "name": "Amandeep",
+  "verdict": "reject",
+  "reason": "other: aman (peace) is Perso-Arabic, not Sanskrit; listed part \"amana\" is invented, so the Sanskrit etymology is unsound"
+ },
+ {
+  "name": "Balwant",
+  "verdict": "keep",
+  "reason": "Sound: bala (strength) + -vant; traditional boy name."
+ },
+ {
+  "name": "Gurpreet",
+  "verdict": "fix",
+  "reason": "Preet from prīti (love) is sound; IAST lacked long vowel; guru here as teacher/elder; Punjabi form.",
+  "fix": {
+   "name": "Gurpreet",
+   "iast": "guruprīt",
+   "meaning_en": "Love for the guru (teacher/preceptor); Punjabi form of guru + prīti."
+  }
+ },
+ {
+  "name": "Harleen",
+  "verdict": "keep",
+  "reason": "Hari + līna is sound; used for girls mostly, acceptable."
+ },
+ {
+  "name": "Harmeet",
+  "verdict": "fix",
+  "reason": "IAST wrong; Punjabi meet from mitra is sound.",
+  "fix": {
+   "name": "Harmeet",
+   "iast": "harimīt",
+   "devanagari": "हरमीत",
+   "meaning_en": "Friend of Hari (Vishnu/God); Punjabi form of hari + mitra."
+  }
+ },
+ {
+  "name": "Harpreet",
+  "verdict": "fix",
+  "reason": "IAST lacked long vowel.",
+  "fix": {
+   "name": "Harpreet",
+   "iast": "hariprīt",
+   "meaning_en": "Love of Hari (Vishnu/God)."
+  }
+ },
+ {
+  "name": "Inderjit",
+  "verdict": "keep",
+  "reason": "Indrajit is a used given name; Sanskrit meaning correct."
+ },
+ {
+  "name": "Jaspreet",
+  "verdict": "fix",
+  "reason": "IAST lacked long vowel; jas from yaśas.",
+  "fix": {
+   "name": "Jaspreet",
+   "iast": "yaśaprīt",
+   "meaning_en": "One who loves glory and good repute (yaśas + prīti)."
+  }
+ },
+ {
+  "name": "Kamaljeet",
+  "verdict": "fix",
+  "reason": "Meaning \"victory of the lotus\" is weak; kamala + jit, etymology uncertain.",
+  "fix": {
+   "name": "Kamaljeet",
+   "iast": "kamalajīt",
+   "meaning_en": "Victorious like the lotus; kamala (lotus) + jita (won); etymology uncertain."
+  }
+ },
+ {
+  "name": "Kiranjot",
+  "verdict": "keep",
+  "reason": "Sanskrit kiraṇa + jyoti sound; usually a girl name."
+ },
+ {
+  "name": "Mandeep",
+  "verdict": "fix",
+  "reason": "IAST adjusted to spoken form.",
+  "fix": {
+   "name": "Mandeep",
+   "iast": "manadīp",
+   "meaning_en": "Lamp of the mind (mana + dīpa)."
+  }
+ },
+ {
+  "name": "Manpreet",
+  "verdict": "fix",
+  "reason": "IAST lacked long vowel.",
+  "fix": {
+   "name": "Manpreet",
+   "iast": "manaprīt",
+   "meaning_en": "Love of the mind/heart (mana + prīti)."
+  }
+ },
+ {
+  "name": "Meenu",
+  "verdict": "fix",
+  "reason": "Female name; IAST needs long u; meaning clarified.",
+  "fix": {
+   "name": "Meenu",
+   "iast": "mīnū",
+   "meaning_en": "Short affectionate form of Meena (from mīna, fish; fish-eyed, a classical beauty simile)."
+  }
+ },
+ {
+  "name": "Navdeep",
+  "verdict": "keep",
+  "reason": "nava + dīpa sound."
+ },
+ {
+  "name": "Prabhjot",
+  "verdict": "fix",
+  "reason": "IAST adjusted to spoken form.",
+  "fix": {
+   "name": "Prabhjot",
+   "iast": "prabhujyot",
+   "meaning_en": "Light of the Lord (prabhu + jyoti)."
+  }
+ },
+ {
+  "name": "Rani",
+  "verdict": "keep",
+  "reason": "Female name; rājñī, queen; correct."
+ },
+ {
+  "name": "Roshni",
+  "verdict": "fix",
+  "reason": "Female name; word is Persian-derived, not Sanskrit raucanī; fixed.",
+  "fix": {
+   "name": "Roshni",
+   "iast": "roshanī",
+   "meaning_en": "Light, brightness; Hindi/Urdu word of Persian origin."
+  }
+ },
+ {
+  "name": "Rupinder",
+  "verdict": "fix",
+  "reason": "IAST wrong.",
+  "fix": {
+   "name": "Rupinder",
+   "iast": "rūpindar",
+   "meaning_en": "Lord of beauty (rūpa + indra)."
+  }
+ },
+ {
+  "name": "Satbir",
+  "verdict": "fix",
+  "reason": "IAST should be the spoken form.",
+  "fix": {
+   "name": "Satbir",
+   "iast": "satabīr",
+   "meaning_en": "Truthful hero (satya + vīra)."
+  }
+ },
+ {
+  "name": "Simarjeet",
+  "verdict": "fix",
+  "reason": "Hindu smaraṇa root sound; IAST and meaning adjusted; Sikh-leaning usage.",
+  "fix": {
+   "name": "Simarjeet",
+   "iast": "simarajīt",
+   "meaning_en": "Victorious through remembrance (of God) (smaraṇa + jita)."
+  }
+ },
+ {
+  "name": "Sukhwinder",
+  "verdict": "fix",
+  "reason": "IAST wrong.",
+  "fix": {
+   "name": "Sukhwinder",
+   "iast": "sukhavindar",
+   "meaning_en": "Lord of happiness (sukha + indra)."
+  }
+ },
+ {
+  "name": "Sunita",
+  "verdict": "keep",
+  "reason": "Female name; sunītā, of good conduct; correct."
+ },
+ {
+  "name": "Yashpal",
+  "verdict": "fix",
+  "reason": "IAST adjusted.",
+  "fix": {
+   "name": "Yashpal",
+   "iast": "yaśapāl",
+   "meaning_en": "Protector of fame and glory (yaśas + pāla)."
+  }
+ }
+]

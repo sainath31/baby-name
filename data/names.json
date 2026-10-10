@@ -59558,5 +59558,834 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Harpreet",
+    "iast": "haripriti",
+    "devanagari": "हरप्रीत",
+    "letter": "H",
+    "syllable_count": 4,
+    "meaning_en": "Love of Hari (God).",
+    "components": [
+      {
+        "part": "hari",
+        "gloss": "God"
+      },
+      {
+        "part": "prīti",
+        "gloss": "love"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gurpreet",
+    "iast": "gurupriti",
+    "devanagari": "गुरप्रीत",
+    "letter": "G",
+    "syllable_count": 4,
+    "meaning_en": "Love of the Guru.",
+    "components": [
+      {
+        "part": "guru",
+        "gloss": "teacher"
+      },
+      {
+        "part": "prīti",
+        "gloss": "love"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Manpreet",
+    "iast": "manapriti",
+    "devanagari": "मनप्रीत",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Love in the mind.",
+    "components": [
+      {
+        "part": "mana",
+        "gloss": "mind"
+      },
+      {
+        "part": "prīti",
+        "gloss": "love"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jaspreet",
+    "iast": "yaśapriti",
+    "devanagari": "जसप्रीत",
+    "letter": "J",
+    "syllable_count": 4,
+    "meaning_en": "Love of fame/praise.",
+    "components": [
+      {
+        "part": "yaśas",
+        "gloss": "praise"
+      },
+      {
+        "part": "prīti",
+        "gloss": "love"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Amandeep",
+    "iast": "amanadīp",
+    "stem": "amanadīpa",
+    "devanagari": "अमनदीप",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Lamp of peace.",
+    "components": [
+      {
+        "part": "amana",
+        "gloss": "peace"
+      },
+      {
+        "part": "dīpa",
+        "gloss": "lamp"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Harmeet",
+    "iast": "harimitr",
+    "stem": "harimitra",
+    "devanagari": "हरमीत",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Friend of Hari.",
+    "components": [
+      {
+        "part": "hari",
+        "gloss": "God"
+      },
+      {
+        "part": "mitra",
+        "gloss": "friend"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sukhwinder",
+    "iast": "sukhavindr",
+    "stem": "sukhavindra",
+    "devanagari": "सुखविंदर",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Lord of happiness.",
+    "components": [
+      {
+        "part": "sukha",
+        "gloss": "happiness"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Inderjit",
+    "iast": "indrajit",
+    "devanagari": "इंद्रजीत",
+    "letter": "I",
+    "syllable_count": 3,
+    "meaning_en": "Conqueror of Indra.",
+    "components": [
+      {
+        "part": "indra",
+        "gloss": "Indra"
+      },
+      {
+        "part": "jit",
+        "gloss": "conqueror"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ramayana",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Balwant",
+    "iast": "balavant",
+    "stem": "balavanta",
+    "devanagari": "बलवंत",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Strong.",
+    "components": [
+      {
+        "part": "bala",
+        "gloss": "strength"
+      },
+      {
+        "part": "vant",
+        "gloss": "possessing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Navdeep",
+    "iast": "navadīp",
+    "stem": "navadīpa",
+    "devanagari": "नवदीप",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "New lamp.",
+    "components": [
+      {
+        "part": "nava",
+        "gloss": "new"
+      },
+      {
+        "part": "dīpa",
+        "gloss": "lamp"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Simarjeet",
+    "iast": "smaraṇajit",
+    "stem": "smaraṇajita",
+    "devanagari": "सिमरजीत",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Victory through remembrance.",
+    "components": [
+      {
+        "part": "smaraṇa",
+        "gloss": "remembrance"
+      },
+      {
+        "part": "jita",
+        "gloss": "victory"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Prabhjot",
+    "iast": "prabhujyoti",
+    "devanagari": "प्रभज्योत",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "Light of the Lord.",
+    "components": [
+      {
+        "part": "prabhu",
+        "gloss": "lord"
+      },
+      {
+        "part": "jyoti",
+        "gloss": "light"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kamaljeet",
+    "iast": "kamalajit",
+    "stem": "kamalajita",
+    "devanagari": "कमलजीत",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Victory of the lotus.",
+    "components": [
+      {
+        "part": "kamala",
+        "gloss": "lotus"
+      },
+      {
+        "part": "jita",
+        "gloss": "victory"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rupinder",
+    "iast": "rūpendr",
+    "stem": "rūpendra",
+    "devanagari": "रूपिंदर",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Lord of beauty.",
+    "components": [
+      {
+        "part": "rūpa",
+        "gloss": "beauty"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mandeep",
+    "iast": "manadīp",
+    "stem": "manadīpa",
+    "devanagari": "मनदीप",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Lamp of the mind.",
+    "components": [
+      {
+        "part": "mana",
+        "gloss": "mind"
+      },
+      {
+        "part": "dīpa",
+        "gloss": "lamp"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Harleen",
+    "iast": "harilīn",
+    "stem": "harilīna",
+    "devanagari": "हरलीन",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Absorbed in Hari.",
+    "components": [
+      {
+        "part": "hari",
+        "gloss": "God"
+      },
+      {
+        "part": "līna",
+        "gloss": "absorbed"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kiranjot",
+    "iast": "kiraṇajyoti",
+    "devanagari": "किरणजोत",
+    "letter": "K",
+    "syllable_count": 5,
+    "meaning_en": "Ray of light.",
+    "components": [
+      {
+        "part": "kiraṇa",
+        "gloss": "ray"
+      },
+      {
+        "part": "jyoti",
+        "gloss": "light"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Satbir",
+    "iast": "satyavīr",
+    "stem": "satyavīra",
+    "devanagari": "सतबीर",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Truthful hero.",
+    "components": [
+      {
+        "part": "satya",
+        "gloss": "truth"
+      },
+      {
+        "part": "vīra",
+        "gloss": "hero"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Haryana"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sunita",
+    "iast": "sunītā",
+    "devanagari": "सुनीता",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Well-guided; of good conduct.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "nīta",
+        "gloss": "led"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Haryana"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yashpal",
+    "iast": "yaśapāl",
+    "stem": "yaśapāla",
+    "devanagari": "यशपाल",
+    "letter": "Y",
+    "syllable_count": 3,
+    "meaning_en": "Protector of fame.",
+    "components": [
+      {
+        "part": "yaśas",
+        "gloss": "fame"
+      },
+      {
+        "part": "pāla",
+        "gloss": "protector"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Himachal Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Roshni",
+    "iast": "raucanī",
+    "devanagari": "रोशनी",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Light.",
+    "components": [
+      {
+        "part": "raucanī",
+        "gloss": "light"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Himachal Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Meenu",
+    "iast": "mīnu",
+    "devanagari": "मीनू",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Fish-like; Hindi short form of Meena.",
+    "components": [
+      {
+        "part": "mīna",
+        "gloss": "fish"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rani",
+    "iast": "rāṇī",
+    "devanagari": "रानी",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Queen.",
+    "components": [
+      {
+        "part": "rājñī",
+        "gloss": "queen"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-057-north.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
