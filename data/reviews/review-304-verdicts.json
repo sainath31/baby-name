@@ -1,0 +1,22 @@
+[
+{"name":"Agrim","verdict":"keep","reason":"Common modern name from agrima, foremost; meaning correct."},
+{"name":"Ahaan","verdict":"fix","reason":"Devanagari/IAST (ahan, short a) do not match the name as written with long aa; modern name, derivation from ahan is popular but uncertain.","fix":{"name":"Ahaan","devanagari":"अहान","iast":"ahāna","meaning_en":"Dawn, first light of morning (modern name; popularly linked to Sanskrit ahan 'day', etymology uncertain)."}},
+{"name":"Aniket","verdict":"keep","reason":"Well-established given name; epithet of Shiva widely used for boys; meaning correct."},
+{"name":"Ayansh","verdict":"fix","reason":"IAST lacks the long a shown in the Devanagari अयांश; meaning should be stated plainly as uncertain.","fix":{"name":"Ayansh","devanagari":"अयांश","iast":"ayāṃśa","meaning_en":"Modern name; etymology uncertain (popularly explained as 'part of the divine' or 'ray of light')."}},
+{"name":"Darsh","verdict":"keep","reason":"Common name; darśa means sight and the new-moon day; neutral and correct."},
+{"name":"Harshil","verdict":"keep","reason":"Popular modern name built on harṣa, joy; meaning reasonable."},
+{"name":"Kairav","verdict":"keep","reason":"Kairava, the white night-blooming lotus; auspicious and correct."},
+{"name":"Kanav","verdict":"fix","reason":"Script कण्व reads Kanva, not Kanav as written; Kanav is the modern variant of the sage's name.","fix":{"name":"Kanav","devanagari":"कणव","iast":"kaṇava","meaning_en":"Modern form of Kanva, a revered Vedic sage and foster-father of Shakuntala."}},
+{"name":"Krish","verdict":"fix","reason":"कृष without virama reads kṛṣa ('thin, emaciated'); should be written with halant as a short form of Krishna.","fix":{"name":"Krish","devanagari":"कृष्","iast":"kṛṣ","meaning_en":"Short form of Krishna."}},
+{"name":"Laksh","verdict":"keep","reason":"Lakṣa, aim or target; common name; meaning correct."},
+{"name":"Lakshit","verdict":"keep","reason":"Lakṣita, distinguished, marked; common name; correct."},
+{"name":"Nimai","verdict":"keep","reason":"Childhood name of Chaitanya Mahaprabhu; genuine Vaishnava boy's name; correct."},
+{"name":"Parv","verdict":"keep","reason":"Parva, festival or sacred occasion; common modern name; correct."},
+{"name":"Prakhar","verdict":"keep","reason":"Prakhara, sharp, brilliant; common name; correct."},
+{"name":"Rachit","verdict":"keep","reason":"Racita, created, composed; common name; correct."},
+{"name":"Saarth","verdict":"keep","reason":"Sārtha, meaningful; sandhi sa + artha correct; auspicious."},
+{"name":"Vansh","verdict":"keep","reason":"Vaṃśa, lineage; very common boy's name; correct."},
+{"name":"Ved","verdict":"keep","reason":"Veda, sacred knowledge; common name; correct."},
+{"name":"Vedik","verdict":"fix","reason":"Script वैदिक/vaidika does not match Vedik as written; Vedik is a modern form of vaidika.","fix":{"name":"Vedik","devanagari":"वेदिक","iast":"vedika","meaning_en":"Of the Vedas, sacred (modern form of Vaidika)."}},
+{"name":"Vihaan","verdict":"keep","reason":"Very popular modern name; meaning already marks etymology as uncertain; script matches."}
+]
