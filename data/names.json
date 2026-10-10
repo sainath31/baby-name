@@ -107113,5 +107113,147 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Alamelu",
+    "iast": "alamēlumaṅgā",
+    "devanagari": "अलमेलु",
+    "letter": "A",
+    "syllable_count": 5,
+    "meaning_en": "Lady dwelling on the lotus; Padmavati, consort of Venkateswara.",
+    "components": [
+      {
+        "part": "alar",
+        "gloss": "lotus"
+      },
+      {
+        "part": "mēlu",
+        "gloss": "above"
+      },
+      {
+        "part": "maṅgai",
+        "gloss": "woman"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-089-girls-south-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Visalakshi",
+    "iast": "viśālākṣī",
+    "devanagari": "विशालाक्षी",
+    "letter": "V",
+    "syllable_count": 4,
+    "meaning_en": "Wide-eyed; Parvati at Kashi.",
+    "components": [
+      {
+        "part": "viśāla",
+        "gloss": "wide"
+      },
+      {
+        "part": "akṣī",
+        "gloss": "eyed"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Devi Purana",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-089-girls-south-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pranathi",
+    "iast": "praṇati",
+    "devanagari": "प्रणति",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Humble bow; reverence.",
+    "components": [
+      {
+        "part": "praṇati",
+        "gloss": "bowing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-089-girls-south-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sarayu",
+    "iast": "sarayū",
+    "devanagari": "सरयू",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Flowing; the river of Ayodhya.",
+    "components": [
+      {
+        "part": "sarayū",
+        "gloss": "flowing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ramayana",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-089-girls-south-modern.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
