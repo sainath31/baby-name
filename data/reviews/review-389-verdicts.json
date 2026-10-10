@@ -1,0 +1,125 @@
+[
+ {
+  "name": "Hari Krishna",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Hari Om",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase"
+ },
+ {
+  "name": "Jai Shankar",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Jaya Lakshmi",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Jyothi Lakshmi",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Ram Charan",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Rama Devi",
+  "verdict": "fix",
+  "reason": "meaning/IAST corrected",
+  "fix": {
+   "iast": "ramādevī",
+   "meaning_en": "Goddess Rama, a name of Lakshmi."
+  }
+ },
+ {
+  "name": "Ravi Teja",
+  "verdict": "fix",
+  "reason": "meaning/IAST corrected",
+  "fix": {
+   "iast": "raviteja"
+  }
+ },
+ {
+  "name": "Sai Charan",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Sai Kiran",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Sai Krishna",
+  "verdict": "fix",
+  "reason": "meaning/IAST corrected",
+  "fix": {
+   "meaning_en": "Sai (the divine master) combined with Krishna."
+  }
+ },
+ {
+  "name": "Sai Lakshmi",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Sai Priya",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Sai Ram",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Sai Teja",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Sri Hari",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Sri Lakshmi",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Sri Latha",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Sri Ranjani",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Sri Vidya",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Sri Vishnu",
+  "verdict": "keep",
+  "reason": "suitable name with correct meaning"
+ },
+ {
+  "name": "Venkata Ramana",
+  "verdict": "fix",
+  "reason": "meaning/IAST corrected",
+  "fix": {
+   "meaning_en": "Lord Venkateshwara (Venkata) and Ramana, the delighter, a name of Vishnu."
+  }
+ }
+]
