@@ -1,0 +1,799 @@
+[
+ {
+  "name": "Aakar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Abhir",
+  "verdict": "fix",
+  "reason": "Abhira is a cowherd tribe; 'fearless' is a popular folk reading (abhīru actually means timid). IAST lacks final a.",
+  "fix": {
+   "iast": "abhīra",
+   "meaning_en": "Popularly 'fearless'; Sanskrit abhīra = a cowherd"
+  }
+ },
+ {
+  "name": "Adhokshaja",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Advay",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Agneya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Agnimitra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Aishwaryalakshmi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Amar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Amartya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Amogha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Amol",
+  "verdict": "fix",
+  "reason": "IAST 'amola' does not match Devanagari/Hindi form",
+  "fix": {
+   "iast": "amol"
+  }
+ },
+ {
+  "name": "Amrit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ananta",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Andal",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Annapurna",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Anuradha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Anvay",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Arunesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Arusha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Arvind",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ashank",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Atanu",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Balram",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Bhairavnath",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Bhuji",
+  "verdict": "reject",
+  "reason": "markup_or_garbled: raw lexicon gloss 'Name of Agni, , Sch.'"
+ },
+ {
+  "name": "Chandramohan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chandramukhi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Damayanti",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Devarsh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Devika",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhairyashil",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhanu",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhanvi",
+  "verdict": "fix",
+  "reason": "Dhanvi (dhanvī) is used mainly for girls today; gender tag wrong",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Dhanyalakshmi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Digvijay",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Geetesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Girik",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gopichand",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hanumant",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harikrishnan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harish",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Havya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hemraj",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ira",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jagdish",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Janaki",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jayasena",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jitesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jiya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Kalpit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Kalyani",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Kaushik",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Khushi",
+  "verdict": "keep",
+  "reason": "Persian origin, but widely used; borderline"
+ },
+ {
+  "name": "Khushwant",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Komal",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Lokesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Madhuri",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Maheshwari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Maithili",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Malavika",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Manasvi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mangesh",
+  "verdict": "fix",
+  "reason": "Parts 'maṅga + īśa' wrong; Mangesh is Maṅgeśa (Shiva at Mangueshi, Goa)",
+  "fix": {
+   "meaning_en": "Lord of auspiciousness; Shiva as worshipped at Mangueshi"
+  }
+ },
+ {
+  "name": "Manoranjan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mayank",
+  "verdict": "fix",
+  "reason": "IAST mayaṅka inconsistent with Hindi form; mṛgāṅka derivation",
+  "fix": {
+   "iast": "mayaṅk"
+  }
+ },
+ {
+  "name": "Mayuresha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Meera",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mitali",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mithun",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mitul",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mohanan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mrigank",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mrigendra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Murali",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Naksh",
+  "verdict": "reject",
+  "reason": "other: Perso-Arabic word with invented Sanskrit part 'nakṣa'; not a Sanskrit-based name"
+ },
+ {
+  "name": "Nandakumar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nayanmoni",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nidhi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nihar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nishant",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nitin",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Padma",
+  "verdict": "fix",
+  "reason": "Devanagari पद्मा (padmā) but IAST/name padma mismatch",
+  "fix": {
+   "iast": "padmā"
+  }
+ },
+ {
+  "name": "Padmanabhan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Padmavathi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Paramesha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Parth",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Phanindra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Poonam",
+  "verdict": "fix",
+  "reason": "IAST pūrṇimā does not match Devanagari पूनम",
+  "fix": {
+   "iast": "pūnam (from pūrṇimā)"
+  }
+ },
+ {
+  "name": "Poorvesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pranjali",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pranshu",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Raag",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: music mode"
+ },
+ {
+  "name": "Rajarshi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rama Devi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Riju",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ritadhvaja",
+  "verdict": "fix",
+  "reason": "Meaning 'Name of a Rudra' is not a meaning",
+  "fix": {
+   "meaning_en": "Having truth/cosmic order as his banner"
+  }
+ },
+ {
+  "name": "Rituparna",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rituraj",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Saanvi",
+  "verdict": "fix",
+  "reason": "Parts 'sā + anvī' invented; etymology not established",
+  "fix": {
+   "meaning_en": "Popularly said to mean Goddess Lakshmi; etymology uncertain"
+  }
+ },
+ {
+  "name": "Sai",
+  "verdict": "fix",
+  "reason": "Sai is a devotional title/Sai Baba; meaning disputed, weak as a given name",
+  "fix": {
+   "meaning_en": "Devotional name after Sai Baba; etymology disputed"
+  }
+ },
+ {
+  "name": "Sai Krishna",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sambhagna",
+  "verdict": "reject",
+  "reason": "markup_or_garbled: lexicon gloss, obscure Śiva epithet meaning 'broken' (sambhagna)"
+ },
+ {
+  "name": "Sangram",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sanidhya",
+  "verdict": "fix",
+  "reason": "Correct Sanskrit spelling is sānnidhya",
+  "fix": {
+   "devanagari": "सान्निध्य",
+   "iast": "sānnidhya"
+  }
+ },
+ {
+  "name": "Sanket",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Saptarshi",
+  "verdict": "reject",
+  "reason": "other: plural group (seven sages), not a personal name"
+ },
+ {
+  "name": "Saraswati",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sarthak",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sarvadaman",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sarvamangala",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sesha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Seshagiri",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sethu",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shailendra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shanti",
+  "verdict": "fix",
+  "reason": "Shanti is overwhelmingly a girl name; gender tag unisex weak",
+  "fix": {
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Shashishekhar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shaurya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shiva",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shreya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shriman",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Śrīmān = 'Mr/Sir'"
+ },
+ {
+  "name": "Shyamlal",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sirisha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sita",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Soumik",
+  "verdict": "fix",
+  "reason": "IAST 'soumik' is not IAST; should be saumik",
+  "fix": {
+   "iast": "saumik"
+  }
+ },
+ {
+  "name": "Sri Lakshmi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sri Ranjani",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Stavan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Subbarao",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sulochana",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Suvarna",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Tamal",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Tanishka",
+  "verdict": "fix",
+  "reason": "Parts 'tanuṣka' invented; etymology uncertain",
+  "fix": {
+   "meaning_en": "etymology uncertain"
+  }
+ },
+ {
+  "name": "Tanmay",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Umang",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Usha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Uthara",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vagdevi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vaishali",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vaman",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vasav",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Venkatesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vibhas",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vidya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vidyashree",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vighneshwar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Virasena",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vivek",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vrishabha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Yadagiri",
+  "verdict": "fix",
+  "reason": "State tag wrong: Yadagirigutta is in Telangana",
+  "fix": {
+   "state": "Telangana"
+  }
+ },
+ {
+  "name": "Yajat",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Yugal",
+  "verdict": "keep",
+  "reason": "ok"
+ }
+]

@@ -1,0 +1,145 @@
+[
+ {
+  "name": "Abhir",
+  "verdict": "fix",
+  "reason": "Abhira is a cowherd tribe; 'fearless' is a popular folk reading (abhīru actually means timid). IAST lacks final a.",
+  "fix": {
+   "meaning_en": "Popularly read as fearless; Sanskrit abhīra is also a cowherd tribe"
+  }
+ },
+ {
+  "name": "Amol",
+  "verdict": "fix",
+  "reason": "IAST 'amola' does not match Devanagari/Hindi form",
+  "fix": {}
+ },
+ {
+  "name": "Bhuji",
+  "verdict": "reject",
+  "reason": "markup_or_garbled: raw lexicon gloss 'Name of Agni, , Sch.'"
+ },
+ {
+  "name": "Dhanvi",
+  "verdict": "fix",
+  "reason": "Dhanvi (dhanvī) is used mainly for girls today; gender tag wrong",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Mangesh",
+  "verdict": "fix",
+  "reason": "Parts 'maṅga + īśa' wrong; Mangesh is Maṅgeśa (Shiva at Mangueshi, Goa)",
+  "fix": {
+   "meaning_en": "Lord of auspiciousness; Shiva as worshipped at Mangueshi"
+  }
+ },
+ {
+  "name": "Mayank",
+  "verdict": "fix",
+  "reason": "IAST mayaṅka inconsistent with Hindi form; mṛgāṅka derivation",
+  "fix": {}
+ },
+ {
+  "name": "Naksh",
+  "verdict": "reject",
+  "reason": "other: Perso-Arabic word with invented Sanskrit part 'nakṣa'; not a Sanskrit-based name"
+ },
+ {
+  "name": "Padma",
+  "verdict": "fix",
+  "reason": "Devanagari पद्मा (padmā) but IAST/name padma mismatch",
+  "fix": {}
+ },
+ {
+  "name": "Poonam",
+  "verdict": "fix",
+  "reason": "IAST pūrṇimā does not match Devanagari पूनम",
+  "fix": {}
+ },
+ {
+  "name": "Raag",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: music mode"
+ },
+ {
+  "name": "Ritadhvaja",
+  "verdict": "fix",
+  "reason": "Meaning 'Name of a Rudra' is not a meaning",
+  "fix": {
+   "meaning_en": "Having truth/cosmic order as his banner"
+  }
+ },
+ {
+  "name": "Saanvi",
+  "verdict": "fix",
+  "reason": "Parts 'sā + anvī' invented; etymology not established",
+  "fix": {
+   "meaning_en": "Popularly said to mean Goddess Lakshmi; etymology uncertain"
+  }
+ },
+ {
+  "name": "Sai",
+  "verdict": "fix",
+  "reason": "Sai is a devotional title/Sai Baba; meaning disputed, weak as a given name",
+  "fix": {
+   "meaning_en": "Devotional name after Sai Baba; etymology disputed"
+  }
+ },
+ {
+  "name": "Sambhagna",
+  "verdict": "reject",
+  "reason": "markup_or_garbled: lexicon gloss, obscure Śiva epithet meaning 'broken' (sambhagna)"
+ },
+ {
+  "name": "Sanidhya",
+  "verdict": "fix",
+  "reason": "Correct Sanskrit spelling is sānnidhya",
+  "fix": {
+   "devanagari": "सान्निध्य",
+   "iast": "sānnidhya"
+  }
+ },
+ {
+  "name": "Saptarshi",
+  "verdict": "reject",
+  "reason": "other: plural group (seven sages), not a personal name"
+ },
+ {
+  "name": "Shanti",
+  "verdict": "fix",
+  "reason": "Shanti is overwhelmingly a girl name; gender tag unisex weak",
+  "fix": {
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Shriman",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Śrīmān = 'Mr/Sir'"
+ },
+ {
+  "name": "Soumik",
+  "verdict": "fix",
+  "reason": "IAST 'soumik' is not IAST; should be saumik",
+  "fix": {}
+ },
+ {
+  "name": "Tanishka",
+  "verdict": "fix",
+  "reason": "Parts 'tanuṣka' invented; etymology uncertain",
+  "fix": {
+   "meaning_en": "etymology uncertain"
+  }
+ },
+ {
+  "name": "Yadagiri",
+  "verdict": "fix",
+  "reason": "State tag wrong: Yadagirigutta is in Telangana",
+  "fix": {
+   "states": [
+    "Telangana"
+   ]
+  }
+ }
+]
