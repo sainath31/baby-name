@@ -1,0 +1,1384 @@
+[
+ {
+  "name": "Bhairavakumara",
+  "verdict": "reject",
+  "reason": "Bhairava is a terrible form of Shiva; 'prince Bhairava' forced"
+ },
+ {
+  "name": "Bhutivati",
+  "verdict": "reject",
+  "reason": "bhūtivatī unnatural, evokes bhūta (ghost)"
+ },
+ {
+  "name": "Bodhivardhana",
+  "verdict": "reject",
+  "reason": "Buddhist-flavoured compound, not a typical Hindu name"
+ },
+ {
+  "name": "Buddhiketu",
+  "verdict": "reject",
+  "reason": "forced pairing, banner of intellect"
+ },
+ {
+  "name": "Buddhipriya",
+  "verdict": "reject",
+  "reason": "reads as fond of the Buddha; forced"
+ },
+ {
+  "name": "Budhapriya",
+  "verdict": "reject",
+  "reason": "forced; dear to Mercury"
+ },
+ {
+  "name": "Danaketu",
+  "verdict": "reject",
+  "reason": "forced pairing"
+ },
+ {
+  "name": "Dhritibhushana",
+  "verdict": "reject",
+  "reason": "forced; adorned with steadfastness"
+ },
+ {
+  "name": "Dhritipati",
+  "verdict": "reject",
+  "reason": "forced; lord of steadfastness"
+ },
+ {
+  "name": "Dhruvakumara",
+  "verdict": "fix",
+  "reason": "meaning clumsy",
+  "fix": {
+   "meaning_en": "Prince Dhruva; the steadfast boy"
+  }
+ },
+ {
+  "name": "Divyaguna",
+  "verdict": "reject",
+  "reason": "vague, forced"
+ },
+ {
+  "name": "Divyaharsha",
+  "verdict": "reject",
+  "reason": "vague, forced"
+ },
+ {
+  "name": "Divyakalyana",
+  "verdict": "reject",
+  "reason": "redundant, forced"
+ },
+ {
+  "name": "Divyananda",
+  "verdict": "fix",
+  "reason": "sandhi: divya+ānanda gives divyānanda",
+  "fix": {
+   "devanagari": "दिव्यानन्द",
+   "iast": "divyānanda"
+  }
+ },
+ {
+  "name": "Divyashakti",
+  "verdict": "reject",
+  "reason": "shakti is feminine/goddess; unnatural for boy"
+ },
+ {
+  "name": "Divyatejah",
+  "verdict": "reject",
+  "reason": "visarga-final compound form unnatural"
+ },
+ {
+  "name": "Divyavidya",
+  "verdict": "reject",
+  "reason": "feminine word for a boy"
+ },
+ {
+  "name": "Dyumitra",
+  "verdict": "reject",
+  "reason": "friend of the sky: unnatural"
+ },
+ {
+  "name": "Dyunatha",
+  "verdict": "reject",
+  "reason": "obscure, forced"
+ },
+ {
+  "name": "Dyutibhushana",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Dyutiketu",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Gaganapala",
+  "verdict": "reject",
+  "reason": "protector of the sky: unnatural"
+ },
+ {
+  "name": "Gunapati",
+  "verdict": "reject",
+  "reason": "reads as Ganapati; confusing"
+ },
+ {
+  "name": "Halayudhadatta",
+  "verdict": "reject",
+  "reason": "overlong, awkward"
+ },
+ {
+  "name": "Harshaketu",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Hiranyanandana",
+  "verdict": "reject",
+  "reason": "hiranya evokes demon Hiranyakashipu"
+ },
+ {
+  "name": "Ishananandana",
+  "verdict": "fix",
+  "reason": "meaning muddled",
+  "fix": {
+   "meaning_en": "Son of Ishana (Shiva)"
+  }
+ },
+ {
+  "name": "Jaitraketu",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Kiranamayi",
+  "verdict": "fix",
+  "reason": "meaning wording",
+  "fix": {
+   "meaning_en": "Full of rays of light"
+  }
+ },
+ {
+  "name": "Mahakesari",
+  "verdict": "reject",
+  "reason": "parts reversed, just 'great lion'; not a person's name"
+ },
+ {
+  "name": "Manmathadasa",
+  "verdict": "reject",
+  "reason": "servant of Kama; inauspicious"
+ },
+ {
+  "name": "Mantranatha",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Meghanatha",
+  "verdict": "reject",
+  "reason": "name of Ravana's son Indrajit (villain)"
+ },
+ {
+  "name": "Purnendupala",
+  "verdict": "reject",
+  "reason": "protector of the full moon: nonsense"
+ },
+ {
+  "name": "Purnendupriya",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Pushkarapala",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Pushpanandana",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Shiladevi",
+  "verdict": "fix",
+  "reason": "meaning wording",
+  "fix": {
+   "meaning_en": "Devi of good conduct"
+  }
+ },
+ {
+  "name": "Shribalarama",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific, deity itself"
+ },
+ {
+  "name": "Shridattatreya",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shrigopala",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shrigovinda",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shrikubera",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shrimahadeva",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shrimayuresha",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shrinilakantha",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shripadmanabha",
+  "verdict": "reject",
+  "reason": "Shri-prefixed deity name; honorific"
+ },
+ {
+  "name": "Shriramakumara",
+  "verdict": "reject",
+  "reason": "awkward, forced"
+ },
+ {
+  "name": "Shrisuvrata",
+  "verdict": "reject",
+  "reason": "redundant, forced"
+ },
+ {
+  "name": "Sukesari",
+  "verdict": "reject",
+  "reason": "just 'good lion'; not a person's name"
+ },
+ {
+  "name": "Suyashah",
+  "verdict": "reject",
+  "reason": "duplicate variant of Suyasha"
+ },
+ {
+  "name": "Trilokadevi",
+  "verdict": "reject",
+  "reason": "goddess of three worlds: deity_not_for_person, grandiose"
+ },
+ {
+  "name": "Abhayamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Achyutadasi",
+  "verdict": "reject",
+  "reason": "dasi on a girl's name reads as maidservant; family would not give it"
+ },
+ {
+  "name": "Adityadasi",
+  "verdict": "reject",
+  "reason": "dasi on a girl's name reads as maidservant; family would not give it"
+ },
+ {
+  "name": "Adityanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Adityaputra",
+  "verdict": "reject",
+  "reason": "other: ambiguous or inauspicious/confused parentage"
+ },
+ {
+  "name": "Aghorakumara",
+  "verdict": "reject",
+  "reason": "other: unnatural pairing with this deity/goddess or ominous"
+ },
+ {
+  "name": "Agnidasi",
+  "verdict": "reject",
+  "reason": "dasi on a girl's name reads as maidservant; family would not give it"
+ },
+ {
+  "name": "Ajayadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Ajayavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Alokadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Alokamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Alokanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Ambarishadasa",
+  "verdict": "reject",
+  "reason": "other: Ambarisha as base is obscure and pairing is unnatural"
+ },
+ {
+  "name": "Ambarishadatta",
+  "verdict": "reject",
+  "reason": "other: Ambarisha as base is obscure and pairing is unnatural"
+ },
+ {
+  "name": "Ambarishamitra",
+  "verdict": "reject",
+  "reason": "other: Ambarisha as base is obscure and pairing is unnatural"
+ },
+ {
+  "name": "Ambarishapriya",
+  "verdict": "reject",
+  "reason": "other: Ambarisha as base is obscure and pairing is unnatural"
+ },
+ {
+  "name": "Ambarishaputra",
+  "verdict": "reject",
+  "reason": "other: Ambarisha as base is obscure and pairing is unnatural"
+ },
+ {
+  "name": "Amshumitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Amshunandana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Amshunatha",
+  "verdict": "fix",
+  "reason": "Amshunatha is a sun epithet; meaning clarified",
+  "fix": {
+   "meaning_en": "Lord of the rays (the Sun)."
+  }
+ },
+ {
+  "name": "Amshupriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Anantadasi",
+  "verdict": "reject",
+  "reason": "dasi on a girl's name reads as maidservant; family would not give it"
+ },
+ {
+  "name": "Aniladasa",
+  "verdict": "reject",
+  "reason": "other: unnatural pairing with this deity/goddess or ominous"
+ },
+ {
+  "name": "Aniladatta",
+  "verdict": "reject",
+  "reason": "other: unnatural pairing with this deity/goddess or ominous"
+ },
+ {
+  "name": "Anilakumara",
+  "verdict": "reject",
+  "reason": "other: unnatural pairing with this deity/goddess or ominous"
+ },
+ {
+  "name": "Anilamitra",
+  "verdict": "reject",
+  "reason": "other: unnatural pairing with this deity/goddess or ominous"
+ },
+ {
+  "name": "Anjaneyadasi",
+  "verdict": "reject",
+  "reason": "dasi on a girl's name reads as maidservant; family would not give it"
+ },
+ {
+  "name": "Aravindamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Aravindavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Arjunaputra",
+  "verdict": "reject",
+  "reason": "other: ambiguous or inauspicious/confused parentage"
+ },
+ {
+  "name": "Ashaketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Ashamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Ashanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Ashokanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Ashokavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Ashutoshadasi",
+  "verdict": "reject",
+  "reason": "dasi on a girl's name reads as maidservant; family would not give it"
+ },
+ {
+  "name": "Atmamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Atmanandana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Atmanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Atmapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Atmavardhana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Avadheshaputra",
+  "verdict": "reject",
+  "reason": "other: ambiguous or inauspicious/confused parentage"
+ },
+ {
+  "name": "Baladevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Balamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Balanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Balapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Balapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Balaraja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: redundant or forced meaning"
+ },
+ {
+  "name": "Bhaktimayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced mayi pairing"
+ },
+ {
+  "name": "Bhanunandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Bhanupriya",
+  "verdict": "fix",
+  "reason": "Bhanupriya is a feminine form; make girl name",
+  "fix": {
+   "gender": "girl",
+   "devanagari": "भानुप्रिया",
+   "iast": "bhānupriyā",
+   "meaning_en": "Dear to the sun."
+  }
+ },
+ {
+  "name": "Bhanuvati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Bharataputra",
+  "verdict": "reject",
+  "reason": "other: ambiguous or inauspicious/confused parentage"
+ },
+ {
+  "name": "Bharatidasa",
+  "verdict": "reject",
+  "reason": "other: unnatural pairing with this deity/goddess or ominous"
+ },
+ {
+  "name": "Bharatidasi",
+  "verdict": "reject",
+  "reason": "dasi on a girl's name reads as maidservant; family would not give it"
+ },
+ {
+  "name": "Bharatidatta",
+  "verdict": "reject",
+  "reason": "other: unnatural pairing with this deity/goddess or ominous"
+ },
+ {
+  "name": "Bharatikumara",
+  "verdict": "reject",
+  "reason": "other: unnatural pairing with this deity/goddess or ominous"
+ },
+ {
+  "name": "Bharatinandana",
+  "verdict": "reject",
+  "reason": "other: unnatural pairing with this deity/goddess or ominous"
+ },
+ {
+  "name": "Bharatinandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: forced pairing/abstract noun with mayi/vati/devi/nandini"
+ },
+ {
+  "name": "Bharatiputra",
+  "verdict": "reject",
+  "reason": "other: ambiguous or inauspicious/confused parentage"
+ },
+ {
+  "name": "Bhaskaraputra",
+  "verdict": "reject",
+  "reason": "other: ambiguous or inauspicious/confused parentage"
+ },
+ {
+  "name": "Bhavanidasi",
+  "verdict": "reject",
+  "reason": "dasi on a girl's name reads as maidservant; family would not give it"
+ },
+ {
+  "name": "Bhriguputra",
+  "verdict": "reject",
+  "reason": "reads as an epithet, not a given name"
+ },
+ {
+  "name": "Bhumivati",
+  "verdict": "reject",
+  "reason": "forced pairing"
+ },
+ {
+  "name": "Bhutinatha",
+  "verdict": "reject",
+  "reason": "reads as bhutanatha, lord of spirits"
+ },
+ {
+  "name": "Bhuvanavati",
+  "verdict": "reject",
+  "reason": "forced pairing"
+ },
+ {
+  "name": "Bodhinatha",
+  "verdict": "reject",
+  "reason": "Buddhist-leaning"
+ },
+ {
+  "name": "Bodhipriya",
+  "verdict": "reject",
+  "reason": "Buddhist-leaning"
+ },
+ {
+  "name": "Brahmakumara",
+  "verdict": "reject",
+  "reason": "evokes Brahma Kumaris sect"
+ },
+ {
+  "name": "Brahmavardhana",
+  "verdict": "reject",
+  "reason": "increaser of Brahman is nonsensical"
+ },
+ {
+  "name": "Buddhimitra",
+  "verdict": "reject",
+  "reason": "unnatural, Buddha-like"
+ },
+ {
+  "name": "Buddhinatha",
+  "verdict": "reject",
+  "reason": "reads as Buddha-natha"
+ },
+ {
+  "name": "Buddhipati",
+  "verdict": "reject",
+  "reason": "unnatural"
+ },
+ {
+  "name": "Buddhiraja",
+  "verdict": "reject",
+  "reason": "unnatural, Buddha-like"
+ },
+ {
+  "name": "Buddhivati",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Budhadatta",
+  "verdict": "reject",
+  "reason": "reads as Buddha; planet-given odd"
+ },
+ {
+  "name": "Budhanandana",
+  "verdict": "reject",
+  "reason": "reads as Buddha"
+ },
+ {
+  "name": "Chakranatha",
+  "verdict": "reject",
+  "reason": "lord of discus unnatural"
+ },
+ {
+  "name": "Chandanavati",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Chandradevi",
+  "verdict": "reject",
+  "reason": "Chandra is masculine"
+ },
+ {
+  "name": "Damadhara",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Damaketu",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Damapati",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Damapriya",
+  "verdict": "reject",
+  "reason": "weak, dama reads oddly"
+ },
+ {
+  "name": "Damavardhana",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Danadhara",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Danavardhana",
+  "verdict": "reject",
+  "reason": "reads as danava"
+ },
+ {
+  "name": "Dayaketu",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Devendrakumara",
+  "verdict": "fix",
+  "reason": "meaning garbled",
+  "fix": {
+   "meaning_en": "Young prince of Devendra (Indra), lord of the gods."
+  }
+ },
+ {
+  "name": "Devendranatha",
+  "verdict": "reject",
+  "reason": "redundant, devendra already lord of gods"
+ },
+ {
+  "name": "Dharmapala",
+  "verdict": "reject",
+  "reason": "Buddhist association"
+ },
+ {
+  "name": "Dhruvadatta",
+  "verdict": "reject",
+  "reason": "forced meaning"
+ },
+ {
+  "name": "Dhruvamitra",
+  "verdict": "reject",
+  "reason": "forced meaning"
+ },
+ {
+  "name": "Dipanandini",
+  "verdict": "reject",
+  "reason": "unnatural"
+ },
+ {
+  "name": "Divyabala",
+  "verdict": "reject",
+  "reason": "bala reads feminine/weak"
+ },
+ {
+  "name": "Divyabuddhi",
+  "verdict": "reject",
+  "reason": "duplicate of Divyamati; feminine noun"
+ },
+ {
+  "name": "Divyadama",
+  "verdict": "reject",
+  "reason": "weak"
+ },
+ {
+  "name": "Divyajaya",
+  "verdict": "reject",
+  "reason": "duplicate of Divyavijaya"
+ },
+ {
+  "name": "Divyapunya",
+  "verdict": "reject",
+  "reason": "unnatural"
+ },
+ {
+  "name": "Divyasamvit",
+  "verdict": "reject",
+  "reason": "technical, unnatural"
+ },
+ {
+  "name": "Divyavirya",
+  "verdict": "reject",
+  "reason": "unnatural for a boy"
+ },
+ {
+  "name": "Dyutipala",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Gaganamitra",
+  "verdict": "reject",
+  "reason": "unnatural"
+ },
+ {
+  "name": "Gagananandana",
+  "verdict": "reject",
+  "reason": "unnatural"
+ },
+ {
+  "name": "Ganeshakumara",
+  "verdict": "fix",
+  "reason": "Real in the South but gloss \"Prince\" is off",
+  "fix": {
+   "meaning_en": "Young son of Ganesha."
+  }
+ },
+ {
+  "name": "Gangakumara",
+  "verdict": "reject",
+  "reason": "Ganga as a mother with kumara is unnatural"
+ },
+ {
+  "name": "Gangamitra",
+  "verdict": "reject",
+  "reason": "Friend of a river is forced"
+ },
+ {
+  "name": "Gangapala",
+  "verdict": "reject",
+  "reason": "Protector of a river is forced"
+ },
+ {
+  "name": "Gangavardhana",
+  "verdict": "reject",
+  "reason": "Increaser of a river is unnatural"
+ },
+ {
+  "name": "Gaurangakumara",
+  "verdict": "reject",
+  "reason": "Sectarian epithet plus kumara, forced and long"
+ },
+ {
+  "name": "Gaurimitra",
+  "verdict": "reject",
+  "reason": "Friend of Gauri is forced"
+ },
+ {
+  "name": "Gaurinandana",
+  "verdict": "fix",
+  "reason": "Standard epithet meaning is son",
+  "fix": {
+   "meaning_en": "Son of Gauri (Parvati)."
+  }
+ },
+ {
+  "name": "Gaurisundari",
+  "verdict": "reject",
+  "reason": "Redundant, Gauri already beautiful goddess"
+ },
+ {
+  "name": "Girimitra",
+  "verdict": "reject",
+  "reason": "Friend of a mountain is forced"
+ },
+ {
+  "name": "Girinandana",
+  "verdict": "reject",
+  "reason": "Mountain's delight reads as Mainaka, unnatural"
+ },
+ {
+  "name": "Giripala",
+  "verdict": "reject",
+  "reason": "Protector of mountain forced"
+ },
+ {
+  "name": "Giripriya",
+  "verdict": "reject",
+  "reason": "Dear to the mountain forced"
+ },
+ {
+  "name": "Girishadasi",
+  "verdict": "reject",
+  "reason": "Long and unnatural for a girl"
+ },
+ {
+  "name": "Girishasundari",
+  "verdict": "reject",
+  "reason": "Forced for a girl"
+ },
+ {
+  "name": "Girishekhara",
+  "verdict": "fix",
+  "reason": "Gloss wrong",
+  "fix": {
+   "meaning_en": "Crest or summit of the mountain."
+  }
+ },
+ {
+  "name": "Gopalakumara",
+  "verdict": "fix",
+  "reason": "Gloss \"Prince\" off",
+  "fix": {
+   "meaning_en": "Young son of Gopala (Krishna)."
+  }
+ },
+ {
+  "name": "Gopalanatha",
+  "verdict": "reject",
+  "reason": "Redundant, Gopala already Krishna"
+ },
+ {
+  "name": "Govindakumara",
+  "verdict": "fix",
+  "reason": "Gloss \"Prince\" off",
+  "fix": {
+   "meaning_en": "Young son of Govinda (Krishna)."
+  }
+ },
+ {
+  "name": "Guhakumara",
+  "verdict": "reject",
+  "reason": "Redundant, Guha is Kumara"
+ },
+ {
+  "name": "Guhanatha",
+  "verdict": "reject",
+  "reason": "Redundant lord of Guha"
+ },
+ {
+  "name": "Gunamitra",
+  "verdict": "reject",
+  "reason": "Friend of virtue forced"
+ },
+ {
+  "name": "Gunapala",
+  "verdict": "reject",
+  "reason": "Protector of virtue forced"
+ },
+ {
+  "name": "Gurudhara",
+  "verdict": "reject",
+  "reason": "Bearer of the teacher unnatural"
+ },
+ {
+  "name": "Gurukumara",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Gurumitra",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Gurupala",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Guruputra",
+  "verdict": "reject",
+  "reason": "Reads as a teacher's son, not a given name"
+ },
+ {
+  "name": "Guruvardhana",
+  "verdict": "reject",
+  "reason": "Increaser of the teacher nonsense"
+ },
+ {
+  "name": "Halayudhadasa",
+  "verdict": "reject",
+  "reason": "Obscure and overlong"
+ },
+ {
+  "name": "Haramitra",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Haranatha",
+  "verdict": "fix",
+  "reason": "Gloss illogical",
+  "fix": {
+   "meaning_en": "Lord Hara (Shiva)."
+  }
+ },
+ {
+  "name": "Haripriya",
+  "verdict": "fix",
+  "reason": "Feminine form needs long a",
+  "fix": {
+   "devanagari": "हरिप्रिया",
+   "iast": "haripriyā"
+  }
+ },
+ {
+  "name": "Hariputra",
+  "verdict": "reject",
+  "reason": "Unnatural"
+ },
+ {
+  "name": "Harisundari",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Harshanatha",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Harshapala",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Harshapati",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hemamitra",
+  "verdict": "reject",
+  "reason": "Friend of gold materialistic"
+ },
+ {
+  "name": "Hemanandana",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hemanandini",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hemapala",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hemapriya",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hemashekhara",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Herambakumara",
+  "verdict": "fix",
+  "reason": "Gloss \"Prince\" off",
+  "fix": {
+   "meaning_en": "Young son of Heramba (Ganesha)."
+  }
+ },
+ {
+  "name": "Himanandana",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Himanandini",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hiranyamitra",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hiranyanatha",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hiranyapala",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hiranyapriya",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hiranyasundari",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Indradasa",
+  "verdict": "reject",
+  "reason": "Servant of Indra not a devotional norm"
+ },
+ {
+  "name": "Indranatha",
+  "verdict": "fix",
+  "reason": "Gloss illogical",
+  "fix": {
+   "meaning_en": "Lord Indra."
+  }
+ },
+ {
+  "name": "Indraputra",
+  "verdict": "reject",
+  "reason": "Associated with Vali, villain link"
+ },
+ {
+  "name": "Indupala",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Ishanakumara",
+  "verdict": "fix",
+  "reason": "Gloss \"Prince\" off",
+  "fix": {
+   "meaning_en": "Young son of Ishana (Shiva)."
+  }
+ },
+ {
+  "name": "Ishvaramitra",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Jagadishamitra",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Janardanamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Friend of Janardana is forced and unattested."
+ },
+ {
+  "name": "Jayamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Friend of victory is a forced pairing."
+ },
+ {
+  "name": "Jayapati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Master of victory is forced; pati reads as husband."
+ },
+ {
+  "name": "Jnanadevi",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Goddess of knowledge is a deity description, not a given name."
+ },
+ {
+  "name": "Jnanamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Friend of knowledge is forced."
+ },
+ {
+  "name": "Kaladevi",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Goddess of art; abstract devi compound not given."
+ },
+ {
+  "name": "Kalyanadevi",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Abstract goddess compound, not given."
+ },
+ {
+  "name": "Kanakadevi",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Goddess of gold; unnatural."
+ },
+ {
+  "name": "Kanhadasa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Prakrit Kanha fused with Sanskrit dasa; awkward."
+ },
+ {
+  "name": "Kanhadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Prakrit Kanha fused with Sanskrit dasi; awkward."
+ },
+ {
+  "name": "Kanhadatta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Mixed Prakrit/Sanskrit; unnatural."
+ },
+ {
+  "name": "Kanhanandana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Mixed Prakrit/Sanskrit; unnatural."
+ },
+ {
+  "name": "Karttikeyadasa",
+  "verdict": "reject",
+  "reason": "overlong_compound: Overlong; family would not give it."
+ },
+ {
+  "name": "Kashinathadasa",
+  "verdict": "reject",
+  "reason": "overlong_compound: Overlong; family would not give it."
+ },
+ {
+  "name": "Kirtidevi",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Goddess of fame; not a given name."
+ },
+ {
+  "name": "Kshemadevi",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Goddess of well-being; not a given name."
+ },
+ {
+  "name": "Kuberadasa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Servant of Kubera is unnatural."
+ },
+ {
+  "name": "Kuberakumara",
+  "verdict": "fix",
+  "reason": "Meaning clumsy.",
+  "fix": {
+   "meaning_en": "Prince of Kubera, young son of Kubera."
+  }
+ },
+ {
+  "name": "Kuberamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Friend of Kubera is forced."
+ },
+ {
+  "name": "Lambodaradasa",
+  "verdict": "reject",
+  "reason": "overlong_compound: Overlong; not given."
+ },
+ {
+  "name": "Lambodaradatta",
+  "verdict": "reject",
+  "reason": "overlong_compound: Overlong; not given."
+ },
+ {
+  "name": "Liladevi",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Goddess of play; not a given name."
+ },
+ {
+  "name": "Madhunandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Delight of honey is weak and forced."
+ },
+ {
+  "name": "Mahadama",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Great self-control; dama stacked on maha is not a name."
+ },
+ {
+  "name": "Mahadevamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Friend of Mahadeva is forced."
+ },
+ {
+  "name": "Mahadevaputra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Reads as epithet of Ganesha/Kartikeya, not a given name."
+ },
+ {
+  "name": "Mahaganapati",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Maha stacked on deity name; redundant."
+ },
+ {
+  "name": "Mahagirisha",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Maha stacked on Shiva epithet; redundant."
+ },
+ {
+  "name": "Mahakalyana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Maha plus abstract noun; redundant."
+ },
+ {
+  "name": "Mahamangala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Maha plus abstract noun; redundant."
+ },
+ {
+  "name": "Mahanarayana",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Maha stacked on deity name."
+ },
+ {
+  "name": "Maharavi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Redundant maha stacked on sun name."
+ },
+ {
+  "name": "Maharnava",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Great ocean; not a name."
+ },
+ {
+  "name": "Mahashiva",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Maha stacked on deity name."
+ },
+ {
+  "name": "Mahasurya",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Maha stacked on deity name."
+ },
+ {
+  "name": "Mahasuvrata",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Redundant maha plus suvrata."
+ },
+ {
+  "name": "Mahavenkata",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Maha stacked on deity name."
+ },
+ {
+  "name": "Mahavijaya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Redundant maha plus vijaya."
+ },
+ {
+  "name": "Mahavishnu",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Maha stacked on deity name."
+ },
+ {
+  "name": "Mahayasha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Forced; yasha not natural here."
+ },
+ {
+  "name": "Mahendradasa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Servant of Indra king; unnatural."
+ },
+ {
+  "name": "Mahendramitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Friend of Mahendra is forced."
+ },
+ {
+  "name": "Maheshadasa",
+  "verdict": "reject",
+  "reason": "duplicate_variant: Duplicates Maheshvaradasa; vague."
+ },
+ {
+  "name": "Maheshana",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Maha stacked on Ishana; redundant."
+ },
+ {
+  "name": "Mahopendra",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Maha stacked on Upendra; redundant."
+ },
+ {
+  "name": "Mangaladevi",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Goddess of auspiciousness; not a given name."
+ },
+ {
+  "name": "Manidevi",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Goddess of the jewel; not a given name."
+ },
+ {
+  "name": "Manikanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Manika is not a clean stem; forced."
+ },
+ {
+  "name": "Manmathanatha",
+  "verdict": "reject",
+  "reason": "negative_meaning: Lord of Manmatha (Kama); inauspicious association."
+ }
+]

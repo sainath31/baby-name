@@ -1,0 +1,733 @@
+[
+ {
+  "name": "Ganeshakumara",
+  "verdict": "fix",
+  "reason": "Real in the South but gloss \"Prince\" is off",
+  "fix": {
+   "meaning_en": "Young son of Ganesha."
+  }
+ },
+ {
+  "name": "Ganeshamitra",
+  "verdict": "keep",
+  "reason": "Natural devotional compound"
+ },
+ {
+  "name": "Gangadharadasa",
+  "verdict": "keep",
+  "reason": "Established Shaiva/Vaishnava-style dasa name"
+ },
+ {
+  "name": "Gangakumara",
+  "verdict": "reject",
+  "reason": "Ganga as a mother with kumara is unnatural"
+ },
+ {
+  "name": "Gangamayi",
+  "verdict": "keep",
+  "reason": "Natural feminine -mayi"
+ },
+ {
+  "name": "Gangamitra",
+  "verdict": "reject",
+  "reason": "Friend of a river is forced"
+ },
+ {
+  "name": "Ganganandini",
+  "verdict": "keep",
+  "reason": "Natural feminine"
+ },
+ {
+  "name": "Gangapala",
+  "verdict": "reject",
+  "reason": "Protector of a river is forced"
+ },
+ {
+  "name": "Gangavardhana",
+  "verdict": "reject",
+  "reason": "Increaser of a river is unnatural"
+ },
+ {
+  "name": "Gaurangakumara",
+  "verdict": "reject",
+  "reason": "Sectarian epithet plus kumara, forced and long"
+ },
+ {
+  "name": "Gauridasa",
+  "verdict": "keep",
+  "reason": "Attested devotional dasa name"
+ },
+ {
+  "name": "Gauridatta",
+  "verdict": "keep",
+  "reason": "Natural datta name"
+ },
+ {
+  "name": "Gaurimitra",
+  "verdict": "reject",
+  "reason": "Friend of Gauri is forced"
+ },
+ {
+  "name": "Gaurinandana",
+  "verdict": "fix",
+  "reason": "Standard epithet meaning is son",
+  "fix": {
+   "meaning_en": "Son of Gauri (Parvati)."
+  }
+ },
+ {
+  "name": "Gauripriya",
+  "verdict": "keep",
+  "reason": "Acceptable epithet-like name"
+ },
+ {
+  "name": "Gauriputra",
+  "verdict": "keep",
+  "reason": "Known epithet of Ganesha and Kartikeya"
+ },
+ {
+  "name": "Gaurisundari",
+  "verdict": "reject",
+  "reason": "Redundant, Gauri already beautiful goddess"
+ },
+ {
+  "name": "Girimitra",
+  "verdict": "reject",
+  "reason": "Friend of a mountain is forced"
+ },
+ {
+  "name": "Girinandana",
+  "verdict": "reject",
+  "reason": "Mountain's delight reads as Mainaka, unnatural"
+ },
+ {
+  "name": "Girinandini",
+  "verdict": "keep",
+  "reason": "Epithet of Parvati, fine for girl"
+ },
+ {
+  "name": "Girinatha",
+  "verdict": "keep",
+  "reason": "Established name"
+ },
+ {
+  "name": "Giripala",
+  "verdict": "reject",
+  "reason": "Protector of mountain forced"
+ },
+ {
+  "name": "Giripriya",
+  "verdict": "reject",
+  "reason": "Dear to the mountain forced"
+ },
+ {
+  "name": "Girishadasa",
+  "verdict": "keep",
+  "reason": "Natural Shaiva dasa name"
+ },
+ {
+  "name": "Girishadasi",
+  "verdict": "reject",
+  "reason": "Long and unnatural for a girl"
+ },
+ {
+  "name": "Girishadatta",
+  "verdict": "keep",
+  "reason": "Natural datta name"
+ },
+ {
+  "name": "Girishakumara",
+  "verdict": "keep",
+  "reason": "Plausible"
+ },
+ {
+  "name": "Girishanandana",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Girishanandini",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Girishapriya",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Girishasundari",
+  "verdict": "reject",
+  "reason": "Forced for a girl"
+ },
+ {
+  "name": "Girishekhara",
+  "verdict": "fix",
+  "reason": "Gloss wrong",
+  "fix": {
+   "meaning_en": "Crest or summit of the mountain."
+  }
+ },
+ {
+  "name": "Gopaladatta",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Gopalakumara",
+  "verdict": "fix",
+  "reason": "Gloss \"Prince\" off",
+  "fix": {
+   "meaning_en": "Young son of Gopala (Krishna)."
+  }
+ },
+ {
+  "name": "Gopalamitra",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Gopalanatha",
+  "verdict": "reject",
+  "reason": "Redundant, Gopala already Krishna"
+ },
+ {
+  "name": "Gopinathadasa",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Gopinathadatta",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Gopinathamitra",
+  "verdict": "keep",
+  "reason": "Attested Bengali name"
+ },
+ {
+  "name": "Govindadasa",
+  "verdict": "keep",
+  "reason": "Attested"
+ },
+ {
+  "name": "Govindakumara",
+  "verdict": "fix",
+  "reason": "Gloss \"Prince\" off",
+  "fix": {
+   "meaning_en": "Young son of Govinda (Krishna)."
+  }
+ },
+ {
+  "name": "Govindamitra",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Guhadasa",
+  "verdict": "keep",
+  "reason": "Acceptable devotional name"
+ },
+ {
+  "name": "Guhadatta",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Guhakumara",
+  "verdict": "reject",
+  "reason": "Redundant, Guha is Kumara"
+ },
+ {
+  "name": "Guhamitra",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Guhanandana",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Guhanatha",
+  "verdict": "reject",
+  "reason": "Redundant lord of Guha"
+ },
+ {
+  "name": "Guhapriya",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Guhaputra",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Gunamayi",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Gunamitra",
+  "verdict": "reject",
+  "reason": "Friend of virtue forced"
+ },
+ {
+  "name": "Gunanatha",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Gunapala",
+  "verdict": "reject",
+  "reason": "Protector of virtue forced"
+ },
+ {
+  "name": "Gunapriya",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Gunaraja",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Gunavardhana",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Gunavati",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Gurudatta",
+  "verdict": "keep",
+  "reason": "Attested"
+ },
+ {
+  "name": "Gurudhara",
+  "verdict": "reject",
+  "reason": "Bearer of the teacher unnatural"
+ },
+ {
+  "name": "Gurukumara",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Gurumayi",
+  "verdict": "keep",
+  "reason": "Attested"
+ },
+ {
+  "name": "Gurumitra",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Gurunandana",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Gurupala",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Gurupriya",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Guruputra",
+  "verdict": "reject",
+  "reason": "Reads as a teacher's son, not a given name"
+ },
+ {
+  "name": "Guruvardhana",
+  "verdict": "reject",
+  "reason": "Increaser of the teacher nonsense"
+ },
+ {
+  "name": "Halayudhadasa",
+  "verdict": "reject",
+  "reason": "Obscure and overlong"
+ },
+ {
+  "name": "Harakumara",
+  "verdict": "keep",
+  "reason": "Plausible"
+ },
+ {
+  "name": "Haramitra",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Haranandana",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Haranatha",
+  "verdict": "fix",
+  "reason": "Gloss illogical",
+  "fix": {
+   "meaning_en": "Lord Hara (Shiva)."
+  }
+ },
+ {
+  "name": "Harapriya",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Haraputra",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Haridasi",
+  "verdict": "keep",
+  "reason": "Attested Vaishnava name"
+ },
+ {
+  "name": "Harikumara",
+  "verdict": "keep",
+  "reason": "Attested"
+ },
+ {
+  "name": "Harinandini",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Haripriya",
+  "verdict": "fix",
+  "reason": "Feminine form needs long a",
+  "fix": {
+   "devanagari": "हरिप्रिया",
+   "iast": "haripriyā"
+  }
+ },
+ {
+  "name": "Hariputra",
+  "verdict": "reject",
+  "reason": "Unnatural"
+ },
+ {
+  "name": "Harisundari",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Harshabhushana",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Harshadhara",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Harshanatha",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Harshapala",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Harshapati",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Harshavati",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Hayagrivadasa",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Hayagrivadatta",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Hemamayi",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Hemamitra",
+  "verdict": "reject",
+  "reason": "Friend of gold materialistic"
+ },
+ {
+  "name": "Hemanandana",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hemanandini",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hemapala",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hemapriya",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hemashekhara",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hemavati",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Herambadasa",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Herambakumara",
+  "verdict": "fix",
+  "reason": "Gloss \"Prince\" off",
+  "fix": {
+   "meaning_en": "Young son of Heramba (Ganesha)."
+  }
+ },
+ {
+  "name": "Himanandana",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Himanandini",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Himanatha",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Himashekhara",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Hiranyamayi",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Hiranyamitra",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hiranyanatha",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hiranyapala",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hiranyapriya",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Hiranyasundari",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Indradasa",
+  "verdict": "reject",
+  "reason": "Servant of Indra not a devotional norm"
+ },
+ {
+  "name": "Indrakumara",
+  "verdict": "keep",
+  "reason": "Plausible"
+ },
+ {
+  "name": "Indramitra",
+  "verdict": "keep",
+  "reason": "Attested"
+ },
+ {
+  "name": "Indranandana",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Indranatha",
+  "verdict": "fix",
+  "reason": "Gloss illogical",
+  "fix": {
+   "meaning_en": "Lord Indra."
+  }
+ },
+ {
+  "name": "Indrapriya",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Indraputra",
+  "verdict": "reject",
+  "reason": "Associated with Vali, villain link"
+ },
+ {
+  "name": "Indumayi",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Indunandana",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Indunandini",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Indunatha",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Indupala",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Indupriya",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Induvati",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Ishanadasa",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Ishanadatta",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Ishanakumara",
+  "verdict": "fix",
+  "reason": "Gloss \"Prince\" off",
+  "fix": {
+   "meaning_en": "Young son of Ishana (Shiva)."
+  }
+ },
+ {
+  "name": "Ishanamitra",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Ishvaradasa",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Ishvarakumara",
+  "verdict": "keep",
+  "reason": "Plausible"
+ },
+ {
+  "name": "Ishvaramitra",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Ishvaranandana",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Ishvarapriya",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Ishvaraputra",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Jagadishadasa",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Jagadishadatta",
+  "verdict": "keep",
+  "reason": "Natural"
+ },
+ {
+  "name": "Jagadishamitra",
+  "verdict": "reject",
+  "reason": "Forced"
+ },
+ {
+  "name": "Jagannathadasa",
+  "verdict": "keep",
+  "reason": "Attested"
+ },
+ {
+  "name": "Jaitranatha",
+  "verdict": "keep",
+  "reason": "Acceptable"
+ },
+ {
+  "name": "Janardanadasa",
+  "verdict": "keep",
+  "reason": "Attested"
+ },
+ {
+  "name": "Janardanadatta",
+  "verdict": "keep",
+  "reason": "Natural"
+ }
+]

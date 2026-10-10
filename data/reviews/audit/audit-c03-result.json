@@ -1,0 +1,705 @@
+[
+ {
+  "name": "Bhavanikumara",
+  "verdict": "keep",
+  "reason": "natural Shaiva name"
+ },
+ {
+  "name": "Bhavaninandini",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Bhavaninatha",
+  "verdict": "keep",
+  "reason": "attested Shiva epithet"
+ },
+ {
+  "name": "Bhavaniputra",
+  "verdict": "keep",
+  "reason": "acceptable"
+ },
+ {
+  "name": "Bholanathadasa",
+  "verdict": "keep",
+  "reason": "devotional dasa name"
+ },
+ {
+  "name": "Bhrigudatta",
+  "verdict": "keep",
+  "reason": "natural"
+ },
+ {
+  "name": "Bhrigukumara",
+  "verdict": "keep",
+  "reason": "natural"
+ },
+ {
+  "name": "Bhrigunandana",
+  "verdict": "keep",
+  "reason": "natural"
+ },
+ {
+  "name": "Bhriguputra",
+  "verdict": "reject",
+  "reason": "reads as an epithet, not a given name"
+ },
+ {
+  "name": "Bhudevi",
+  "verdict": "keep",
+  "reason": "attested"
+ },
+ {
+  "name": "Bhumidevi",
+  "verdict": "keep",
+  "reason": "attested"
+ },
+ {
+  "name": "Bhuminandana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Bhuminandini",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Bhuminatha",
+  "verdict": "keep",
+  "reason": "king; fine"
+ },
+ {
+  "name": "Bhumivati",
+  "verdict": "reject",
+  "reason": "forced pairing"
+ },
+ {
+  "name": "Bhutibhushana",
+  "verdict": "keep",
+  "reason": "Shiva-like ash adornment"
+ },
+ {
+  "name": "Bhutidevi",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Bhutinatha",
+  "verdict": "reject",
+  "reason": "reads as bhutanatha, lord of spirits"
+ },
+ {
+  "name": "Bhutivardhana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Bhuvanadevi",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Bhuvananandana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Bhuvananandini",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Bhuvananatha",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Bhuvanapala",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Bhuvanapriya",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Bhuvanasundari",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Bhuvanavati",
+  "verdict": "reject",
+  "reason": "forced pairing"
+ },
+ {
+  "name": "Bodhinatha",
+  "verdict": "reject",
+  "reason": "Buddhist-leaning"
+ },
+ {
+  "name": "Bodhipriya",
+  "verdict": "reject",
+  "reason": "Buddhist-leaning"
+ },
+ {
+  "name": "Brahmakumara",
+  "verdict": "reject",
+  "reason": "evokes Brahma Kumaris sect"
+ },
+ {
+  "name": "Brahmamayi",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Brahmanandana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Brahmanandini",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Brahmanatha",
+  "verdict": "keep",
+  "reason": "attested"
+ },
+ {
+  "name": "Brahmapriya",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Brahmavardhana",
+  "verdict": "reject",
+  "reason": "increaser of Brahman is nonsensical"
+ },
+ {
+  "name": "Buddhidevi",
+  "verdict": "keep",
+  "reason": "Buddhi as goddess; acceptable"
+ },
+ {
+  "name": "Buddhimitra",
+  "verdict": "reject",
+  "reason": "unnatural, Buddha-like"
+ },
+ {
+  "name": "Buddhinatha",
+  "verdict": "reject",
+  "reason": "reads as Buddha-natha"
+ },
+ {
+  "name": "Buddhipati",
+  "verdict": "reject",
+  "reason": "unnatural"
+ },
+ {
+  "name": "Buddhiraja",
+  "verdict": "reject",
+  "reason": "unnatural, Buddha-like"
+ },
+ {
+  "name": "Buddhivardhana",
+  "verdict": "keep",
+  "reason": "acceptable"
+ },
+ {
+  "name": "Buddhivati",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Budhadatta",
+  "verdict": "reject",
+  "reason": "reads as Buddha; planet-given odd"
+ },
+ {
+  "name": "Budhanandana",
+  "verdict": "reject",
+  "reason": "reads as Buddha"
+ },
+ {
+  "name": "Chaitanyamayi",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Chakranatha",
+  "verdict": "reject",
+  "reason": "lord of discus unnatural"
+ },
+ {
+  "name": "Chakrapanidasa",
+  "verdict": "keep",
+  "reason": "devotional"
+ },
+ {
+  "name": "Chandanamayi",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Chandanavati",
+  "verdict": "reject",
+  "reason": "forced"
+ },
+ {
+  "name": "Chandradevi",
+  "verdict": "reject",
+  "reason": "Chandra is masculine"
+ },
+ {
+  "name": "Chandramitra",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Chandranandana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Chandranandini",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Chandranatha",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Chandrasundari",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Chandravati",
+  "verdict": "keep",
+  "reason": "attested"
+ },
+ {
+  "name": "Damabhushana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Damadhara",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Damaketu",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Damapati",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Damapriya",
+  "verdict": "reject",
+  "reason": "weak, dama reads oddly"
+ },
+ {
+  "name": "Damavardhana",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Damodaradasa",
+  "verdict": "keep",
+  "reason": "devotional"
+ },
+ {
+  "name": "Danabhushana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Danadhara",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Danapriya",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Danavardhana",
+  "verdict": "reject",
+  "reason": "reads as danava"
+ },
+ {
+  "name": "Dattatreyadasa",
+  "verdict": "keep",
+  "reason": "devotional"
+ },
+ {
+  "name": "Dayabhushana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dayadhara",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dayaketu",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Dayanatha",
+  "verdict": "keep",
+  "reason": "attested"
+ },
+ {
+  "name": "Dayapala",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dayavardhana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Devakumara",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Devanandana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Devanandini",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Devanatha",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Devasundari",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Devendradasa",
+  "verdict": "keep",
+  "reason": "devotional"
+ },
+ {
+  "name": "Devendradatta",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Devendrakumara",
+  "verdict": "fix",
+  "reason": "meaning garbled",
+  "fix": {
+   "meaning_en": "Young prince of Devendra (Indra), lord of the gods."
+  }
+ },
+ {
+  "name": "Devendramitra",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Devendranatha",
+  "verdict": "reject",
+  "reason": "redundant, devendra already lord of gods"
+ },
+ {
+  "name": "Devendraputra",
+  "verdict": "keep",
+  "reason": "Arjuna epithet; acceptable"
+ },
+ {
+  "name": "Devinandini",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Devisundari",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dharanidevi",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dharaninandini",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dharmabhushana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dharmadhara",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dharmamayi",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dharmapala",
+  "verdict": "reject",
+  "reason": "Buddhist association"
+ },
+ {
+  "name": "Dharmapati",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dharmavati",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dhidhara",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dhipati",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dhivardhana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dhritidevi",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dhritivardhana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dhruvadatta",
+  "verdict": "reject",
+  "reason": "forced meaning"
+ },
+ {
+  "name": "Dhruvamitra",
+  "verdict": "reject",
+  "reason": "forced meaning"
+ },
+ {
+  "name": "Dipamayi",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dipanandini",
+  "verdict": "reject",
+  "reason": "unnatural"
+ },
+ {
+  "name": "Dipavati",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Divyabala",
+  "verdict": "reject",
+  "reason": "bala reads feminine/weak"
+ },
+ {
+  "name": "Divyabuddhi",
+  "verdict": "reject",
+  "reason": "duplicate of Divyamati; feminine noun"
+ },
+ {
+  "name": "Divyadama",
+  "verdict": "reject",
+  "reason": "weak"
+ },
+ {
+  "name": "Divyajaya",
+  "verdict": "reject",
+  "reason": "duplicate of Divyavijaya"
+ },
+ {
+  "name": "Divyajnana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Divyakirti",
+  "verdict": "keep",
+  "reason": "acceptable"
+ },
+ {
+  "name": "Divyamangala",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Divyamati",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Divyaprema",
+  "verdict": "keep",
+  "reason": "acceptable"
+ },
+ {
+  "name": "Divyapunya",
+  "verdict": "reject",
+  "reason": "unnatural"
+ },
+ {
+  "name": "Divyasamvit",
+  "verdict": "reject",
+  "reason": "technical, unnatural"
+ },
+ {
+  "name": "Divyasatya",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Divyasuvrata",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Divyavijaya",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Divyavira",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Divyavirya",
+  "verdict": "reject",
+  "reason": "unnatural for a boy"
+ },
+ {
+  "name": "Divyayashas",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dyutimitra",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dyutinatha",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dyutipala",
+  "verdict": "reject",
+  "reason": "weak pairing"
+ },
+ {
+  "name": "Dyutipati",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dyutiraja",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dyutivardhana",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Dyutivati",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Gaganamitra",
+  "verdict": "reject",
+  "reason": "unnatural"
+ },
+ {
+  "name": "Gagananandana",
+  "verdict": "reject",
+  "reason": "unnatural"
+ },
+ {
+  "name": "Gagananatha",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Gaganashekhara",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Gajananadasa",
+  "verdict": "keep",
+  "reason": "devotional"
+ },
+ {
+  "name": "Gajananamitra",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Ganapatidasa",
+  "verdict": "keep",
+  "reason": "devotional"
+ },
+ {
+  "name": "Ganapatimitra",
+  "verdict": "keep",
+  "reason": "fine"
+ },
+ {
+  "name": "Ganeshadasa",
+  "verdict": "keep",
+  "reason": "devotional"
+ },
+ {
+  "name": "Ganeshadatta",
+  "verdict": "keep",
+  "reason": "fine"
+ }
+]
