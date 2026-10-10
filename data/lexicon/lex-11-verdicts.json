@@ -1,0 +1,1502 @@
+[
+ {
+  "iast": "viṣṇuvardhana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "abhaya",
+  "use": true,
+  "type": "virtue",
+  "gloss": "fearlessness"
+ },
+ {
+  "iast": "abhiṣeka",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ajita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ākāśa",
+  "use": true,
+  "type": "nature",
+  "gloss": "the sky"
+ },
+ {
+  "iast": "amara",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ānanda",
+  "use": true,
+  "type": "virtue",
+  "gloss": "bliss"
+ },
+ {
+  "iast": "aśvin",
+  "use": true,
+  "type": "deity",
+  "gloss": "the Ashvins"
+ },
+ {
+  "iast": "dakṣa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dīpaka",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "jayanta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nikhila",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "praṇava",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Om"
+ },
+ {
+  "iast": "rohaṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sañjaya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "tejas",
+  "use": true,
+  "type": "virtue",
+  "gloss": "radiance"
+ },
+ {
+  "iast": "udaya",
+  "use": true,
+  "type": "nature",
+  "gloss": "the dawn"
+ },
+ {
+  "iast": "vikrama",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "yaśa",
+  "use": true,
+  "type": "virtue",
+  "gloss": "glory"
+ },
+ {
+  "iast": "yudhiṣṭhira",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "abhijit",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "advaita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "agastya",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Agastya"
+ },
+ {
+  "iast": "amita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "anuja",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "arṇava",
+  "use": true,
+  "type": "nature",
+  "gloss": "the ocean"
+ },
+ {
+  "iast": "aśoka",
+  "use": true,
+  "type": "nature",
+  "gloss": "the Ashoka tree"
+ },
+ {
+  "iast": "atharva",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bālājī",
+  "use": true,
+  "type": "deity",
+  "gloss": "Balaji"
+ },
+ {
+  "iast": "caitanya",
+  "use": true,
+  "type": "virtue",
+  "gloss": "consciousness"
+ },
+ {
+  "iast": "candana",
+  "use": true,
+  "type": "nature",
+  "gloss": "sandalwood"
+ },
+ {
+  "iast": "gautama",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Gautama"
+ },
+ {
+  "iast": "hanumān",
+  "use": true,
+  "type": "deity",
+  "gloss": "Hanuman"
+ },
+ {
+  "iast": "hemanta",
+  "use": true,
+  "type": "nature",
+  "gloss": "winter"
+ },
+ {
+  "iast": "jaṭin",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kuṇāla",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "lalita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "manoja",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nakula",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nandana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "oṃ",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Om"
+ },
+ {
+  "iast": "pārtha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "rāhula",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sahadeva",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "siddhārtha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "taruṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "triloka",
+  "use": true,
+  "type": "nature",
+  "gloss": "the three worlds"
+ },
+ {
+  "iast": "ujjvala",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vaṃśī",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vedānta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vijaya",
+  "use": true,
+  "type": "virtue",
+  "gloss": "victory"
+ },
+ {
+  "iast": "vinaya",
+  "use": true,
+  "type": "virtue",
+  "gloss": "humility"
+ },
+ {
+  "iast": "viveka",
+  "use": true,
+  "type": "virtue",
+  "gloss": "discernment"
+ },
+ {
+  "iast": "vyāsa",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Vyasa"
+ },
+ {
+  "iast": "abhinava",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ādarśa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "akṣaya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "āloka",
+  "use": true,
+  "type": "nature",
+  "gloss": "light"
+ },
+ {
+  "iast": "aṅgada",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "apūrva",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "avināśa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhagīratha",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Bhagiratha"
+ },
+ {
+  "iast": "bhūṣaṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "cinmaya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "gaurava",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "guñjana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "jayadīpa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kiśora",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "muralī",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nitin",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "oṃkāra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "prakāśa",
+  "use": true,
+  "type": "nature",
+  "gloss": "light"
+ },
+ {
+  "iast": "pramoda",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "pratāpa",
+  "use": true,
+  "type": "virtue",
+  "gloss": "valour"
+ },
+ {
+  "iast": "rājendra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "rañjita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sandīpa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "satyajit",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śreyas",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sumita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "tanmaya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "tuṣāra",
+  "use": true,
+  "type": "nature",
+  "gloss": "snow"
+ },
+ {
+  "iast": "vaibhava",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "abhimanyu",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "acala",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "adhirāja",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "akṣa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "amṛta",
+  "use": true,
+  "type": "other",
+  "gloss": "nectar"
+ },
+ {
+  "iast": "anurāga",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "atula",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "badarī",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bharadvāja",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Bharadvaja"
+ },
+ {
+  "iast": "bhavya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "caraṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "cetana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "darśana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dhairya",
+  "use": true,
+  "type": "virtue",
+  "gloss": "courage"
+ },
+ {
+  "iast": "digvijaya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ekāṃśa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "jīvana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kauśika",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kiraṇa",
+  "use": true,
+  "type": "nature",
+  "gloss": "a ray of light"
+ },
+ {
+  "iast": "kṣitija",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "lakṣya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "mahāvīra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "manohara",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nirmala",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "pīyūṣa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "pratīka",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "puruṣottama",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ramaṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sacīna",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "samara",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sudhīra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sunīla",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "svapnila",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "uttama",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vinoda",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "viśvāsa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "yatin",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "abhīra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "amūlya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "aṃśula",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "aravinda",
+  "use": true,
+  "type": "nature",
+  "gloss": "the lotus"
+ },
+ {
+  "iast": "āśīṣ",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ātmārāma",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "bhārgava",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dayānanda",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "gurudeva",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "hemarāja",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "yaśasvant",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kanhaiyā",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nīrava",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nṛpendra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "praṇaya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sāraṅga",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śantanu",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Shantanu"
+ },
+ {
+  "iast": "śarad",
+  "use": true,
+  "type": "nature",
+  "gloss": "autumn"
+ },
+ {
+  "iast": "tribhuvana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "udayana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vidyut",
+  "use": true,
+  "type": "nature",
+  "gloss": "lightning"
+ },
+ {
+  "iast": "virāja",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "yajata",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śrīmān",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "viśvakarmā",
+  "use": true,
+  "type": "deity",
+  "gloss": "Vishvakarma"
+ },
+ {
+  "iast": "hiraṇyagarbha",
+  "use": true,
+  "type": "deity",
+  "gloss": "Hiranyagarbha"
+ },
+ {
+  "iast": "madhusūdana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dhanvī",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "medhāvī",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "puṇḍarīkākṣa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "arava",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "reyāṃśa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vivān",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śaurya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "raṇavīra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "samartha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sārthaka",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "siddhānta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "madhura",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "manana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "mohita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nirvāṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "niśānta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "pratyūṣa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ṛṣabha",
+  "use": true,
+  "type": "sacred",
+  "gloss": "Rishabha"
+ },
+ {
+  "iast": "ṛṣi",
+  "use": true,
+  "type": "sacred",
+  "gloss": "the sage"
+ },
+ {
+  "iast": "rohita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sakṣama",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "samarpaṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "saṅketa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śloka",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śreyāṃśa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "tanaya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "utkarṣa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vedāṃśa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "yaśovardhana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "āyuṣ",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "akṣata",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ameya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "darpaṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dhanus",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "harṣita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "hemāṅga",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kaivalya",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "namana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "parīkṣit",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sāttvika",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "śubham",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "anirvāṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "devāśiṣ",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "saurabha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "gajānanda",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "candraśekhara",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "pavanaputra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "devakīnandana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "yaśodānandana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "raghunandana",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kodaṇḍarāma",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kumārasvāmin",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "basavaṇṇa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "tulasīdāsa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sudāmā",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "aṃśa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "cirāyu",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "divyāṃśa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kaniṣka",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "keyūra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kuśala",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ojas",
+  "use": true,
+  "type": "virtue",
+  "gloss": "vigour"
+ },
+ {
+  "iast": "paṅkaja",
+  "use": true,
+  "type": "nature",
+  "gloss": "the lotus"
+ },
+ {
+  "iast": "parāga",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "praṇīta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "priyatama",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "punīta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "pulakita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "rakṣita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ṛtvik",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "rudrākṣa",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sahaja",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "samyak",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "sarvajña",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "svarāj",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "tapas",
+  "use": true,
+  "type": "virtue",
+  "gloss": "austerity"
+ },
+ {
+  "iast": "vihaṅga",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "vipula",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "viśruta",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "yathārtha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "yuvan",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "āgama",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "dhrumila",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "hārdika",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "mṛṇāla",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nirmita",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "samīraṇa",
+  "use": true,
+  "type": "nature",
+  "gloss": "the wind"
+ },
+ {
+  "iast": "tīrtha",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "murukaṉ",
+  "use": true,
+  "type": "deity",
+  "gloss": "Murugan"
+ },
+ {
+  "iast": "selvam",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "aṟumukam",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "veṟṟi",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "kumaraṉ",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "aṉpu",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "pukaḻ",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "katir",
+  "use": true,
+  "type": "nature",
+  "gloss": "a ray of light"
+ },
+ {
+  "iast": "basavarāja",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "nāgarāja",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "ayyappaṉ",
+  "use": true,
+  "type": "deity",
+  "gloss": "Ayyappa"
+ },
+ {
+  "iast": "kaṇṇaṉ",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "subrata",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "viśvajit",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ },
+ {
+  "iast": "abīra",
+  "use": false,
+  "type": "other",
+  "gloss": ""
+ }
+]
