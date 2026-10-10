@@ -1,0 +1,131 @@
+[
+ {
+  "name": "Angirasa",
+  "verdict": "keep",
+  "reason": "Descendant or follower of the Vedic sage Angiras; meaning acceptable."
+ },
+ {
+  "name": "Ashtavakra",
+  "verdict": "reject",
+  "reason": "negative_meaning: Means \"eight-bent\", a reference to bodily deformity; families rarely choose it."
+ },
+ {
+  "name": "Charudeshna",
+  "verdict": "reject",
+  "reason": "obscure_figure: Minor son of Krishna; not used as a given name."
+ },
+ {
+  "name": "Gritsamada",
+  "verdict": "reject",
+  "reason": "obscure_figure: Little-known Rigvedic seer; hard to pronounce and not a common given name."
+ },
+ {
+  "name": "Kratu",
+  "verdict": "fix",
+  "reason": "Meaning made more precise.",
+  "fix": {
+   "meaning_en": "Resolve, power, sacrificial intent; one of the seven sages."
+  }
+ },
+ {
+  "name": "Madhuchchhanda",
+  "verdict": "reject",
+  "reason": "obscure_figure: Minor Rigvedic seer; also Devanagari has a stray long ā not matching iast."
+ },
+ {
+  "name": "Medhatithi",
+  "verdict": "fix",
+  "reason": "Meaning made cautious; traditional analysis uncertain.",
+  "fix": {
+   "meaning_en": "Rigvedic seer of the Kanva family; name often read as \"one whose guest is wisdom\" (etymology uncertain)."
+  }
+ },
+ {
+  "name": "Pippalada",
+  "verdict": "fix",
+  "reason": "Pippala is the pipal (sacred fig) tree, not fig seeds.",
+  "fix": {
+   "meaning_en": "Name of the sage of the Prashna Upanishad; traditionally \"eater of pipal fruit\"."
+  }
+ },
+ {
+  "name": "Pulastya",
+  "verdict": "fix",
+  "reason": "Meaning was only a description; etymology uncertain.",
+  "fix": {
+   "meaning_en": "One of the seven great sages, father of Vishrava; etymology uncertain."
+  }
+ },
+ {
+  "name": "Samba",
+  "verdict": "fix",
+  "reason": "Meaning expanded; also a name of Shiva.",
+  "fix": {
+   "meaning_en": "\"With Amba (Parvati)\"; a name of Shiva, also a son of Krishna."
+  }
+ },
+ {
+  "name": "Shukracharya",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Teacher of the asuras with the title acharya; not a given name."
+ },
+ {
+  "name": "Shunahshepa",
+  "verdict": "reject",
+  "reason": "negative_meaning: Means \"dog's tail\"; also an obscure figure."
+ },
+ {
+  "name": "Sridama",
+  "verdict": "fix",
+  "reason": "Devanagari had stray long ā not matching iast; meaning refined.",
+  "fix": {
+   "devanagari": "श्रीदाम",
+   "iast": "śrīdāma",
+   "meaning_en": "Garland of Shri (fortune); a cowherd friend of Krishna in the Bhagavata Purana."
+  }
+ },
+ {
+  "name": "Subala",
+  "verdict": "keep",
+  "reason": "Strong; a cowherd friend of Krishna; meaning correct."
+ },
+ {
+  "name": "Uddalaka",
+  "verdict": "fix",
+  "reason": "Meaning was only a description; etymology uncertain.",
+  "fix": {
+   "meaning_en": "Uddalaka Aruni, the Upanishadic sage and teacher of Shvetaketu; etymology uncertain."
+  }
+ },
+ {
+  "name": "Upananda",
+  "verdict": "reject",
+  "reason": "obscure_figure: Obscure figure; the meaning \"elder brother of Nanda\" is not a meaning of the name."
+ },
+ {
+  "name": "Ushanas",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Vedic epithet of Shukra, the asura teacher; not used as a given name."
+ },
+ {
+  "name": "Vamadeva",
+  "verdict": "fix",
+  "reason": "Meaning refined; vāma means lovely or auspicious.",
+  "fix": {
+   "meaning_en": "Beautiful or auspicious god; a name of Shiva and a Rigvedic seer."
+  }
+ },
+ {
+  "name": "Varahamihira",
+  "verdict": "reject",
+  "reason": "author_or_scholar: Full name of a historical astronomer-author; not used as a given name."
+ },
+ {
+  "name": "Yajnavalkya",
+  "verdict": "fix",
+  "reason": "Meaning was only a description; etymology uncertain.",
+  "fix": {
+   "meaning_en": "The great sage of the Brihadaranyaka Upanishad; etymology uncertain."
+  }
+ }
+]
