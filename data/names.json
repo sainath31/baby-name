@@ -110697,5 +110697,351 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Dhruvil",
+    "iast": "dhruvil",
+    "stem": "dhruvila",
+    "devanagari": "ध्रुविल",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Steadfast; like the pole star.",
+    "components": [
+      {
+        "part": "dhruva",
+        "gloss": "fixed"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-103-maharashtra-bengal.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tejal",
+    "iast": "tejal",
+    "stem": "tejala",
+    "devanagari": "तेजल",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "Radiant; brilliant.",
+    "components": [
+      {
+        "part": "tejas",
+        "gloss": "radiance"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-103-maharashtra-bengal.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rutvi",
+    "iast": "ṛtvī",
+    "devanagari": "ऋत्वी",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Season; the order of truth.",
+    "components": [
+      {
+        "part": "ṛtu",
+        "gloss": "season"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-103-maharashtra-bengal.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nilotpal",
+    "iast": "nīlotpal",
+    "stem": "nīlotpala",
+    "devanagari": "नीलोत्पल",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Blue lotus.",
+    "components": [
+      {
+        "part": "nīla",
+        "gloss": "blue"
+      },
+      {
+        "part": "utpala",
+        "gloss": "lotus"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-103-maharashtra-bengal.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rudraneel",
+    "iast": "rudranīl",
+    "stem": "rudranīla",
+    "devanagari": "रुद्रनील",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Blue Rudra; Shiva's blue throat.",
+    "components": [
+      {
+        "part": "rudra",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "nīla",
+        "gloss": "blue"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-103-maharashtra-bengal.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Debarati",
+    "iast": "devaratī",
+    "devanagari": "देवरती",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "Devotion to the gods.",
+    "components": [
+      {
+        "part": "deva",
+        "gloss": "god"
+      },
+      {
+        "part": "rati",
+        "gloss": "delight"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-103-maharashtra-bengal.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mahasweta",
+    "iast": "mahāśvetā",
+    "devanagari": "महाश्वेता",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Greatly white; pure.",
+    "components": [
+      {
+        "part": "mahā",
+        "gloss": "great"
+      },
+      {
+        "part": "śvetā",
+        "gloss": "white"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Kadambari",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-103-maharashtra-bengal.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ritwika",
+    "iast": "ṛtvikā",
+    "devanagari": "ऋत्विका",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Priestess; belonging to the seasons.",
+    "components": [
+      {
+        "part": "ṛtvij",
+        "gloss": "priest"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-103-maharashtra-bengal.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Poulomi",
+    "iast": "paulomī",
+    "devanagari": "पौलोमी",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Daughter of Puloman; Shachi, Indra's consort.",
+    "components": [
+      {
+        "part": "puloman",
+        "gloss": "Puloman"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-103-maharashtra-bengal.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Debojyoti",
+    "iast": "devajyoti",
+    "devanagari": "देवज्योति",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "Divine light.",
+    "components": [
+      {
+        "part": "deva",
+        "gloss": "god"
+      },
+      {
+        "part": "jyoti",
+        "gloss": "light"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-103-maharashtra-bengal.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
