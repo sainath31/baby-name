@@ -1,0 +1,112 @@
+[
+ {
+  "name": "Anju",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "meaning_en": "Popular feminine name; etymology uncertain."
+  }
+ },
+ {
+  "name": "Aswathy",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "devanagari": "अश्वती",
+   "iast": "aśvatī",
+   "meaning_en": "The Ashwini/Ashwati star, first lunar mansion; Malayalam spelling."
+  }
+ },
+ {
+  "name": "Athira",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "devanagari": "अथिरा",
+   "iast": "athirā",
+   "meaning_en": "Malayalam girl's name linked to the Ardra (Tiruvathira) star; etymology uncertain."
+  }
+ },
+ {
+  "name": "Bhadradri",
+  "verdict": "reject",
+  "reason": "place_or_river"
+ },
+ {
+  "name": "Lipsa",
+  "verdict": "keep",
+  "reason": "Odia feminine name from Sanskrit lipsā, desire; acceptable."
+ },
+ {
+  "name": "Malleshwar",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "iast": "malleśvara",
+   "meaning_en": "Lord Shiva as Mallikarjuna; lord of the strong (malla)."
+  }
+ },
+ {
+  "name": "Manoranjan",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "iast": "manorañjan",
+   "meaning_en": "Delight of the mind; one who pleases the heart."
+  }
+ },
+ {
+  "name": "Maya",
+  "verdict": "keep",
+  "reason": "Common feminine name; meaning ok."
+ },
+ {
+  "name": "Nayanmoni",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "devanagari": "नयनमणि",
+   "iast": "nayanamaṇi",
+   "meaning_en": "Jewel of the eye; beloved one."
+  }
+ },
+ {
+  "name": "Rajanna",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "iast": "rājanna",
+   "meaning_en": "Telugu respectful form of Raja (king); also used for Shiva of Vemulawada."
+  }
+ },
+ {
+  "name": "Rimpi",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Rupjyoti",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "devanagari": "रूपज्योति",
+   "iast": "rūpajyoti",
+   "meaning_en": "Light of beauty."
+  }
+ },
+ {
+  "name": "Sethu",
+  "verdict": "keep",
+  "reason": "Bridge (setu); used as given name in Kerala, evoking Rama's bridge."
+ },
+ {
+  "name": "Srisailam",
+  "verdict": "fix",
+  "reason": "corrected",
+  "fix": {
+   "devanagari": "श्रीशैलम्",
+   "iast": "śrīśailam",
+   "meaning_en": "Sacred mountain of Shiva; given in honour of Mallikarjuna of Srisailam."
+  }
+ }
+]

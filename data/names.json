@@ -51843,5 +51843,549 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Rajanna",
+    "iast": "rājaṇṇa",
+    "devanagari": "राजन्ना",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Telugu respectful form of Raja; the Vemulawada Shiva.",
+    "components": [
+      {
+        "part": "rāja",
+        "gloss": "king"
+      },
+      {
+        "part": "aṇṇa",
+        "gloss": "elder"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Malleshwar",
+    "iast": "malleśvar",
+    "stem": "malleśvara",
+    "devanagari": "मल्लेश्वर",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Lord of Mallikarjuna; Shiva.",
+    "components": [
+      {
+        "part": "malla",
+        "gloss": "jasmine"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhadradri",
+    "iast": "bhadrādri",
+    "devanagari": "भद्राद्रि",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Auspicious hill; Rama of Bhadrachalam.",
+    "components": [
+      {
+        "part": "bhadra",
+        "gloss": "auspicious"
+      },
+      {
+        "part": "adri",
+        "gloss": "hill"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Srisailam",
+    "iast": "śrīśailam",
+    "devanagari": "श्रीशैलम",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Sacred mountain of Shiva.",
+    "components": [
+      {
+        "part": "śrī",
+        "gloss": "sacred"
+      },
+      {
+        "part": "śaila",
+        "gloss": "mountain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Balabhadra",
+    "iast": "balabhadra",
+    "devanagari": "बलभद्र",
+    "letter": "B",
+    "syllable_count": 4,
+    "meaning_en": "Strong and auspicious; Balarama.",
+    "components": [
+      {
+        "part": "bala",
+        "gloss": "strength"
+      },
+      {
+        "part": "bhadra",
+        "gloss": "auspicious"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Manoranjan",
+    "iast": "manoraṅjan",
+    "stem": "manoraṅjana",
+    "devanagari": "मनोरंजन",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Delight of the mind.",
+    "components": [
+      {
+        "part": "manas",
+        "gloss": "mind"
+      },
+      {
+        "part": "rañjana",
+        "gloss": "pleasing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Lipsa",
+    "iast": "lipsā",
+    "devanagari": "लिप्सा",
+    "letter": "L",
+    "syllable_count": 2,
+    "meaning_en": "Desire, longing (Odia).",
+    "components": [
+      {
+        "part": "lipsā",
+        "gloss": "desire"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rupjyoti",
+    "iast": "rūpajyoti",
+    "devanagari": "রূপজ্যোতি",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "Light of beauty.",
+    "components": [
+      {
+        "part": "rūpa",
+        "gloss": "beauty"
+      },
+      {
+        "part": "jyoti",
+        "gloss": "light"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Assam"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nayanmoni",
+    "iast": "nayanamaṇi",
+    "devanagari": "নয়নমণি",
+    "letter": "N",
+    "syllable_count": 5,
+    "meaning_en": "Jewel of the eye.",
+    "components": [
+      {
+        "part": "nayana",
+        "gloss": "eye"
+      },
+      {
+        "part": "maṇi",
+        "gloss": "jewel"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Assam"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rimpi",
+    "iast": "rimpi",
+    "devanagari": "रिम्पी",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Assamese pet name; etymology uncertain.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Assam"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sethu",
+    "iast": "setu",
+    "devanagari": "सेतु",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Bridge; Rameshwaram.",
+    "components": [
+      {
+        "part": "setu",
+        "gloss": "bridge"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Maya",
+    "iast": "māyā",
+    "devanagari": "माया",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Illusion; creative power.",
+    "components": [
+      {
+        "part": "māyā",
+        "gloss": "illusion"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anju",
+    "iast": "añjū",
+    "devanagari": "अञ्जू",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Heart's delight (Malayalam).",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Athira",
+    "iast": "ārdrā",
+    "devanagari": "अथिरा",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Name of the Ardra star in Malayalam.",
+    "components": [
+      {
+        "part": "ārdrā",
+        "gloss": "star name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhadra",
+    "iast": "bhadrā",
+    "devanagari": "भद्रा",
+    "letter": "B",
+    "syllable_count": 2,
+    "meaning_en": "Auspicious.",
+    "components": [
+      {
+        "part": "bhadra",
+        "gloss": "auspicious"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Aswathy",
+    "iast": "aśvatī",
+    "devanagari": "अശ്വതി",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Of horses; star Ashwini (Malayalam spelling).",
+    "components": [
+      {
+        "part": "aśvinī",
+        "gloss": "star name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-048-thin-states.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
