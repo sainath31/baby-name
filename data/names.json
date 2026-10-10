@@ -110592,5 +110592,110 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Vivasvan",
+    "iast": "vivasvat",
+    "devanagari": "विवस्वान्",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Shining forth; the sun god, father of Manu.",
+    "components": [
+      {
+        "part": "vi",
+        "gloss": "forth"
+      },
+      {
+        "part": "vas",
+        "gloss": "to shine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Rigveda",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-102-cosmic.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Khagendra",
+    "iast": "khagendra",
+    "devanagari": "खगेन्द्र",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Lord of birds; Garuda.",
+    "components": [
+      {
+        "part": "khaga",
+        "gloss": "bird"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-102-cosmic.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Laya",
+    "iast": "laya",
+    "devanagari": "लय",
+    "letter": "L",
+    "syllable_count": 2,
+    "meaning_en": "Rhythm; absorption; harmony.",
+    "components": [
+      {
+        "part": "laya",
+        "gloss": "rhythm"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-102-cosmic.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
