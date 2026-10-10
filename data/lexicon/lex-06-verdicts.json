@@ -1,0 +1,2588 @@
+[
+  {
+    "iast": "kṛṣṇamūrti",
+    "use": false,
+    "type": "deity",
+    "gloss": "Krishnamurti (embodiment of Krishna)"
+  },
+  {
+    "iast": "śrīrāma",
+    "use": true,
+    "type": "deity",
+    "gloss": "Shri Rama"
+  },
+  {
+    "iast": "īśāna",
+    "use": true,
+    "type": "deity",
+    "gloss": "Ishana (Shiva)"
+  },
+  {
+    "iast": "acyuta",
+    "use": true,
+    "type": "deity",
+    "gloss": "Achyuta (Vishnu)"
+  },
+  {
+    "iast": "aniruddha",
+    "use": false,
+    "type": "other",
+    "gloss": "Aniruddha"
+  },
+  {
+    "iast": "bhāskara",
+    "use": true,
+    "type": "deity",
+    "gloss": "Bhaskara (the Sun)"
+  },
+  {
+    "iast": "devendra",
+    "use": true,
+    "type": "deity",
+    "gloss": "Devendra (Indra)"
+  },
+  {
+    "iast": "gopāla",
+    "use": true,
+    "type": "deity",
+    "gloss": "Gopala (Krishna)"
+  },
+  {
+    "iast": "govinda",
+    "use": true,
+    "type": "deity",
+    "gloss": "Govinda (Krishna)"
+  },
+  {
+    "iast": "kailāsa",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Kailash"
+  },
+  {
+    "iast": "kārttika",
+    "use": false,
+    "type": "other",
+    "gloss": "Kartika"
+  },
+  {
+    "iast": "rājeśa",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of kings"
+  },
+  {
+    "iast": "śaṅkara",
+    "use": true,
+    "type": "deity",
+    "gloss": "Shankara (Shiva)"
+  },
+  {
+    "iast": "sureśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "the Lord of the gods"
+  },
+  {
+    "iast": "anila",
+    "use": true,
+    "type": "deity",
+    "gloss": "Anila (the wind god)"
+  },
+  {
+    "iast": "balarāma",
+    "use": true,
+    "type": "deity",
+    "gloss": "Balarama"
+  },
+  {
+    "iast": "bhaveśa",
+    "use": false,
+    "type": "deity",
+    "gloss": "the lord of existence"
+  },
+  {
+    "iast": "dhanañjaya",
+    "use": false,
+    "type": "other",
+    "gloss": "Dhananjaya (Arjuna)"
+  },
+  {
+    "iast": "dharmendra",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the lord of righteousness"
+  },
+  {
+    "iast": "dineśa",
+    "use": false,
+    "type": "nature",
+    "gloss": "the lord of the day (the Sun)"
+  },
+  {
+    "iast": "ekanātha",
+    "use": false,
+    "type": "sacred",
+    "gloss": "the one Lord"
+  },
+  {
+    "iast": "gaṇeśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Ganesha"
+  },
+  {
+    "iast": "jagannātha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Jagannatha (Lord of the universe)"
+  },
+  {
+    "iast": "prabhākara",
+    "use": false,
+    "type": "nature",
+    "gloss": "the Sun"
+  },
+  {
+    "iast": "pradyumna",
+    "use": false,
+    "type": "other",
+    "gloss": "Pradyumna"
+  },
+  {
+    "iast": "aghora",
+    "use": true,
+    "type": "deity",
+    "gloss": "Aghora (Shiva)"
+  },
+  {
+    "iast": "ananta",
+    "use": true,
+    "type": "deity",
+    "gloss": "Ananta (Vishnu)"
+  },
+  {
+    "iast": "aruṇa",
+    "use": false,
+    "type": "nature",
+    "gloss": "the dawn"
+  },
+  {
+    "iast": "cakradhara",
+    "use": true,
+    "type": "deity",
+    "gloss": "Chakradhara (Vishnu)"
+  },
+  {
+    "iast": "dattātreya",
+    "use": true,
+    "type": "deity",
+    "gloss": "Dattatreya"
+  },
+  {
+    "iast": "devadatta",
+    "use": false,
+    "type": "other",
+    "gloss": "Devadatta"
+  },
+  {
+    "iast": "dilīpa",
+    "use": false,
+    "type": "other",
+    "gloss": "Dilipa"
+  },
+  {
+    "iast": "divyeśa",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of the divine"
+  },
+  {
+    "iast": "hiteśa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the lord of welfare"
+  },
+  {
+    "iast": "jayadeva",
+    "use": false,
+    "type": "other",
+    "gloss": "Jayadeva"
+  },
+  {
+    "iast": "kubera",
+    "use": true,
+    "type": "deity",
+    "gloss": "Kubera"
+  },
+  {
+    "iast": "lokeśa",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of the world"
+  },
+  {
+    "iast": "manīṣa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "wisdom"
+  },
+  {
+    "iast": "mayaṅka",
+    "use": false,
+    "type": "nature",
+    "gloss": "the moon"
+  },
+  {
+    "iast": "nāgeśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Nagesha (Shiva)"
+  },
+  {
+    "iast": "nareśa",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of men"
+  },
+  {
+    "iast": "raghunātha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Raghunatha (Rama)"
+  },
+  {
+    "iast": "rameśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Ramesha (Vishnu)"
+  },
+  {
+    "iast": "ravīndra",
+    "use": false,
+    "type": "nature",
+    "gloss": "the lord of the sun"
+  },
+  {
+    "iast": "śaileśa",
+    "use": false,
+    "type": "nature",
+    "gloss": "the lord of the mountains"
+  },
+  {
+    "iast": "sudarśana",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Sudarshana (Vishnu's discus)"
+  },
+  {
+    "iast": "umeśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Umesha (Shiva)"
+  },
+  {
+    "iast": "veṅkaṭeśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Venkatesha (Vishnu)"
+  },
+  {
+    "iast": "yogeśa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the lord of yoga"
+  },
+  {
+    "iast": "āśutoṣa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Ashutosha (Shiva)"
+  },
+  {
+    "iast": "vrajeśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Vrajesha (Krishna)"
+  },
+  {
+    "iast": "gajānana",
+    "use": true,
+    "type": "deity",
+    "gloss": "Gajanana (Ganesha)"
+  },
+  {
+    "iast": "gaṅgādhara",
+    "use": true,
+    "type": "deity",
+    "gloss": "Gangadhara (Shiva)"
+  },
+  {
+    "iast": "harīśa",
+    "use": false,
+    "type": "other",
+    "gloss": "Harisha"
+  },
+  {
+    "iast": "himāṃśu",
+    "use": false,
+    "type": "nature",
+    "gloss": "the moon"
+  },
+  {
+    "iast": "jagadīśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Jagadisha (Lord of the world)"
+  },
+  {
+    "iast": "janārdana",
+    "use": true,
+    "type": "deity",
+    "gloss": "Janardana (Vishnu)"
+  },
+  {
+    "iast": "jitendra",
+    "use": false,
+    "type": "other",
+    "gloss": "Jitendra"
+  },
+  {
+    "iast": "nīleśa",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of the blue"
+  },
+  {
+    "iast": "pareśa",
+    "use": false,
+    "type": "deity",
+    "gloss": "the supreme lord"
+  },
+  {
+    "iast": "riteśa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the lord of truth"
+  },
+  {
+    "iast": "sarveśa",
+    "use": false,
+    "type": "deity",
+    "gloss": "the lord of all"
+  },
+  {
+    "iast": "satīśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Satisha (Shiva)"
+  },
+  {
+    "iast": "śrīkānta",
+    "use": true,
+    "type": "deity",
+    "gloss": "Shrikanta (Vishnu)"
+  },
+  {
+    "iast": "tapana",
+    "use": false,
+    "type": "nature",
+    "gloss": "the sun"
+  },
+  {
+    "iast": "tryambaka",
+    "use": true,
+    "type": "deity",
+    "gloss": "Tryambaka (Shiva)"
+  },
+  {
+    "iast": "āditeya",
+    "use": false,
+    "type": "deity",
+    "gloss": "the son of Aditi"
+  },
+  {
+    "iast": "akhileśa",
+    "use": false,
+    "type": "deity",
+    "gloss": "the lord of all"
+  },
+  {
+    "iast": "bhūpendra",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of kings"
+  },
+  {
+    "iast": "candrakānta",
+    "use": false,
+    "type": "nature",
+    "gloss": "the moonstone"
+  },
+  {
+    "iast": "cidambara",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Chidambara (Shiva of Chidambaram)"
+  },
+  {
+    "iast": "deveśa",
+    "use": false,
+    "type": "deity",
+    "gloss": "the lord of the gods"
+  },
+  {
+    "iast": "dhīrendra",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the lord of the steadfast"
+  },
+  {
+    "iast": "divākara",
+    "use": false,
+    "type": "nature",
+    "gloss": "the Sun"
+  },
+  {
+    "iast": "gokula",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Gokula"
+  },
+  {
+    "iast": "kamaleśa",
+    "use": false,
+    "type": "deity",
+    "gloss": "the lord of the lotus"
+  },
+  {
+    "iast": "kṣitīśa",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of the earth"
+  },
+  {
+    "iast": "maṅgeśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Mangesha (Shiva)"
+  },
+  {
+    "iast": "mṛtyuñjaya",
+    "use": true,
+    "type": "deity",
+    "gloss": "Mrityunjaya (Shiva)"
+  },
+  {
+    "iast": "nāgendra",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of serpents"
+  },
+  {
+    "iast": "padmanābha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Padmanabha (Vishnu)"
+  },
+  {
+    "iast": "raghuvīra",
+    "use": true,
+    "type": "deity",
+    "gloss": "Raghuvira (Rama)"
+  },
+  {
+    "iast": "ramākānta",
+    "use": true,
+    "type": "deity",
+    "gloss": "Ramakanta (Vishnu)"
+  },
+  {
+    "iast": "śailendra",
+    "use": false,
+    "type": "nature",
+    "gloss": "the lord of mountains"
+  },
+  {
+    "iast": "śrīdhara",
+    "use": true,
+    "type": "deity",
+    "gloss": "Shridhara (Vishnu)"
+  },
+  {
+    "iast": "subrahmaṇya",
+    "use": true,
+    "type": "deity",
+    "gloss": "Subrahmanya (Murugan)"
+  },
+  {
+    "iast": "vāmana",
+    "use": true,
+    "type": "deity",
+    "gloss": "Vamana (Vishnu)"
+  },
+  {
+    "iast": "vighneśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Vighnesha (Ganesha)"
+  },
+  {
+    "iast": "avyaya",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the imperishable"
+  },
+  {
+    "iast": "akṣara",
+    "use": false,
+    "type": "sacred",
+    "gloss": "the imperishable syllable"
+  },
+  {
+    "iast": "sambhava",
+    "use": false,
+    "type": "other",
+    "gloss": "Sambhava"
+  },
+  {
+    "iast": "prabhava",
+    "use": false,
+    "type": "other",
+    "gloss": "the source"
+  },
+  {
+    "iast": "prabhu",
+    "use": true,
+    "type": "deity",
+    "gloss": "the Lord"
+  },
+  {
+    "iast": "puṣkarākṣa",
+    "use": false,
+    "type": "deity",
+    "gloss": "the lotus-eyed one"
+  },
+  {
+    "iast": "aprameya",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the immeasurable"
+  },
+  {
+    "iast": "hṛṣīkeśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Hrishikesha (Vishnu)"
+  },
+  {
+    "iast": "śāśvata",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the eternal"
+  },
+  {
+    "iast": "prabhūta",
+    "use": false,
+    "type": "virtue",
+    "gloss": "abundance"
+  },
+  {
+    "iast": "pavitra",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the purifier"
+  },
+  {
+    "iast": "prajāpati",
+    "use": true,
+    "type": "deity",
+    "gloss": "Prajapati (lord of creatures)"
+  },
+  {
+    "iast": "anuttama",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the unsurpassed"
+  },
+  {
+    "iast": "kṛtajña",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the grateful one"
+  },
+  {
+    "iast": "śaraṇa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "refuge"
+  },
+  {
+    "iast": "aja",
+    "use": false,
+    "type": "deity",
+    "gloss": "the unborn"
+  },
+  {
+    "iast": "sarveśvara",
+    "use": false,
+    "type": "deity",
+    "gloss": "the lord of all"
+  },
+  {
+    "iast": "amogha",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the unfailing"
+  },
+  {
+    "iast": "kārttikeya",
+    "use": true,
+    "type": "deity",
+    "gloss": "Kartikeya"
+  },
+  {
+    "iast": "kavīśa",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of poets"
+  },
+  {
+    "iast": "kuñja",
+    "use": false,
+    "type": "nature",
+    "gloss": "the bower"
+  },
+  {
+    "iast": "abhirāma",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the delightful one"
+  },
+  {
+    "iast": "devāṃśa",
+    "use": false,
+    "type": "other",
+    "gloss": "a part of God"
+  },
+  {
+    "iast": "nīlakaṇṭha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Nilakantha (Shiva)"
+  },
+  {
+    "iast": "puṣpaka",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Pushpaka (Kubera's chariot)"
+  },
+  {
+    "iast": "rudrāṃśa",
+    "use": false,
+    "type": "other",
+    "gloss": "a part of Rudra"
+  },
+  {
+    "iast": "śivāṃśa",
+    "use": false,
+    "type": "other",
+    "gloss": "a part of Shiva"
+  },
+  {
+    "iast": "vināyaka",
+    "use": true,
+    "type": "deity",
+    "gloss": "Vinayaka (Ganesha)"
+  },
+  {
+    "iast": "vighnarāja",
+    "use": true,
+    "type": "deity",
+    "gloss": "Vighnaraja (Ganesha)"
+  },
+  {
+    "iast": "lambodara",
+    "use": true,
+    "type": "deity",
+    "gloss": "Lambodara (Ganesha)"
+  },
+  {
+    "iast": "vakratuṇḍa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Vakratunda (Ganesha)"
+  },
+  {
+    "iast": "heramba",
+    "use": true,
+    "type": "deity",
+    "gloss": "Heramba (Ganesha)"
+  },
+  {
+    "iast": "bhālacandra",
+    "use": true,
+    "type": "deity",
+    "gloss": "Bhalachandra (Ganesha)"
+  },
+  {
+    "iast": "naṭarāja",
+    "use": true,
+    "type": "deity",
+    "gloss": "Nataraja (Shiva)"
+  },
+  {
+    "iast": "paśupati",
+    "use": true,
+    "type": "deity",
+    "gloss": "Pashupati (Shiva)"
+  },
+  {
+    "iast": "trilocana",
+    "use": true,
+    "type": "deity",
+    "gloss": "Trilochana (Shiva)"
+  },
+  {
+    "iast": "umāpati",
+    "use": true,
+    "type": "deity",
+    "gloss": "Umapati (Shiva)"
+  },
+  {
+    "iast": "mahādeva",
+    "use": true,
+    "type": "deity",
+    "gloss": "Mahadeva (Shiva)"
+  },
+  {
+    "iast": "māruti",
+    "use": true,
+    "type": "deity",
+    "gloss": "Maruti (Hanuman)"
+  },
+  {
+    "iast": "āñjaneya",
+    "use": true,
+    "type": "deity",
+    "gloss": "Anjaneya (Hanuman)"
+  },
+  {
+    "iast": "murāri",
+    "use": true,
+    "type": "deity",
+    "gloss": "Murari (Krishna)"
+  },
+  {
+    "iast": "gopīnātha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Gopinatha (Krishna)"
+  },
+  {
+    "iast": "rādhākānta",
+    "use": true,
+    "type": "deity",
+    "gloss": "Radhakanta (Krishna)"
+  },
+  {
+    "iast": "rāmacandra",
+    "use": true,
+    "type": "deity",
+    "gloss": "Ramachandra"
+  },
+  {
+    "iast": "raghupati",
+    "use": true,
+    "type": "deity",
+    "gloss": "Raghupati (Rama)"
+  },
+  {
+    "iast": "ṣaṇmukha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Shanmukha (Murugan)"
+  },
+  {
+    "iast": "narasiṃha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Narasimha"
+  },
+  {
+    "iast": "trivikrama",
+    "use": true,
+    "type": "deity",
+    "gloss": "Trivikrama (Vishnu)"
+  },
+  {
+    "iast": "śrīnivāsa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Shrinivasa (Vishnu)"
+  },
+  {
+    "iast": "raṅganātha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Ranganatha (Vishnu)"
+  },
+  {
+    "iast": "viṭṭhala",
+    "use": true,
+    "type": "deity",
+    "gloss": "Vitthala"
+  },
+  {
+    "iast": "pāṇḍuraṅga",
+    "use": true,
+    "type": "deity",
+    "gloss": "Panduranga (Vitthala)"
+  },
+  {
+    "iast": "tukārāma",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Tukarama"
+  },
+  {
+    "iast": "jñāneśvara",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Jnaneshvara"
+  },
+  {
+    "iast": "rāmānuja",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Ramanuja"
+  },
+  {
+    "iast": "purandara",
+    "use": false,
+    "type": "deity",
+    "gloss": "Purandara (Indra)"
+  },
+  {
+    "iast": "vālmīki",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Valmiki"
+  },
+  {
+    "iast": "vasiṣṭha",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Vasishtha"
+  },
+  {
+    "iast": "viśvāmitra",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Vishvamitra"
+  },
+  {
+    "iast": "nārada",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Narada"
+  },
+  {
+    "iast": "prahlāda",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Prahlada"
+  },
+  {
+    "iast": "uddhava",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Uddhava"
+  },
+  {
+    "iast": "akrūra",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Akrura"
+  },
+  {
+    "iast": "bhīṣma",
+    "use": false,
+    "type": "other",
+    "gloss": "Bhishma"
+  },
+  {
+    "iast": "droṇa",
+    "use": false,
+    "type": "other",
+    "gloss": "Drona"
+  },
+  {
+    "iast": "vidura",
+    "use": false,
+    "type": "other",
+    "gloss": "Vidura"
+  },
+  {
+    "iast": "gaurāṅga",
+    "use": true,
+    "type": "sacred",
+    "gloss": "Gauranga (Chaitanya)"
+  },
+  {
+    "iast": "jiṣṇu",
+    "use": false,
+    "type": "other",
+    "gloss": "the victorious one"
+  },
+  {
+    "iast": "kāmeśa",
+    "use": false,
+    "type": "deity",
+    "gloss": "the lord of desire"
+  },
+  {
+    "iast": "naciketa",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Nachiketa"
+  },
+  {
+    "iast": "pināka",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Pinaka (Shiva's bow)"
+  },
+  {
+    "iast": "śravaṇa",
+    "use": false,
+    "type": "other",
+    "gloss": "Shravana"
+  },
+  {
+    "iast": "siddheśa",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of the accomplished"
+  },
+  {
+    "iast": "sumanta",
+    "use": false,
+    "type": "other",
+    "gloss": "Sumantra"
+  },
+  {
+    "iast": "vibhu",
+    "use": false,
+    "type": "deity",
+    "gloss": "the all-pervading one"
+  },
+  {
+    "iast": "virāṭa",
+    "use": false,
+    "type": "other",
+    "gloss": "Virata"
+  },
+  {
+    "iast": "yogendra",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of yogis"
+  },
+  {
+    "iast": "mañjunātha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Manjunatha (Shiva)"
+  },
+  {
+    "iast": "rāghavendra",
+    "use": true,
+    "type": "deity",
+    "gloss": "Raghavendra (Rama)"
+  },
+  {
+    "iast": "uṉṉi",
+    "use": false,
+    "type": "other",
+    "gloss": "the little one"
+  },
+  {
+    "iast": "śyāmala",
+    "use": false,
+    "type": "other",
+    "gloss": "the dark one"
+  },
+  {
+    "iast": "jayeśa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the lord of victory"
+  },
+  {
+    "iast": "devarāja",
+    "use": false,
+    "type": "deity",
+    "gloss": "Devaraja (Indra)"
+  },
+  {
+    "iast": "sudhākara",
+    "use": false,
+    "type": "nature",
+    "gloss": "the moon"
+  },
+  {
+    "iast": "somanātha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Somanatha (Shiva)"
+  },
+  {
+    "iast": "viśvanātha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Vishvanatha (Shiva)"
+  },
+  {
+    "iast": "kāśīnātha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Kashinatha (Shiva)"
+  },
+  {
+    "iast": "bhuvaneśa",
+    "use": false,
+    "type": "deity",
+    "gloss": "the lord of the world"
+  },
+  {
+    "iast": "tripurāri",
+    "use": true,
+    "type": "deity",
+    "gloss": "Tripurari (Shiva)"
+  },
+  {
+    "iast": "candramauli",
+    "use": true,
+    "type": "deity",
+    "gloss": "Chandramauli (Shiva)"
+  },
+  {
+    "iast": "sadāśiva",
+    "use": true,
+    "type": "deity",
+    "gloss": "Sadashiva (Shiva)"
+  },
+  {
+    "iast": "bhairava",
+    "use": true,
+    "type": "deity",
+    "gloss": "Bhairava (Shiva)"
+  },
+  {
+    "iast": "gaṇapati",
+    "use": true,
+    "type": "deity",
+    "gloss": "Ganapati (Ganesha)"
+  },
+  {
+    "iast": "sumukha",
+    "use": false,
+    "type": "deity",
+    "gloss": "the pleasant-faced one"
+  },
+  {
+    "iast": "avighna",
+    "use": false,
+    "type": "deity",
+    "gloss": "the unobstructed one"
+  },
+  {
+    "iast": "vajrāṅga",
+    "use": true,
+    "type": "deity",
+    "gloss": "Vajranga (Hanuman)"
+  },
+  {
+    "iast": "vāyuputra",
+    "use": false,
+    "type": "deity",
+    "gloss": "Vayuputra (Hanuman)"
+  },
+  {
+    "iast": "kānha",
+    "use": false,
+    "type": "deity",
+    "gloss": "Kanha (Krishna)"
+  },
+  {
+    "iast": "nandalāla",
+    "use": false,
+    "type": "deity",
+    "gloss": "Nandalala (Krishna)"
+  },
+  {
+    "iast": "navanīta",
+    "use": false,
+    "type": "other",
+    "gloss": "fresh butter"
+  },
+  {
+    "iast": "ghanaśyāma",
+    "use": true,
+    "type": "deity",
+    "gloss": "Ghanashyama (Krishna)"
+  },
+  {
+    "iast": "sītārāma",
+    "use": true,
+    "type": "deity",
+    "gloss": "Sita and Rama"
+  },
+  {
+    "iast": "rājārāma",
+    "use": true,
+    "type": "deity",
+    "gloss": "King Rama"
+  },
+  {
+    "iast": "avadheśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Avadhesha (Rama)"
+  },
+  {
+    "iast": "śrīpati",
+    "use": true,
+    "type": "deity",
+    "gloss": "Shripati (Vishnu)"
+  },
+  {
+    "iast": "lakṣmīkānta",
+    "use": true,
+    "type": "deity",
+    "gloss": "Lakshmikanta (Vishnu)"
+  },
+  {
+    "iast": "cakrapāṇi",
+    "use": true,
+    "type": "deity",
+    "gloss": "Chakrapani (Vishnu)"
+  },
+  {
+    "iast": "narahari",
+    "use": true,
+    "type": "deity",
+    "gloss": "Narahari (Vishnu)"
+  },
+  {
+    "iast": "acintya",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the inconceivable"
+  },
+  {
+    "iast": "adhokṣaja",
+    "use": true,
+    "type": "deity",
+    "gloss": "Adhokshaja (Vishnu)"
+  },
+  {
+    "iast": "āgneya",
+    "use": false,
+    "type": "deity",
+    "gloss": "Agneya (Skanda)"
+  },
+  {
+    "iast": "agnimitra",
+    "use": false,
+    "type": "other",
+    "gloss": "the friend of Agni"
+  },
+  {
+    "iast": "animiṣa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the unblinking one"
+  },
+  {
+    "iast": "atyadbhuta",
+    "use": false,
+    "type": "deity",
+    "gloss": "Atyadbhuta (an Indra)"
+  },
+  {
+    "iast": "bāladeva",
+    "use": true,
+    "type": "deity",
+    "gloss": "Baladeva (Balarama)"
+  },
+  {
+    "iast": "bṛbaduktha",
+    "use": false,
+    "type": "deity",
+    "gloss": "Bribaduktha (Indra)"
+  },
+  {
+    "iast": "bholānātha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Bholanatha (Shiva)"
+  },
+  {
+    "iast": "dāruka",
+    "use": false,
+    "type": "other",
+    "gloss": "Daruka"
+  },
+  {
+    "iast": "durāsada",
+    "use": false,
+    "type": "deity",
+    "gloss": "Durasada (Shiva)"
+  },
+  {
+    "iast": "dūrva",
+    "use": false,
+    "type": "nature",
+    "gloss": "durva grass"
+  },
+  {
+    "iast": "hāryaputra",
+    "use": false,
+    "type": "deity",
+    "gloss": "Haryaputra"
+  },
+  {
+    "iast": "jayendra",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the lord of victory"
+  },
+  {
+    "iast": "kapṛtha",
+    "use": false,
+    "type": "deity",
+    "gloss": "Kapritha (Indra)"
+  },
+  {
+    "iast": "mantradruma",
+    "use": false,
+    "type": "deity",
+    "gloss": "Mantradruma (an Indra)"
+  },
+  {
+    "iast": "nābhya",
+    "use": false,
+    "type": "deity",
+    "gloss": "Nabhya (Shiva)"
+  },
+  {
+    "iast": "nandirudra",
+    "use": false,
+    "type": "deity",
+    "gloss": "Nandirudra (Shiva)"
+  },
+  {
+    "iast": "nīlavastra",
+    "use": false,
+    "type": "deity",
+    "gloss": "Nilavastra (Balarama)"
+  },
+  {
+    "iast": "rayiṣṭha",
+    "use": false,
+    "type": "deity",
+    "gloss": "Rayishtha"
+  },
+  {
+    "iast": "revanta",
+    "use": false,
+    "type": "deity",
+    "gloss": "Revanta"
+  },
+  {
+    "iast": "sambhagna",
+    "use": false,
+    "type": "deity",
+    "gloss": "Sambhagna (Shiva)"
+  },
+  {
+    "iast": "saṃskṛti",
+    "use": false,
+    "type": "deity",
+    "gloss": "Samskriti"
+  },
+  {
+    "iast": "śrīcandra",
+    "use": false,
+    "type": "other",
+    "gloss": "the moon of fortune"
+  },
+  {
+    "iast": "śrīhari",
+    "use": true,
+    "type": "deity",
+    "gloss": "Shri Hari (Vishnu)"
+  },
+  {
+    "iast": "śrīraṅga",
+    "use": true,
+    "type": "deity",
+    "gloss": "Shri Ranga (Vishnu)"
+  },
+  {
+    "iast": "sugandhāra",
+    "use": false,
+    "type": "deity",
+    "gloss": "Sugandhara (Shiva)"
+  },
+  {
+    "iast": "śūlapāṇi",
+    "use": true,
+    "type": "deity",
+    "gloss": "Shulapani (Shiva)"
+  },
+  {
+    "iast": "susaha",
+    "use": false,
+    "type": "deity",
+    "gloss": "Susaha (Shiva)"
+  },
+  {
+    "iast": "suśānti",
+    "use": false,
+    "type": "deity",
+    "gloss": "Sushanti (an Indra)"
+  },
+  {
+    "iast": "uccadeva",
+    "use": false,
+    "type": "deity",
+    "gloss": "Uchchadeva"
+  },
+  {
+    "iast": "vāsava",
+    "use": false,
+    "type": "deity",
+    "gloss": "Vasava (Indra)"
+  },
+  {
+    "iast": "vedagarbha",
+    "use": false,
+    "type": "deity",
+    "gloss": "Vedagarbha (Brahma)"
+  },
+  {
+    "iast": "vaidhṛti",
+    "use": false,
+    "type": "deity",
+    "gloss": "Vaidhriti (an Indra)"
+  },
+  {
+    "iast": "vaimṛdha",
+    "use": false,
+    "type": "deity",
+    "gloss": "Vaimridha (Indra)"
+  },
+  {
+    "iast": "vṛṣya",
+    "use": false,
+    "type": "deity",
+    "gloss": "Vrishya (Shiva)"
+  },
+  {
+    "iast": "virūpākṣa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Virupaksha (Shiva)"
+  },
+  {
+    "iast": "viśātana",
+    "use": false,
+    "type": "deity",
+    "gloss": "Vishatana (Vishnu)"
+  },
+  {
+    "iast": "viṣāntaka",
+    "use": false,
+    "type": "deity",
+    "gloss": "Vishantaka (Shiva)"
+  },
+  {
+    "iast": "amṛtāṃśu",
+    "use": false,
+    "type": "nature",
+    "gloss": "the moon"
+  },
+  {
+    "iast": "aruṣa",
+    "use": false,
+    "type": "nature",
+    "gloss": "the radiant one"
+  },
+  {
+    "iast": "balabhadra",
+    "use": true,
+    "type": "deity",
+    "gloss": "Balabhadra (Balarama)"
+  },
+  {
+    "iast": "bhānucandra",
+    "use": false,
+    "type": "nature",
+    "gloss": "the sun and the moon"
+  },
+  {
+    "iast": "bhāsvara",
+    "use": false,
+    "type": "nature",
+    "gloss": "the radiant one"
+  },
+  {
+    "iast": "gabhasti",
+    "use": false,
+    "type": "nature",
+    "gloss": "the ray of light"
+  },
+  {
+    "iast": "guheśvara",
+    "use": false,
+    "type": "deity",
+    "gloss": "Guheshvara (Shiva)"
+  },
+  {
+    "iast": "jananātha",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of the people"
+  },
+  {
+    "iast": "jayiṣṇu",
+    "use": false,
+    "type": "other",
+    "gloss": "the victorious one"
+  },
+  {
+    "iast": "mayūreśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Mayuresha (Ganesha)"
+  },
+  {
+    "iast": "naṭeśvara",
+    "use": false,
+    "type": "deity",
+    "gloss": "the lord of dancers"
+  },
+  {
+    "iast": "pravareśa",
+    "use": false,
+    "type": "other",
+    "gloss": "the noble lord"
+  },
+  {
+    "iast": "rājeśvara",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of kings"
+  },
+  {
+    "iast": "śītāṃśu",
+    "use": false,
+    "type": "nature",
+    "gloss": "the moon"
+  },
+  {
+    "iast": "śivānanda",
+    "use": false,
+    "type": "sacred",
+    "gloss": "the bliss of Shiva"
+  },
+  {
+    "iast": "sūri",
+    "use": false,
+    "type": "other",
+    "gloss": "the learned one"
+  },
+  {
+    "iast": "svarmaṇi",
+    "use": false,
+    "type": "nature",
+    "gloss": "the jewel of the sky"
+  },
+  {
+    "iast": "svarpati",
+    "use": false,
+    "type": "deity",
+    "gloss": "Svarpati (Indra)"
+  },
+  {
+    "iast": "tamopaha",
+    "use": false,
+    "type": "nature",
+    "gloss": "the dispeller of darkness"
+  },
+  {
+    "iast": "taraṇi",
+    "use": false,
+    "type": "nature",
+    "gloss": "the sun"
+  },
+  {
+    "iast": "tārendra",
+    "use": false,
+    "type": "nature",
+    "gloss": "the moon"
+  },
+  {
+    "iast": "varendra",
+    "use": false,
+    "type": "other",
+    "gloss": "the best of lords"
+  },
+  {
+    "iast": "vṛṣendra",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of bulls"
+  },
+  {
+    "iast": "vīreśvara",
+    "use": false,
+    "type": "deity",
+    "gloss": "Vireshvara (Shiva)"
+  },
+  {
+    "iast": "abdhi",
+    "use": false,
+    "type": "deity",
+    "gloss": "Abdhi"
+  },
+  {
+    "iast": "ambikeya",
+    "use": false,
+    "type": "deity",
+    "gloss": "Ambikeya"
+  },
+  {
+    "iast": "kesari",
+    "use": false,
+    "type": "other",
+    "gloss": "Kesari"
+  },
+  {
+    "iast": "khila",
+    "use": false,
+    "type": "deity",
+    "gloss": "Khila"
+  },
+  {
+    "iast": "datta",
+    "use": false,
+    "type": "other",
+    "gloss": "the given one"
+  },
+  {
+    "iast": "motīrāma",
+    "use": false,
+    "type": "other",
+    "gloss": "Motirama"
+  },
+  {
+    "iast": "śunāśīra",
+    "use": false,
+    "type": "deity",
+    "gloss": "Shunashira (Indra)"
+  },
+  {
+    "iast": "śauri",
+    "use": true,
+    "type": "deity",
+    "gloss": "Shauri (Krishna)"
+  },
+  {
+    "iast": "somaka",
+    "use": false,
+    "type": "other",
+    "gloss": "Somaka"
+  },
+  {
+    "iast": "somāśraya",
+    "use": false,
+    "type": "deity",
+    "gloss": "Somashraya (Shiva)"
+  },
+  {
+    "iast": "aṅgāraka",
+    "use": false,
+    "type": "deity",
+    "gloss": "Angaraka (a Rudra)"
+  },
+  {
+    "iast": "ajihma",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the upright one"
+  },
+  {
+    "iast": "atithi",
+    "use": false,
+    "type": "other",
+    "gloss": "the guest"
+  },
+  {
+    "iast": "atri",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Atri"
+  },
+  {
+    "iast": "anagha",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the sinless one"
+  },
+  {
+    "iast": "anala",
+    "use": false,
+    "type": "nature",
+    "gloss": "fire"
+  },
+  {
+    "iast": "antarikṣa",
+    "use": false,
+    "type": "nature",
+    "gloss": "the sky"
+  },
+  {
+    "iast": "apratima",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the incomparable one"
+  },
+  {
+    "iast": "aṃbarīṣa",
+    "use": false,
+    "type": "other",
+    "gloss": "Ambarisha"
+  },
+  {
+    "iast": "ayana",
+    "use": false,
+    "type": "nature",
+    "gloss": "the path"
+  },
+  {
+    "iast": "araṇya",
+    "use": false,
+    "type": "nature",
+    "gloss": "the forest"
+  },
+  {
+    "iast": "arindama",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the subduer of enemies"
+  },
+  {
+    "iast": "aruṇi",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Aruni"
+  },
+  {
+    "iast": "ātmaja",
+    "use": false,
+    "type": "other",
+    "gloss": "the son"
+  },
+  {
+    "iast": "āyuṣa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "long life"
+  },
+  {
+    "iast": "īḍya",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the praiseworthy one"
+  },
+  {
+    "iast": "utsāha",
+    "use": false,
+    "type": "virtue",
+    "gloss": "enthusiasm"
+  },
+  {
+    "iast": "unnata",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the lofty one"
+  },
+  {
+    "iast": "ṛbhu",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Ribhu"
+  },
+  {
+    "iast": "ojiṣṭha",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the most vigorous one"
+  },
+  {
+    "iast": "kakutstha",
+    "use": false,
+    "type": "other",
+    "gloss": "Kakutstha"
+  },
+  {
+    "iast": "kallola",
+    "use": false,
+    "type": "nature",
+    "gloss": "the great wave"
+  },
+  {
+    "iast": "kāvya",
+    "use": false,
+    "type": "other",
+    "gloss": "Kavya"
+  },
+  {
+    "iast": "kīrtirāja",
+    "use": false,
+    "type": "other",
+    "gloss": "the king of fame"
+  },
+  {
+    "iast": "kuśāgra",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the sharp-minded one"
+  },
+  {
+    "iast": "ketana",
+    "use": false,
+    "type": "other",
+    "gloss": "the banner"
+  },
+  {
+    "iast": "kṣemaka",
+    "use": false,
+    "type": "virtue",
+    "gloss": "well-being"
+  },
+  {
+    "iast": "gambhīra",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the profound one"
+  },
+  {
+    "iast": "garuḍa",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Garuda"
+  },
+  {
+    "iast": "gālava",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Galava"
+  },
+  {
+    "iast": "guṇākara",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the mine of virtues"
+  },
+  {
+    "iast": "gopati",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of cows"
+  },
+  {
+    "iast": "cāruhāsa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the one with a charming smile"
+  },
+  {
+    "iast": "citrasena",
+    "use": false,
+    "type": "other",
+    "gloss": "Chitrasena"
+  },
+  {
+    "iast": "caitra",
+    "use": false,
+    "type": "nature",
+    "gloss": "the month of Chaitra"
+  },
+  {
+    "iast": "cyavana",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Chyavana"
+  },
+  {
+    "iast": "jamadagni",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Jamadagni"
+  },
+  {
+    "iast": "jayada",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the giver of victory"
+  },
+  {
+    "iast": "jayadhvaja",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the victory banner"
+  },
+  {
+    "iast": "jayasena",
+    "use": false,
+    "type": "other",
+    "gloss": "Jayasena"
+  },
+  {
+    "iast": "jyoti",
+    "use": false,
+    "type": "nature",
+    "gloss": "light"
+  },
+  {
+    "iast": "toṣa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "contentment"
+  },
+  {
+    "iast": "trinetra",
+    "use": true,
+    "type": "deity",
+    "gloss": "Trinetra (Shiva)"
+  },
+  {
+    "iast": "dadhīci",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Dadhichi"
+  },
+  {
+    "iast": "damana",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the self-restrained one"
+  },
+  {
+    "iast": "darbha",
+    "use": false,
+    "type": "sacred",
+    "gloss": "sacred kusha grass"
+  },
+  {
+    "iast": "darśa",
+    "use": false,
+    "type": "nature",
+    "gloss": "the new moon"
+  },
+  {
+    "iast": "darśanīya",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the handsome one"
+  },
+  {
+    "iast": "dasra",
+    "use": false,
+    "type": "deity",
+    "gloss": "Dasra (an Ashvin)"
+  },
+  {
+    "iast": "dānta",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the self-controlled one"
+  },
+  {
+    "iast": "divodāsa",
+    "use": false,
+    "type": "other",
+    "gloss": "Divodasa"
+  },
+  {
+    "iast": "devātithi",
+    "use": false,
+    "type": "other",
+    "gloss": "the guest of the gods"
+  },
+  {
+    "iast": "dyumna",
+    "use": false,
+    "type": "virtue",
+    "gloss": "splendour"
+  },
+  {
+    "iast": "dhanada",
+    "use": false,
+    "type": "deity",
+    "gloss": "Dhanada (Kubera)"
+  },
+  {
+    "iast": "dhanu",
+    "use": false,
+    "type": "other",
+    "gloss": "the bow"
+  },
+  {
+    "iast": "dhaneśa",
+    "use": false,
+    "type": "deity",
+    "gloss": "Dhanesha (Kubera)"
+  },
+  {
+    "iast": "dharmaputra",
+    "use": false,
+    "type": "other",
+    "gloss": "Dharmaputra"
+  },
+  {
+    "iast": "nāda",
+    "use": false,
+    "type": "sacred",
+    "gloss": "sacred sound"
+  },
+  {
+    "iast": "nāsatya",
+    "use": false,
+    "type": "deity",
+    "gloss": "Nasatya (an Ashvin)"
+  },
+  {
+    "iast": "nidhi",
+    "use": false,
+    "type": "other",
+    "gloss": "treasure"
+  },
+  {
+    "iast": "nimi",
+    "use": false,
+    "type": "other",
+    "gloss": "Nimi"
+  },
+  {
+    "iast": "nirāmaya",
+    "use": false,
+    "type": "virtue",
+    "gloss": "good health"
+  },
+  {
+    "iast": "niśitha",
+    "use": false,
+    "type": "nature",
+    "gloss": "midnight"
+  },
+  {
+    "iast": "niścala",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the steadfast one"
+  },
+  {
+    "iast": "pavamāna",
+    "use": false,
+    "type": "sacred",
+    "gloss": "the purifier (Soma)"
+  },
+  {
+    "iast": "pārijāta",
+    "use": false,
+    "type": "sacred",
+    "gloss": "the parijata tree"
+  },
+  {
+    "iast": "punarvasu",
+    "use": false,
+    "type": "nature",
+    "gloss": "the Punarvasu nakshatra"
+  },
+  {
+    "iast": "puruvasu",
+    "use": false,
+    "type": "other",
+    "gloss": "the wealthy one"
+  },
+  {
+    "iast": "puṣkala",
+    "use": false,
+    "type": "virtue",
+    "gloss": "abundance"
+  },
+  {
+    "iast": "pṛṣa",
+    "use": false,
+    "type": "deity",
+    "gloss": "Prisha (an Indra)"
+  },
+  {
+    "iast": "pratiśrava",
+    "use": false,
+    "type": "deity",
+    "gloss": "Pratishrava (a Rudra)"
+  },
+  {
+    "iast": "pratoṣa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "great delight"
+  },
+  {
+    "iast": "pradyota",
+    "use": false,
+    "type": "nature",
+    "gloss": "radiance"
+  },
+  {
+    "iast": "bhagadatta",
+    "use": false,
+    "type": "other",
+    "gloss": "Bhagadatta"
+  },
+  {
+    "iast": "bhīmasena",
+    "use": false,
+    "type": "other",
+    "gloss": "Bhimasena"
+  },
+  {
+    "iast": "mahādyuti",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the very radiant one"
+  },
+  {
+    "iast": "mahābāhu",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the mighty-armed one"
+  },
+  {
+    "iast": "mahinasa",
+    "use": false,
+    "type": "deity",
+    "gloss": "Mahinasa (a Rudra)"
+  },
+  {
+    "iast": "māṇḍavya",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Mandavya"
+  },
+  {
+    "iast": "mudgala",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Mudgala"
+  },
+  {
+    "iast": "mṛgavyādha",
+    "use": false,
+    "type": "deity",
+    "gloss": "Mrigavyadha (a Rudra)"
+  },
+  {
+    "iast": "moda",
+    "use": false,
+    "type": "virtue",
+    "gloss": "joy"
+  },
+  {
+    "iast": "mauli",
+    "use": false,
+    "type": "other",
+    "gloss": "the crown"
+  },
+  {
+    "iast": "yayāti",
+    "use": false,
+    "type": "other",
+    "gloss": "Yayati"
+  },
+  {
+    "iast": "yogeśvara",
+    "use": true,
+    "type": "deity",
+    "gloss": "Yogeshvara (Krishna)"
+  },
+  {
+    "iast": "rājasiṃha",
+    "use": false,
+    "type": "other",
+    "gloss": "the royal lion"
+  },
+  {
+    "iast": "ruru",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Ruru"
+  },
+  {
+    "iast": "raibhya",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Raibhya"
+  },
+  {
+    "iast": "raivata",
+    "use": false,
+    "type": "other",
+    "gloss": "Raivata"
+  },
+  {
+    "iast": "likhita",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Likhita"
+  },
+  {
+    "iast": "vardhana",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the one who brings prosperity"
+  },
+  {
+    "iast": "vākpati",
+    "use": true,
+    "type": "deity",
+    "gloss": "the Lord of speech (Brihaspati)"
+  },
+  {
+    "iast": "vāgīśa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Vagisha (Brihaspati, lord of speech)"
+  },
+  {
+    "iast": "vāsuki",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Vasuki"
+  },
+  {
+    "iast": "vikrānta",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the valiant one"
+  },
+  {
+    "iast": "vicitra",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the wonderful one"
+  },
+  {
+    "iast": "vinīta",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the modest one"
+  },
+  {
+    "iast": "vibhāvasu",
+    "use": false,
+    "type": "nature",
+    "gloss": "the sun or fire"
+  },
+  {
+    "iast": "vimala",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the pure one"
+  },
+  {
+    "iast": "vīrasena",
+    "use": false,
+    "type": "other",
+    "gloss": "Virasena"
+  },
+  {
+    "iast": "vaidhṛta",
+    "use": false,
+    "type": "deity",
+    "gloss": "Vaidhrita (an Indra)"
+  },
+  {
+    "iast": "vaivasvata",
+    "use": false,
+    "type": "other",
+    "gloss": "Vaivasvata (Manu)"
+  },
+  {
+    "iast": "vaiśvadeva",
+    "use": false,
+    "type": "deity",
+    "gloss": "Vaishvadeva (Agni)"
+  },
+  {
+    "iast": "vyoma",
+    "use": false,
+    "type": "nature",
+    "gloss": "the sky"
+  },
+  {
+    "iast": "śāṇḍilya",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Shandilya"
+  },
+  {
+    "iast": "śighrya",
+    "use": false,
+    "type": "deity",
+    "gloss": "Shighrya (a Rudra)"
+  },
+  {
+    "iast": "śivadatta",
+    "use": false,
+    "type": "other",
+    "gloss": "Shivadatta"
+  },
+  {
+    "iast": "śubhra",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the bright one"
+  },
+  {
+    "iast": "śaunaka",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Shaunaka"
+  },
+  {
+    "iast": "śvāna",
+    "use": false,
+    "type": "deity",
+    "gloss": "Shvana (a Rudra)"
+  },
+  {
+    "iast": "śvetaketu",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Shvetaketu"
+  },
+  {
+    "iast": "saṃkalpa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "firm resolve"
+  },
+  {
+    "iast": "satyajyoti",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the light of truth"
+  },
+  {
+    "iast": "satyamitra",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the friend of truth"
+  },
+  {
+    "iast": "satyavanta",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the truthful one"
+  },
+  {
+    "iast": "sananda",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Sananda"
+  },
+  {
+    "iast": "saṃtoṣa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "contentment"
+  },
+  {
+    "iast": "saṃjaya",
+    "use": false,
+    "type": "other",
+    "gloss": "Sanjaya"
+  },
+  {
+    "iast": "sānu",
+    "use": false,
+    "type": "nature",
+    "gloss": "the mountain peak"
+  },
+  {
+    "iast": "sāndīpani",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Sandipani"
+  },
+  {
+    "iast": "sārasvata",
+    "use": false,
+    "type": "sacred",
+    "gloss": "the learned one of Sarasvati"
+  },
+  {
+    "iast": "sīradhvaja",
+    "use": false,
+    "type": "other",
+    "gloss": "Siradhvaja (Janaka)"
+  },
+  {
+    "iast": "sugrīva",
+    "use": false,
+    "type": "other",
+    "gloss": "Sugriva"
+  },
+  {
+    "iast": "sucandra",
+    "use": false,
+    "type": "nature",
+    "gloss": "the beautiful moon"
+  },
+  {
+    "iast": "sucitra",
+    "use": false,
+    "type": "deity",
+    "gloss": "Suchitra"
+  },
+  {
+    "iast": "sujana",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the good person"
+  },
+  {
+    "iast": "sujaya",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the victorious one"
+  },
+  {
+    "iast": "sūtapa",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Sutapa"
+  },
+  {
+    "iast": "sutrāma",
+    "use": false,
+    "type": "deity",
+    "gloss": "Sutrama (Indra)"
+  },
+  {
+    "iast": "sudāna",
+    "use": false,
+    "type": "deity",
+    "gloss": "Sudana"
+  },
+  {
+    "iast": "sudeva",
+    "use": false,
+    "type": "other",
+    "gloss": "the good god"
+  },
+  {
+    "iast": "sunanda",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the joyful one"
+  },
+  {
+    "iast": "subāhu",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the strong-armed one"
+  },
+  {
+    "iast": "subhānu",
+    "use": false,
+    "type": "nature",
+    "gloss": "the beautiful light"
+  },
+  {
+    "iast": "sumañjasa",
+    "use": false,
+    "type": "deity",
+    "gloss": "Sumanjasa"
+  },
+  {
+    "iast": "sumantu",
+    "use": false,
+    "type": "sacred",
+    "gloss": "Sumantu"
+  },
+  {
+    "iast": "sumedha",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the wise one"
+  },
+  {
+    "iast": "suyajña",
+    "use": false,
+    "type": "deity",
+    "gloss": "Suyajna (Vishnu)"
+  },
+  {
+    "iast": "suratha",
+    "use": false,
+    "type": "other",
+    "gloss": "Suratha"
+  },
+  {
+    "iast": "suvaṃśa",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the one of noble lineage"
+  },
+  {
+    "iast": "suvīrya",
+    "use": false,
+    "type": "virtue",
+    "gloss": "the heroic one"
+  },
+  {
+    "iast": "suṣeṇa",
+    "use": false,
+    "type": "other",
+    "gloss": "Sushena"
+  },
+  {
+    "iast": "somadatta",
+    "use": false,
+    "type": "other",
+    "gloss": "Somadatta"
+  },
+  {
+    "iast": "saumitri",
+    "use": false,
+    "type": "other",
+    "gloss": "Saumitri (Lakshmana)"
+  },
+  {
+    "iast": "saura",
+    "use": false,
+    "type": "nature",
+    "gloss": "the solar one"
+  },
+  {
+    "iast": "hayagrīva",
+    "use": true,
+    "type": "deity",
+    "gloss": "Hayagriva (Vishnu)"
+  },
+  {
+    "iast": "harikeśa",
+    "use": false,
+    "type": "deity",
+    "gloss": "Harikesha (Shiva)"
+  },
+  {
+    "iast": "haridāsa",
+    "use": false,
+    "type": "other",
+    "gloss": "Haridasa"
+  },
+  {
+    "iast": "hemāṃgada",
+    "use": false,
+    "type": "other",
+    "gloss": "the one with golden armlets"
+  },
+  {
+    "iast": "bhānudatta",
+    "use": false,
+    "type": "other",
+    "gloss": "Bhanudatta"
+  },
+  {
+    "iast": "jīvanātha",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of life"
+  },
+  {
+    "iast": "padmarāja",
+    "use": false,
+    "type": "nature",
+    "gloss": "the lotus king"
+  },
+  {
+    "iast": "rāmeśvara",
+    "use": true,
+    "type": "deity",
+    "gloss": "Rameshvara (Shiva)"
+  },
+  {
+    "iast": "śaktideva",
+    "use": false,
+    "type": "other",
+    "gloss": "the god of strength"
+  },
+  {
+    "iast": "śivadāsa",
+    "use": false,
+    "type": "other",
+    "gloss": "Shivadasa"
+  },
+  {
+    "iast": "śivarāma",
+    "use": false,
+    "type": "deity",
+    "gloss": "Shiva and Rama"
+  },
+  {
+    "iast": "śrīdatta",
+    "use": false,
+    "type": "other",
+    "gloss": "Shridatta"
+  },
+  {
+    "iast": "vikramārka",
+    "use": false,
+    "type": "other",
+    "gloss": "Vikramarka"
+  },
+  {
+    "iast": "balacandra",
+    "use": false,
+    "type": "nature",
+    "gloss": "the crescent moon"
+  },
+  {
+    "iast": "bālakṛṣṇa",
+    "use": true,
+    "type": "deity",
+    "gloss": "Balakrishna (the child Krishna)"
+  },
+  {
+    "iast": "halāyudha",
+    "use": true,
+    "type": "deity",
+    "gloss": "Halayudha (Balarama)"
+  },
+  {
+    "iast": "śrīdeva",
+    "use": false,
+    "type": "other",
+    "gloss": "the lord of fortune"
+  }
+]
