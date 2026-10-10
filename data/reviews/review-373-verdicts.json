@@ -1,0 +1,908 @@
+[
+ {
+  "name": "Raghunandini",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Raghunathadasi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Raghupatidasi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Raghuviradasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rajaramadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rajatadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rajatamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rajatanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rajatasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rajatavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Ramadasi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ramakantadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Ramanandini",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ramasundari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rameshadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rameshanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rameshasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rameshvaradasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Ranganathadasi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rashmidevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rashmimayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rashminandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rashmisundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rashmivati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Ravidevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Ravimayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Ravinandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Ravisundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Ravivati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rishabhamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rishimayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rishinandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Ritadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Ritamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Ritavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rudradasi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rudranandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rudrasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sadashivadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sagaradevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sagaramayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sagaranandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sagarasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sagaravati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sahasadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sahasamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sahasavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sakalendudevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sakalendumayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sakalenduvati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samiradevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samiramayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samiranadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samiranamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samiranandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samiranavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samirasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samiravati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samudradevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samudramayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samudranandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samudrasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Samudravati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Santoshadevi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Santoshamayi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Santoshavati",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sarasidevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarasimayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarasinandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarasisundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarasivati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sarasvatidasi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Satishadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Satishanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Satishasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Satyadevi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Satyamayi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Satyavati",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sauhridadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sauhridamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sauhridavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shachishadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shailadevi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shailamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shailanandini",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shailasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shailavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shaktidevi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shaktimayi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shaktivati",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shaladevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shalamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shalanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shalasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shalavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shambhudasi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shambhunandini",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shambhusundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shamkaradasi",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Shankaradasi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shankhamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shankhanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shanmukhadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shantanumayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shantidevi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shantimayi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shantivati",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shashankadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shashankamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shashankavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shashidevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shashimayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shashinandini",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shashisundari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shashivati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shauridasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shaurinandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shaurisundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sheshadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sheshanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sheshasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shiladevi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shilamayi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shilavati",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shivadasi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shivanandini",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shivasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shobhadevi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shobhamayi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shridharadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shriharidasi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shrikantadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrinivasadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shripatidasi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shriramadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrirangadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shukradevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shukramayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shukranandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shukrasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shukravati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shulapanidasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sindhudevi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sindhumayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sindhunandini",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sindhusundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sindhuvati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sitaramadasi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Skandadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Skandanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Skandasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Somadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Somanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Somanathadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Somasundari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sukhadevi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sukhamayi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sukhavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suposhadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suposhamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suposhavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suradevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suramayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suranandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surasundari",
+  "verdict": "fix",
+  "reason": "ok",
+  "fix": {
+   "name": "Surasundari",
+   "devanagari": "सूरसुन्दरी",
+   "iast": "sūrasundarī",
+   "meaning_en": "Beautiful as a celestial maiden (etymology uncertain)"
+  }
+ },
+ {
+  "name": "Suravati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sureshadasi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sureshanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sureshasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suryadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suryamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suryanandini",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Suryasundari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Suryavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suvratadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suvratamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suvratavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Svabhanudevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ }
+]

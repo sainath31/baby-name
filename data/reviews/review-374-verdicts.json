@@ -1,0 +1,837 @@
+[
+ {
+  "name": "Svabhanumayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Svabhanuvati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Svarnadevi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Svarnamayi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Svarnanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Svarnasundari",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Svarnavati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Tapodevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Tapomayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Tapovati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Taradevi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Taramayi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Taranandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Tarasundari",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Taravati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Tarunendudevi",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Tarunendumayi",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Tarunenduvati",
+  "verdict": "reject",
+  "reason": "overlong_compound"
+ },
+ {
+  "name": "Trilochanadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Trilokadevi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Trilokamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Trilokanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Trilokasundari",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Trilokavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Trinetradasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Tripuraridasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Trivikramadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Tryambakadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Tusharadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Tusharamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Tusharanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Tusharasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Tusharavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Udayadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Udayamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Udayanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Udayasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Udayavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Umadasi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Umanandini",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Umapatidasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Umasundari",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Umeshadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Umeshanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Umeshasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Upendradasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Upendranandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Upendrasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Urjadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Urjamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Urjavati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Utpaladevi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Utpalamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Utpalanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Utpalasundari",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Utpalavati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vagishadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Vagishanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vagishasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vahnidevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vahnimayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vahninandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vahnisundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vahnivati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vaikunthamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vajramayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vajranandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vajrangadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Vakpatidasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Vakpatinandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vakpatisundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vakratundadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Vamanadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Vamananandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vamanasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vanadevi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vanamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vananandini",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vanasundari",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vanavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Varidevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Varimayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Varinandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Varisundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Varivati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Varunadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Varunanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Varunasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vasantadevi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vasantamayi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vasantanandini",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vasantasundari",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vasantavati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vasudevadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Vayudasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Vayunandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vayusundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vedamayi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vedanandini",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Venkatadasi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Venkatanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Venkatasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Venkateshadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Vibhadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vibhamayi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vibhanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vibhasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vibhavati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vidhudevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vidhumayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vidhunandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vidhusundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vidhuvati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vidyadevi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vidyamayi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vidyavati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vighnarajadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Vighneshadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Vijayadevi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vijayamayi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vijayavati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vinayadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vinayakadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Vinayamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vinayavati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vindhyadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vindhyamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vindhyanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vindhyasundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vindhyavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Viradevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Viramayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Viravati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Virochanadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Virochanamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Virochanavati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Virupakshadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Viryadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Viryamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Viryavati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vishnudasi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vishnunandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vishnusundari",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vishvamayi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vishvanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vitthaladasi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vivekadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vivekamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vivekavati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vrajamayi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vrajanandini",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Vrajeshadasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ },
+ {
+  "name": "Vyasamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Vyasanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Yadumayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Yadunandini",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Yajnamayi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Yajnanandini",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Yashadevi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Yashamayi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Yashavati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Yashodevi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Yashomayi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Yashovati",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Yogamayi",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Yoganandini",
+  "verdict": "keep",
+  "reason": "natural feminine compound"
+ },
+ {
+  "name": "Yogeshvaradasi",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name"
+ }
+]
