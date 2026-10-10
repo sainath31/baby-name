@@ -1,0 +1,132 @@
+[
+ {
+  "name": "Arunima",
+  "verdict": "keep",
+  "reason": "Dawn-glow name from aruna; good feminine name."
+ },
+ {
+  "name": "Bathukamma",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Telangana festival goddess personification, not a personal name."
+ },
+ {
+  "name": "Bhanumati",
+  "verdict": "keep",
+  "reason": "Epic feminine name from bhanu (sun); meaning Radiant is fine."
+ },
+ {
+  "name": "Bhaskarjyoti",
+  "verdict": "keep",
+  "reason": "Assamese given name, bhaskara + jyoti, sensible."
+ },
+ {
+  "name": "Chandrabhaga",
+  "verdict": "reject",
+  "reason": "place_or_river: Name of the river at Pandharpur."
+ },
+ {
+  "name": "Girish",
+  "verdict": "fix",
+  "reason": "IAST wrong; spoken form is girisha.",
+  "fix": {
+   "name": "Girish",
+   "devanagari": "गिरीश",
+   "iast": "girīśa",
+   "meaning_en": "Lord of the mountain (Himalaya); an epithet of Shiva commonly used as a boy name."
+  }
+ },
+ {
+  "name": "Himani",
+  "verdict": "keep",
+  "reason": "Feminine name from hima, snow; fine."
+ },
+ {
+  "name": "Hiranya",
+  "verdict": "keep",
+  "reason": "Gold; usable neutral name."
+ },
+ {
+  "name": "Juri",
+  "verdict": "fix",
+  "reason": "Real Assamese girl name but meaning is uncertain.",
+  "fix": {
+   "name": "Juri",
+   "devanagari": "जुरी",
+   "iast": "jurī",
+   "meaning_en": "Assamese girl name, said to mean pair or companion; etymology uncertain."
+  }
+ },
+ {
+  "name": "Kalhan",
+  "verdict": "reject",
+  "reason": "author_or_scholar: Kalhana, the Rajatarangini chronicler."
+ },
+ {
+  "name": "Kashmira",
+  "verdict": "fix",
+  "reason": "Usable feminine name; meaning made plain.",
+  "fix": {
+   "name": "Kashmira",
+   "devanagari": "कश्मीरा",
+   "iast": "kaśmīrā",
+   "meaning_en": "Woman of Kashmir; from Sanskrit kashmira (Kashmir)."
+  }
+ },
+ {
+  "name": "Komuram",
+  "verdict": "reject",
+  "reason": "obscure_figure: Family name of Komaram Bheem, no etymology supported."
+ },
+ {
+  "name": "Manikanta",
+  "verdict": "keep",
+  "reason": "Ayyappa epithet widely given to boys in Telangana; meaning correct."
+ },
+ {
+  "name": "Nanda",
+  "verdict": "fix",
+  "reason": "Meaning should be the name itself, not the goddess.",
+  "fix": {
+   "name": "Nanda",
+   "devanagari": "नन्दा",
+   "iast": "nandā",
+   "meaning_en": "Joy, delight."
+  }
+ },
+ {
+  "name": "Pushpanjali",
+  "verdict": "keep",
+  "reason": "Offering of flowers; acceptable girl name."
+ },
+ {
+  "name": "Rituparna",
+  "verdict": "fix",
+  "reason": "Boy king of Ayodhya is Rituparna without final long a; meaning clarified.",
+  "fix": {
+   "name": "Rituparna",
+   "devanagari": "ऋतुपर्ण",
+   "iast": "ṛtuparṇa",
+   "meaning_en": "Leaf of the seasons; a king of Ayodhya in the Nala story."
+  }
+ },
+ {
+  "name": "Sammakka",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Tribal goddess-heroine of Medaram, worshipped rather than named; etymology uncertain."
+ },
+ {
+  "name": "Sanajaoba",
+  "verdict": "reject",
+  "reason": "other: Meaning king's ruler is unsupported, etymology uncertain, Devanagari rendering doubtful."
+ },
+ {
+  "name": "Subhadeep",
+  "verdict": "keep",
+  "reason": "Bengali name, auspicious lamp; spoken form kept."
+ },
+ {
+  "name": "Vitasta",
+  "verdict": "reject",
+  "reason": "place_or_river: Vitasta is the Jhelum river."
+ }
+]

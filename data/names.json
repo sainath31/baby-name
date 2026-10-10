@@ -42075,7 +42075,7 @@
     },
     "compounds": [],
     "states": [
-      "Bengal"
+      "West Bengal"
     ],
     "origin": "attested",
     "era": "classical",
@@ -43877,7 +43877,7 @@
     },
     "compounds": [],
     "states": [
-      "Bengal"
+      "West Bengal"
     ],
     "origin": "attested",
     "era": "classical",
@@ -45330,7 +45330,7 @@
     },
     "compounds": [],
     "states": [
-      "Bengal"
+      "West Bengal"
     ],
     "origin": "attested",
     "era": "modern",
@@ -45362,7 +45362,7 @@
     },
     "compounds": [],
     "states": [
-      "Bengal"
+      "West Bengal"
     ],
     "origin": "attested",
     "era": "classical",
@@ -45394,7 +45394,7 @@
     },
     "compounds": [],
     "states": [
-      "Bengal"
+      "West Bengal"
     ],
     "origin": "attested",
     "era": "classical",
@@ -47596,7 +47596,7 @@
     },
     "compounds": [],
     "states": [
-      "Bengal"
+      "West Bengal"
     ],
     "origin": "attested",
     "era": "modern",
@@ -49082,7 +49082,7 @@
     },
     "compounds": [],
     "states": [
-      "Kashmir"
+      "Jammu and Kashmir"
     ],
     "origin": "attested",
     "era": "medieval",
@@ -49572,7 +49572,7 @@
     },
     "compounds": [],
     "states": [
-      "Bengal"
+      "West Bengal"
     ],
     "origin": "attested",
     "era": "modern",
@@ -50217,7 +50217,7 @@
     },
     "compounds": [],
     "states": [
-      "Bengal"
+      "West Bengal"
     ],
     "origin": "attested",
     "era": "modern",
@@ -50768,7 +50768,7 @@
     },
     "compounds": [],
     "states": [
-      "Bengal"
+      "West Bengal"
     ],
     "origin": "attested",
     "era": "classical",
@@ -50832,7 +50832,7 @@
     },
     "compounds": [],
     "states": [
-      "Bengal"
+      "West Bengal"
     ],
     "origin": "attested",
     "era": "modern",
@@ -50897,7 +50897,7 @@
     },
     "compounds": [],
     "states": [
-      "Bengal"
+      "West Bengal"
     ],
     "origin": "attested",
     "era": "classical",
@@ -51130,6 +51130,716 @@
     "sources": [
       {
         "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-046-girls-sanskrit.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bathukamma",
+    "iast": "bathukammā",
+    "devanagari": "बतुकम्मा",
+    "letter": "B",
+    "syllable_count": 4,
+    "meaning_en": "Come alive, mother goddess; the Telangana flower festival goddess.",
+    "components": [
+      {
+        "part": "bathuku",
+        "gloss": "live"
+      },
+      {
+        "part": "ammā",
+        "gloss": "mother"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sammakka",
+    "iast": "sammakkā",
+    "devanagari": "सम्मक्का",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Tribal goddess-heroine worshipped at Medaram.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Komuram",
+    "iast": "komurām",
+    "devanagari": "कोमुरम",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Tribal Gond hero Komaram Bheem's family name; etymology uncertain.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Manikanta",
+    "iast": "maṇikaṇṭha",
+    "devanagari": "मणिकण्ठ",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "With a jewel at the throat; Ayyappa.",
+    "components": [
+      {
+        "part": "maṇi",
+        "gloss": "jewel"
+      },
+      {
+        "part": "kaṇṭha",
+        "gloss": "throat"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ayyappa",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chandrabhaga",
+    "iast": "candrabhāgā",
+    "devanagari": "चन्द्रभागा",
+    "letter": "C",
+    "syllable_count": 4,
+    "meaning_en": "The river at Pandharpur.",
+    "components": [
+      {
+        "part": "candra",
+        "gloss": "moon"
+      },
+      {
+        "part": "bhāgā",
+        "gloss": "part"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vitthal",
+    "iast": "viṭṭhal",
+    "stem": "viṭṭhala",
+    "devanagari": "विठ्ठल",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Lord of Pandharpur.",
+    "components": [
+      {
+        "part": "viṭṭhala",
+        "gloss": "Vithoba"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Subhadeep",
+    "iast": "śubhadīp",
+    "stem": "śubhadīpa",
+    "devanagari": "शुभदीप",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Auspicious lamp.",
+    "components": [
+      {
+        "part": "śubha",
+        "gloss": "auspicious"
+      },
+      {
+        "part": "dīpa",
+        "gloss": "lamp"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Arunima",
+    "iast": "aruṇimā",
+    "devanagari": "अरुणिमा",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Dawn glow; reddish hue.",
+    "components": [
+      {
+        "part": "aruṇa",
+        "gloss": "dawn"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rituparna",
+    "iast": "ṛtuparṇa",
+    "devanagari": "ऋतुपर्णा",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "Leaf of the seasons; a king of Ayodhya.",
+    "components": [
+      {
+        "part": "ṛtu",
+        "gloss": "season"
+      },
+      {
+        "part": "parṇa",
+        "gloss": "leaf"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhaskarjyoti",
+    "iast": "bhāskarajyoti",
+    "devanagari": "भास्करज्योति",
+    "letter": "B",
+    "syllable_count": 5,
+    "meaning_en": "Light of the sun.",
+    "components": [
+      {
+        "part": "bhāskara",
+        "gloss": "sun"
+      },
+      {
+        "part": "jyoti",
+        "gloss": "light"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Assam"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hiranya",
+    "iast": "hiraṇya",
+    "devanagari": "हिरण्य",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Gold.",
+    "components": [
+      {
+        "part": "hiraṇya",
+        "gloss": "gold"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Assam"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Juri",
+    "iast": "jurī",
+    "devanagari": "जुरी",
+    "letter": "J",
+    "syllable_count": 2,
+    "meaning_en": "Pair; companion (Assamese).",
+    "components": [
+      {
+        "part": "jurī",
+        "gloss": "pair"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Assam"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sanajaoba",
+    "iast": "sanājāobā",
+    "devanagari": "सनाजाओबा",
+    "letter": "S",
+    "syllable_count": 5,
+    "meaning_en": "Manipuri name meaning king's ruler; etymology uncertain.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Manipur"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhanumati",
+    "iast": "bhānumatī",
+    "devanagari": "भानुमती",
+    "letter": "B",
+    "syllable_count": 4,
+    "meaning_en": "Radiant; a Manipuri-used epic name.",
+    "components": [
+      {
+        "part": "bhānu",
+        "gloss": "sun"
+      },
+      {
+        "part": "matī",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Manipur"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pushpanjali",
+    "iast": "puṣpāñjali",
+    "devanagari": "पुष्पाञ्जलि",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "Offering of flowers.",
+    "components": [
+      {
+        "part": "puṣpa",
+        "gloss": "flower"
+      },
+      {
+        "part": "añjali",
+        "gloss": "offering"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Goa"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Suvarna",
+    "iast": "suvarṇā",
+    "devanagari": "सुवर्णा",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Of good colour; golden.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "varṇa",
+        "gloss": "colour"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Goa"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Himani",
+    "iast": "himānī",
+    "devanagari": "हिमानी",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Mass of snow.",
+    "components": [
+      {
+        "part": "hima",
+        "gloss": "snow"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttarakhand"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nanda",
+    "iast": "nandā",
+    "devanagari": "नन्दा",
+    "letter": "N",
+    "syllable_count": 2,
+    "meaning_en": "Joy; goddess Nanda Devi.",
+    "components": [
+      {
+        "part": "nanda",
+        "gloss": "joy"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttarakhand"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kashmira",
+    "iast": "kāśmīrā",
+    "devanagari": "कश्मीरा",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Of Kashmir.",
+    "components": [
+      {
+        "part": "kāśmīra",
+        "gloss": "Kashmir"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Jammu and Kashmir"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vitasta",
+    "iast": "vitastā",
+    "devanagari": "वितस्ता",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "The Jhelum river.",
+    "components": [
+      {
+        "part": "vitastā",
+        "gloss": "river"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Jammu and Kashmir"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kalhan",
+    "iast": "kalhaṇ",
+    "stem": "kalhaṇa",
+    "devanagari": "कल्हण",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Name of the Kashmiri chronicler.",
+    "components": [
+      {
+        "part": "kalhaṇa",
+        "gloss": "name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Jammu and Kashmir"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "deity_epic_ref": "Rajatarangini",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-047-regional-both.json",
         "license": "original compilation"
       }
     ]
