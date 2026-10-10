@@ -12,7 +12,7 @@ _Last updated: 2026-10-10_
 
 | Measure | Count |
 |---|---|
-| Names listed (shown to users) | 1,816 |
+| Names listed (shown to users) | 1,905 |
 | - attested (found in texts, dictionaries or common use) | 994 |
 | - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 748 |
 | Hidden candidate records kept in data | ~18,700 |

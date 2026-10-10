@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Amitabh",
+    "verdict": "keep",
+    "reason": "Correct: amita + ābhā, of boundless light; also an epithet of light/Buddha but widely used Hindu boy name."
+  },
+  {
+    "name": "Anupam",
+    "verdict": "keep",
+    "reason": "Correct: incomparable (an + upamā)."
+  },
+  {
+    "name": "Ashwath",
+    "verdict": "keep",
+    "reason": "Sacred peepal (aśvattha), revered tree of the Gita; established name, esp. in South India."
+  },
+  {
+    "name": "Balkrishna",
+    "verdict": "keep",
+    "reason": "Correct: child Krishna."
+  },
+  {
+    "name": "Bhupesh",
+    "verdict": "keep",
+    "reason": "Correct: bhūpa + īśa, lord of kings; king."
+  },
+  {
+    "name": "Chandresh",
+    "verdict": "keep",
+    "reason": "Correct: candra + īśa, lord of the moon / Shiva who bears the moon."
+  },
+  {
+    "name": "Deepesh",
+    "verdict": "keep",
+    "reason": "Correct: lord of light/lamps."
+  },
+  {
+    "name": "Devdas",
+    "verdict": "keep",
+    "reason": "Correct: servant of God."
+  },
+  {
+    "name": "Dhanraj",
+    "verdict": "keep",
+    "reason": "Correct: king of wealth, Kubera."
+  },
+  {
+    "name": "Gaurishankar",
+    "verdict": "keep",
+    "reason": "Correct: Shiva with Gauri."
+  },
+  {
+    "name": "Gopikrishna",
+    "verdict": "keep",
+    "reason": "Correct: Krishna of the gopis."
+  },
+  {
+    "name": "Harendra",
+    "verdict": "fix",
+    "reason": "\"Lord of Hara\" is a misreading; hara + indra means Hara (Shiva) as the chief lord.",
+    "fix": {
+      "name": "Harendra",
+      "devanagari": "हरेन्द्र",
+      "iast": "harendra",
+      "meaning_en": "Lord Shiva (Hara) as the supreme lord."
+    }
+  },
+  {
+    "name": "Hemendra",
+    "verdict": "keep",
+    "reason": "Correct: lord of gold."
+  },
+  {
+    "name": "Hitendra",
+    "verdict": "fix",
+    "reason": "hita means welfare/benefit; \"lord of well-wishers\" is weak and loose.",
+    "fix": {
+      "name": "Hitendra",
+      "devanagari": "हितेन्द्र",
+      "iast": "hitendra",
+      "meaning_en": "Lord of welfare; one who wishes good for all."
+    }
+  },
+  {
+    "name": "Kailashnath",
+    "verdict": "keep",
+    "reason": "Correct: lord of Kailasa, Shiva; कैलास is the classical Sanskrit spelling (Hindi often कैलाश), acceptable."
+  },
+  {
+    "name": "Kashyap",
+    "verdict": "fix",
+    "reason": "Spelling Kashyap matches कश्यप (the sage), not काश्यप (Kāśyapa, his descendant); meaning adjusted accordingly.",
+    "fix": {
+      "name": "Kashyap",
+      "devanagari": "कश्यप",
+      "iast": "kaśyap",
+      "meaning_en": "The Vedic sage Kashyapa, one of the Saptarishis and father of gods and beings."
+    }
+  },
+  {
+    "name": "Kaushal",
+    "verdict": "keep",
+    "reason": "Correct: skill, proficiency (from kuśala)."
+  },
+  {
+    "name": "Madhukar",
+    "verdict": "keep",
+    "reason": "Correct: honey-maker, bee."
+  },
+  {
+    "name": "Mukesh",
+    "verdict": "fix",
+    "reason": "Etymology disputed: mukti + īśa does not regularly give mukeśa, and \"lord of Muka\" is misleading (Mūka was a demon slain by Shiva). State uncertainty honestly.",
+    "fix": {
+      "name": "Mukesh",
+      "devanagari": "मुकेश",
+      "iast": "mukeś",
+      "meaning_en": "Popularly \"lord of liberation\" (mukti + īśa), but this derivation is irregular; etymology uncertain."
+    }
+  },
+  {
+    "name": "Nandkishore",
+    "verdict": "keep",
+    "reason": "Correct: young son of Nanda, Krishna."
+  },
+  {
+    "name": "Pitambar",
+    "verdict": "keep",
+    "reason": "Correct: clad in yellow garments, Krishna/Vishnu."
+  },
+  {
+    "name": "Prashant",
+    "verdict": "keep",
+    "reason": "Correct: calm, tranquil."
+  },
+  {
+    "name": "Pravin",
+    "verdict": "keep",
+    "reason": "Correct: skilful, expert (प्रवीण)."
+  },
+  {
+    "name": "Pushpendra",
+    "verdict": "keep",
+    "reason": "Correct: lord of flowers."
+  },
+  {
+    "name": "Rakesh",
+    "verdict": "keep",
+    "reason": "Correct: rākā + īśa, lord of the full-moon night, the moon."
+  },
+  {
+    "name": "Ramdas",
+    "verdict": "keep",
+    "reason": "Correct: servant of Rama."
+  },
+  {
+    "name": "Ravishankar",
+    "verdict": "keep",
+    "reason": "Acceptable: ravi + śaṅkara, sun and Shiva / beneficent sun."
+  },
+  {
+    "name": "Rupesh",
+    "verdict": "keep",
+    "reason": "Correct: lord of beauty."
+  },
+  {
+    "name": "Sadanand",
+    "verdict": "keep",
+    "reason": "Correct: ever blissful."
+  },
+  {
+    "name": "Shekhar",
+    "verdict": "keep",
+    "reason": "Correct: crest, crown, peak."
+  },
+  {
+    "name": "Shivendra",
+    "verdict": "keep",
+    "reason": "Acceptable: Shiva as chief lord."
+  },
+  {
+    "name": "Somesh",
+    "verdict": "keep",
+    "reason": "Correct: lord of the moon, Shiva (cf. Someshvara)."
+  },
+  {
+    "name": "Sukesh",
+    "verdict": "keep",
+    "reason": "Correct: having beautiful hair; common name (a rakshasa Sukesha exists but was a Shiva devotee, not a notable villain)."
+  },
+  {
+    "name": "Sushil",
+    "verdict": "keep",
+    "reason": "Correct: of good character."
+  },
+  {
+    "name": "Swaroop",
+    "verdict": "keep",
+    "reason": "Correct: one's true form; beautiful."
+  },
+  {
+    "name": "Udit",
+    "verdict": "keep",
+    "reason": "Correct: risen, arisen."
+  },
+  {
+    "name": "Vijayendra",
+    "verdict": "keep",
+    "reason": "Correct: lord of victory."
+  },
+  {
+    "name": "Vikas",
+    "verdict": "keep",
+    "reason": "Correct: expansion, blossoming, development."
+  },
+  {
+    "name": "Vimal",
+    "verdict": "keep",
+    "reason": "Correct: pure, spotless."
+  },
+  {
+    "name": "Yadavendra",
+    "verdict": "keep",
+    "reason": "Correct: lord of the Yadavas, Krishna."
+  }
+]
