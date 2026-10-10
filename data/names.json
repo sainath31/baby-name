@@ -107255,5 +107255,406 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Ruchira",
+    "iast": "rucirā",
+    "devanagari": "रुचिरा",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Charming; radiant.",
+    "components": [
+      {
+        "part": "rucira",
+        "gloss": "charming"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-090-girls-west-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ruchika",
+    "iast": "rucikā",
+    "devanagari": "रुचिका",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Little radiance; liking.",
+    "components": [
+      {
+        "part": "ruci",
+        "gloss": "radiance"
+      },
+      {
+        "part": "-kā",
+        "gloss": "diminutive"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-090-girls-west-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shrutika",
+    "iast": "śrutikā",
+    "devanagari": "श्रुतिका",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Little scripture; one who is well heard.",
+    "components": [
+      {
+        "part": "śruti",
+        "gloss": "scripture"
+      },
+      {
+        "part": "-kā",
+        "gloss": "diminutive"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-090-girls-west-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Swarali",
+    "iast": "svarālī",
+    "devanagari": "स्वरालि",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "A row of musical notes.",
+    "components": [
+      {
+        "part": "svara",
+        "gloss": "note"
+      },
+      {
+        "part": "ālī",
+        "gloss": "row"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-090-girls-west-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vidula",
+    "iast": "vidulā",
+    "devanagari": "विदुला",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Learned woman; mother of Sanjaya in the Mahabharata.",
+    "components": [
+      {
+        "part": "vidula",
+        "gloss": "wise"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-090-girls-west-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Aboli",
+    "iast": "abolī",
+    "devanagari": "अबोली",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Crossandra, an orange flower.",
+    "components": [
+      {
+        "part": "aboli",
+        "gloss": "Marathi name of the flower"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-090-girls-west-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mugdha",
+    "iast": "mugdhā",
+    "devanagari": "मुग्धा",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Charming, innocent young woman.",
+    "components": [
+      {
+        "part": "mugdhā",
+        "gloss": "charming"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-090-girls-west-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bansari",
+    "iast": "vaṃśarī",
+    "devanagari": "बांसुरी",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Flute.",
+    "components": [
+      {
+        "part": "vaṃśī",
+        "gloss": "flute"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-090-girls-west-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Binal",
+    "iast": "bīnal",
+    "stem": "bīnala",
+    "devanagari": "बिनल",
+    "letter": "B",
+    "syllable_count": 2,
+    "meaning_en": "Gujarati modern name; etymology uncertain.",
+    "components": [
+      {
+        "part": "uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-090-girls-west-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Baishakhi",
+    "iast": "vaiśākhī",
+    "devanagari": "वैशाखी",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Born in the month of Vaishakha.",
+    "components": [
+      {
+        "part": "vaiśākha",
+        "gloss": "Vaishakha month"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-090-girls-west-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Joyeeta",
+    "iast": "jayitā",
+    "devanagari": "जयिता",
+    "letter": "J",
+    "syllable_count": 3,
+    "meaning_en": "Victorious woman.",
+    "components": [
+      {
+        "part": "jayitā",
+        "gloss": "victorious"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-090-girls-west-east.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nilanjana",
+    "iast": "nilāñjanā",
+    "devanagari": "नीलांजना",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Dark-eyed with blue collyrium.",
+    "components": [
+      {
+        "part": "nīla",
+        "gloss": "blue"
+      },
+      {
+        "part": "añjana",
+        "gloss": "collyrium"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-090-girls-west-east.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

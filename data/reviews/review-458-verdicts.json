@@ -1,0 +1,77 @@
+[
+ {
+  "name": "Ruchira",
+  "verdict": "keep",
+  "reason": "Sanskrit rucirā, charming; auspicious and correct."
+ },
+ {
+  "name": "Ruchika",
+  "verdict": "keep",
+  "reason": "rucikā, from ruci (radiance, liking); widely used."
+ },
+ {
+  "name": "Shrutika",
+  "verdict": "keep",
+  "reason": "śrutikā, derived from śruti; acceptable modern name."
+ },
+ {
+  "name": "Swarali",
+  "verdict": "fix",
+  "reason": "Devanagari short-i ending disagrees with IAST ālī.",
+  "fix": {
+   "devanagari": "स्वराली",
+   "iast": "svarālī",
+   "meaning_en": "A row or series of musical notes."
+  }
+ },
+ {
+  "name": "Vidula",
+  "verdict": "keep",
+  "reason": "vidulā, a Mahabharata figure (mother of Sanjaya) and a wise woman; correct."
+ },
+ {
+  "name": "Aboli",
+  "verdict": "keep",
+  "reason": "Marathi name of the crossandra flower; neutral and pleasant."
+ },
+ {
+  "name": "Mugdha",
+  "verdict": "keep",
+  "reason": "mugdhā, charming/innocent; classical and fine."
+ },
+ {
+  "name": "Bansari",
+  "verdict": "fix",
+  "reason": "IAST vaṃśarī did not match Devanagari बांसुरी; aligned to bāṃsurī.",
+  "fix": {
+   "devanagari": "बांसुरी",
+   "iast": "bāṃsurī",
+   "meaning_en": "Flute (bamboo flute, associated with Krishna)."
+  }
+ },
+ {
+  "name": "Binal",
+  "verdict": "reject",
+  "reason": "Etymology cannot be supported; no Sanskrit basis for bīnala."
+ },
+ {
+  "name": "Baishakhi",
+  "verdict": "keep",
+  "reason": "vaiśākhī, born in Vaishakha; iast and devanagari agree."
+ },
+ {
+  "name": "Joyeeta",
+  "verdict": "keep",
+  "reason": "Bengali form of jayitā, victorious; consistent."
+ },
+ {
+  "name": "Nilanjana",
+  "verdict": "fix",
+  "reason": "IAST and Devanagari disagreed on long vowels and conjunct.",
+  "fix": {
+   "devanagari": "नीलाञ्जना",
+   "iast": "nīlāñjanā",
+   "meaning_en": "One with dark-blue collyrium; dark-eyed."
+  }
+ }
+]
