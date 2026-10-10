@@ -1,0 +1,239 @@
+[
+  {
+    "name": "Amarnath",
+    "verdict": "keep",
+    "reason": "Common name; meaning and scripts correct."
+  },
+  {
+    "name": "Avadhesh",
+    "verdict": "keep",
+    "reason": "Common name for Rama; avadha + īśa sandhi correct."
+  },
+  {
+    "name": "Avighna",
+    "verdict": "keep",
+    "reason": "Used as a modern name; Ganesha association, meaning correct."
+  },
+  {
+    "name": "Bajrang",
+    "verdict": "fix",
+    "reason": "Devanagari/IAST gave the Sanskrit source vajrāṅga, not the name Bajrang; corrected to the Hindi form.",
+    "fix": {
+      "name": "Bajrang",
+      "devanagari": "बजरंग",
+      "iast": "bajaraṅga",
+      "meaning_en": "Body as strong as a thunderbolt (from Sanskrit vajrāṅga); Hanuman."
+    }
+  },
+  {
+    "name": "Bhairav",
+    "verdict": "keep",
+    "reason": "Established given name; meaning correct."
+  },
+  {
+    "name": "Bhuvanesh",
+    "verdict": "keep",
+    "reason": "Common name; meaning correct."
+  },
+  {
+    "name": "Chakrapani",
+    "verdict": "keep",
+    "reason": "Established name for Vishnu; correct."
+  },
+  {
+    "name": "Chandramouli",
+    "verdict": "keep",
+    "reason": "Common name for Shiva; correct."
+  },
+  {
+    "name": "Ganapati",
+    "verdict": "keep",
+    "reason": "Used as a given name; correct."
+  },
+  {
+    "name": "Ghanshyam",
+    "verdict": "keep",
+    "reason": "Common name for Krishna; correct."
+  },
+  {
+    "name": "Hara",
+    "verdict": "keep",
+    "reason": "Name of Shiva also used as a given name; meaning acceptable."
+  },
+  {
+    "name": "Janakiram",
+    "verdict": "keep",
+    "reason": "Common name; correct."
+  },
+  {
+    "name": "Kanha",
+    "verdict": "fix",
+    "reason": "IAST omitted the final long vowel of कान्हा.",
+    "fix": {
+      "name": "Kanha",
+      "devanagari": "कान्हा",
+      "iast": "kānhā",
+      "meaning_en": "A loving Hindi name for the child Krishna."
+    }
+  },
+  {
+    "name": "Kashinath",
+    "verdict": "keep",
+    "reason": "Common name; correct."
+  },
+  {
+    "name": "Kedarnath",
+    "verdict": "keep",
+    "reason": "Common name; correct."
+  },
+  {
+    "name": "Kesarinandan",
+    "verdict": "keep",
+    "reason": "Used as a name for Hanuman; scripts correct."
+  },
+  {
+    "name": "Lakshmikant",
+    "verdict": "keep",
+    "reason": "Common name; correct."
+  },
+  {
+    "name": "Muralidhar",
+    "verdict": "keep",
+    "reason": "Common name; correct."
+  },
+  {
+    "name": "Nandlal",
+    "verdict": "keep",
+    "reason": "Common name; correct."
+  },
+  {
+    "name": "Narahari",
+    "verdict": "keep",
+    "reason": "Established name; hari = lion here, meaning correct."
+  },
+  {
+    "name": "Navneet",
+    "verdict": "keep",
+    "reason": "Common name; meaning correct."
+  },
+  {
+    "name": "Parthasarathy",
+    "verdict": "keep",
+    "reason": "Common South Indian name; correct."
+  },
+  {
+    "name": "Rajaram",
+    "verdict": "keep",
+    "reason": "Common name in the राजाराम form; correct."
+  },
+  {
+    "name": "Sadashiv",
+    "verdict": "keep",
+    "reason": "Common name; correct."
+  },
+  {
+    "name": "Saravanan",
+    "verdict": "fix",
+    "reason": "IAST used Tamil ISO 'caravaṇaṉ', inconsistent with the Sanskrit-based Devanagari.",
+    "fix": {
+      "name": "Saravanan",
+      "devanagari": "शरवणन्",
+      "iast": "śaravaṇan",
+      "meaning_en": "Born in the Saravana reed lake; Murugan."
+    }
+  },
+  {
+    "name": "Senthil",
+    "verdict": "fix",
+    "reason": "Devanagari सेन्दिल् misspells the name; IAST used Tamil ISO; meaning tightened.",
+    "fix": {
+      "name": "Senthil",
+      "devanagari": "सेन्तिल्",
+      "iast": "sentil",
+      "meaning_en": "Murugan, named after Senthil (Tiruchendur), his shore shrine."
+    }
+  },
+  {
+    "name": "Shanmugam",
+    "verdict": "fix",
+    "reason": "IAST ṣaṇmukam did not match the Devanagari षण्मुगम्.",
+    "fix": {
+      "name": "Shanmugam",
+      "devanagari": "षण्मुगम्",
+      "iast": "ṣaṇmugam",
+      "meaning_en": "Six-faced; Murugan (Tamil form of Shanmukha)."
+    }
+  },
+  {
+    "name": "Shripati",
+    "verdict": "keep",
+    "reason": "Established name; correct."
+  },
+  {
+    "name": "Shubhankar",
+    "verdict": "keep",
+    "reason": "Common name; correct."
+  },
+  {
+    "name": "Shyam",
+    "verdict": "keep",
+    "reason": "Common name; correct."
+  },
+  {
+    "name": "Sitaram",
+    "verdict": "keep",
+    "reason": "Common devotional given name; acceptable."
+  },
+  {
+    "name": "Somnath",
+    "verdict": "keep",
+    "reason": "Common name; correct."
+  },
+  {
+    "name": "Sumukh",
+    "verdict": "keep",
+    "reason": "Used as a name; correct."
+  },
+  {
+    "name": "Tripurari",
+    "verdict": "keep",
+    "reason": "Established name for Shiva; correct."
+  },
+  {
+    "name": "Vaikunth",
+    "verdict": "keep",
+    "reason": "Used as a given name; correct."
+  },
+  {
+    "name": "Vanamali",
+    "verdict": "fix",
+    "reason": "Script gave the stem vanamālin; the name is the nominative vanamālī.",
+    "fix": {
+      "name": "Vanamali",
+      "devanagari": "वनमाली",
+      "iast": "vanamālī",
+      "meaning_en": "Wearing a garland of forest flowers; Krishna."
+    }
+  },
+  {
+    "name": "Velan",
+    "verdict": "fix",
+    "reason": "IAST used Tamil ISO 'vēlaṉ'; aligned with the Devanagari.",
+    "fix": {
+      "name": "Velan",
+      "devanagari": "वेलन्",
+      "iast": "velan",
+      "meaning_en": "Bearer of the vel (spear); Murugan."
+    }
+  },
+  {
+    "name": "Vishwanath",
+    "verdict": "keep",
+    "reason": "Common name; correct."
+  },
+  {
+    "name": "Yadunandan",
+    "verdict": "keep",
+    "reason": "Established name for Krishna; correct."
+  }
+]
