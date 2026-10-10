@@ -108601,5 +108601,37 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Mukti",
+    "iast": "mukti",
+    "devanagari": "मुक्ति",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Liberation.",
+    "components": [
+      {
+        "part": "mukti",
+        "gloss": "release"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-094-nature-hindi.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
