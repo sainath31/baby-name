@@ -1,0 +1,119 @@
+[
+ {
+  "name": "Abhik",
+  "verdict": "keep",
+  "reason": "Bengali boy name; abhīka, fearless; script matches."
+ },
+ {
+  "name": "Anjaneyulu",
+  "verdict": "keep",
+  "reason": "Common Telugu boy name, respectful -lu form of Anjaneya (Hanuman)."
+ },
+ {
+  "name": "Atanu",
+  "verdict": "keep",
+  "reason": "Established Bengali boy name; epithet of Kamadeva, bodiless."
+ },
+ {
+  "name": "Channabasava",
+  "verdict": "keep",
+  "reason": "Kannada Lingayat boy name (channa, beautiful + Basava); honours Channabasavanna."
+ },
+ {
+  "name": "Gururaj",
+  "verdict": "keep",
+  "reason": "Common Kannada/Madhva boy name; king of gurus, Raghavendra Swami."
+ },
+ {
+  "name": "Koteswara",
+  "verdict": "fix",
+  "reason": "Name as written is Koṭeśvara (Telugu Koteswara Rao, Kotappakonda Koteswara Swamy); Devanagari/IAST had koṭīśvara.",
+  "fix": {
+   "name": "Koteswara",
+   "devanagari": "कोटेश्वर",
+   "iast": "koṭeśvara",
+   "meaning_en": "Lord of crores; Shiva of Kotappakonda."
+  }
+ },
+ {
+  "name": "Lakshminarayana",
+  "verdict": "keep",
+  "reason": "Common South Indian boy name; Vishnu with Lakshmi."
+ },
+ {
+  "name": "Mahadevappa",
+  "verdict": "fix",
+  "reason": "Kannada ends in short a (ಮಹಾದೇವಪ್ಪ); Devanagari had long ā, mismatching IAST.",
+  "fix": {
+   "name": "Mahadevappa",
+   "devanagari": "महादेवप्प",
+   "iast": "mahādevappa",
+   "meaning_en": "Mahadeva (Shiva) with the Kannada honorific -appa."
+  }
+ },
+ {
+  "name": "Mallesh",
+  "verdict": "keep",
+  "reason": "Common Kannada/Telugu boy name; Malleśa, Shiva as Mallikarjuna."
+ },
+ {
+  "name": "Nageswara",
+  "verdict": "keep",
+  "reason": "Common Telugu boy name (Nageswara Rao); lord of serpents, Shiva."
+ },
+ {
+  "name": "Prafulla",
+  "verdict": "keep",
+  "reason": "Established Odia/Bengali boy name; blooming, cheerful."
+ },
+ {
+  "name": "Ravikiran",
+  "verdict": "keep",
+  "reason": "Common boy name; ray of the sun."
+ },
+ {
+  "name": "Satyabrata",
+  "verdict": "keep",
+  "reason": "Common Bengali/Odia boy name; Bengali b renders Sanskrit satyavrata, so script is correct."
+ },
+ {
+  "name": "Seshagiri",
+  "verdict": "keep",
+  "reason": "Common Telugu boy name; Shesha hill, i.e. Lord of Tirumala (Venkateswara)."
+ },
+ {
+  "name": "Shubhendu",
+  "verdict": "keep",
+  "reason": "Bengali/Odia boy name; auspicious moon."
+ },
+ {
+  "name": "Subhojit",
+  "verdict": "keep",
+  "reason": "Common Bengali boy name (Bengali o for śubhajit); one who wins auspiciousness."
+ },
+ {
+  "name": "Sukanta",
+  "verdict": "keep",
+  "reason": "Established Bengali boy name; very handsome."
+ },
+ {
+  "name": "Suryanarayana",
+  "verdict": "keep",
+  "reason": "Common Telugu/Odia boy name; the Sun as Narayana."
+ },
+ {
+  "name": "Vadiraj",
+  "verdict": "keep",
+  "reason": "Kannada Madhva boy name after Vadiraja Tirtha; king among debaters."
+ },
+ {
+  "name": "Veeresh",
+  "verdict": "keep",
+  "reason": "Common Kannada boy name; lord of heroes, Shiva/Veerabhadra."
+ },
+ {
+  "name": "Venkateswarlu",
+  "verdict": "keep",
+  "reason": "Very common Telugu boy name, respectful -lu form of Venkateswara."
+ }
+]
