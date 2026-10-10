@@ -1,0 +1,14 @@
+[
+{"name":"Gopala Krishna","verdict":"keep","reason":"Krishna as cowherd; IAST matches Devanagari word by word."},
+{"name":"Uma Shankar","verdict":"keep","reason":"Shiva, lord of Uma; common traditional name."},
+{"name":"Ganga Prasad","verdict":"keep","reason":"Gift of the Ganga; common family name."},
+{"name":"Chandra Bhushan","verdict":"keep","reason":"Moon-adorned, epithet of Shiva; fine."},
+{"name":"Kishore Kumar","verdict":"reject","reason":"other"},
+{"name":"Mahesh Babu","verdict":"reject","reason":"title_or_honorific"},
+{"name":"Nanda Gopal","verdict":"keep","reason":"Krishna as Nanda's cowherd; fine."},
+{"name":"Raghu Ram","verdict":"keep","reason":"Rama of the Raghu line; used by families."},
+{"name":"Murali Krishna","verdict":"keep","reason":"Krishna with the flute; very common."},
+{"name":"Murali Mohan","verdict":"keep","reason":"Charming flute-player, Krishna epithet."},
+{"name":"Brij Kishore","verdict":"keep","reason":"Youth of Braj; IAST vraja is the correct Sanskrit form of Brij."},
+{"name":"Braj Bhushan","verdict":"keep","reason":"Ornament of Braj; distinct from Brij Kishore, spelling variant Braj/Brij only in first word."}
+]
