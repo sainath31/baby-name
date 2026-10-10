@@ -114140,5 +114140,660 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Amaresh",
+    "iast": "amareś",
+    "stem": "amareśa",
+    "devanagari": "अमरेश",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Lord of the immortals; Indra; Shiva.",
+    "components": [
+      {
+        "part": "amara",
+        "gloss": "immortal"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Amiya",
+    "iast": "amiya",
+    "devanagari": "अमिय",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Nectar; immortality.",
+    "components": [
+      {
+        "part": "amiya",
+        "gloss": "nectar"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anukul",
+    "iast": "anukūl",
+    "stem": "anukūla",
+    "devanagari": "अनुकूल",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Favourable; propitious.",
+    "components": [
+      {
+        "part": "anukūla",
+        "gloss": "favourable"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Arkaprabha",
+    "iast": "arkaprabha",
+    "devanagari": "अर्कप्रभ",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Radiance of the sun.",
+    "components": [
+      {
+        "part": "arka",
+        "gloss": "sun"
+      },
+      {
+        "part": "prabhā",
+        "gloss": "radiance"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Arunabh",
+    "iast": "aruṇābh",
+    "stem": "aruṇābha",
+    "devanagari": "अरुणाभ",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Dawn-coloured.",
+    "components": [
+      {
+        "part": "aruṇa",
+        "gloss": "dawn"
+      },
+      {
+        "part": "ābha",
+        "gloss": "hue"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Balmukund",
+    "iast": "bālamukund",
+    "stem": "bālamukunda",
+    "devanagari": "बालमुकुन्द",
+    "letter": "B",
+    "syllable_count": 4,
+    "meaning_en": "The child Krishna.",
+    "components": [
+      {
+        "part": "bāla",
+        "gloss": "child"
+      },
+      {
+        "part": "mukunda",
+        "gloss": "Krishna"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Banamali",
+    "iast": "vanamālī",
+    "devanagari": "वनमाली",
+    "letter": "B",
+    "syllable_count": 4,
+    "meaning_en": "Wearer of a forest garland; Krishna.",
+    "components": [
+      {
+        "part": "vana",
+        "gloss": "forest"
+      },
+      {
+        "part": "mālin",
+        "gloss": "garlanded"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhadresh",
+    "iast": "bhadreś",
+    "stem": "bhadreśa",
+    "devanagari": "भद्रेश",
+    "letter": "B",
+    "syllable_count": 2,
+    "meaning_en": "Lord of the auspicious.",
+    "components": [
+      {
+        "part": "bhadra",
+        "gloss": "auspicious"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bharatesh",
+    "iast": "bharateś",
+    "stem": "bharateśa",
+    "devanagari": "भरतेश",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Lord of Bharata.",
+    "components": [
+      {
+        "part": "bharata",
+        "gloss": "Bharata"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Budhaditya",
+    "iast": "budhāditya",
+    "devanagari": "बुधादित्य",
+    "letter": "B",
+    "syllable_count": 4,
+    "meaning_en": "Mercury and sun in conjunction; learned like the sun.",
+    "components": [
+      {
+        "part": "budha",
+        "gloss": "wise"
+      },
+      {
+        "part": "āditya",
+        "gloss": "sun"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chittaranjan",
+    "iast": "cittarañjan",
+    "stem": "cittarañjana",
+    "devanagari": "चित्तरञ्जन",
+    "letter": "C",
+    "syllable_count": 4,
+    "meaning_en": "Delighter of the mind.",
+    "components": [
+      {
+        "part": "citta",
+        "gloss": "mind"
+      },
+      {
+        "part": "rañjana",
+        "gloss": "pleasing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dattaram",
+    "iast": "dattarām",
+    "stem": "dattarāma",
+    "devanagari": "दत्ताराम",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Given by Rama.",
+    "components": [
+      {
+        "part": "datta",
+        "gloss": "given"
+      },
+      {
+        "part": "Rāma",
+        "gloss": "Rama"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Digambar",
+    "iast": "digambar",
+    "stem": "digambara",
+    "devanagari": "दिगम्बर",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Sky-clad; Shiva; ascetic.",
+    "components": [
+      {
+        "part": "dig",
+        "gloss": "directions"
+      },
+      {
+        "part": "ambara",
+        "gloss": "garment"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dwarkanath",
+    "iast": "dvārakānāth",
+    "stem": "dvārakānātha",
+    "devanagari": "द्वारकानाथ",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "Lord of Dwarka; Krishna.",
+    "components": [
+      {
+        "part": "dvārakā",
+        "gloss": "Dwarka"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dwaipayan",
+    "iast": "dvaipāyan",
+    "stem": "dvaipāyana",
+    "devanagari": "द्वैपायन",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Island-born; Vyasa.",
+    "components": [
+      {
+        "part": "dvīpa",
+        "gloss": "island"
+      },
+      {
+        "part": "-āyana",
+        "gloss": "born"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gadadhar",
+    "iast": "gadādhar",
+    "stem": "gadādhara",
+    "devanagari": "गदाधर",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Bearer of the mace; Vishnu.",
+    "components": [
+      {
+        "part": "gadā",
+        "gloss": "mace"
+      },
+      {
+        "part": "dhara",
+        "gloss": "bearer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gokulesh",
+    "iast": "gokuleś",
+    "stem": "gokuleśa",
+    "devanagari": "गोकुलेश",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Lord of Gokul; Krishna.",
+    "components": [
+      {
+        "part": "gokula",
+        "gloss": "Gokul"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hanumat",
+    "iast": "hanumat",
+    "devanagari": "हनुमत्",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Having prominent jaws; Hanuman.",
+    "components": [
+      {
+        "part": "hanu",
+        "gloss": "jaw"
+      },
+      {
+        "part": "-mat",
+        "gloss": "possessing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Ramayana",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-110-boys6.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

@@ -1,0 +1,20 @@
+[
+{"name":"Amaresh","verdict":"keep","reason":"Correct amara+īśa; IAST and Devanagari agree."},
+{"name":"Amiya","verdict":"fix","reason":"Suitable Bengali name, but amiya is a vernacular/Prakrit form of amṛta, not classical Sanskrit; meaning note corrected.","fix":{"meaning_en":"Nectar (vernacular form of amṛta); immortality."}},
+{"name":"Anukul","verdict":"keep","reason":"anukūla; Bengali/Hindi final-a drop, Devanagari matches IAST."},
+{"name":"Arkaprabha","verdict":"keep","reason":"arka+prabhā; established Bengali boy's name, scripts agree (final a dropped in Devanagari)."},
+{"name":"Arunabh","verdict":"keep","reason":"aruṇa+ābha, sandhi correct; final a dropped consistently."},
+{"name":"Balmukund","verdict":"keep","reason":"bāla+mukunda, Krishna name; Hindi spelling consistent with Devanagari."},
+{"name":"Banamali","verdict":"keep","reason":"Bengali form of vanamālī; Krishna name, scripts agree."},
+{"name":"Bhadresh","verdict":"keep","reason":"bhadra+īśa sandhi correct; scripts agree."},
+{"name":"Bharatesh","verdict":"keep","reason":"bharata+īśa sandhi correct; used in Karnataka (also Jain association, but valid given name); scripts agree."},
+{"name":"Budhaditya","verdict":"reject","reason":"common_noun_or_technical_term"},
+{"name":"Chittaranjan","verdict":"keep","reason":"cittarañjana; well-attested name, scripts agree."},
+{"name":"Dattaram","verdict":"fix","reason":"Devanagari had long ā (दत्ताराम = dattārāma) which contradicts IAST dattarāma; corrected to match.","fix":{"devanagari":"दत्तराम"}},
+{"name":"Digambar","verdict":"reject","reason":"epithet_not_given_name"},
+{"name":"Dwarkanath","verdict":"keep","reason":"dvārakā+nātha; scripts agree."},
+{"name":"Dwaipayan","verdict":"keep","reason":"dvaipāyana, Vyasa epithet widely used as Bengali given name; scripts agree."},
+{"name":"Gadadhar","verdict":"keep","reason":"gadādhara, Vishnu/Krishna name; scripts agree."},
+{"name":"Gokulesh","verdict":"keep","reason":"gokula+īśa sandhi correct; scripts agree."},
+{"name":"Hanumat","verdict":"reject","reason":"deity_not_for_person"}
+]
