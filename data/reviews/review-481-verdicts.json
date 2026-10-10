@@ -1,0 +1,85 @@
+[
+ {
+  "name": "Dwij",
+  "verdict": "keep",
+  "reason": "dvija, twice-born; also bird, moon; attested boy's name"
+ },
+ {
+  "name": "Ekam",
+  "verdict": "keep",
+  "reason": "eka, one; accepted spiritual name"
+ },
+ {
+  "name": "Gatik",
+  "verdict": "reject",
+  "reason": "other: gatika is not a well-attested Sanskrit word; weak modern coinage"
+ },
+ {
+  "name": "Jayan",
+  "verdict": "keep",
+  "reason": "jayana, conquering; established usage, esp. Kerala"
+ },
+ {
+  "name": "Nitesh",
+  "verdict": "fix",
+  "reason": "nīti+īśa merges to nītīśa (Nitish), not nīteśa; sandhi wrong",
+  "fix": {
+   "name": "Nitish",
+   "devanagari": "नीतीश",
+   "iast": "nītīśa",
+   "meaning_en": "Lord of right conduct (nīti + īśa)."
+  }
+ },
+ {
+  "name": "Pahal",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Hindi word for initiative, not Sanskrit; iast pahala unsupported"
+ },
+ {
+  "name": "Parav",
+  "verdict": "reject",
+  "reason": "other: parāva not attested; unsupported modern coinage"
+ },
+ {
+  "name": "Smayan",
+  "verdict": "reject",
+  "reason": "other: smayana is rare and weakly attested as a name; coinage"
+ },
+ {
+  "name": "Tathya",
+  "verdict": "keep",
+  "reason": "tathya, true, real; acceptable though uncommon"
+ },
+ {
+  "name": "Avyukt",
+  "verdict": "reject",
+  "reason": "other: avyukta means not joined/unharnessed, a weak and ill-fitting name; Avyakta is the real term"
+ },
+ {
+  "name": "Shivay",
+  "verdict": "reject",
+  "reason": "other: śivāya is the dative case form from Namah Shivaya, a phrase fragment, not a given name"
+ },
+ {
+  "name": "Anish",
+  "verdict": "fix",
+  "reason": "IAST/Devanagari disagree; correct is anīśa",
+  "fix": {
+   "name": "Anish",
+   "devanagari": "अनीश",
+   "iast": "anīśa",
+   "meaning_en": "Having no superior; supreme lord (an + īśa)."
+  }
+ },
+ {
+  "name": "Sagnik",
+  "verdict": "fix",
+  "reason": "IAST sāgnika vs Devanagari सग्निक disagree; sāgnika attested (keeping sacred fire)",
+  "fix": {
+   "name": "Sagnik",
+   "devanagari": "साग्निक",
+   "iast": "sāgnika",
+   "meaning_en": "Keeper of the sacred fire; accompanied by fire (sa + agni)."
+  }
+ }
+]

@@ -115229,5 +115229,456 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Dwij",
+    "iast": "dvij",
+    "stem": "dvija",
+    "devanagari": "द्विज",
+    "letter": "D",
+    "syllable_count": 1,
+    "meaning_en": "Twice-born; bird; the moon.",
+    "components": [
+      {
+        "part": "dvi",
+        "gloss": "twice"
+      },
+      {
+        "part": "ja",
+        "gloss": "born"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-112-boys8.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ekam",
+    "iast": "ekam",
+    "devanagari": "एकम्",
+    "letter": "E",
+    "syllable_count": 2,
+    "meaning_en": "The one; unity; first.",
+    "components": [
+      {
+        "part": "eka",
+        "gloss": "one"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-112-boys8.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gatik",
+    "iast": "gatik",
+    "stem": "gatika",
+    "devanagari": "गतिक",
+    "letter": "G",
+    "syllable_count": 2,
+    "meaning_en": "Having motion; swift.",
+    "components": [
+      {
+        "part": "gati",
+        "gloss": "motion"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-112-boys8.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jayan",
+    "iast": "jayan",
+    "stem": "jayana",
+    "devanagari": "जयन",
+    "letter": "J",
+    "syllable_count": 2,
+    "meaning_en": "Victorious; conquering.",
+    "components": [
+      {
+        "part": "ji",
+        "gloss": "conquer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-112-boys8.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nitesh",
+    "iast": "nīteś",
+    "stem": "nīteśa",
+    "devanagari": "नीतेश",
+    "letter": "N",
+    "syllable_count": 2,
+    "meaning_en": "Lord of right conduct.",
+    "components": [
+      {
+        "part": "nīti",
+        "gloss": "conduct"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-112-boys8.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pahal",
+    "iast": "pahal",
+    "stem": "pahala",
+    "devanagari": "पहल",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Initiative; beginning.",
+    "components": [
+      {
+        "part": "pahal",
+        "gloss": "initiative (Hindi)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-112-boys8.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Parav",
+    "iast": "parāv",
+    "stem": "parāva",
+    "devanagari": "पराव",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Beyond; supreme.",
+    "components": [
+      {
+        "part": "para",
+        "gloss": "beyond"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-112-boys8.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Smayan",
+    "iast": "smayan",
+    "stem": "smayana",
+    "devanagari": "स्मयन",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Smiling; wondering.",
+    "components": [
+      {
+        "part": "smi",
+        "gloss": "smile"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-112-boys8.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tathya",
+    "iast": "tathya",
+    "devanagari": "तथ्य",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "Truth; reality.",
+    "components": [
+      {
+        "part": "tathya",
+        "gloss": "truth"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-112-boys8.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Avyukt",
+    "iast": "avyukt",
+    "stem": "avyukta",
+    "devanagari": "अव्युक्त",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Unmanifest; unbound.",
+    "components": [
+      {
+        "part": "a",
+        "gloss": "not"
+      },
+      {
+        "part": "vyukta",
+        "gloss": "separated"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-112-boys8.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shivay",
+    "iast": "śivāy",
+    "stem": "śivāya",
+    "devanagari": "शिवाय",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "To Shiva; salutation.",
+    "components": [
+      {
+        "part": "śiva",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "-āya",
+        "gloss": "to"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-112-boys8.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anish",
+    "iast": "aniś",
+    "stem": "aniśa",
+    "devanagari": "अनीश",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Supreme; without a lord.",
+    "components": [
+      {
+        "part": "a",
+        "gloss": "without"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-112-boys8.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sagnik",
+    "iast": "sāgnik",
+    "stem": "sāgnika",
+    "devanagari": "सग्निक",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Possessing the sacred fire.",
+    "components": [
+      {
+        "part": "sa",
+        "gloss": "with"
+      },
+      {
+        "part": "agni",
+        "gloss": "fire"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-112-boys8.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
