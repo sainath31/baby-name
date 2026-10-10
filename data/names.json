@@ -103953,5 +103953,884 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Aarushi",
+    "iast": "ārūṣī",
+    "devanagari": "आरुषी",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "First ray of the sun; dawn.",
+    "components": [
+      {
+        "part": "aruṣa",
+        "gloss": "dawn"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Aishani",
+    "iast": "aiśānī",
+    "devanagari": "ऐशानी",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Of Ishana; north-east; Parvati.",
+    "components": [
+      {
+        "part": "īśāna",
+        "gloss": "Shiva"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anvika",
+    "iast": "anvikā",
+    "devanagari": "अन्विका",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Gifted with knowledge; modern coinage.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhavika",
+    "iast": "bhāvikā",
+    "devanagari": "भाविका",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Emotional; devotional.",
+    "components": [
+      {
+        "part": "bhāvika",
+        "gloss": "sentimental"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Charita",
+    "iast": "caritā",
+    "devanagari": "चरिता",
+    "letter": "C",
+    "syllable_count": 3,
+    "meaning_en": "Conduct; character.",
+    "components": [
+      {
+        "part": "carita",
+        "gloss": "conduct"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Devanshi",
+    "iast": "devāṃśī",
+    "devanagari": "देवांशी",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Part of the divine.",
+    "components": [
+      {
+        "part": "deva",
+        "gloss": "god"
+      },
+      {
+        "part": "aṃśa",
+        "gloss": "part"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dhwani",
+    "iast": "dhvani",
+    "devanagari": "ध्वनि",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Sound; echo.",
+    "components": [
+      {
+        "part": "dhvani",
+        "gloss": "sound"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Drishti",
+    "iast": "dṛṣṭi",
+    "devanagari": "दृष्टि",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Vision; sight.",
+    "components": [
+      {
+        "part": "dṛṣṭi",
+        "gloss": "sight"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hetvi",
+    "iast": "hetvī",
+    "devanagari": "हेत्वी",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Loving; a gift from the heavens (modern).",
+    "components": [
+      {
+        "part": "hetu",
+        "gloss": "cause"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Himaja",
+    "iast": "himajā",
+    "devanagari": "हिमजा",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Born of the Himalaya; Parvati.",
+    "components": [
+      {
+        "part": "hima",
+        "gloss": "snow"
+      },
+      {
+        "part": "jā",
+        "gloss": "born"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hrida",
+    "iast": "hṛdā",
+    "devanagari": "हृदा",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Of the heart.",
+    "components": [
+      {
+        "part": "hṛd",
+        "gloss": "heart"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kairavi",
+    "iast": "kairavī",
+    "devanagari": "कैरवी",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Moonlight; white water lily.",
+    "components": [
+      {
+        "part": "kairava",
+        "gloss": "night lotus"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kashvi",
+    "iast": "kāśvī",
+    "devanagari": "काश्वी",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Shining; modern coinage.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Lakshita",
+    "iast": "lakṣitā",
+    "devanagari": "लक्षिता",
+    "letter": "L",
+    "syllable_count": 3,
+    "meaning_en": "Aimed at; perceived.",
+    "components": [
+      {
+        "part": "lakṣita",
+        "gloss": "marked"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Manvi",
+    "iast": "mānavī",
+    "devanagari": "मानवी",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Human woman; descendant of Manu.",
+    "components": [
+      {
+        "part": "mānava",
+        "gloss": "human"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nivedita",
+    "iast": "niveditā",
+    "devanagari": "निवेदिता",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Dedicated; offered.",
+    "components": [
+      {
+        "part": "nivedita",
+        "gloss": "offered"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rishita",
+    "iast": "ṛṣitā",
+    "devanagari": "ऋषिता",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Sage-like; wise woman.",
+    "components": [
+      {
+        "part": "ṛṣi",
+        "gloss": "sage"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ridhima",
+    "iast": "ṛddhimā",
+    "devanagari": "ऋद्धिमा",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Prosperous.",
+    "components": [
+      {
+        "part": "ṛddhi",
+        "gloss": "prosperity"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sinchana",
+    "iast": "siñcanā",
+    "devanagari": "सिंचना",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Sprinkling; nourishing.",
+    "components": [
+      {
+        "part": "siñcana",
+        "gloss": "sprinkling"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tanvika",
+    "iast": "tanvikā",
+    "devanagari": "तन्विका",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Delicate.",
+    "components": [
+      {
+        "part": "tanvī",
+        "gloss": "slender"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Urvi",
+    "iast": "urvī",
+    "devanagari": "उर्वी",
+    "letter": "U",
+    "syllable_count": 2,
+    "meaning_en": "The earth.",
+    "components": [
+      {
+        "part": "urvī",
+        "gloss": "earth"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vihana",
+    "iast": "vihāna",
+    "devanagari": "विहाना",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Dawn.",
+    "components": [
+      {
+        "part": "vihāna",
+        "gloss": "morning"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Aaryan",
+    "iast": "āryan",
+    "devanagari": "आर्यन",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Noble; honourable.",
+    "components": [
+      {
+        "part": "ārya",
+        "gloss": "noble"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Advik",
+    "iast": "advik",
+    "stem": "advika",
+    "devanagari": "अद्विक",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Unique.",
+    "components": [
+      {
+        "part": "advitīya",
+        "gloss": "unique"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Arush",
+    "iast": "aruṣ",
+    "stem": "aruṣa",
+    "devanagari": "अरुष",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Red; the first ray of the sun.",
+    "components": [
+      {
+        "part": "aruṣa",
+        "gloss": "ruddy"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Krishiv",
+    "iast": "kṛṣiv",
+    "stem": "kṛṣiva",
+    "devanagari": "कृशिव",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Krishna and Shiva.",
+    "components": [
+      {
+        "part": "kṛṣṇa",
+        "gloss": "Krishna"
+      },
+      {
+        "part": "śiva",
+        "gloss": "Shiva"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Taksh",
+    "iast": "takṣ",
+    "stem": "takṣa",
+    "devanagari": "तक्ष",
+    "letter": "T",
+    "syllable_count": 1,
+    "meaning_en": "Son of Bharata; a carpenter.",
+    "components": [
+      {
+        "part": "takṣa",
+        "gloss": "builder"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "deity_epic_ref": "Ramayana",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-083-modern-gaps.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
