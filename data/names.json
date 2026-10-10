@@ -41407,5 +41407,38 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Venkat",
+    "iast": "veṅkaṭ",
+    "stem": "veṅkaṭa",
+    "devanagari": "वेंकट",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Short form of Venkateshwara; the lord of the Venkata hill.",
+    "components": [
+      {
+        "part": "veṅkaṭa",
+        "gloss": "the Venkata hill"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-035-telugu-kannada.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
