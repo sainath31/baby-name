@@ -1,0 +1,176 @@
+[
+ {
+  "name": "Ananda Mohan",
+  "verdict": "keep",
+  "reason": "Well-formed, commonly given name with a correct meaning."
+ },
+ {
+  "name": "Annapurna Devi",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Devi is an honorific suffix added to the name Annapurna, which is itself a goddess name; not a distinct given name."
+ },
+ {
+  "name": "Arun Kumar",
+  "verdict": "fix",
+  "reason": "Meaning refined.",
+  "fix": {
+   "meaning_en": "Youth of the reddish dawn; Aruna is the dawn glow and Kumara a youth or prince.",
+   "iast": "aruṇakumāra"
+  }
+ },
+ {
+  "name": "Dev Narayan",
+  "verdict": "keep",
+  "reason": "Well-formed, commonly given name with a correct meaning."
+ },
+ {
+  "name": "Gyan Chand",
+  "verdict": "fix",
+  "reason": "IAST was truncated; spoken form completed.",
+  "fix": {
+   "iast": "jñānacandra",
+   "meaning_en": "Moon of knowledge."
+  }
+ },
+ {
+  "name": "Hari Govind",
+  "verdict": "fix",
+  "reason": "Meaning was a bare list; both are names of Vishnu.",
+  "fix": {
+   "iast": "harigovinda",
+   "meaning_en": "Hari, the remover of sorrow, and Govinda, protector of cows; both are names of Vishnu."
+  }
+ },
+ {
+  "name": "Hari Shankar",
+  "verdict": "fix",
+  "reason": "IAST completed; meaning clarified.",
+  "fix": {
+   "iast": "hariśaṅkara",
+   "meaning_en": "Hari (Vishnu) and Shankara (Shiva) together, a name expressing devotion to both."
+  }
+ },
+ {
+  "name": "Jai Prakash",
+  "verdict": "fix",
+  "reason": "IAST completed.",
+  "fix": {
+   "iast": "jayaprakāśa",
+   "meaning_en": "Light of victory."
+  }
+ },
+ {
+  "name": "Jaya Prada",
+  "verdict": "keep",
+  "reason": "Well-formed, commonly given name with a correct meaning."
+ },
+ {
+  "name": "Jyoti Prakash",
+  "verdict": "fix",
+  "reason": "IAST completed; meaning is a reduplicative sense.",
+  "fix": {
+   "iast": "jyotiprakāśa",
+   "meaning_en": "Radiance of light; shining brilliance."
+  }
+ },
+ {
+  "name": "Kamla Devi",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Devi is an honorific suffix after Kamala; not a separate given name."
+ },
+ {
+  "name": "Maha Gauri",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Mahagauri is the eighth Navadurga form of the goddess; not normally given as a personal name."
+ },
+ {
+  "name": "Mohan Lal",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Lal (beloved son) is a surname-style suffix; this is the Mohan + Lal form rather than a distinct name. Judged by the brief, though Mohanlal is used as a given name in some regions."
+ },
+ {
+  "name": "Pran Nath",
+  "verdict": "fix",
+  "reason": "IAST completed.",
+  "fix": {
+   "iast": "prāṇanātha",
+   "meaning_en": "Lord of life; beloved."
+  }
+ },
+ {
+  "name": "Pratap Rao",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Rao is a title or surname-style suffix; the IAST rāva is also not the actual Marathi/Telugu Rao form."
+ },
+ {
+  "name": "Prem Lata",
+  "verdict": "keep",
+  "reason": "Well-formed, commonly given name with a correct meaning."
+ },
+ {
+  "name": "Raj Kamal",
+  "verdict": "fix",
+  "reason": "IAST completed; meaning corrected.",
+  "fix": {
+   "iast": "rājakamala",
+   "meaning_en": "Royal lotus."
+  }
+ },
+ {
+  "name": "Raj Kumari",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Means princess, a title rather than a given name."
+ },
+ {
+  "name": "Ratna Prabha",
+  "verdict": "keep",
+  "reason": "Well-formed, commonly given name with a correct meaning."
+ },
+ {
+  "name": "Sachin Dev",
+  "verdict": "fix",
+  "reason": "Original meaning unsupported; etymology of Sachin uncertain.",
+  "fix": {
+   "iast": "sacindeva",
+   "meaning_en": "Sachin (etymology uncertain) with Deva, divine."
+  }
+ },
+ {
+  "name": "Shanta Devi",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Devi is an honorific suffix after Shanta; not a separate given name."
+ },
+ {
+  "name": "Shiv Kumari",
+  "verdict": "keep",
+  "reason": "Well-formed, commonly given name with a correct meaning."
+ },
+ {
+  "name": "Shiv Ram",
+  "verdict": "fix",
+  "reason": "IAST completed; meaning clarified.",
+  "fix": {
+   "iast": "śivarāma",
+   "meaning_en": "Shiva and Rama together, a name expressing devotion to both."
+  }
+ },
+ {
+  "name": "Sri Gowri",
+  "verdict": "keep",
+  "reason": "Well-formed, commonly given name with a correct meaning."
+ },
+ {
+  "name": "Uma Devi",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Devi is an honorific suffix after Uma; not a separate given name."
+ },
+ {
+  "name": "Vijay Kumar",
+  "verdict": "fix",
+  "reason": "IAST completed; meaning refined.",
+  "fix": {
+   "iast": "vijayakumāra",
+   "meaning_en": "Victorious youth."
+  }
+ }
+]
