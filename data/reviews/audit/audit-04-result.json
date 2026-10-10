@@ -1,0 +1,771 @@
+[
+ {
+  "name": "Chandran",
+  "verdict": "fix",
+  "reason": "Devanagari has stray halant",
+  "fix": {
+   "devanagari": "चन्द्रन"
+  }
+ },
+ {
+  "name": "Chandraprakash",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chandrashekhar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chandresh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chandrika",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Channabasava",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Channakeshava",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Charan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Charu",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Charuhasa",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Charulata",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Charvi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chennamma",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chetan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chetas",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chhavi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chhaya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chidambar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chidambaram",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chinmay",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chinmayananda",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chinmayi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chintan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chirag",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chiranjeevi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chiranjit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chirantan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chirayu",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chitra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chitrangada",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chitrasena",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chudamani",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chyavana",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dadhichi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Daivik",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Daksh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dakshata",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dakshayani",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dama",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Damana",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Damodar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dandapani",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Danta",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: danta also means tooth; common noun"
+ },
+ {
+  "name": "Darbha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: darbha is a grass, common noun"
+ },
+ {
+  "name": "Darpan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Darsh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Darshan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Darshaniya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: adjective (worth seeing)"
+ },
+ {
+  "name": "Darshata",
+  "verdict": "fix",
+  "reason": "meaning weak; darshata is a Vedic adjective",
+  "fix": {
+   "meaning_en": "Worth seeing, beautiful; Vedic epithet of the sun."
+  }
+ },
+ {
+  "name": "Darshit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Daruka",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dashapeya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: name of a ritual libation"
+ },
+ {
+  "name": "Dasharath",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dasra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Datta",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dattatreya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Daya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dayanand",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dayita",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Debabrata",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Debashish",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Debjani",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Debjit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Deep",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Deepak",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Deependra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Deepesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Deepika",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dev",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dev Narayan",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: two words"
+ },
+ {
+  "name": "Devakinandan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Devanand",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Devang",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Devansh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Devatithi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Devdas",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Devdatt",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Devendra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Devesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Deveshwar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Devraj",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhairya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhairyalakshmi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhanada",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhanalakshmi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhananjay",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhanapala",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhanesha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhanraj",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhanush",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhanvanth",
+  "verdict": "fix",
+  "reason": "wrong Devanagari conjunct",
+  "fix": {
+   "devanagari": "धन्वन्त"
+  }
+ },
+ {
+  "name": "Dhanya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhara",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dharanidhara",
+  "verdict": "fix",
+  "reason": "non-meaning",
+  "fix": {
+   "meaning_en": "Bearer of the earth; a name of Vishnu or Krishna."
+  }
+ },
+ {
+  "name": "Dharmadasa",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dharmaputra",
+  "verdict": "fix",
+  "reason": "wrong meaning",
+  "fix": {
+   "meaning_en": "Son of Dharma; epithet of Yudhishthira."
+  }
+ },
+ {
+  "name": "Dharmaraj",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dharmendra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dharmesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhatri",
+  "verdict": "fix",
+  "reason": "Devanagari/IAST vowel length",
+  "fix": {
+   "devanagari": "धात्री",
+   "iast": "dhātrī"
+  }
+ },
+ {
+  "name": "Dhaval",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhiraj",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhiren",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhishana",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhriti",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhrubajyoti",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhrumil",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhruva",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhruvesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhyan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dibyajyoti",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dibyendu",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Digant",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Diksha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dilip",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dinanath",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dinesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dinkar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dipali",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dipta",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dipti",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Divakar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Divij",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Divit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Divodasa",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Divya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Divyabharathi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Divyansh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Divyanshu",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Divyesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Diya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dnyaneshwar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Draupadi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Drona",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Druma",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: druma is a common noun (tree)"
+ },
+ {
+  "name": "Durasada",
+  "verdict": "reject",
+  "reason": "other: garbled meaning, hard to approach/sword name"
+ },
+ {
+  "name": "Durga",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Durgadasa",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Durva",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: durva is grass, common noun"
+ },
+ {
+  "name": "Dushyant",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dyumna",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dyuti",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ekagra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ekambaram",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ekansh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Eklavya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Eknath",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ekta",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ela",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Eshaanvi",
+  "verdict": "keep",
+  "reason": "ok"
+ }
+]

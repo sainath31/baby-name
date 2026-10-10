@@ -1,0 +1,780 @@
+[
+ {
+  "name": "Falguni",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gabhasti",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gagan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gahan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gahya",
+  "verdict": "reject",
+  "reason": "other: meaning 'Name of an Agni' is not a meaning; obscure"
+ },
+ {
+  "name": "Gaja",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gajalakshmi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gajanan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gajanand",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gajendra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Galava",
+  "verdict": "reject",
+  "reason": "obscure_figure: obscure sage, etymology uncertain"
+ },
+ {
+  "name": "Gambhira",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ganadhish",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gananath",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ganapati",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gandhari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ganesan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ganesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ganesh Prasad",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: two-word phrase"
+ },
+ {
+  "name": "Ganeshwar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ganga",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gangadhar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gargi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Garuda",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Garvit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gaurang",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gaurav",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gauri",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gaurish",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gaurishankar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gautam",
+  "verdict": "fix",
+  "reason": "meaning wrongly framed around the Buddha",
+  "fix": {
+   "meaning_en": "Descendant of sage Gotama; a Vedic clan name."
+  }
+ },
+ {
+  "name": "Gayatri",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Geet",
+  "verdict": "fix",
+  "reason": "Geet used for girls too",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Geetanjali",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Geetika",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ghanesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ghanshyam",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Girdhari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Giri",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Girija",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Godavari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gohya",
+  "verdict": "reject",
+  "reason": "other: meaning 'Name of an Agni' is not a meaning; obscure"
+ },
+ {
+  "name": "Gokul",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gopal",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gopalan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gopati",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gopendra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gopikrishna",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gopinath",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Govind",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Govindarajan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gudakesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Guha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Guheshvara",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gunadhipa",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gunakara",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gunjan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gurpreet",
+  "verdict": "fix",
+  "reason": "Punjabi name used for both",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Gurudev",
+  "verdict": "reject",
+  "reason": "title_or_honorific: title for a teacher"
+ },
+ {
+  "name": "Gurunath",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gururaj",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gyan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gyan Chand",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: two-word phrase"
+ },
+ {
+  "name": "Gyanendra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gyanesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Haimavati",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Halayudha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Halesh",
+  "verdict": "reject",
+  "reason": "other: etymology uncertain, unsupported"
+ },
+ {
+  "name": "Hamsini",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hans",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hansraj",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hanuman",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hara",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hardik",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harendra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Haresh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hari Govind",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: two names joined"
+ },
+ {
+  "name": "Hari Krishna",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: two names joined"
+ },
+ {
+  "name": "Hari Shankar",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: two names joined"
+ },
+ {
+  "name": "Haridas",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harihar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hariharan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harika",
+  "verdict": "fix",
+  "reason": "Devanagari vowel wrong",
+  "fix": {
+   "devanagari": "हरिका",
+   "iast": "harika",
+   "meaning_en": "Of Hari (Vishnu); Telugu usage, etymology uncertain."
+  }
+ },
+ {
+  "name": "Harikesha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hariprasad",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harishchandra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harita",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harivansh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harleen",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harmeet",
+  "verdict": "fix",
+  "reason": "Punjabi name used for both",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Harpreet",
+  "verdict": "fix",
+  "reason": "Punjabi name used for both",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Harsh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harshil",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harshit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harshodaya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: constructed compound, not a real name"
+ },
+ {
+  "name": "Haryaputra",
+  "verdict": "reject",
+  "reason": "obscure_figure: meaning uncertain '(?)'"
+ },
+ {
+  "name": "Havana",
+  "verdict": "reject",
+  "reason": "other: 'Name of a Rudra' is not a meaning"
+ },
+ {
+  "name": "Havish",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hayagriva",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Heena",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: henna, non-Sanskrit common noun"
+ },
+ {
+  "name": "Heet",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hemal",
+  "verdict": "fix",
+  "reason": "used for both",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Hemalatha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hemamgada",
+  "verdict": "reject",
+  "reason": "obscure_figure: obscure epic figure"
+ },
+ {
+  "name": "Hemang",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hemant",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hemendra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Heramb",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hetal",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Himadri",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Himani",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Himanshu",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hindol",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hiral",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hiranya",
+  "verdict": "fix",
+  "reason": "Assam tag unsupported",
+  "fix": {
+   "states": [
+    "All India"
+   ]
+  }
+ },
+ {
+  "name": "Hiranyagarbha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hitendra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hitesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hriday",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hridesh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hridyamshu",
+  "verdict": "reject",
+  "reason": "obscure_figure: rare epithet, not a given name"
+ },
+ {
+  "name": "Hrishikesha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hrishit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hutashan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Idya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ikshvaku",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ila",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Inderjit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Indira",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Indra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Indranil",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Indrejya",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: epithet of Brihaspati, not a meaning"
+ },
+ {
+  "name": "Indresh",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Indu",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ipsita",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Iravati",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Isha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ishaan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ishani",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ishit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ishwara",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jabali",
+  "verdict": "reject",
+  "reason": "obscure_figure: obscure sage, no meaning"
+ },
+ {
+  "name": "Jagadamba",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: goddess epithet"
+ },
+ {
+  "name": "Jagan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jaganmohan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jagannath",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jagat",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jagrit",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jahnavi",
+  "verdict": "keep",
+  "reason": "ok"
+ }
+]

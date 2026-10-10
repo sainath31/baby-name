@@ -1,0 +1,791 @@
+[
+ {
+  "name": "Aadesh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aadhya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aadi",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aagam",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aarav",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aarna",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aarohi",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aarti",
+  "verdict": "fix",
+  "reason": "Bihar-only state tag wrong for a pan-Indian name",
+  "fix": {
+   "states": [
+    "All India"
+   ]
+  }
+ },
+ {
+  "name": "Aashi",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aashna",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aashrit",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aayush",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abdhi",
+  "verdict": "fix",
+  "reason": "meaning was an odd Vishnu epithet; abdhi means ocean",
+  "fix": {
+   "meaning_en": "Ocean."
+  }
+ },
+ {
+  "name": "Abha",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhas",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhay",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhayananda",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhijit",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhik",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhilash",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhimanyu",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhinandan",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhinav",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhiram",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhirami",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhirup",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhishek",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abhyudaya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Abir",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Achal",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Achintya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Achyut",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Achyuthan",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Adarsh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Adhiraj",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Adhish",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Adhrit",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Adidipa",
+  "verdict": "reject",
+  "reason": "obscure_figure: 'Name of a Rudra' is a non-meaning"
+ },
+ {
+  "name": "Adilakshmi",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aditeya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aditi",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aditya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Advait",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Advika",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Agastya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aghor",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Agni",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Agninarayana",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: Agni + Narayana, non-meaning"
+ },
+ {
+  "name": "Agnivesh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Agrasen",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Agrim",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ahaan",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ahalya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ahilya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aishwarya",
+  "verdict": "fix",
+  "reason": "girl form needs long final ā; state too narrow",
+  "fix": {
+   "devanagari": "ऐश्वर्या",
+   "iast": "aiśvaryā",
+   "states": [
+    "All India"
+   ]
+  }
+ },
+ {
+  "name": "Aja",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ajay",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ajeya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ajihma",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ajinkya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ajit",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Akarsh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Akash",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Akhand",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Akhil",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Akhilesh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Akrura",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aksh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Akshaj",
+  "verdict": "fix",
+  "reason": "diamond/thunderbolt unsupported",
+  "fix": {
+   "meaning_en": "Born of the eye or senses; a name of Vishnu."
+  }
+ },
+ {
+  "name": "Akshar",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Akshat",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Akshay",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Akshit",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Akuti",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Alaka",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Alakh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Alankar",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: ornament/figure of speech"
+ },
+ {
+  "name": "Allama",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Alok",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Amala",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Amarnath",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Amay",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Amba",
+  "verdict": "fix",
+  "reason": "feminine form needs long ā",
+  "fix": {
+   "devanagari": "अम्बा",
+   "iast": "ambā"
+  }
+ },
+ {
+  "name": "Ambar",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ambarish",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ambika",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ambikeya",
+  "verdict": "fix",
+  "reason": "non-meaning",
+  "fix": {
+   "meaning_en": "Son of Ambika; a name of Ganesha and Kartikeya."
+  }
+ },
+ {
+  "name": "Ambuj",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ameya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Amit",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Amitabh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Amitesh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Amod",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Amritamshu",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Amritananda",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anagh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anal",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anamika",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anand",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ananda Mohan",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: two-word name"
+ },
+ {
+  "name": "Anandita",
+  "verdict": "fix",
+  "reason": "feminine form tagged boy",
+  "fix": {
+   "gender": "girl",
+   "devanagari": "आनन्दिता",
+   "iast": "ānanditā",
+   "meaning_en": "Delighted, joyful."
+  }
+ },
+ {
+  "name": "Ananya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anbu",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anga",
+  "verdict": "reject",
+  "reason": "place_or_river: Anga is a kingdom/limb, meaning wrong"
+ },
+ {
+  "name": "Angad",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Angaraka",
+  "verdict": "reject",
+  "reason": "obscure_figure: Mars/Rudra epithet, non-meaning"
+ },
+ {
+  "name": "Angiras",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anida",
+  "verdict": "reject",
+  "reason": "obscure_figure: Agni epithet, non-meaning (anida=homeless)"
+ },
+ {
+  "name": "Anika",
+  "verdict": "fix",
+  "reason": "devanagari/iast mismatch with girl name",
+  "fix": {
+   "devanagari": "अनिका",
+   "iast": "anikā",
+   "meaning_en": "Grace, splendour; modern name, etymology uncertain."
+  }
+ },
+ {
+  "name": "Aniket",
+  "verdict": "fix",
+  "reason": "'lord of all' invented",
+  "fix": {
+   "meaning_en": "Homeless, without a fixed abode; a name of Shiva."
+  }
+ },
+ {
+  "name": "Anil",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anili",
+  "verdict": "reject",
+  "reason": "obscure_figure: non-meaning epithet"
+ },
+ {
+  "name": "Animesh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anindya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anirban",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anirudh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anirudhan",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anirvapa",
+  "verdict": "reject",
+  "reason": "obscure_figure: Brihaspati epithet, non-meaning"
+ },
+ {
+  "name": "Anitha",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anjali",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anjana",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anjaneya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anjaneyulu",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anju",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ankit",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ankur",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ankush",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anmol",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Annamayya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anoop",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ansh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anshu",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anshul",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anshuman",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Antariksh",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anu",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anuj",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anumati",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anupam",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anurag",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anushka",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anuttama",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Anwesha",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aparajit",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aparna",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Apava",
+  "verdict": "reject",
+  "reason": "obscure_figure: non-meaning epithet of Vasishtha"
+ },
+ {
+  "name": "Apoorv",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Appalaraju",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Aprameya",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ },
+ {
+  "name": "Apratima",
+  "verdict": "keep",
+  "reason": "suitable name with acceptable meaning"
+ }
+]

@@ -1,0 +1,775 @@
+[
+ {
+  "name": "Aradhya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Aranya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Archana",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Archit",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Ardha",
+  "verdict": "reject",
+  "reason": "other: Meaning is a non-meaning ('Name of a Rudra'); ardha means half."
+ },
+ {
+  "name": "Ardhaketu",
+  "verdict": "reject",
+  "reason": "other: Non-meaning 'Name of a Rudra'; obscure compound."
+ },
+ {
+  "name": "Arghya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arijit",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arindam",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Aritra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arjav",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arjit",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arjuna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arka",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arnav",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arnesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arpan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arpit",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arumugam",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arun",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arun Kumar",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: Two-word phrase, not a single name."
+ },
+ {
+  "name": "Arunachalam",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arundhati",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Aruni",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Arunima",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Aryaman",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Aryan",
+  "verdict": "fix",
+  "reason": "Devanagari and IAST were the word Arya, not Aryan.",
+  "fix": {
+   "devanagari": "आर्यन",
+   "iast": "āryan"
+  }
+ },
+ {
+  "name": "Asha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Ashish",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Ashok",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Ashutosh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Ashwath",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Ashwin",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Astika",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Aswathy",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Atharva",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Athira",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Atithi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Atmaja",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Plain noun 'son'; not a distinct given name."
+ },
+ {
+  "name": "Atmaram",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Atmik",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Atreya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Atri",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Atul",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Atyadbhuta",
+  "verdict": "reject",
+  "reason": "obscure_figure: Name of a minor Manvantara Indra; overlong obscure compound."
+ },
+ {
+  "name": "Avadhesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Avadhoot",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Denotes a class of renunciant ascetic, a title."
+ },
+ {
+  "name": "Avaneesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Avighna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Avik",
+  "verdict": "fix",
+  "reason": "Meaning 'diamond' is unsupported.",
+  "fix": {
+   "meaning_en": "Etymology uncertain; modern Bengali name, popularly glossed 'fearless'."
+  }
+ },
+ {
+  "name": "Avinash",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Avni",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Avyaya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Ayan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Ayansh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Ayusha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Ayushman",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Ayyappa",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Ayyappan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Babruvahana",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Badri",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bajrang",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bala",
+  "verdict": "fix",
+  "reason": "Bala is used for both genders.",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Balabhadra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Balachandra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Balagopala",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Balaji",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Baldev",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Balkrishna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Balwant",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bandhu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Common noun 'kinsman'."
+ },
+ {
+  "name": "Bankim",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Basavanna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Basavaraj",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhadra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhagadatta",
+  "verdict": "reject",
+  "reason": "obscure_figure: Bhagadatta is the king of Pragjyotisha who fought for the Kauravas; not a suitable name."
+ },
+ {
+  "name": "Bhagirath",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhagyashree",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhairav",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhairavi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhakti",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhalachandra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhanu",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhanuchandra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: Sun-and-moon dvandva is not an established name."
+ },
+ {
+  "name": "Bhanudatta",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhanumati",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhanupratap",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhanwar",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Means bumblebee; Devanagari/IAST are the word bhramara."
+ },
+ {
+  "name": "Bharadwaj",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bharat",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhargav",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhargavi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhaskar",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhaskaran",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhaskarjyoti",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhasvara",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhava",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhavani",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhavesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhavik",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhavin",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhavya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhesaj",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Common noun 'remedy'."
+ },
+ {
+  "name": "Bhima",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhimasena",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhimashankar",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhishma",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhoj",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhojraj",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bholanath",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhoomij",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhrigu",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhumi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhumika",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhupal",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhupendra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhupesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhuri",
+  "verdict": "fix",
+  "reason": "Meaning was a non-meaning list of god names.",
+  "fix": {
+   "meaning_en": "Abundant, plentiful."
+  }
+ },
+ {
+  "name": "Bhushan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhuvan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhuvanesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bhuvaneshwari",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bidisha",
+  "verdict": "fix",
+  "reason": "Devanagari and IAST were Vidisha, not Bidisha.",
+  "fix": {
+   "devanagari": "बिदिशा",
+   "iast": "bidiśā"
+  }
+ },
+ {
+  "name": "Bishwajit",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Bodh",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Common noun 'awakening/knowledge'."
+ },
+ {
+  "name": "Bodhana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Common noun 'instructing'."
+ },
+ {
+  "name": "Brahma",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Name of the creator god."
+ },
+ {
+  "name": "Brahmanya",
+  "verdict": "fix",
+  "reason": "Meaning was a non-meaning.",
+  "fix": {
+   "meaning_en": "Devoted to sacred knowledge; an epithet of Kartikeya."
+  }
+ },
+ {
+  "name": "Brahmanyadeva",
+  "verdict": "reject",
+  "reason": "overlong_compound: Garbled meaning (contains Sch. transliteration) and overlong epithet of Vishnu."
+ },
+ {
+  "name": "Brahmayana",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Non-meaning 'Name of Narayana'; obscure epithet."
+ },
+ {
+  "name": "Bribaduktha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Obscure Vedic epithet of Indra with garbled meaning."
+ },
+ {
+  "name": "Brihaspati",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Brijesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Brijmohan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Budh",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Planet-deity Mercury; not a usual personal name."
+ },
+ {
+  "name": "Chaitali",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Chaitanya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Chaitra",
+  "verdict": "fix",
+  "reason": "Month name used for both genders.",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Chakradhar",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Chakrapani",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Chalapathi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Champa",
+  "verdict": "reject",
+  "reason": "other: Meaning wrong ('Karna'); champa is a city/flower, boy tag unsuitable."
+ },
+ {
+  "name": "Champaka",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Chamundeshwari",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Chanakya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Chandan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Chandra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Chandragupta",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Chandrakant",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ },
+ {
+  "name": "Chandramouli",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning."
+ }
+]
