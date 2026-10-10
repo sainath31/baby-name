@@ -2,6 +2,7 @@
 // Skips any name whose normalized IAST already exists, so names stay unique.
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import { syllableCount } from '../src/sounds.js';
+import { spokenIast } from '../src/translit.js';
 
 const path = new URL('../data/names.json', import.meta.url);
 const names = JSON.parse(readFileSync(path));
@@ -10,10 +11,11 @@ const have = new Set(names.map((n) => norm(n.iast)));
 let added = 0;
 for (const f of readdirSync(new URL('../data/batches/', import.meta.url)).filter((x) => x.endsWith('.json')).sort()) {
   for (const [name, iast, dev, meaning, comps, state, ref, era, conf] of JSON.parse(readFileSync(new URL(`../data/batches/${f}`, import.meta.url)))) {
-    if (have.has(norm(iast))) continue;
+    if (have.has(norm(iast)) || have.has(norm(spokenIast(name, iast)))) continue;
     have.add(norm(iast));
     names.push({
-      name, iast, devanagari: dev, letter: name[0].toUpperCase(), syllable_count: syllableCount(iast),
+      name, iast: spokenIast(name, iast), ...(spokenIast(name, iast) !== iast ? { stem: iast } : {}),
+      devanagari: dev, letter: name[0].toUpperCase(), syllable_count: syllableCount(spokenIast(name, iast)),
       meaning_en: meaning,
       components: comps.split('; ').map((c) => { const [part, gloss] = c.split(':'); return { part, gloss }; }),
       pairs_with: { prefixes: [], suffixes: [] }, compounds: [],

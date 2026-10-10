@@ -42,3 +42,10 @@ export function fromIast(iast) {
   }
   return out;
 }
+
+// Names are usually written without the Sanskrit final -a (Neeraj, not Neeraja). When the Latin
+// spelling drops it, return the IAST as written; otherwise return the IAST unchanged.
+export function spokenIast(name, iast) {
+  if (!iast || /\s/.test(iast) || /a$/i.test(name)) return iast;
+  return /[^aāiīuūṛṝeoṃḥ]a$/.test(iast) ? iast.slice(0, -1) : iast;
+}

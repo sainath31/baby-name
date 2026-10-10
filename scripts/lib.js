@@ -19,7 +19,7 @@ function loadVerdicts() {
 // opts.all: also return unlisted records (used by the validator).
 export function loadAll(opts = {}) {
   const curated = JSON.parse(readFileSync(new URL('names.json', dataDir)));
-  const seenIast = new Set(curated.map((n) => norm(n.iast)));
+  const seenIast = new Set(curated.flatMap((n) => [norm(n.iast), ...(n.stem ? [norm(n.stem)] : [])]));
   const seenName = new Set(curated.map((n) => n.name.toLowerCase()));
   const all = [...curated];
   const genDir = new URL('generated/', dataDir);
@@ -47,9 +47,9 @@ export function loadAll(opts = {}) {
   // Fixes can make two records identical; keep the first (hand-compiled before generated).
   const si = new Set(), sn = new Set();
   for (const n of all) {
-    const ki = norm(n.iast), kn = n.name.toLowerCase();
-    if (si.has(ki) || sn.has(kn)) { n.listed = false; n.reject_reason = 'duplicate-after-fix'; continue; }
-    si.add(ki); sn.add(kn);
+    const ki = norm(n.iast), kn = n.name.toLowerCase(), ks = n.stem ? norm(n.stem) : null;
+    if (si.has(ki) || sn.has(kn) || (ks && si.has(ks))) { n.listed = false; n.reject_reason = 'duplicate-after-fix'; continue; }
+    si.add(ki); sn.add(kn); if (ks) si.add(ks);
   }
   return opts.all ? all : all.filter((n) => n.listed);
 }

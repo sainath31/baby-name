@@ -31,7 +31,7 @@ function join(a, b) {
 
 // Drop the previous output first so it is not mistaken for attested names.
 rmSync(new URL('../data/generated/constructed.json', import.meta.url), { force: true });
-const existing = new Set(loadAll({ all: true }).map((n) => norm(n.iast)));
+const existing = new Set(loadAll({ all: true }).flatMap((n) => [norm(n.iast), ...(n.stem ? [norm(n.stem)] : [])]));
 const seen = new Set(), out = [];
 const add = (iast, tpl, x, partB, typeNote) => {
   const key = norm(iast);

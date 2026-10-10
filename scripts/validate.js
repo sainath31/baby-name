@@ -26,7 +26,7 @@ for (const n of names) for (const c of n.compounds || []) if (top.has(norm(c.nam
 
 // Script consistency: Devanagari must be what the IAST spells (modern respellings like मयंक are warnings only).
 // A nasal consonant + virama before a consonant is the same sound as an anusvara (शङ्कर = शंकर).
-const normDev = (d) => d.replace(/[ङञणनम]\u094d(?=[\u0915-\u0939])/g, '\u0902');
+const normDev = (d) => d.replace(/[ङञणनम]\u094d(?=[\u0915-\u0939])/g, '\u0902').replace(/\u094d$/, '');   // final halant is implicit in names
 let scriptMismatch = 0;
 for (const n of names.filter((x) => x.listed)) {
   if (/[ṉṟḻḷ]/.test(n.iast || '')) continue;                  // Dravidian letters: no Sanskrit script round-trip
