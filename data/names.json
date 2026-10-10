@@ -106443,5 +106443,214 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Durgesh",
+    "iast": "durgeś",
+    "stem": "durgeśa",
+    "devanagari": "दुर्गेश",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Lord of the fortress; Shiva.",
+    "components": [
+      {
+        "part": "durga",
+        "gloss": "fortress"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-086-north-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Govardhan",
+    "iast": "govardhan",
+    "stem": "govardhana",
+    "devanagari": "गोवर्धन",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Nourisher of cows; the hill lifted by Krishna.",
+    "components": [
+      {
+        "part": "go",
+        "gloss": "cow"
+      },
+      {
+        "part": "vardhana",
+        "gloss": "nourishing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Bhagavata Purana",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-086-north-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Girraj",
+    "iast": "girirāj",
+    "stem": "girirāja",
+    "devanagari": "गिरिराज",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "King of mountains; Govardhan; Himalaya.",
+    "components": [
+      {
+        "part": "giri",
+        "gloss": "mountain"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-086-north-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chanchal",
+    "iast": "cañcal",
+    "stem": "cañcala",
+    "devanagari": "चंचल",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "Restless; playful.",
+    "components": [
+      {
+        "part": "cañcala",
+        "gloss": "moving"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-086-north-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ruchi",
+    "iast": "rucī",
+    "devanagari": "रुचि",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Taste; liking; radiance.",
+    "components": [
+      {
+        "part": "ruci",
+        "gloss": "liking"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-086-north-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sheela",
+    "iast": "śīlā",
+    "devanagari": "शीला",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Of good character.",
+    "components": [
+      {
+        "part": "śīla",
+        "gloss": "conduct"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-086-north-gaps.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

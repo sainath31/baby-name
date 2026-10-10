@@ -1,0 +1,8 @@
+[
+{"name":"Chanchal","verdict":"keep","reason":"Genuinely used unisex given name (cañcala, playful, lively); Devanagari and IAST correct."},
+{"name":"Durgesh","verdict":"keep","reason":"Common traditional boy's name, durga + īśa, a name of Shiva; sandhi correct."},
+{"name":"Girraj","verdict":"keep","reason":"Widely given Vaishnava boy's name (girirāja, epithet of Govardhan); Devanagari and spoken IAST fine."},
+{"name":"Govardhan","verdict":"keep","reason":"Mountain name, but genuinely used as a given name in Vaishnava families (also Govardhan Das etc.); auspicious Krishna association, meaning correct."},
+{"name":"Ruchi","verdict":"fix","reason":"Suitable girl's name; IAST has a long final vowel but Devanagari रुचि and Hindi pronunciation have short i.","fix":{"iast":"ruci"}},
+{"name":"Sheela","verdict":"keep","reason":"Established girl's name (śīlā, good conduct); matches girl gender; Devanagari and IAST correct."}
+]
