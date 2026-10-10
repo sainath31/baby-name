@@ -1,0 +1,81 @@
+[
+ {
+  "name": "Ashu",
+  "verdict": "keep",
+  "reason": "Genuinely used for both boys and girls; meaning correct."
+ },
+ {
+  "name": "Bhoomi",
+  "verdict": "fix",
+  "reason": "Mostly used for girl in India; gender corrected, meaning fine.",
+  "fix": {
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Chiranjeev",
+  "verdict": "fix",
+  "reason": "Mostly used for boy in India; gender corrected, meaning fine.",
+  "fix": {
+   "gender": "boy"
+  }
+ },
+ {
+  "name": "Disha",
+  "verdict": "fix",
+  "reason": "Mostly used for girl in India; gender corrected, meaning fine.",
+  "fix": {
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Mahi",
+  "verdict": "keep",
+  "reason": "Used for both boys and girls; meaning correct."
+ },
+ {
+  "name": "Mausam",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Neelam",
+  "verdict": "fix",
+  "reason": "Mostly used for girl in India; gender corrected, meaning fine.",
+  "fix": {
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Nilay",
+  "verdict": "fix",
+  "reason": "Mostly used for boy in India; gender corrected, meaning fine.",
+  "fix": {
+   "gender": "boy"
+  }
+ },
+ {
+  "name": "Pururava",
+  "verdict": "fix",
+  "reason": "Mostly used for boy in India; gender corrected, meaning fine.",
+  "fix": {
+   "gender": "boy"
+  }
+ },
+ {
+  "name": "Smriti",
+  "verdict": "fix",
+  "reason": "Mostly used for girl in India; gender corrected, meaning fine.",
+  "fix": {
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Tarang",
+  "verdict": "fix",
+  "reason": "Mostly used for boy in India; gender corrected, meaning fine.",
+  "fix": {
+   "gender": "boy"
+  }
+ }
+]
