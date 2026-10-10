@@ -39436,5 +39436,249 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Milind",
+    "iast": "milind",
+    "stem": "milinda",
+    "devanagari": "मिलिन्द",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "A honey-bee.",
+    "components": [
+      {
+        "part": "milinda",
+        "gloss": "bee"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-030-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pradnesh",
+    "iast": "prajñeś",
+    "stem": "prajñeśa",
+    "devanagari": "प्रज्ञेश",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Lord of wisdom.",
+    "components": [
+      {
+        "part": "prajñā",
+        "gloss": "wisdom"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-030-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sandesh",
+    "iast": "sandeś",
+    "stem": "sandeśa",
+    "devanagari": "संदेश",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Message, news.",
+    "components": [
+      {
+        "part": "sandeśa",
+        "gloss": "message"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-030-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Suhas",
+    "iast": "suhās",
+    "stem": "suhāsa",
+    "devanagari": "सुहास",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Of a pleasant smile.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "hāsa",
+        "gloss": "smile"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-030-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dhairyashil",
+    "iast": "dhairyaśīl",
+    "stem": "dhairyaśīla",
+    "devanagari": "धैर्यशील",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Of a patient, steady nature.",
+    "components": [
+      {
+        "part": "dhairya",
+        "gloss": "patience"
+      },
+      {
+        "part": "śīla",
+        "gloss": "character"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-030-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shripad",
+    "iast": "śrīpād",
+    "stem": "śrīpāda",
+    "devanagari": "श्रीपाद",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Sacred feet; an epithet of Dattatreya's avatar Shripada Vallabha.",
+    "components": [
+      {
+        "part": "śrī",
+        "gloss": "sacred"
+      },
+      {
+        "part": "pāda",
+        "gloss": "foot"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-030-marathi.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dinkar",
+    "iast": "dinakar",
+    "stem": "dinakara",
+    "devanagari": "दिनकर",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Maker of the day; the sun.",
+    "components": [
+      {
+        "part": "dina",
+        "gloss": "day"
+      },
+      {
+        "part": "kara",
+        "gloss": "maker"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "North India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-030-marathi.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
