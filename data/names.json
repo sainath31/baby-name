@@ -108633,5 +108633,433 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Abhaya",
+    "iast": "abhayā",
+    "devanagari": "अभया",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Fearless; a form of Durga.",
+    "components": [
+      {
+        "part": "a",
+        "gloss": "without"
+      },
+      {
+        "part": "bhaya",
+        "gloss": "fear"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Devi Mahatmya",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-095-devi-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Achala",
+    "iast": "acalā",
+    "devanagari": "अचला",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Immovable; the earth; steadfast.",
+    "components": [
+      {
+        "part": "a",
+        "gloss": "not"
+      },
+      {
+        "part": "cala",
+        "gloss": "moving"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-095-devi-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Brahmani",
+    "iast": "brāhmaṇī",
+    "devanagari": "ब्राह्मणी",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Shakti of Brahma; a Matrika.",
+    "components": [
+      {
+        "part": "brāhmaṇī",
+        "gloss": "of Brahma"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Devi Mahatmya",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-095-devi-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chandika",
+    "iast": "caṇḍikā",
+    "devanagari": "चण्डिका",
+    "letter": "C",
+    "syllable_count": 3,
+    "meaning_en": "Fierce one; Durga.",
+    "components": [
+      {
+        "part": "caṇḍa",
+        "gloss": "fierce"
+      },
+      {
+        "part": "-ikā",
+        "gloss": "feminine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Devi Mahatmya",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-095-devi-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Katyayani",
+    "iast": "kātyāyanī",
+    "devanagari": "कात्यायनी",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Daughter of Sage Katyayana; Durga.",
+    "components": [
+      {
+        "part": "kātyāyana",
+        "gloss": "Katyayana"
+      },
+      {
+        "part": "-ī",
+        "gloss": "feminine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Devi Mahatmya",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-095-devi-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kshema",
+    "iast": "kṣemā",
+    "devanagari": "क्षेमा",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Safety; well-being.",
+    "components": [
+      {
+        "part": "kṣema",
+        "gloss": "safety"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-095-devi-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shankari",
+    "iast": "śaṅkarī",
+    "devanagari": "शङ्करी",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Consort of Shankara; Parvati.",
+    "components": [
+      {
+        "part": "śaṅkara",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "-ī",
+        "gloss": "feminine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Lalita Sahasranama",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-095-devi-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "iast": "tripurā",
+    "devanagari": "त्रिपुरा",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Of the three cities; Lalita.",
+    "components": [
+      {
+        "part": "tri",
+        "gloss": "three"
+      },
+      {
+        "part": "pura",
+        "gloss": "city"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Lalita Sahasranama",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-095-devi-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yashasvini",
+    "iast": "yaśasvinī",
+    "devanagari": "यशस्विनी",
+    "letter": "Y",
+    "syllable_count": 4,
+    "meaning_en": "Glorious; famous.",
+    "components": [
+      {
+        "part": "yaśas",
+        "gloss": "glory"
+      },
+      {
+        "part": "-vinī",
+        "gloss": "possessing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-095-devi-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kaushiki",
+    "iast": "kauśikī",
+    "devanagari": "कौशिकी",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Born of the sheath; Durga.",
+    "components": [
+      {
+        "part": "kośa",
+        "gloss": "sheath"
+      },
+      {
+        "part": "-ikī",
+        "gloss": "feminine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Devi Mahatmya",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-095-devi-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shakambhari",
+    "iast": "śākambharī",
+    "devanagari": "शाकम्भरी",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Bearer of vegetables; a form of Durga.",
+    "components": [
+      {
+        "part": "śāka",
+        "gloss": "vegetable"
+      },
+      {
+        "part": "bharī",
+        "gloss": "bearer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Devi Mahatmya",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-095-devi-names.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Neela",
+    "iast": "nīlā",
+    "devanagari": "नीला",
+    "letter": "N",
+    "syllable_count": 2,
+    "meaning_en": "Dark blue; consort of Krishna.",
+    "components": [
+      {
+        "part": "nīla",
+        "gloss": "blue"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-095-devi-names.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

@@ -1,0 +1,14 @@
+[
+{"name":"Abhaya","verdict":"keep","reason":"Fearless; widely given to girls, iast/devanagari agree"},
+{"name":"Achala","verdict":"keep","reason":"Steadfast, also the earth; used for girls, scripts agree"},
+{"name":"Brahmani","verdict":"reject","reason":"deity_not_for_person"},
+{"name":"Chandika","verdict":"reject","reason":"deity_not_for_person"},
+{"name":"Katyayani","verdict":"keep","reason":"Commonly given Durga name, scripts agree"},
+{"name":"Kshema","verdict":"keep","reason":"Well-being, auspicious; scripts agree"},
+{"name":"Shankari","verdict":"keep","reason":"Parvati name, used for girls esp. South India; scripts agree"},
+{"name":"Tripura","verdict":"reject","reason":"deity_not_for_person"},
+{"name":"Yashasvini","verdict":"keep","reason":"Glorious; established girl's name, scripts agree"},
+{"name":"Kaushiki","verdict":"fix","reason":"Meaning wrong: kauśikī is feminine of Kauśika (descendant of Kushika); Durga tradition adds emerging from Parvati's sheath","fix":{"meaning_en":"Descendant of Kushika; a name of Durga, said to have emerged from Parvati's sheath"}},
+{"name":"Shakambhari","verdict":"reject","reason":"deity_not_for_person"},
+{"name":"Neela","verdict":"keep","reason":"Dark blue; used for girls, also Nila Devi; scripts agree"}
+]
