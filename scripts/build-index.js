@@ -72,7 +72,12 @@ const compact = (n) => {
     if (root) o.rt = [n.components[0].part, root.type, SUF.filter((s) => s.types.includes(root.type)).map((s) => latinSuffix(s.iast)).slice(0, 12)];
   }
   if (n.compounds?.length) o.cp = n.compounds.map((c) => [c.name, c.meaning || '']);
-  if (n.states?.length) o.st = n.states;
+  if (n.states?.length) {
+    // Telugu is spoken in both states, so a name tagged for one is offered under the other as well
+    const st = new Set(n.states);
+    if (st.has('Andhra Pradesh') || st.has('Telangana')) { st.add('Andhra Pradesh'); st.add('Telangana'); }
+    o.st = [...st];
+  }
   if (n.era) o.e = n.era;
   if (n.kind) o.k = n.kind;
   if (n.curation === 'unreviewed') o.u = 1;
