@@ -120767,5 +120767,697 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Akilesh",
+    "iast": "akileś",
+    "stem": "akileśa",
+    "devanagari": "अखिलेश",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Lord of all.",
+    "components": [
+      {
+        "part": "akhila",
+        "gloss": "all"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gokulnath",
+    "iast": "gokulanāth",
+    "stem": "gokulanātha",
+    "devanagari": "गोकुलनाथ",
+    "letter": "G",
+    "syllable_count": 4,
+    "meaning_en": "Lord of Gokul; Krishna.",
+    "components": [
+      {
+        "part": "gokula",
+        "gloss": "Gokul"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hemachandran",
+    "iast": "hemacandran",
+    "devanagari": "हेमचन्द्रन्",
+    "letter": "H",
+    "syllable_count": 4,
+    "meaning_en": "Golden moon.",
+    "components": [
+      {
+        "part": "hema",
+        "gloss": "gold"
+      },
+      {
+        "part": "candra",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kapilan",
+    "iast": "kapilan",
+    "devanagari": "कपिलन्",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Tawny sage; after sage Kapila.",
+    "components": [
+      {
+        "part": "kapila",
+        "gloss": "tawny"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Lokeshwaran",
+    "iast": "lokeśvaran",
+    "devanagari": "लोकेश्वरन्",
+    "letter": "L",
+    "syllable_count": 4,
+    "meaning_en": "Lord of the worlds.",
+    "components": [
+      {
+        "part": "loka",
+        "gloss": "world"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mahendran",
+    "iast": "mahendran",
+    "devanagari": "महेन्द्रन्",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Great Indra.",
+    "components": [
+      {
+        "part": "mahā",
+        "gloss": "great"
+      },
+      {
+        "part": "indra",
+        "gloss": "Indra"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tamilarasan",
+    "iast": "tamiḻarasan",
+    "devanagari": "तमिळरसन्",
+    "letter": "T",
+    "syllable_count": 5,
+    "meaning_en": "King of Tamil.",
+    "components": [
+      {
+        "part": "tamiḻ",
+        "gloss": "Tamil"
+      },
+      {
+        "part": "arasan",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Debanjan",
+    "iast": "devāñjan",
+    "stem": "devāñjana",
+    "devanagari": "देबांजन",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Anointed by the gods.",
+    "components": [
+      {
+        "part": "deva",
+        "gloss": "god"
+      },
+      {
+        "part": "añjana",
+        "gloss": "ointment"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Soumyadeep",
+    "iast": "saumyadīp",
+    "stem": "saumyadīpa",
+    "devanagari": "सौम्यदीप",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Gentle lamp.",
+    "components": [
+      {
+        "part": "saumya",
+        "gloss": "gentle"
+      },
+      {
+        "part": "dīpa",
+        "gloss": "lamp"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tamoghna",
+    "iast": "tamoghna",
+    "devanagari": "तमोघ्न",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Destroyer of darkness.",
+    "components": [
+      {
+        "part": "tamas",
+        "gloss": "darkness"
+      },
+      {
+        "part": "ghna",
+        "gloss": "destroyer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anbarasi",
+    "iast": "aṉparaci",
+    "devanagari": "अन्बरसि",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Queen of love (Tamil).",
+    "components": [
+      {
+        "part": "aṉpu",
+        "gloss": "love"
+      },
+      {
+        "part": "aracī",
+        "gloss": "queen"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Keerthika",
+    "iast": "kīrtikā",
+    "devanagari": "कीर्तिका",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Fame; glory.",
+    "components": [
+      {
+        "part": "kīrti",
+        "gloss": "fame"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Oviya",
+    "iast": "oviya",
+    "devanagari": "ओविय",
+    "letter": "O",
+    "syllable_count": 3,
+    "meaning_en": "Painting; picture (Tamil).",
+    "components": [
+      {
+        "part": "oviyam",
+        "gloss": "painting"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Roshini",
+    "iast": "rośinī",
+    "devanagari": "रोशिनी",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Light; radiance.",
+    "components": [
+      {
+        "part": "rośinī",
+        "gloss": "light"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Subhiksha",
+    "iast": "subhikṣā",
+    "devanagari": "सुभिक्षा",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Prosperity; abundance.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "bhikṣā",
+        "gloss": "alms"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sanika",
+    "iast": "sānikā",
+    "devanagari": "सानिका",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Flute; a pleasing melody.",
+    "components": [
+      {
+        "part": "sanikā",
+        "gloss": "uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yashashri",
+    "iast": "yaśaśrī",
+    "devanagari": "यशश्री",
+    "letter": "Y",
+    "syllable_count": 3,
+    "meaning_en": "Glory and fortune.",
+    "components": [
+      {
+        "part": "yaśas",
+        "gloss": "glory"
+      },
+      {
+        "part": "śrī",
+        "gloss": "fortune"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dibyani",
+    "iast": "divyānī",
+    "devanagari": "दिव्यानी",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Divine woman.",
+    "components": [
+      {
+        "part": "divya",
+        "gloss": "divine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rupsa",
+    "iast": "rūpasī",
+    "devanagari": "रूपसी",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Beautiful woman.",
+    "components": [
+      {
+        "part": "rūpa",
+        "gloss": "beauty"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Oishi",
+    "iast": "aiśī",
+    "devanagari": "ऐशी",
+    "letter": "O",
+    "syllable_count": 2,
+    "meaning_en": "Divine power; lord (Bengali).",
+    "components": [
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-123-modern-regional.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

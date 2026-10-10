@@ -1,0 +1,117 @@
+[
+ {
+  "name": "Akilesh",
+  "verdict": "fix",
+  "reason": "IAST misspelled; akhila has aspirate",
+  "fix": {
+   "iast": "akhileśa",
+   "devanagari": "अखिलेश",
+   "meaning_en": "Lord of all (akhila, all; īśa, lord)."
+  }
+ },
+ {
+  "name": "Gokulnath",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hemachandran",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Kapilan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Lokeshwaran",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mahendran",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Tamilarasan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Debanjan",
+  "verdict": "fix",
+  "reason": "Devanagari wrongly rendered; meaning uncertain",
+  "fix": {
+   "iast": "devāñjana",
+   "devanagari": "देवाञ्जन",
+   "meaning_en": "Collyrium or anointment of the god; etymology uncertain."
+  }
+ },
+ {
+  "name": "Soumyadeep",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Tamoghna",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Anbarasi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Keerthika",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Oviya",
+  "verdict": "fix",
+  "reason": "Tamil name ends in long a; Devanagari and IAST incomplete",
+  "fix": {
+   "iast": "oviyā",
+   "devanagari": "ओविया",
+   "meaning_en": "Painting, picture, artwork (from Tamil oviyam)."
+  }
+ },
+ {
+  "name": "Roshini",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Subhiksha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sanika",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Yashashri",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dibyani",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Rupsa",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Oishi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ }
+]
