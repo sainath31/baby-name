@@ -1,0 +1,126 @@
+[
+ {
+  "name": "Belaku",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Chiranth",
+  "verdict": "fix",
+  "reason": "other",
+  "fix": {
+   "name": "Chiranth",
+   "devanagari": "चिरंत",
+   "iast": "cirant",
+   "meaning_en": "Everlasting, lasting long (from cirantana); etymology partly uncertain."
+  }
+ },
+ {
+  "name": "Deekshith",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gopika",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Haritha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Harsha Vardhan",
+  "verdict": "fix",
+  "reason": "multiple_names_or_phrase",
+  "fix": {
+   "name": "Harshavardhan",
+   "devanagari": "हर्षवर्धन",
+   "iast": "harshavardhan",
+   "meaning_en": "Increaser of joy (harsha + vardhana)."
+  }
+ },
+ {
+  "name": "Jabilli",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Mahantesh",
+  "verdict": "fix",
+  "reason": "other",
+  "fix": {
+   "name": "Mahantesh",
+   "devanagari": "महंतेश",
+   "iast": "mahantesh",
+   "meaning_en": "Lord of the great ones (mahanta + isha); a Shiva name used among Lingayats."
+  }
+ },
+ {
+  "name": "Mallige",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Nandu",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Nele",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term"
+ },
+ {
+  "name": "Nimisha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pranavi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sampige",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sharanu",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Sirimalle",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sravya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sreeja",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vennela",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vinutha",
+  "verdict": "fix",
+  "reason": "other",
+  "fix": {
+   "name": "Vinutha",
+   "devanagari": "विनुता",
+   "iast": "vinuta",
+   "meaning_en": "Praised, extolled (vinuta)."
+  }
+ }
+]

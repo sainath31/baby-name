@@ -97860,5 +97860,669 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Vennela",
+    "iast": "vennela",
+    "devanagari": "वेन्नेला",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Moonlight (Telugu).",
+    "components": [
+      {
+        "part": "vennela",
+        "gloss": "moonlight"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jabilli",
+    "iast": "jābilli",
+    "devanagari": "जाबिल्ली",
+    "letter": "J",
+    "syllable_count": 3,
+    "meaning_en": "The moon (Telugu poetic).",
+    "components": [
+      {
+        "part": "jābilli",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sirimalle",
+    "iast": "sirimalle",
+    "devanagari": "सिरिमल्ले",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Fragrant jasmine (Telugu).",
+    "components": [
+      {
+        "part": "siri",
+        "gloss": "fortune"
+      },
+      {
+        "part": "malle",
+        "gloss": "jasmine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Haritha",
+    "iast": "haritā",
+    "devanagari": "हरिता",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Green; verdant.",
+    "components": [
+      {
+        "part": "harita",
+        "gloss": "green"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sravya",
+    "iast": "śravyā",
+    "devanagari": "श्रव्या",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Pleasant to hear.",
+    "components": [
+      {
+        "part": "śravya",
+        "gloss": "audible, pleasant"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sreeja",
+    "iast": "śrījā",
+    "devanagari": "श्रीजा",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Born of fortune; Lakshmi.",
+    "components": [
+      {
+        "part": "śrī",
+        "gloss": "fortune"
+      },
+      {
+        "part": "ja",
+        "gloss": "born"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pranavi",
+    "iast": "praṇavī",
+    "devanagari": "प्रणवी",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Of the sacred syllable Om.",
+    "components": [
+      {
+        "part": "praṇava",
+        "gloss": "Om"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sampige",
+    "iast": "sampige",
+    "devanagari": "संपिगे",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Champak flower (Kannada).",
+    "components": [
+      {
+        "part": "sampige",
+        "gloss": "champak"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mallige",
+    "iast": "mallige",
+    "devanagari": "मल्लिगे",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Jasmine (Kannada).",
+    "components": [
+      {
+        "part": "mallige",
+        "gloss": "jasmine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Belaku",
+    "iast": "beḷaku",
+    "devanagari": "बेळकु",
+    "letter": "B",
+    "syllable_count": 4,
+    "meaning_en": "Light (Kannada).",
+    "components": [
+      {
+        "part": "beḷaku",
+        "gloss": "light"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nele",
+    "iast": "nele",
+    "devanagari": "नेले",
+    "letter": "N",
+    "syllable_count": 2,
+    "meaning_en": "Ground; homeland (Kannada).",
+    "components": [
+      {
+        "part": "nele",
+        "gloss": "ground"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vinutha",
+    "iast": "vinutā",
+    "devanagari": "विनुता",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Praised; humble.",
+    "components": [
+      {
+        "part": "vinuta",
+        "gloss": "praised"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Deekshith",
+    "iast": "dīkṣit",
+    "stem": "dīkṣita",
+    "devanagari": "दीक्षित",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "One who is initiated.",
+    "components": [
+      {
+        "part": "dīkṣita",
+        "gloss": "initiated"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chiranth",
+    "iast": "cirānt",
+    "stem": "cirānta",
+    "devanagari": "चिरंत",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "Everlasting.",
+    "components": [
+      {
+        "part": "cira",
+        "gloss": "long"
+      },
+      {
+        "part": "anta",
+        "gloss": "end"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Harsha Vardhan",
+    "iast": "harṣavardhan",
+    "stem": "harṣavardhana",
+    "devanagari": "हर्ष वर्धन",
+    "letter": "H",
+    "syllable_count": 4,
+    "meaning_en": "Increaser of joy.",
+    "components": [
+      {
+        "part": "harṣa",
+        "gloss": "joy"
+      },
+      {
+        "part": "vardhana",
+        "gloss": "increaser"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mahantesh",
+    "iast": "mahānteś",
+    "stem": "mahānteśa",
+    "devanagari": "महंतेश",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Great lord; Lingayat saint.",
+    "components": [
+      {
+        "part": "mahānta",
+        "gloss": "great"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sharanu",
+    "iast": "śaraṇu",
+    "devanagari": "शरणु",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Refuge; devotee (Kannada).",
+    "components": [
+      {
+        "part": "śaraṇa",
+        "gloss": "refuge"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nandu",
+    "iast": "nandu",
+    "devanagari": "नन्दु",
+    "letter": "N",
+    "syllable_count": 2,
+    "meaning_en": "Joy; short form of Nandakumar.",
+    "components": [
+      {
+        "part": "nanda",
+        "gloss": "joy"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gopika",
+    "iast": "gopikā",
+    "devanagari": "गोपिका",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Cowherd girl; devotee of Krishna.",
+    "components": [
+      {
+        "part": "gopikā",
+        "gloss": "cowherd girl"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nimisha",
+    "iast": "nimiṣā",
+    "devanagari": "निमिषा",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "A moment; wink.",
+    "components": [
+      {
+        "part": "nimiṣa",
+        "gloss": "wink"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-078-telugu-kannada-malayalam.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
