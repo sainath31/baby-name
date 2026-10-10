@@ -1,0 +1,179 @@
+[
+ {
+  "name": "Aarti",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Anitha",
+  "verdict": "fix",
+  "reason": "Weak meaning; etymology uncertain.",
+  "fix": {
+   "meaning_en": "Etymology uncertain; modern South Indian form of Anita, commonly read as graceful."
+  }
+ },
+ {
+  "name": "Bhargavi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Bhuvaneshwari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Bidisha",
+  "verdict": "fix",
+  "reason": "Meaning corrected.",
+  "fix": {
+   "meaning_en": "Intermediate direction (vidiśā); also the name of an ancient city."
+  }
+ },
+ {
+  "name": "Chamundeshwari",
+  "verdict": "fix",
+  "reason": "Meaning clarified.",
+  "fix": {
+   "meaning_en": "Sovereign lady Chamunda; a fierce form of Durga, family deity in Karnataka."
+  }
+ },
+ {
+  "name": "Chinmayi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Deepika",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Durga",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Joonmoni",
+  "verdict": "fix",
+  "reason": "Script and iast mismatched; Assamese name.",
+  "fix": {
+   "devanagari": "जुनमणि",
+   "iast": "junamaṇi",
+   "meaning_en": "Moon-jewel (Assamese: jun, moon + moni, jewel)."
+  }
+ },
+ {
+  "name": "Kanchan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ketaki",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Lipika",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Madhavi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Monalisa",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Mukta",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Poonam",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Prajakta",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Prathima",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Prerna",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rajitha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ramya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rekha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rimjhim",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sandhya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Seema",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sheetal",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shruti",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sulagna",
+  "verdict": "fix",
+  "reason": "Meaning weak; uncertain.",
+  "fix": {
+   "meaning_en": "Well-joined or auspiciously attached (su + lagna); associated with an auspicious hour. Etymology partly uncertain."
+  }
+ },
+ {
+  "name": "Vandana",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vanitha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vasavi",
+  "verdict": "keep",
+  "reason": "ok"
+ }
+]
