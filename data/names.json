@@ -29647,5 +29647,777 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Nagarjuna",
+    "iast": "nāgārjuna",
+    "devanagari": "नागार्जुन",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Arjuna among serpents; name associated with the ancient philosopher and the Nagarjunakonda site.",
+    "components": [
+      {
+        "part": "nāga",
+        "gloss": "serpent"
+      },
+      {
+        "part": "arjuna",
+        "gloss": "bright, Arjuna"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anjaneyulu",
+    "iast": "āñjaneyulu",
+    "devanagari": "आंजनेयुलु",
+    "letter": "A",
+    "syllable_count": 5,
+    "meaning_en": "Hanuman, son of Anjana (Telugu respectful form).",
+    "components": [
+      {
+        "part": "āñjaneya",
+        "gloss": "Hanuman"
+      },
+      {
+        "part": "-lu",
+        "gloss": "Telugu honorific"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Venkateswarlu",
+    "iast": "veṅkaṭeśvarlu",
+    "devanagari": "वेंकटेश्वर्लु",
+    "letter": "V",
+    "syllable_count": 5,
+    "meaning_en": "Lord of the Venkata hill (Telugu respectful form).",
+    "components": [
+      {
+        "part": "veṅkaṭeśvara",
+        "gloss": "Venkateswara"
+      },
+      {
+        "part": "-lu",
+        "gloss": "Telugu honorific"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nageswara",
+    "iast": "nāgeśvara",
+    "devanagari": "नागेश्वर",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Lord of serpents; Shiva.",
+    "components": [
+      {
+        "part": "nāga",
+        "gloss": "serpent"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Koteswara",
+    "iast": "koṭīśvara",
+    "devanagari": "कोटीश्वर",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Lord of crores; Shiva of Kotappakonda.",
+    "components": [
+      {
+        "part": "koṭi",
+        "gloss": "ten million"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Seshagiri",
+    "iast": "śeṣagiri",
+    "devanagari": "शेषगिरि",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "The hill of Shesha; Tirumala.",
+    "components": [
+      {
+        "part": "śeṣa",
+        "gloss": "the serpent Shesha"
+      },
+      {
+        "part": "giri",
+        "gloss": "hill"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Suryanarayana",
+    "iast": "sūryanārāyaṇa",
+    "devanagari": "सूर्यनारायण",
+    "letter": "S",
+    "syllable_count": 6,
+    "meaning_en": "The sun as Narayana.",
+    "components": [
+      {
+        "part": "sūrya",
+        "gloss": "sun"
+      },
+      {
+        "part": "nārāyaṇa",
+        "gloss": "Vishnu"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Lakshminarayana",
+    "iast": "lakṣmīnārāyaṇa",
+    "devanagari": "लक्ष्मीनारायण",
+    "letter": "L",
+    "syllable_count": 6,
+    "meaning_en": "Vishnu with Lakshmi.",
+    "components": [
+      {
+        "part": "lakṣmī",
+        "gloss": "Lakshmi"
+      },
+      {
+        "part": "nārāyaṇa",
+        "gloss": "Vishnu"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mahadevappa",
+    "iast": "mahādevappa",
+    "devanagari": "महादेवप्पा",
+    "letter": "M",
+    "syllable_count": 5,
+    "meaning_en": "Mahadeva (Shiva) with the Kannada honorific -appa.",
+    "components": [
+      {
+        "part": "mahādeva",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "appa",
+        "gloss": "father, respected one (Kannada)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mallesh",
+    "iast": "malleś",
+    "stem": "malleśa",
+    "devanagari": "मल्लेश",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Lord Mallikarjuna; Shiva.",
+    "components": [
+      {
+        "part": "malla",
+        "gloss": "Malla, Mallikarjuna"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Channabasava",
+    "iast": "cannabasava",
+    "devanagari": "चन्नबसव",
+    "letter": "C",
+    "syllable_count": 5,
+    "meaning_en": "Beautiful Basava; the Lingayat saint, nephew of Basavanna.",
+    "components": [
+      {
+        "part": "canna",
+        "gloss": "beautiful (Kannada)"
+      },
+      {
+        "part": "basava",
+        "gloss": "bull, Nandi"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Veeresh",
+    "iast": "vīreś",
+    "stem": "vīreśa",
+    "devanagari": "वीरेश",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Lord of heroes; Shiva as Veerabhadra.",
+    "components": [
+      {
+        "part": "vīra",
+        "gloss": "hero"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ravikiran",
+    "iast": "ravikiraṇ",
+    "stem": "ravikiraṇa",
+    "devanagari": "रविकिरण",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "Ray of the sun.",
+    "components": [
+      {
+        "part": "ravi",
+        "gloss": "sun"
+      },
+      {
+        "part": "kiraṇa",
+        "gloss": "ray"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gururaj",
+    "iast": "gururāj",
+    "stem": "gururāja",
+    "devanagari": "गुरुराज",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "King of gurus; Raghavendra Swami.",
+    "components": [
+      {
+        "part": "guru",
+        "gloss": "teacher"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vadiraj",
+    "iast": "vādirāj",
+    "stem": "vādirāja",
+    "devanagari": "वादिराज",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "King of debaters; the Madhva saint Vadiraja Tirtha.",
+    "components": [
+      {
+        "part": "vādin",
+        "gloss": "debater"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Satyabrata",
+    "iast": "satyavrata",
+    "devanagari": "सत्यव्रत",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "One whose vow is truth.",
+    "components": [
+      {
+        "part": "satya",
+        "gloss": "truth"
+      },
+      {
+        "part": "vrata",
+        "gloss": "vow"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Prafulla",
+    "iast": "praphulla",
+    "devanagari": "प्रफुल्ल",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Blooming, cheerful.",
+    "components": [
+      {
+        "part": "pra",
+        "gloss": "fully"
+      },
+      {
+        "part": "phulla",
+        "gloss": "blossomed"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shubhendu",
+    "iast": "śubhendu",
+    "devanagari": "शुभेन्दु",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Auspicious moon.",
+    "components": [
+      {
+        "part": "śubha",
+        "gloss": "auspicious"
+      },
+      {
+        "part": "indu",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sukanta",
+    "iast": "sukānta",
+    "devanagari": "सुकान्त",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Very handsome, charming.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "very"
+      },
+      {
+        "part": "kānta",
+        "gloss": "lovely"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Subhojit",
+    "iast": "śubhajit",
+    "devanagari": "शुभजित्",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Winner of auspiciousness.",
+    "components": [
+      {
+        "part": "śubha",
+        "gloss": "auspicious"
+      },
+      {
+        "part": "jit",
+        "gloss": "winner"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Abhik",
+    "iast": "abhīk",
+    "stem": "abhīka",
+    "devanagari": "अभीक",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Fearless.",
+    "components": [
+      {
+        "part": "abhīka",
+        "gloss": "fearless"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Atanu",
+    "iast": "atanu",
+    "devanagari": "अतनु",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Bodiless; Kamadeva.",
+    "components": [
+      {
+        "part": "a",
+        "gloss": "without"
+      },
+      {
+        "part": "tanu",
+        "gloss": "body"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-020-regional.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
