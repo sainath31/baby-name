@@ -1,0 +1,929 @@
+[
+  {
+    "name": "Shripatidasa",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Shripatikumara",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shripatimitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shripatinatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shripatipriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Shripatiputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shriprabhu",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shriprajapati",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shriradhakanta",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shriraghunatha",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shriraghupati",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shriraghuvira",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrirajarama",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shriramadasa",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Shriramadatta",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Shriramakanta",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shriramakumara",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Shriramamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shriramanatha",
+    "verdict": "fix",
+    "reason": "meaning_en corrected",
+    "fix": {
+      "name": "Shriramanatha",
+      "devanagari": "श्रीरामनाथ",
+      "iast": "śrīrāmanātha",
+      "meaning_en": "Revered Ramanatha: Lord Rama, or Shiva as the lord worshipped by Rama."
+    }
+  },
+  {
+    "name": "Shriramapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Shriramaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shriramesha",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrirameshvara",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrirangadasa",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Shrirangadatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shrirangamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shrirangapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Shrirangaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shrisadashiva",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrisatisha",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrishankara",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrishanmukha",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrishauri",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrishridhara",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shrishrihari",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shrishrikanta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shrishrinivasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shrishripati",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shrishrirama",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shrishriranga",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shrishulapani",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrisitarama",
+    "verdict": "reject",
+    "reason": "multiple_names_or_phrase"
+  },
+  {
+    "name": "Shrisomanatha",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrisuresha",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shritrilochana",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shritrinetra",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shritripurari",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shritrivikrama",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shritryambaka",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrivagisha",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrivajranga",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrivakpati",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrivakratunda",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrivamana",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrivenkatesha",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrivighnaraja",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrivighnesha",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrivinayaka",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrivirupaksha",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrivitthala",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shrivrajesha",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shriyogeshvara",
+    "verdict": "reject",
+    "reason": "title_or_honorific"
+  },
+  {
+    "name": "Shulapanidasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shulapanidatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shulapanimitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shulapaninatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Shulapanipriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Shulapaniputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Sitaramadasa",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Sitaramadatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Sitaramamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Sitaramanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Sitaramapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Sitaramaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Somanathadasa",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Somanathadatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Somanathamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Somanathanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Somanathapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Somanathaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Sureshadasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Sureshadatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Sureshakumara",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Sureshamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Sureshanandana",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Sureshanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Sureshapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Sureshaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Trinetradasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Trinetradatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Trinetrakumara",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Trinetramitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Trinetranatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Trinetrapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Trinetraputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Tripuraridasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Tripuraridatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Tripurarimitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Tripurarinatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Tripuraripriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Tripurariputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Trivikramadasa",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Tryambakadasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Tryambakadatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Tryambakamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Tryambakanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Tryambakapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Tryambakaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Umapatidasa",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Umapatimitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Umapatinatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Umapatipriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Umapatiputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Umeshadasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Umeshadatta",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Umeshakumara",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Umeshamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Umeshanandana",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Umeshanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Umeshapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Umeshaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vagishadasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vagishadatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vagishakumara",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vagishamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vagishanandana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vagishanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vagishapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Vagishaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vajrangadasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vajrangadatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vajrangakumara",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vajrangamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vajranganatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vajrangapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Vajrangaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vakpatidasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vakpatidatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vakpatikumara",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vakpatimitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vakpatinandana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vakpatinatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vakpatipriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Vakpatiputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vakratundadasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vamanadasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vamanadatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vamanakumara",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vamanamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vamananandana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vamananatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vamanapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Vamanaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Venkateshadasa",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Vighnarajadasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vighneshadasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vighneshadatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vighneshamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vighneshanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vighneshapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Vighneshaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vinayakadasa",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Vinayakadatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vinayakamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vinayakanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vinayakapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Vinayakaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Virupakshadasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vitthaladasa",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Vitthaladatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vitthalakumara",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vitthalamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vitthalanatha",
+    "verdict": "fix",
+    "reason": "meaning_en corrected",
+    "fix": {
+      "name": "Vitthalanatha",
+      "devanagari": "विट्ठलनाथ",
+      "iast": "viṭṭhalanātha",
+      "meaning_en": "Lord Vitthala (Krishna as worshipped at Pandharpur)."
+    }
+  },
+  {
+    "name": "Vitthalapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Vitthalaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vrajeshadasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vrajeshadatta",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vrajeshakumara",
+    "verdict": "keep",
+    "reason": "sensible, auspicious, correctly joined"
+  },
+  {
+    "name": "Vrajeshamitra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vrajeshanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Vrajeshapriya",
+    "verdict": "reject",
+    "reason": "female_name"
+  },
+  {
+    "name": "Vrajeshaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  },
+  {
+    "name": "Yogeshvaradasa",
+    "verdict": "reject",
+    "reason": "nonsensical_compound"
+  }
+]
