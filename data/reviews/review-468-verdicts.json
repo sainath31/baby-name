@@ -1,0 +1,6 @@
+[
+{"name":"Yashika","verdict":"keep","reason":"Modern girl's name from yaśas (glory) with feminine -kā; meaning sound."},
+{"name":"Neev","verdict":"fix","reason":"Etymology is Hindi nīṃv (foundation), not Sanskrit nīva; IAST should reflect the Hindi form.","fix":{"name":"Neev","devanagari":"नींव","iast":"nīṃv","meaning_en":"Foundation (from Hindi nīṃv)."}},
+{"name":"Sasidharan","verdict":"fix","reason":"Malayalam -an ending: IAST and Devanagari must match the spelled name.","fix":{"name":"Sasidharan","devanagari":"शशिधरन्","iast":"śaśidharan","meaning_en":"Bearer of the moon; an epithet of Shiva."}},
+{"name":"Radhakrishnan","verdict":"fix","reason":"-an ending: IAST must reflect the spelled name, matching the Devanagari.","fix":{"name":"Radhakrishnan","devanagari":"राधाकृष्णन्","iast":"rādhākṛṣṇan","meaning_en":"Radha and Krishna."}}
+]

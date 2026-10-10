@@ -110215,5 +110215,148 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Yashika",
+    "iast": "yaśikā",
+    "devanagari": "यशिका",
+    "letter": "Y",
+    "syllable_count": 3,
+    "meaning_en": "Little glory; fame.",
+    "components": [
+      {
+        "part": "yaśas",
+        "gloss": "glory"
+      },
+      {
+        "part": "-kā",
+        "gloss": "diminutive"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-100-kerala-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Neev",
+    "iast": "nīv",
+    "stem": "nīva",
+    "devanagari": "नींव",
+    "letter": "N",
+    "syllable_count": 1,
+    "meaning_en": "Foundation.",
+    "components": [
+      {
+        "part": "nīva",
+        "gloss": "foundation (Hindi nīṃv)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-100-kerala-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sasidharan",
+    "iast": "śaśidhar",
+    "stem": "śaśidhara",
+    "devanagari": "शशिधरन्",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Bearer of the moon; Shiva.",
+    "components": [
+      {
+        "part": "śaśin",
+        "gloss": "moon"
+      },
+      {
+        "part": "dhara",
+        "gloss": "bearer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kerala"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-100-kerala-modern.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Radhakrishnan",
+    "iast": "rādhākṛṣṇ",
+    "stem": "rādhākṛṣṇa",
+    "devanagari": "राधाकृष्णन्",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Radha and Krishna.",
+    "components": [
+      {
+        "part": "rādhā",
+        "gloss": "Radha"
+      },
+      {
+        "part": "kṛṣṇa",
+        "gloss": "Krishna"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-100-kerala-modern.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
