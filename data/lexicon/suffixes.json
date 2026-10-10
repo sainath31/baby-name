@@ -1,29 +1,194 @@
 {
   "note": "Name-final elements with meaning templates; 'types' lists the kinds of first element each can follow. Templates use only the standard sense of the suffix.",
   "suffixes": [
-    {"iast": "datta",    "tpl": "Given by {X}",             "types": ["deity", "sacred"]},
-    {"iast": "dāsa",     "tpl": "Servant of {X}",           "types": ["deity", "sacred", "virtue"]},
-    {"iast": "nātha",    "tpl": "Lord of {X}",              "types": ["deity", "sacred", "virtue", "nature"]},
-    {"iast": "rāja",     "tpl": "King of {X}",              "types": ["virtue", "nature"]},
-    {"iast": "pāla",     "tpl": "Protector of {X}",         "types": ["virtue", "nature", "sacred"]},
-    {"iast": "putra",    "tpl": "Son of {X}",               "types": ["deity", "sacred", "nature"]},
-    {"iast": "nandana",  "tpl": "Delight of {X}",           "types": ["deity", "sacred", "nature"]},
-    {"iast": "kumāra",   "tpl": "Young son of {X}",         "types": ["deity", "sacred"]},
-    {"iast": "mitra",    "tpl": "Friend of {X}",            "types": ["deity", "sacred", "virtue", "nature"]},
-    {"iast": "kānta",    "tpl": "Beloved of {X}",           "types": ["deity", "sacred", "nature"]},
-    {"iast": "priya",    "tpl": "Dear to {X}",              "types": ["deity", "sacred", "virtue", "nature"]},
-    {"iast": "dhara",    "tpl": "Bearer of {X}",            "types": ["virtue", "nature", "sacred"]},
-    {"iast": "vardhana", "tpl": "Increaser of {X}",         "types": ["virtue", "nature", "sacred"]},
-    {"iast": "pati",     "tpl": "Master of {X}",            "types": ["virtue", "nature"]},
-    {"iast": "śekhara",  "tpl": "Crowned with {X}",         "types": ["nature", "sacred"]},
-    {"iast": "bhūṣaṇa",  "tpl": "Adorned with {X}",         "types": ["virtue", "nature"]},
-    {"iast": "ketu",     "tpl": "Whose banner is {X}",      "types": ["virtue", "nature"]},
-    {"iast": "prabha",   "tpl": "Radiance of {X}",          "types": ["virtue", "nature"]}
+    {
+      "iast": "datta",
+      "tpl": "Given by {X}",
+      "types": [
+        "deity",
+        "sacred"
+      ]
+    },
+    {
+      "iast": "dāsa",
+      "tpl": "Servant of {X}",
+      "types": [
+        "deity",
+        "sacred",
+        "virtue"
+      ]
+    },
+    {
+      "iast": "nātha",
+      "tpl": "Lord of {X}",
+      "types": [
+        "deity",
+        "sacred",
+        "virtue",
+        "nature"
+      ]
+    },
+    {
+      "iast": "rāja",
+      "tpl": "King of {X}",
+      "types": [
+        "virtue",
+        "nature"
+      ]
+    },
+    {
+      "iast": "pāla",
+      "tpl": "Protector of {X}",
+      "types": [
+        "virtue",
+        "nature",
+        "sacred"
+      ]
+    },
+    {
+      "iast": "putra",
+      "tpl": "Son of {X}",
+      "types": [
+        "deity",
+        "sacred",
+        "nature"
+      ]
+    },
+    {
+      "iast": "nandana",
+      "tpl": "Delight of {X}",
+      "types": [
+        "deity",
+        "sacred",
+        "nature"
+      ]
+    },
+    {
+      "iast": "kumāra",
+      "tpl": "Young son of {X}",
+      "types": [
+        "deity",
+        "sacred"
+      ]
+    },
+    {
+      "iast": "mitra",
+      "tpl": "Friend of {X}",
+      "types": [
+        "deity",
+        "sacred",
+        "virtue",
+        "nature"
+      ]
+    },
+    {
+      "iast": "kānta",
+      "tpl": "Beloved of {X}",
+      "types": [
+        "deity",
+        "sacred",
+        "nature"
+      ]
+    },
+    {
+      "iast": "priya",
+      "tpl": "Dear to {X}",
+      "types": [
+        "deity",
+        "sacred",
+        "virtue",
+        "nature"
+      ]
+    },
+    {
+      "iast": "dhara",
+      "tpl": "Bearer of {X}",
+      "types": [
+        "virtue",
+        "sacred"
+      ]
+    },
+    {
+      "iast": "vardhana",
+      "tpl": "Increaser of {X}",
+      "types": [
+        "virtue",
+        "sacred"
+      ]
+    },
+    {
+      "iast": "pati",
+      "tpl": "Master of {X}",
+      "types": [
+        "virtue"
+      ]
+    },
+    {
+      "iast": "śekhara",
+      "tpl": "Crowned with {X}",
+      "types": [
+        "nature",
+        "sacred"
+      ]
+    },
+    {
+      "iast": "bhūṣaṇa",
+      "tpl": "Adorned with {X}",
+      "types": [
+        "virtue"
+      ]
+    },
+    {
+      "iast": "ketu",
+      "tpl": "Whose banner is {X}",
+      "types": [
+        "virtue"
+      ]
+    },
+    {
+      "iast": "prabha",
+      "tpl": "Radiance of {X}",
+      "types": [
+        "virtue"
+      ]
+    }
   ],
   "modifiers": [
-    {"iast": "mahā",  "tpl": "Great {X}",      "types": ["deity", "virtue", "nature", "sacred"]},
-    {"iast": "su",    "tpl": "Good, noble {X}", "types": ["virtue", "nature"]},
-    {"iast": "śrī",   "tpl": "Auspicious {X}",  "types": ["deity", "sacred", "virtue"]},
-    {"iast": "divya", "tpl": "Divine {X}",      "types": ["virtue", "nature", "sacred"]}
+    {
+      "iast": "mahā",
+      "tpl": "Great {X}",
+      "types": [
+        "deity",
+        "virtue",
+        "nature",
+        "sacred"
+      ]
+    },
+    {
+      "iast": "su",
+      "tpl": "Good, noble {X}",
+      "types": [
+        "virtue",
+        "nature"
+      ]
+    },
+    {
+      "iast": "śrī",
+      "tpl": "Auspicious {X}",
+      "types": [
+        "deity",
+        "sacred",
+        "virtue"
+      ]
+    },
+    {
+      "iast": "divya",
+      "tpl": "Divine {X}",
+      "types": [
+        "virtue",
+        "nature",
+        "sacred"
+      ]
+    }
   ]
 }

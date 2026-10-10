@@ -32,7 +32,7 @@ const store = {
 let favs = new Set(store.get('bn.favs', []).filter((x) => typeof x === 'string'));
 
 // ---- state
-const fresh = () => ({ text: '', letters: new Set(), states: new Set(), eras: new Set(), syl: new Set(), groups: new Set(), nak: '', rashi: '', numSystem: 'chaldean', nums: new Set(), reviewedOnly: false, themes: new Set(), deities: new Set(), asp: '', syls: new Set(), sort: 'az' });
+const fresh = () => ({ text: '', letters: new Set(), states: new Set(), eras: new Set(), syl: new Set(), groups: new Set(), nak: '', rashi: '', numSystem: 'chaldean', nums: new Set(), reviewedOnly: false, withConstructed: false, themes: new Set(), deities: new Set(), asp: '', syls: new Set(), sort: 'az' });
 let S = fresh();
 let favView = false;
 let manifest = null;
@@ -73,6 +73,7 @@ function buildQuery() {
   else { if (S.nak) q.nakshatra = S.nak; if (S.rashi) q.rashi = S.rashi; }
   if (S.nums.size) { q.numbers = [...S.nums].map(Number); q.numSystem = S.numSystem; }
   if (S.reviewedOnly) q.reviewedOnly = true;
+  if (S.withConstructed) q.withConstructed = true;
   return q;
 }
 
@@ -141,7 +142,7 @@ function card(r) {
       h('span', { class: 'card-title' }, h('span', { class: 'card-name', text: r.n }), r.d && h('span', { class: 'deva', lang: 'sa', text: r.d })),
       h('span', { class: 'iast', text: r.i }),
       h('span', { class: 'card-meaning', text: r.m || '' }),
-      h('span', { class: 'tags' }, tagsFor(r).map((t) => h('span', { class: 'tag', text: t })), r.u && h('span', { class: 'tag warn', text: 'Unreviewed' }))),
+      h('span', { class: 'tags' }, tagsFor(r).map((t) => h('span', { class: 'tag', text: t })), (r.cn ? h('span', { class: 'tag warn', text: 'Constructed' }) : r.u && h('span', { class: 'tag warn', text: 'Unreviewed' })))),
     favButton(r));
 }
 $('results').addEventListener('click', (e) => {
@@ -205,6 +206,9 @@ function buildFilters() {
     h('div', { class: 'switch-row' },
       h('input', { type: 'checkbox', id: 'reviewed', 'data-f': 'reviewed' }),
       h('label', { for: 'reviewed' }, h('strong', { text: 'Reviewed names only' }), h('span', { text: 'Hide dictionary-imported names that nobody has checked yet. Off by default, so you see everything.' }))),
+    h('div', { class: 'switch-row' },
+      h('input', { type: 'checkbox', id: 'constructed', 'data-f': 'constructed' }),
+      h('label', { for: 'constructed' }, h('strong', { text: 'Include constructed names' }), h('span', { text: 'Names built by rule from real Sanskrit elements (for example Hari + dasa). Not found in any text, and not yet reviewed. Off by default.' }))),
     group('State or region', [stateSearch, stateList]),
     group('Era', h('div', {}, checkList('eras', manifest.eras))),
     group('Syllables', chipOptions('syl', SYL)),
@@ -288,6 +292,7 @@ function buildFilters() {
     else if (t.dataset.f) {
       const f = t.dataset.f;
       if (f === 'reviewed') S.reviewedOnly = t.checked;
+      else if (f === 'constructed') S.withConstructed = t.checked;
       else (t.checked ? S[f].add(t.value) : S[f].delete(t.value));
       if (f === 'syls') { /* manual syllable chips */ }
     } else if (t.dataset.sel) { S[t.dataset.sel] = t.value; if (t.dataset.sel === 'nak' || t.dataset.sel === 'rashi') S.syls.clear(); }
@@ -297,7 +302,7 @@ function buildFilters() {
 }
 
 function syncInputs() {
-  document.querySelectorAll('[data-f]').forEach((i) => { i.checked = i.dataset.f === 'reviewed' ? S.reviewedOnly : S[i.dataset.f].has(i.value); });
+  document.querySelectorAll('[data-f]').forEach((i) => { i.checked = i.dataset.f === 'reviewed' ? S.reviewedOnly : i.dataset.f === 'constructed' ? S.withConstructed : S[i.dataset.f].has(i.value); });
   document.querySelectorAll('[data-sel]').forEach((s) => { s.value = S[s.dataset.sel]; });
   document.querySelectorAll('[data-letter]').forEach((b) => b.setAttribute('aria-pressed', String(S.letters.has(b.dataset.letter))));
   document.querySelectorAll('[data-r]').forEach((i) => { i.checked = S[i.dataset.r] === i.value; });
@@ -326,6 +331,7 @@ function activeFilters() {
   if (S.asp) add(S.asp === 'yes' ? 'Aspirated start' : 'Not aspirated', () => { S.asp = ''; });
   S.nums.forEach((v) => add(`${S.numSystem === 'chaldean' ? 'Chaldean' : 'Pythagorean'} number ${v}`, () => S.nums.delete(v)));
   if (S.reviewedOnly) add('Reviewed only', () => { S.reviewedOnly = false; });
+  if (S.withConstructed) add('Including constructed names', () => { S.withConstructed = false; });
   if (S.text.trim()) add(`Search: "${S.text.trim()}"`, () => { S.text = ''; });
   return out;
 }
@@ -350,7 +356,7 @@ function writeUrl() {
   for (const [k, f] of Object.entries(SETS)) if (S[f].size) p.set(k, [...S[f]].join('|'));
   if (S.nak) p.set('nak', S.nak); if (S.rashi) p.set('rashi', S.rashi);
   if (S.nums.size) p.set('sys', S.numSystem);
-  if (S.asp) p.set('asp', S.asp); if (S.reviewedOnly) p.set('rev', '1');
+  if (S.asp) p.set('asp', S.asp); if (S.reviewedOnly) p.set('rev', '1'); if (S.withConstructed) p.set('con', '1');
   if (S.sort !== 'az') p.set('sort', S.sort); if (favView) p.set('fav', '1');
   const qs = p.toString();
   try { history.replaceState(null, '', location.pathname + (qs ? `?${qs}` : '') + location.hash); } catch { /* ignore */ }
@@ -361,7 +367,7 @@ function readUrl() {
   for (const [k, f] of Object.entries(SETS)) if (p.get(k)) S[f] = new Set(p.get(k).split('|'));
   S.nak = p.get('nak') || ''; S.rashi = p.get('rashi') || ''; S.asp = p.get('asp') || '';
   if (p.get('sys') === 'pythagorean') S.numSystem = 'pythagorean';
-  S.reviewedOnly = p.get('rev') === '1'; S.sort = ['short', 'long'].includes(p.get('sort')) ? p.get('sort') : 'az';
+  S.withConstructed = p.get('con') === '1'; S.reviewedOnly = p.get('rev') === '1'; S.sort = ['short', 'long'].includes(p.get('sort')) ? p.get('sort') : 'az';
   favView = p.get('fav') === '1';
 }
 function clearAll() { S = fresh(); favView = false; syncInputs(); apply(); }
@@ -442,8 +448,9 @@ function renderDetail(r) {
     r.d && h('div', { class: 'd-deva', lang: 'sa', text: r.d }),
     h('div', { class: 'd-iast', text: r.i }),
     h('p', { class: 'd-meaning', text: r.m || 'Meaning not recorded.' }),
-    h('div', { class: 'tags' }, meta.map((t) => h('span', { class: 'tag', text: t })), r.u && h('span', { class: 'tag warn', text: 'Unreviewed' })),
-    r.u && h('p', { class: 'warn-box', text: 'This name was extracted automatically from a dictionary and has not been checked by a person. The meaning is the dictionary\'s own gloss, and the word may be an obscure figure rather than a common given name.' }),
+    h('div', { class: 'tags' }, meta.map((t) => h('span', { class: 'tag', text: t })), (r.cn ? h('span', { class: 'tag warn', text: 'Constructed' }) : r.u && h('span', { class: 'tag warn', text: 'Unreviewed' }))),
+    r.cn && h('p', { class: 'warn-box', text: 'This name was built by rule from real Sanskrit elements (see components). It is a valid-looking compound, but it is not recorded in any text and nobody has reviewed it. Check it with a Sanskrit scholar before using it.' }),
+    !r.cn && r.u && h('p', { class: 'warn-box', text: 'This name was extracted automatically from a dictionary and has not been checked by a person. The meaning is the dictionary\'s own gloss, and the word may be an obscure figure rather than a common given name.' }),
     h('div', { class: 'd-actions' }, favBtn, shareBtn),
     r.st?.length && section('Used in', h('div', { class: 'pill-row' }, r.st.map((s) => h('span', { class: 'pill', text: s })))),
     r.r && section('Reference', h('p', { text: r.r })),

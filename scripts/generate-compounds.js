@@ -2,7 +2,7 @@
 // use:true) x suffixes/modifiers (data/lexicon/suffixes.json), joined by Sanskrit sandhi rules.
 // Output data/generated/constructed.json (gitignored; regenerate with `npm run generate`).
 // Every record is labelled origin:"constructed" - these are pattern-composed, not attested names.
-import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
+import { readFileSync, readdirSync, writeFileSync, rmSync } from 'node:fs';
 import { fromIast, toDevanagari, toLatin } from '../src/translit.js';
 import { syllableCount } from '../src/sounds.js';
 import { loadAll, norm } from './lib.js';
@@ -29,6 +29,8 @@ function join(a, b) {
   return null;
 }
 
+// Drop the previous output first so it is not mistaken for attested names.
+rmSync(new URL('../data/generated/constructed.json', import.meta.url), { force: true });
 const existing = new Set(loadAll({ all: true }).map((n) => norm(n.iast)));
 const seen = new Set(), out = [];
 const add = (iast, tpl, x, partB, typeNote) => {
@@ -41,7 +43,7 @@ const add = (iast, tpl, x, partB, typeNote) => {
   seen.add(key);
   out.push({
     name, iast, devanagari: toDevanagari(slp), letter: name[0].toUpperCase(), syllable_count: syllableCount(iast),
-    meaning_en: tpl.replace('{X}', x.gloss) + '.',
+    meaning_en: tpl.replace('{X}', tpl.startsWith('{X}') || /^(Great|Good|Auspicious|Divine)/.test(tpl) ? x.gloss.replace(/^(the|a|an) /, '') : x.gloss) + '.',
     components: [{ part: x.iast, gloss: x.gloss }, partB],
     pairs_with: { prefixes: [], suffixes: [] }, compounds: [], states: ['All India'],
     origin: 'constructed', kind: 'compound', era: 'classical', confidence: 'medium', curation: 'unreviewed',

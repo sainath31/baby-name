@@ -46,6 +46,7 @@ function filterShard({ recs, qs }, q) {
   const terms = q.text ? norm(q.text).split(' ').filter(Boolean) : null;
   return list.filter((r) => {
     if (q.reviewedOnly && r.u) return false;
+    if (r.cn && !q.withConstructed) return false;          // constructed names only when asked for
     if (eras && !eras.has(r.e || '')) return false;
     if (groups && !groups.has(r.g)) return false;
     if (nums && !nums.has(r[key])) return false;
