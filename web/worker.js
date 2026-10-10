@@ -20,7 +20,7 @@ function load(letter) {
       const qs = new Array(recs.length);
       recs.forEach((r, i) => {
         r.name = r.n; r.letter = letter; r.syllable_count = r.s; r.states = r.st || []; r.iast = r.i; r._i = i;
-        qs[i] = fold(norm(`${r.n} ${r.i} ${r.m || ''}`)) + ' ' + (r.d || '');
+        qs[i] = fold(norm(`${r.n} ${r.i} ${r.m || ''}`)) + ' ' + (r.d || '') + ' ' + fold(norm(r.n)).replace(/ /g, '');   // compact form so 'saikrishna' finds 'Sai Krishna'
       });
       return { recs, qs };
     });
@@ -60,7 +60,7 @@ function filterShard({ recs, qs }, q) {
     if (q.aspirated === 'yes' && !r.a) return false;
     if (q.aspirated === 'no' && r.a) return false;
     if (names && !names.has(r.n)) return false;
-    if (terms) { const s = qs[r._i]; for (const t of terms) if (!s.includes(t)) return false; }
+    if (terms) { const s = qs[r._i]; if (!terms.every((t) => s.includes(t)) && !s.includes(terms.join(''))) return false; }
     return true;
   });
 }
