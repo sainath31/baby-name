@@ -1,0 +1,220 @@
+[
+ {
+  "name": "Aastha",
+  "verdict": "keep",
+  "reason": "Good name, correct meaning."
+ },
+ {
+  "name": "Abhilasha",
+  "verdict": "keep",
+  "reason": "Good name."
+ },
+ {
+  "name": "Alpana",
+  "verdict": "fix",
+  "reason": "Meaning made specific.",
+  "fix": {
+   "meaning_en": "Auspicious ritual floor drawing made with rice paste."
+  }
+ },
+ {
+  "name": "Anandi",
+  "verdict": "fix",
+  "reason": "Meaning weak.",
+  "fix": {
+   "meaning_en": "Joyful; blissful."
+  }
+ },
+ {
+  "name": "Anchal",
+  "verdict": "keep",
+  "reason": "Used as a name."
+ },
+ {
+  "name": "Angana",
+  "verdict": "fix",
+  "reason": "Meaning refined.",
+  "fix": {
+   "meaning_en": "Woman with graceful limbs; a fair woman."
+  }
+ },
+ {
+  "name": "Apeksha",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Damini",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Gurudas",
+  "verdict": "keep",
+  "reason": "Boy name, correct."
+ },
+ {
+  "name": "Hemangi",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Kaumudi",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Lopa",
+  "verdict": "fix",
+  "reason": "Short form needs clearer grounding.",
+  "fix": {
+   "meaning_en": "Short form of Lopamudra, the wife of sage Agastya."
+  }
+ },
+ {
+  "name": "Madhurima",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Manav",
+  "verdict": "keep",
+  "reason": "Boy name, correct."
+ },
+ {
+  "name": "Mandakini",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Mohana",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Namita",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Nayantara",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Pratiksha",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Purvi",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Rajshree",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Sanchita",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Sanskriti",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Shefali",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Shikha",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Shubhangi",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Soham",
+  "verdict": "fix",
+  "reason": "IAST apostrophe form is not the spoken form.",
+  "fix": {
+   "iast": "sohaṃ",
+   "meaning_en": "I am That (from the mantra so'ham)."
+  }
+ },
+ {
+  "name": "Stuti",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Sudeshna",
+  "verdict": "fix",
+  "reason": "IAST was wrong (belonged to Sudakshina).",
+  "fix": {
+   "iast": "sudeṣṇā",
+   "meaning_en": "Queen of King Virata in the Mahabharata; etymology uncertain."
+  }
+ },
+ {
+  "name": "Sukriti",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Sulekha",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Suparna",
+  "verdict": "fix",
+  "reason": "Meaning refined.",
+  "fix": {
+   "meaning_en": "Having beautiful leaves or wings."
+  }
+ },
+ {
+  "name": "Swarna",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Tapasi",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Tarini",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Udita",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Ujjwala",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Unnati",
+  "verdict": "keep",
+  "reason": "Fine."
+ },
+ {
+  "name": "Vallari",
+  "verdict": "keep",
+  "reason": "Fine."
+ }
+]
