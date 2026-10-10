@@ -1,0 +1,75 @@
+[
+ {
+  "name": "Hridayesh",
+  "verdict": "keep",
+  "reason": "Lord of the heart; correct hṛdaya + īśa, sound and used."
+ },
+ {
+  "name": "Indivar",
+  "verdict": "keep",
+  "reason": "Blue lotus; Devanagari with anusvara and dropped final a agrees with indīvara."
+ },
+ {
+  "name": "Kamalakar",
+  "verdict": "keep",
+  "reason": "Lotus-source/lotus pond, epithet of the sun; established name."
+ },
+ {
+  "name": "Manavendra",
+  "verdict": "fix",
+  "reason": "IAST lacks long ā; Devanagari मानवेन्द्र and part mānava require mānavendra.",
+  "fix": {
+   "iast": "mānavendra"
+  }
+ },
+ {
+  "name": "Naimish",
+  "verdict": "keep",
+  "reason": "Naimiṣa, sacred forest of the Puranas, in use as a boy's name; meaning acceptable."
+ },
+ {
+  "name": "Prabodh",
+  "verdict": "keep",
+  "reason": "Awakening, enlightenment; sound."
+ },
+ {
+  "name": "Pranesh",
+  "verdict": "keep",
+  "reason": "prāṇa + īśa, lord of life; sound."
+ },
+ {
+  "name": "Radheshyam",
+  "verdict": "fix",
+  "reason": "Form is vocative 'Radhe Shyam' (invocation), not 'Radha's Shyam'; common name, meaning corrected.",
+  "fix": {
+   "meaning_en": "Radha and Shyam (Krishna), an invocation of the divine pair."
+  }
+ },
+ {
+  "name": "Sharadchandra",
+  "verdict": "fix",
+  "reason": "Sandhi: d before c becomes cc (śaraccandra); IAST and Devanagari corrected.",
+  "fix": {
+   "iast": "śaraccandra",
+   "devanagari": "शरच्चन्द्र"
+  }
+ },
+ {
+  "name": "Siddheshwar",
+  "verdict": "keep",
+  "reason": "Siddha + īśvara, Shiva epithet in common use; correct."
+ },
+ {
+  "name": "Tarakeshwar",
+  "verdict": "fix",
+  "reason": "Meaning 'saviour mantra' is unsupported; tāraka is 'one who ferries across, saviour'.",
+  "fix": {
+   "meaning_en": "Lord who ferries across, the saviour; Shiva."
+  }
+ },
+ {
+  "name": "Mukteshwar",
+  "verdict": "keep",
+  "reason": "mukta + īśvara, Shiva epithet used as a name; correct."
+ }
+]

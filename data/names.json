@@ -114795,5 +114795,439 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Hridayesh",
+    "iast": "hṛdayeś",
+    "stem": "hṛdayeśa",
+    "devanagari": "हृदयेश",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Lord of the heart.",
+    "components": [
+      {
+        "part": "hṛdaya",
+        "gloss": "heart"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-111-boys7.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Indivar",
+    "iast": "indīvar",
+    "stem": "indīvara",
+    "devanagari": "इंदीवर",
+    "letter": "I",
+    "syllable_count": 3,
+    "meaning_en": "Blue lotus.",
+    "components": [
+      {
+        "part": "indīvara",
+        "gloss": "blue lotus"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-111-boys7.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kamalakar",
+    "iast": "kamalākar",
+    "stem": "kamalākara",
+    "devanagari": "कमलाकर",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Lotus pond; the sun.",
+    "components": [
+      {
+        "part": "kamala",
+        "gloss": "lotus"
+      },
+      {
+        "part": "ākara",
+        "gloss": "mine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-111-boys7.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Manavendra",
+    "iast": "manavendra",
+    "devanagari": "मानवेन्द्र",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Lord of men; king.",
+    "components": [
+      {
+        "part": "mānava",
+        "gloss": "human"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-111-boys7.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Naimish",
+    "iast": "naimiṣ",
+    "stem": "naimiṣa",
+    "devanagari": "नैमिष",
+    "letter": "N",
+    "syllable_count": 2,
+    "meaning_en": "Of the Naimisha forest, where the Puranas were recited.",
+    "components": [
+      {
+        "part": "naimiṣa",
+        "gloss": "Naimisha forest"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-111-boys7.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Prabodh",
+    "iast": "prabodh",
+    "stem": "prabodha",
+    "devanagari": "प्रबोध",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Awakening; enlightenment.",
+    "components": [
+      {
+        "part": "pra",
+        "gloss": "forth"
+      },
+      {
+        "part": "bodha",
+        "gloss": "awareness"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-111-boys7.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pranesh",
+    "iast": "prāṇeś",
+    "stem": "prāṇeśa",
+    "devanagari": "प्राणेश",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Lord of life; beloved.",
+    "components": [
+      {
+        "part": "prāṇa",
+        "gloss": "life"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-111-boys7.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Radheshyam",
+    "iast": "rādheśyām",
+    "stem": "rādheśyāma",
+    "devanagari": "राधेश्याम",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Radha's Shyam; Krishna.",
+    "components": [
+      {
+        "part": "rādhā",
+        "gloss": "Radha"
+      },
+      {
+        "part": "śyāma",
+        "gloss": "dark"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-111-boys7.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sharadchandra",
+    "iast": "śaradcandra",
+    "devanagari": "शरदचन्द्र",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Autumn moon.",
+    "components": [
+      {
+        "part": "śarad",
+        "gloss": "autumn"
+      },
+      {
+        "part": "candra",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-111-boys7.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Siddheshwar",
+    "iast": "siddheśvar",
+    "stem": "siddheśvara",
+    "devanagari": "सिद्धेश्वर",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Lord of the perfected; Shiva.",
+    "components": [
+      {
+        "part": "siddha",
+        "gloss": "perfected"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-111-boys7.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tarakeshwar",
+    "iast": "tārakeśvar",
+    "stem": "tārakeśvara",
+    "devanagari": "तारकेश्वर",
+    "letter": "T",
+    "syllable_count": 4,
+    "meaning_en": "Lord of the saviour mantra; Shiva of Tarakeswar.",
+    "components": [
+      {
+        "part": "tāraka",
+        "gloss": "saviour"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-111-boys7.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mukteshwar",
+    "iast": "mukteśvar",
+    "stem": "mukteśvara",
+    "devanagari": "मुक्तेश्वर",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Lord of liberation; Shiva.",
+    "components": [
+      {
+        "part": "mukta",
+        "gloss": "liberated"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Odisha"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-111-boys7.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
