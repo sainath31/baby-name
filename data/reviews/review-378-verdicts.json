@@ -1,0 +1,178 @@
+[
+ {
+  "name": "Aashna",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Abha",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Alaka",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Ambika",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Anamika",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Chaitali",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Dakshata",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Dayita",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Ekta",
+  "verdict": "fix",
+  "reason": "Spoken form is ektā, not ekatā.",
+  "fix": {
+   "iast": "ektā",
+   "meaning_en": "Unity; oneness."
+  }
+ },
+ {
+  "name": "Falguni",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Girija",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Haimavati",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Ila",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Jaya",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Kadambari",
+  "verdict": "fix",
+  "reason": "Meaning wrong: not \"cuckoo's song\".",
+  "fix": {
+   "meaning_en": "Sweet drink of kadamba blossoms; heroine of Banabhatta's romance Kadambari; also a name of Sarasvati."
+  }
+ },
+ {
+  "name": "Kamini",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Karuna",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Komal",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Kshama",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Lekha",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Mallika",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Mamata",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Manasvi",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Mitali",
+  "verdict": "fix",
+  "reason": "IAST maitālī does not match the spoken form mitālī.",
+  "fix": {
+   "iast": "mitālī",
+   "meaning_en": "Friendship; friendliness (from mitra, friend)."
+  }
+ },
+ {
+  "name": "Neelima",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Nupur",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Prarthana",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Pratibha",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Sampada",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Vaishali",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Vasanti",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Vibha",
+  "verdict": "keep",
+  "reason": "Correct, auspicious and well-attested girl's name."
+ },
+ {
+  "name": "Yogini",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: denotes a female yoga practitioner or tantric yoginī class, not a normal given name."
+ }
+]
