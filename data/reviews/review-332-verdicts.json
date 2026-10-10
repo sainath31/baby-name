@@ -1,0 +1,1279 @@
+[
+  {
+    "name": "Maharamesha",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- added to an existing epithet; awkward stack"
+  },
+  {
+    "name": "Maharameshvara",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Maharanganatha",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahasadashiva",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet; a tantric deity form, not a name"
+  },
+  {
+    "name": "Mahasatisha",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: maha- on Satisha is unidiomatic, not a used name"
+  },
+  {
+    "name": "Mahashankara",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: Mahashankara is unidiomatic, not a used name"
+  },
+  {
+    "name": "Mahashanmukha",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahashauri",
+    "verdict": "reject",
+    "reason": "obscure_figure: Shauri is an obscure epithet; maha- adds nothing"
+  },
+  {
+    "name": "Mahashridhara",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- stacked on shri- epithet"
+  },
+  {
+    "name": "Mahashrihari",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- stacked on shri- epithet"
+  },
+  {
+    "name": "Mahashrikanta",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- stacked on shri- epithet"
+  },
+  {
+    "name": "Mahashrinivasa",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- stacked on shri- epithet"
+  },
+  {
+    "name": "Mahashripati",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- stacked on shri- epithet"
+  },
+  {
+    "name": "Mahashrirama",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- stacked on shri- epithet"
+  },
+  {
+    "name": "Mahashriranga",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- stacked on shri- epithet"
+  },
+  {
+    "name": "Mahashulapani",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahashutosha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: maha+ashutosha merges to read maha-shutosha; Ashutosha lost"
+  },
+  {
+    "name": "Mahasitarama",
+    "verdict": "reject",
+    "reason": "multiple_names_or_phrase: maha- on a pair of names (Sita and Rama)"
+  },
+  {
+    "name": "Mahasomanatha",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahasuresha",
+    "verdict": "reject",
+    "reason": "negative_meaning: can be parsed as mahasura-isha, lord of great demons"
+  },
+  {
+    "name": "Mahatrilochana",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahatrinetra",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahatripurari",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahatrivikrama",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahatryambaka",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahavadhesha",
+    "verdict": "reject",
+    "reason": "negative_meaning: maha+avadhesha reads as maha-vadhesha, \"lord of slaughter\""
+  },
+  {
+    "name": "Mahavagisha",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahavajranga",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahavakpati",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahavakratunda",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahavamana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"great dwarf\" is self-contradictory"
+  },
+  {
+    "name": "Mahavenkatesha",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahavighnaraja",
+    "verdict": "reject",
+    "reason": "negative_meaning: reads as \"great obstacle\"; inauspicious stack"
+  },
+  {
+    "name": "Mahavighnesha",
+    "verdict": "reject",
+    "reason": "negative_meaning: reads as \"great obstacle\"; inauspicious stack"
+  },
+  {
+    "name": "Mahavinayaka",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet; a temple deity form, not a given name"
+  },
+  {
+    "name": "Mahavirupaksha",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahavitthala",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahavrajesha",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Mahayogeshvara",
+    "verdict": "reject",
+    "reason": "overlong_compound: maha- on long epithet"
+  },
+  {
+    "name": "Maheshana",
+    "verdict": "keep",
+    "reason": "correct guna sandhi maha+ishana; reads like Mahesh; Shiva name"
+  },
+  {
+    "name": "Mahomapati",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: maha+umapati sandhi gives unrecognisable Mahomapati"
+  },
+  {
+    "name": "Mahomesha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: maha+umesha sandhi gives unrecognisable Mahomesha"
+  },
+  {
+    "name": "Mangeshadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Mangeshadatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Mangeshakumara",
+    "verdict": "keep",
+    "reason": "Mangesh Kumar style, common pattern"
+  },
+  {
+    "name": "Mangeshamitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic as a name"
+  },
+  {
+    "name": "Mangeshanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Mangeshapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Mangeshaputra",
+    "verdict": "keep",
+    "reason": "son of Shiva (Ganesha/Skanda), auspicious"
+  },
+  {
+    "name": "Manjunathadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Marutidasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Marutidatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Marutikumara",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: Maruti is already \"son of Marut\"; \"son of Hanuman\" inappropriate for celibate deity"
+  },
+  {
+    "name": "Marutimitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Marutinandana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: nandana (son) on Maruti; Hanuman is celibate, compound mis-built (epithet is Marutanandana)"
+  },
+  {
+    "name": "Marutinatha",
+    "verdict": "fix",
+    "reason": "meaning: the lord of Hanuman is Rama",
+    "fix": {
+      "meaning_en": "Lord of Maruti, i.e. Rama, master of Hanuman."
+    }
+  },
+  {
+    "name": "Marutipriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Marutiputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"son of Hanuman\" inappropriate for celibate deity"
+  },
+  {
+    "name": "Mayureshadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Mayureshadatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Mayureshamitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Mayureshanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Mayureshapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Mayureshaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"son of Ganesha\" not a recognised devotional naming"
+  },
+  {
+    "name": "Muraridasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Muraridatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Murarikumara",
+    "verdict": "keep",
+    "reason": "Murari Kumar style, common pattern"
+  },
+  {
+    "name": "Murarimitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Murarinandana",
+    "verdict": "reject",
+    "reason": "obscure_figure: son of Krishna (Pradyumna) via unfamiliar compound; \"delight of\" meaning wrong"
+  },
+  {
+    "name": "Murarinatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Muraripriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine; Muraripriya = Radha"
+  },
+  {
+    "name": "Murariputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"son of Krishna\" not a recognised devotional naming"
+  },
+  {
+    "name": "Nageshadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Nageshadatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Nageshakumara",
+    "verdict": "keep",
+    "reason": "Nagesh Kumar style, common pattern"
+  },
+  {
+    "name": "Nageshamitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Nageshanandana",
+    "verdict": "fix",
+    "reason": "nandana means son/one who gladdens",
+    "fix": {
+      "meaning_en": "Son of Nagesha (Shiva), i.e. Ganesha or Skanda; joy of Shiva."
+    }
+  },
+  {
+    "name": "Nageshanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Nageshapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Nageshaputra",
+    "verdict": "keep",
+    "reason": "son of Shiva, auspicious"
+  },
+  {
+    "name": "Naraharidasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Naraharidatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Naraharimitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Naraharinatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Naraharipriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Narahariputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"son of Narahari\" not a recognised devotional naming"
+  },
+  {
+    "name": "Narasimhadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Narasimhadatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Narasimhamitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Narasimhanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Narasimhapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Narasimhaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"son of Narasimha\" not a recognised devotional naming"
+  },
+  {
+    "name": "Natarajadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Natarajadatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Natarajamitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Natarajanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Natarajapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Natarajaputra",
+    "verdict": "keep",
+    "reason": "son of Shiva, auspicious"
+  },
+  {
+    "name": "Nilakanthadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Padmanabhadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Pandurangadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Pashupatidasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Pashupatidatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Pashupatimitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Pashupatipriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Pashupatiputra",
+    "verdict": "keep",
+    "reason": "son of Shiva, auspicious"
+  },
+  {
+    "name": "Prabhudasa",
+    "verdict": "keep",
+    "reason": "Prabhudas, established name"
+  },
+  {
+    "name": "Prabhudatta",
+    "verdict": "keep",
+    "reason": "Prabhudatt, established name"
+  },
+  {
+    "name": "Prabhukumara",
+    "verdict": "keep",
+    "reason": "Prabhu Kumar style, common"
+  },
+  {
+    "name": "Prabhumitra",
+    "verdict": "keep",
+    "reason": "friend of the Lord; acceptable"
+  },
+  {
+    "name": "Prabhunandana",
+    "verdict": "fix",
+    "reason": "nandana means son/one who gladdens, not \"delight of\"",
+    "fix": {
+      "meaning_en": "Son of the Lord; one who gladdens the Lord."
+    }
+  },
+  {
+    "name": "Prabhunatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of the Lord\" is redundant"
+  },
+  {
+    "name": "Prabhupriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Prabhuputra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"son of the Lord\" vague, not a used name"
+  },
+  {
+    "name": "Prajapatidasa",
+    "verdict": "reject",
+    "reason": "obscure_figure: Prajapati is not a devotional deity; unused pattern"
+  },
+  {
+    "name": "Prajapatimitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Prajapatinatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Prajapatipriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Prajapatiputra",
+    "verdict": "reject",
+    "reason": "obscure_figure: Prajapati-son compound, not a used name"
+  },
+  {
+    "name": "Radhakantadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Raghunathadasa",
+    "verdict": "keep",
+    "reason": "Raghunathdas, established name"
+  },
+  {
+    "name": "Raghupatidasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Raghupatidatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Raghupatimitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Raghupatinatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Raghupatipriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine; = Sita"
+  },
+  {
+    "name": "Raghupatiputra",
+    "verdict": "keep",
+    "reason": "son of Rama (Lava/Kusha), auspicious"
+  },
+  {
+    "name": "Raghuviradasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Raghuviradatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Raghuviramitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Raghuviranatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Raghuvirapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Raghuviraputra",
+    "verdict": "keep",
+    "reason": "son of Rama, auspicious"
+  },
+  {
+    "name": "Rajaramadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Rajaramadatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Rajaramamitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Rajaramanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Rajaramapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Rajaramaputra",
+    "verdict": "keep",
+    "reason": "son of Rama, auspicious"
+  },
+  {
+    "name": "Ramakantadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Ramakantadatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Ramakantamitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Ramakantanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Ramakantapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine; = Lakshmi"
+  },
+  {
+    "name": "Ramakantaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"son of Vishnu\" not a recognised devotional naming"
+  },
+  {
+    "name": "Rameshadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Rameshadatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Rameshakumara",
+    "verdict": "keep",
+    "reason": "Ramesh Kumar, very common"
+  },
+  {
+    "name": "Rameshamitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Rameshanandana",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"son of Vishnu\" not a recognised devotional naming"
+  },
+  {
+    "name": "Rameshanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Rameshapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine; = Lakshmi"
+  },
+  {
+    "name": "Rameshaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"son of Vishnu\" not a recognised devotional naming"
+  },
+  {
+    "name": "Rameshvaradasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Ranganathadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Sadashivadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Sadashivadatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Sadashivamitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Sadashivanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Sadashivapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Sadashivaputra",
+    "verdict": "keep",
+    "reason": "son of Shiva, auspicious"
+  },
+  {
+    "name": "Satishadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Satishadatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Satishakumara",
+    "verdict": "keep",
+    "reason": "Satish Kumar, very common"
+  },
+  {
+    "name": "Satishamitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Satishanandana",
+    "verdict": "fix",
+    "reason": "nandana means son/one who gladdens",
+    "fix": {
+      "meaning_en": "Son of Satisha (Shiva), i.e. Ganesha or Skanda; joy of Shiva."
+    }
+  },
+  {
+    "name": "Satishanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Satishapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Satishaputra",
+    "verdict": "keep",
+    "reason": "son of Shiva, auspicious"
+  },
+  {
+    "name": "Shankaradasa",
+    "verdict": "fix",
+    "reason": "devanagari normalised to match the other Shankara forms",
+    "fix": {
+      "devanagari": "शङ्करदास"
+    }
+  },
+  {
+    "name": "Shankaradatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shankarakumara",
+    "verdict": "keep",
+    "reason": "Shankar Kumar; Kumara also = Skanda, son of Shiva"
+  },
+  {
+    "name": "Shankaramitra",
+    "verdict": "keep",
+    "reason": "friend of Shiva; Shankaramitra acceptable"
+  },
+  {
+    "name": "Shankaranatha",
+    "verdict": "fix",
+    "reason": "-natha here is an honorific suffix (cf. Shivnath), not \"lord of\"",
+    "fix": {
+      "meaning_en": "Lord Shankara (Shiva)."
+    }
+  },
+  {
+    "name": "Shankarapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Shankaraputra",
+    "verdict": "keep",
+    "reason": "son of Shiva, auspicious"
+  },
+  {
+    "name": "Shanmukhadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shanmukhadatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shanmukhamitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Shanmukhanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Shanmukhapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine; also a raga name"
+  },
+  {
+    "name": "Shanmukhaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: Skanda has no son in tradition; compound meaningless"
+  },
+  {
+    "name": "Shauridasa",
+    "verdict": "keep",
+    "reason": "Shauri = Krishna; dasa compound acceptable"
+  },
+  {
+    "name": "Shauridatta",
+    "verdict": "reject",
+    "reason": "obscure_figure: Shauri obscure epithet"
+  },
+  {
+    "name": "Shaurikumara",
+    "verdict": "reject",
+    "reason": "obscure_figure: Shauri obscure epithet"
+  },
+  {
+    "name": "Shaurimitra",
+    "verdict": "reject",
+    "reason": "obscure_figure: Shauri obscure epithet"
+  },
+  {
+    "name": "Shaurinandana",
+    "verdict": "reject",
+    "reason": "obscure_figure: Shauri obscure epithet"
+  },
+  {
+    "name": "Shaurinatha",
+    "verdict": "reject",
+    "reason": "obscure_figure: Shauri obscure epithet; \"lord of\" inverted"
+  },
+  {
+    "name": "Shauripriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Shauriputra",
+    "verdict": "reject",
+    "reason": "obscure_figure: Shauri obscure epithet"
+  },
+  {
+    "name": "Shribalabhadra",
+    "verdict": "keep",
+    "reason": "Shri + Balabhadra"
+  },
+  {
+    "name": "Shribaladeva",
+    "verdict": "fix",
+    "reason": "Baladeva is bala- (strength), not bāla- (child)",
+    "fix": {
+      "devanagari": "श्रीबलदेव",
+      "iast": "śrībaladeva"
+    }
+  },
+  {
+    "name": "Shribalarama",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shribhairava",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shribhaskara",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shribholanatha",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrichakrapani",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shridattatreya",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shridevendra",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shridharadatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shridharamitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Shridharanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Shridharapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Shridharaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"son of Vishnu\" not a recognised devotional naming"
+  },
+  {
+    "name": "Shrigajanana",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shriganapati",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shriganesha",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrigangadhara",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrigauranga",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrigopala",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrigopinatha",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrigovinda",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrihalayudha",
+    "verdict": "keep",
+    "reason": "Shri + Halayudha (Balarama)"
+  },
+  {
+    "name": "Shriharidasa",
+    "verdict": "keep",
+    "reason": "Sri Haridas, established"
+  },
+  {
+    "name": "Shriharidatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shriharikumara",
+    "verdict": "keep",
+    "reason": "Shri Hari Kumar, common pattern"
+  },
+  {
+    "name": "Shriharimitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Shriharinatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Shriharipriya",
+    "verdict": "reject",
+    "reason": "female_name: Haripriya = Lakshmi; feminine"
+  },
+  {
+    "name": "Shrihariputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"son of Vishnu\" not a recognised devotional naming"
+  },
+  {
+    "name": "Shrihayagriva",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shriheramba",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrijagadisha",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrijagannatha",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrijanardana",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrikantadasa",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrikantadatta",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrikantamitra",
+    "verdict": "reject",
+    "reason": "compound_or_adjective: \"friend of\" deity compound, unidiomatic"
+  },
+  {
+    "name": "Shrikantanatha",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"Lord of\" a deity is theologically inverted"
+  },
+  {
+    "name": "Shrikantapriya",
+    "verdict": "reject",
+    "reason": "female_name: -priya ending reads feminine"
+  },
+  {
+    "name": "Shrikantaputra",
+    "verdict": "reject",
+    "reason": "nonsensical_compound: \"son of Vishnu\" not a recognised devotional naming"
+  },
+  {
+    "name": "Shrikarttikeya",
+    "verdict": "fix",
+    "reason": "normalise spelling to common Kartikeya",
+    "fix": {
+      "name": "Shrikartikeya",
+      "devanagari": "श्रीकार्तिकेय",
+      "iast": "śrīkārtikeya"
+    }
+  },
+  {
+    "name": "Shrikashinatha",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrikubera",
+    "verdict": "keep",
+    "reason": "Shri + Kubera, god of wealth"
+  },
+  {
+    "name": "Shrilambodara",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrimahadeva",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrimangesha",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrimanjunatha",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrimaruti",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrimayuresha",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrimurari",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrinagesha",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrinarahari",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrinarasimha",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrinataraja",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrinilakantha",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shrinivasadasa",
+    "verdict": "keep",
+    "reason": "Srinivasadas, established"
+  },
+  {
+    "name": "Shripadmanabha",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shripanduranga",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  },
+  {
+    "name": "Shripashupati",
+    "verdict": "keep",
+    "reason": "devotional compound, correctly joined"
+  }
+]
