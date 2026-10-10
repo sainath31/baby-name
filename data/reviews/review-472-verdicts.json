@@ -1,0 +1,12 @@
+[
+{"name":"Chandrabhan","verdict":"fix","reason":"IAST is the Sanskrit form (bhānu); Devanagari चन्द्रभान is Hindi bhān","fix":{"iast":"candrabhāna","meaning_en":"Moon and sun (candra, bhānu)"}},
+{"name":"Narpat","verdict":"fix","reason":"IAST narapati does not match Devanagari नरपत","fix":{"iast":"narapata","meaning_en":"Lord of men; king"}},
+{"name":"Sajjan","verdict":"keep","reason":"ok"},
+{"name":"Vijaypal","verdict":"keep","reason":"ok"},
+{"name":"Awadh","verdict":"reject","reason":"place_or_river"},
+{"name":"Hiralal","verdict":"fix","reason":"meaning weak","fix":{"meaning_en":"Diamond, beloved son"}},
+{"name":"Phoolchand","verdict":"fix","reason":"IAST phullacandra does not match Devanagari फूलचंद","fix":{"iast":"phūlacanda","meaning_en":"Flower and moon"}},
+{"name":"Ramnaresh","verdict":"keep","reason":"ok"},
+{"name":"Kalawati","verdict":"keep","reason":"ok"},
+{"name":"Dhanwanti","verdict":"keep","reason":"ok"}
+]

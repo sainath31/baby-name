@@ -111043,5 +111043,367 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Chandrabhan",
+    "iast": "candrabhānu",
+    "devanagari": "चन्द्रभान",
+    "letter": "C",
+    "syllable_count": 4,
+    "meaning_en": "Moon and sun.",
+    "components": [
+      {
+        "part": "candra",
+        "gloss": "moon"
+      },
+      {
+        "part": "bhānu",
+        "gloss": "sun"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Rajasthan"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-104-hindi-belt.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Narpat",
+    "iast": "narapati",
+    "devanagari": "नरपत",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Lord of men; king.",
+    "components": [
+      {
+        "part": "nara",
+        "gloss": "man"
+      },
+      {
+        "part": "pati",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Rajasthan"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-104-hindi-belt.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sajjan",
+    "iast": "sajjan",
+    "stem": "sajjana",
+    "devanagari": "सज्जन",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Good, virtuous person.",
+    "components": [
+      {
+        "part": "sat",
+        "gloss": "good"
+      },
+      {
+        "part": "jana",
+        "gloss": "person"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-104-hindi-belt.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vijaypal",
+    "iast": "vijayapāl",
+    "stem": "vijayapāla",
+    "devanagari": "विजयपाल",
+    "letter": "V",
+    "syllable_count": 4,
+    "meaning_en": "Protector of victory.",
+    "components": [
+      {
+        "part": "vijaya",
+        "gloss": "victory"
+      },
+      {
+        "part": "pāla",
+        "gloss": "protector"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Rajasthan"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-104-hindi-belt.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Awadh",
+    "iast": "avadh",
+    "stem": "avadha",
+    "devanagari": "अवध",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Ayodhya; the region of Rama.",
+    "components": [
+      {
+        "part": "avadha",
+        "gloss": "Ayodhya"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-104-hindi-belt.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hiralal",
+    "iast": "hīralāl",
+    "stem": "hīralāla",
+    "devanagari": "हीरालाल",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Diamond-son.",
+    "components": [
+      {
+        "part": "hīra",
+        "gloss": "diamond"
+      },
+      {
+        "part": "lāla",
+        "gloss": "beloved son"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-104-hindi-belt.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Phoolchand",
+    "iast": "phullacandr",
+    "stem": "phullacandra",
+    "devanagari": "फूलचंद",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Flower and moon.",
+    "components": [
+      {
+        "part": "phulla",
+        "gloss": "blossom"
+      },
+      {
+        "part": "candra",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-104-hindi-belt.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ramnaresh",
+    "iast": "rāmanareś",
+    "stem": "rāmanareśa",
+    "devanagari": "रामनरेश",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "Rama, lord of men.",
+    "components": [
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      },
+      {
+        "part": "nareśa",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-104-hindi-belt.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kalawati",
+    "iast": "kalāvatī",
+    "devanagari": "कलावती",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Skilled in the arts.",
+    "components": [
+      {
+        "part": "kalā",
+        "gloss": "art"
+      },
+      {
+        "part": "-vatī",
+        "gloss": "possessing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-104-hindi-belt.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dhanwanti",
+    "iast": "dhanavantī",
+    "devanagari": "धनवन्ती",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "Wealthy woman.",
+    "components": [
+      {
+        "part": "dhana",
+        "gloss": "wealth"
+      },
+      {
+        "part": "-vantī",
+        "gloss": "possessing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-104-hindi-belt.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
