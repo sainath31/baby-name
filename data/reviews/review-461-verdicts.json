@@ -1,0 +1,12 @@
+[
+{"name":"Vartika","verdict":"keep","reason":"vartikā is attested Sanskrit (lamp wick; also a quail); auspicious light imagery, IAST and Devanagari agree"},
+{"name":"Lalima","verdict":"keep","reason":"lālimā, redness/ruddy glow, standard Sanskrit-derived abstract noun; scripts agree"},
+{"name":"Vanshika","verdict":"keep","reason":"vaṃśikā from vaṃśa (flute/lineage) with -ikā; sound and agreeing scripts"},
+{"name":"Wamika","verdict":"fix","reason":"W spelling is non-standard for v; vāmā (beautiful woman, a name of Durga/Lakshmi) with diminutive -ikā is acceptable but less firmly attested","fix":{"name":"Vamika","devanagari":"वामिका","iast":"vāmikā","meaning_en":"Little beautiful one (from vāmā, 'beautiful woman', a name of Durga)"}},
+{"name":"Anvi","verdict":"fix","reason":"No attested Sanskrit anvī or Lakshmi epithet; claim unsupported; kept as modern name with honest meaning","fix":{"name":"Anvi","devanagari":"अन्वी","iast":"anvī","meaning_en":"etymology uncertain; modern name, popularly glossed 'graceful'"}},
+{"name":"Hiya","verdict":"fix","reason":"hṛdayā is not a real feminine form (hṛdaya is neuter); Hiya is the Hindi/Bengali hiyā derived from Sanskrit hṛdaya via Prakrit","fix":{"name":"Hiya","devanagari":"हिया","iast":"hiyā","meaning_en":"Heart (vernacular hiyā, from Sanskrit hṛdaya)"}},
+{"name":"Tvisha","verdict":"keep","reason":"tviṣ/tviṣā radiance, Vedic word; scripts agree"},
+{"name":"Vritika","verdict":"reject","reason":"common_noun_or_technical_term: vṛttikā is a commentary/livelihood term, not an auspicious personal name; meaning weak"},
+{"name":"Saloni","verdict":"fix","reason":"Hindi salonī/salonā (charming), from Sanskrit lāvaṇya, not Sanskrit; IAST salonī and सलोनी agree but gloss must state vernacular origin","fix":{"name":"Saloni","devanagari":"सलोनी","iast":"salonī","meaning_en":"Charming, graceful (Hindi salonī, ultimately from Sanskrit lāvaṇya, 'charm')"}},
+{"name":"Priyal","verdict":"reject","reason":"other: IAST priyala/प्रियल does not match name; priyāla is a tree name; no sound Sanskrit derivation (modern coinage from priya)"}
+]
