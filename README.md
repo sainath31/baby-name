@@ -12,9 +12,9 @@ _Last updated: 2026-10-10_
 
 | Measure | Count |
 |---|---|
-| Names listed (shown to users) | 2,667 (boys 2,033, girls 601, gender-neutral 33) |
+| Names listed (shown to users) | 2,556 (boys 1,962, girls 561, gender-neutral 33) |
 | - attested (found in texts, dictionaries or common use) | 1,810 |
-| - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 857 |
+| - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 746 |
 | Hidden candidate records kept in data | ~18,700 |
 | Total records | 23,398 |
 | Names read by the AI reviewer | ~6,700 (first round 694, shortlist 2,480, constructed 2,676, hand batches 130, fixes) |
@@ -53,7 +53,7 @@ Vetted attested names number in the low thousands at most; anything beyond that 
 - Astrology syllable coverage check: every naming syllable should have names; a few (Ng, Cho, Vo, Ho, Yi) are rare sounds at the start of Sanskrit names and stay thin.
 
 ### Quality audit (done)
-- Every listed attested name (1,959) was re-read by an independent AI auditor (not a human priest). About 13% (261) had a problem: wrong or non-meaning, invented etymology, wrong script or spelling, wrong gender or state tag, or an unsuitable name. All were corrected or removed (reviews 394-398). Constructed names were reviewed separately.
+- Every listed attested name (1,959) was re-read by an independent AI auditor (not a human priest). About 13% (261) had a problem: wrong or non-meaning, invented etymology, wrong script or spelling, wrong gender or state tag, or an unsuitable name. All were corrected or removed (reviews 394-398). The rule-built names were audited the same way: about 34% were rejected or fixed (reviews 399-400), mostly forced pairings, "Shri" stacked on a deity's own name, -dasi names for girls, and inauspicious readings.
 
 ### To do
 - Widen the generator's lexicon: 265 elements yields about 500 surviving names; 100k would need roughly 10,000
