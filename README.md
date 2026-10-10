@@ -12,13 +12,13 @@ _Last updated: 2026-10-10_
 
 | Measure | Count |
 |---|---|
-| Names listed (shown to users) | 2,040 |
-| - attested (found in texts, dictionaries or common use) | 994 |
-| - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 748 |
+| Names listed (shown to users) | 2,259 |
+| - attested (found in texts, dictionaries or common use) | 1,481 |
+| - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 778 |
 | Hidden candidate records kept in data | ~18,700 |
-| Total records | 20,886 |
+| Total records | 21,721 |
 | Names read by the AI reviewer | ~6,700 (first round 694, shortlist 2,480, constructed 2,676, hand batches 130, fixes) |
-| Tests | 18 passing |
+| Tests | 20 passing |
 
 **Goal:** 100,000 unique names. **Reality check:** about 990 attested and 750 constructed names survive review today.
 Vetted attested names number in the low thousands at most; anything beyond that must come from rule-based generation.
