@@ -1,0 +1,277 @@
+[
+ {
+  "name": "Aadesh",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Aakar",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Adhish",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Akshit",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Alankar",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Aparajit",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Archit",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Atmik",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Avadhoot",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Baldev",
+  "verdict": "fix",
+  "reason": "iast should match written form",
+  "fix": {
+   "name": "Baldev",
+   "devanagari": "बलदेव",
+   "iast": "baldev",
+   "meaning_en": "God of strength; Balarama."
+  }
+ },
+ {
+  "name": "Bhairavnath",
+  "verdict": "fix",
+  "reason": "iast should match written form",
+  "fix": {
+   "name": "Bhairavnath",
+   "devanagari": "भैरवनाथ",
+   "iast": "bhairavnāth",
+   "meaning_en": "Lord Bhairava, a form of Shiva."
+  }
+ },
+ {
+  "name": "Chandramohan",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Darshit",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Dhiraj",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Digant",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Dushyant",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Hansraj",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Hridesh",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Indresh",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Jaiveer",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Jeet",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Kalpit",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Kanak",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Kirtan",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Kripal",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Mitul",
+  "verdict": "keep",
+  "reason": "modern name; coinage already marked uncertain"
+ },
+ {
+  "name": "Pallav",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Prabal",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Pradyot",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Pramit",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Pratham",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Rajeshwar",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Ranjan",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Rasik",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Sangram",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Sanidhya",
+  "verdict": "fix",
+  "reason": "script and iast should match written spelling Sanidhya",
+  "fix": {
+   "name": "Sanidhya",
+   "devanagari": "सानिध्य",
+   "iast": "sānidhya",
+   "meaning_en": "Nearness, divine presence (popular spelling of Sanskrit sānnidhya)."
+  }
+ },
+ {
+  "name": "Saumitra",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Shamit",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Shubhang",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Sujay",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Tejpal",
+  "verdict": "fix",
+  "reason": "iast should match written form",
+  "fix": {
+   "name": "Tejpal",
+   "devanagari": "तेजपाल",
+   "iast": "tejpāl",
+   "meaning_en": "Protector of brilliance."
+  }
+ },
+ {
+  "name": "Umang",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Varad",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Vasav",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Vedvyas",
+  "verdict": "fix",
+  "reason": "iast should match written form",
+  "fix": {
+   "name": "Vedvyas",
+   "devanagari": "वेदव्यास",
+   "iast": "vedvyās",
+   "meaning_en": "Arranger of the Vedas; the sage Vyasa."
+  }
+ },
+ {
+  "name": "Vibhas",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Vikrant",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Vrishank",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ },
+ {
+  "name": "Yajur",
+  "verdict": "keep",
+  "reason": "correct meaning, script and spelling; suitable boy name"
+ }
+]
