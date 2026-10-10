@@ -12,9 +12,9 @@ _Last updated: 2026-10-10_
 
 | Measure | Count |
 |---|---|
-| Names listed (shown to users) | 3,142 (boys 2,402, girls 705, gender-neutral 35) |
+| Names listed (shown to users) | 3,165 (boys 2,410, girls 720, gender-neutral 35) |
 | - attested (found in texts, dictionaries or common use) | 1,954 |
-| - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 1,188 |
+| - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 1,211 |
 | Hidden candidate records kept in data | ~18,700 |
 | Total records | 23,398 |
 | Names read by the AI reviewer | ~6,700 (first round 694, shortlist 2,480, constructed 2,676, hand batches 130, fixes) |
@@ -45,8 +45,8 @@ Vetted attested names number in the low thousands at most; anything beyond that 
 - Lighthouse (mobile, local run): performance 96, accessibility 100, best practices 100, SEO 100. Fonts load without blocking; the birth panel is built at once and space is reserved for the list to avoid layout jumps.
 - Live site: https://sainath31.github.io/baby-name/ (GitHub Pages, redeployed on every push).
 
-- Compound-name generator (`npm run generate`): 533 reviewer-curated elements x 17 masculine and 7 feminine suffixes + 4 prefixes with
-  Sanskrit joining rules. Reviewers read every generated name; about 1,190 survive review and audit. The UI has an "Include constructed names" toggle (off by default).
+- Compound-name generator (`npm run generate`): 554 reviewer-curated elements x 17 masculine and 7 feminine suffixes + 4 prefixes with
+  Sanskrit joining rules. Reviewers read every generated name; about 1,210 survive review and audit. The UI has an "Include constructed names" toggle (off by default).
 - Reusable reviewer prompt (`data/reviews/REVIEWER_PROMPT.md`) and chunk maker (`scripts/make-review-chunks.js`).
 
 ### In progress
