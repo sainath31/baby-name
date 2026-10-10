@@ -1,0 +1,164 @@
+[
+ {
+  "name": "Sri Devi",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Sri Priya",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Sri Gayathri",
+  "verdict": "keep",
+  "reason": "two real name elements, gloss correct"
+ },
+ {
+  "name": "Sai Sri",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Sai Deepthi",
+  "verdict": "keep",
+  "reason": "two real name elements, gloss correct"
+ },
+ {
+  "name": "Sai Sudha",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Sai Swetha",
+  "verdict": "fix",
+  "reason": "gloss wrong or weak",
+  "fix": {
+   "meaning_en": "Sai, the fair one"
+  }
+ },
+ {
+  "name": "Sai Sravya",
+  "verdict": "fix",
+  "reason": "gloss wrong or weak",
+  "fix": {
+   "meaning_en": "Sai, the one pleasing to hear"
+  }
+ },
+ {
+  "name": "Jaya Sri",
+  "verdict": "keep",
+  "reason": "two real name elements, gloss correct"
+ },
+ {
+  "name": "Jaya Priya",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Jaya Devi",
+  "verdict": "keep",
+  "reason": "two real name elements, gloss correct"
+ },
+ {
+  "name": "Rama Devi",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Rama Lakshmi",
+  "verdict": "keep",
+  "reason": "two real name elements, gloss correct"
+ },
+ {
+  "name": "Hema Lakshmi",
+  "verdict": "keep",
+  "reason": "two real name elements, gloss correct"
+ },
+ {
+  "name": "Hema Latha",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Hema Sri",
+  "verdict": "keep",
+  "reason": "two real name elements, gloss correct"
+ },
+ {
+  "name": "Anu Radha",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Anu Priya",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Anu Shree",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Ramya Sri",
+  "verdict": "keep",
+  "reason": "two real name elements, gloss correct"
+ },
+ {
+  "name": "Lakshmi Priya",
+  "verdict": "keep",
+  "reason": "two real name elements, gloss correct"
+ },
+ {
+  "name": "Lakshmi Prasanna",
+  "verdict": "keep",
+  "reason": "two real name elements, gloss correct"
+ },
+ {
+  "name": "Lakshmi Devi",
+  "verdict": "keep",
+  "reason": "two real name elements, gloss correct"
+ },
+ {
+  "name": "Durga Devi",
+  "verdict": "keep",
+  "reason": "two real name elements, gloss correct"
+ },
+ {
+  "name": "Durga Bhavani",
+  "verdict": "fix",
+  "reason": "gloss wrong or weak",
+  "fix": {
+   "meaning_en": "Durga, also called Bhavani; names of the Goddess"
+  }
+ },
+ {
+  "name": "Padma Priya",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Padma Sri",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Siva Parvathi",
+  "verdict": "fix",
+  "reason": "gloss wrong or weak",
+  "fix": {
+   "meaning_en": "Parvati, consort of Shiva"
+  }
+ },
+ {
+  "name": "Sita Mahalakshmi",
+  "verdict": "keep",
+  "reason": "two real name elements, gloss correct"
+ },
+ {
+  "name": "Venkata Lakshmi",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ }
+]
