@@ -95808,5 +95808,844 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Gora",
+    "iast": "gaura",
+    "devanagari": "गोरा",
+    "letter": "G",
+    "syllable_count": 2,
+    "meaning_en": "Fair; the hero of Tagore's novel Gora.",
+    "components": [
+      {
+        "part": "gaura",
+        "gloss": "fair"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Binodini",
+    "iast": "vinodinī",
+    "devanagari": "विनोदिनी",
+    "letter": "B",
+    "syllable_count": 4,
+    "meaning_en": "Delightful woman.",
+    "components": [
+      {
+        "part": "vinoda",
+        "gloss": "delight"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anandamayi",
+    "iast": "ānandamayī",
+    "devanagari": "आनन्दमयी",
+    "letter": "A",
+    "syllable_count": 5,
+    "meaning_en": "Full of bliss.",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      },
+      {
+        "part": "maya",
+        "gloss": "full of"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mrinmoyee",
+    "iast": "mṛnmayī",
+    "devanagari": "मृण्मयी",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Made of earth; Tagore's heroine.",
+    "components": [
+      {
+        "part": "mṛd",
+        "gloss": "earth"
+      },
+      {
+        "part": "maya",
+        "gloss": "made of"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Haimanti",
+    "iast": "haimantī",
+    "devanagari": "हैमन्ती",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Of winter.",
+    "components": [
+      {
+        "part": "hemanta",
+        "gloss": "winter"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kapalkundala",
+    "iast": "kapālakuṇḍalā",
+    "devanagari": "कपालकुण्डला",
+    "letter": "K",
+    "syllable_count": 6,
+    "meaning_en": "Wearing skull ear-rings; heroine of Bankim's novel.",
+    "components": [
+      {
+        "part": "kapāla",
+        "gloss": "skull"
+      },
+      {
+        "part": "kuṇḍala",
+        "gloss": "ear-ring"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Apu",
+    "iast": "apū",
+    "devanagari": "अपू",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Boy of Satyajit Ray's Apu trilogy; pet name.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vaishakh",
+    "iast": "vaiśākh",
+    "stem": "vaiśākha",
+    "devanagari": "वैशाख",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Born in the month Vaishakha.",
+    "components": [
+      {
+        "part": "vaiśākha",
+        "gloss": "month name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ashadh",
+    "iast": "āṣāḍh",
+    "stem": "āṣāḍha",
+    "devanagari": "आषाढ़",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Born in the month Ashadha.",
+    "components": [
+      {
+        "part": "āṣāḍha",
+        "gloss": "month name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Magh",
+    "iast": "māgh",
+    "stem": "māgha",
+    "devanagari": "माघ",
+    "letter": "M",
+    "syllable_count": 1,
+    "meaning_en": "Born in the month Magha; the poet Magha.",
+    "components": [
+      {
+        "part": "māgha",
+        "gloss": "month name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Margashirsha",
+    "iast": "mārgaśīrṣa",
+    "devanagari": "मार्गशीर्ष",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Born in the month Margashirsha.",
+    "components": [
+      {
+        "part": "mārgaśīrṣa",
+        "gloss": "month name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pausha",
+    "iast": "pauṣa",
+    "devanagari": "पौष",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Born in the month Pausha.",
+    "components": [
+      {
+        "part": "pauṣa",
+        "gloss": "month name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Guru",
+    "iast": "guru",
+    "devanagari": "गुरु",
+    "letter": "G",
+    "syllable_count": 2,
+    "meaning_en": "Teacher; the planet Jupiter.",
+    "components": [
+      {
+        "part": "guru",
+        "gloss": "heavy, teacher"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ketu",
+    "iast": "ketu",
+    "devanagari": "केतु",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Banner; a lunar node.",
+    "components": [
+      {
+        "part": "ketu",
+        "gloss": "banner"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Samadhi",
+    "iast": "samādhi",
+    "devanagari": "समाधि",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Absorption; deep meditation.",
+    "components": [
+      {
+        "part": "samādhi",
+        "gloss": "concentration"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yogi",
+    "iast": "yogī",
+    "devanagari": "योगी",
+    "letter": "Y",
+    "syllable_count": 2,
+    "meaning_en": "One who practises yoga.",
+    "components": [
+      {
+        "part": "yogin",
+        "gloss": "practitioner"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sadhu",
+    "iast": "sādhu",
+    "devanagari": "साधु",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Virtuous; holy.",
+    "components": [
+      {
+        "part": "sādhu",
+        "gloss": "good"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tapasvi",
+    "iast": "tapasvī",
+    "devanagari": "तपस्वी",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Practiser of austerities.",
+    "components": [
+      {
+        "part": "tapasvin",
+        "gloss": "ascetic"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Divyang",
+    "iast": "divyāṅg",
+    "stem": "divyāṅga",
+    "devanagari": "दिव्यांग",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Of divine limbs.",
+    "components": [
+      {
+        "part": "divya",
+        "gloss": "divine"
+      },
+      {
+        "part": "aṅga",
+        "gloss": "limb"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kavyansh",
+    "iast": "kāvyāṃś",
+    "stem": "kāvyāṃśa",
+    "devanagari": "काव्यांश",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Part of a poem.",
+    "components": [
+      {
+        "part": "kāvya",
+        "gloss": "poem"
+      },
+      {
+        "part": "aṃśa",
+        "gloss": "part"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rasraj",
+    "iast": "rasarāj",
+    "stem": "rasarāja",
+    "devanagari": "रसराज",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "King of sentiments.",
+    "components": [
+      {
+        "part": "rasa",
+        "gloss": "sentiment"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vachan",
+    "iast": "vacan",
+    "stem": "vacana",
+    "devanagari": "वचन",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Word; promise.",
+    "components": [
+      {
+        "part": "vacana",
+        "gloss": "speech"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vagish",
+    "iast": "vāgīś",
+    "stem": "vāgīśa",
+    "devanagari": "वागीश",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Lord of speech; Brihaspati.",
+    "components": [
+      {
+        "part": "vāc",
+        "gloss": "speech"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vachaspati",
+    "iast": "vācaspati",
+    "devanagari": "वाचस्पति",
+    "letter": "V",
+    "syllable_count": 4,
+    "meaning_en": "Lord of speech.",
+    "components": [
+      {
+        "part": "vāc",
+        "gloss": "speech"
+      },
+      {
+        "part": "pati",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vagmi",
+    "iast": "vāgmin",
+    "devanagari": "वाग्मी",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Eloquent.",
+    "components": [
+      {
+        "part": "vāgmin",
+        "gloss": "eloquent"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-076-literature-months.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

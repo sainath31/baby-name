@@ -1,0 +1,123 @@
+[
+ {
+  "name": "Apu",
+  "verdict": "fix",
+  "reason": "Real Bengali pet name, but meaning given is a film reference; etymology uncertain.",
+  "fix": {
+   "meaning_en": "Pet name popularised by Satyajit Ray's Apu films; etymology uncertain"
+  }
+ },
+ {
+  "name": "Ashadh",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Month name nobody uses as a given name."
+ },
+ {
+  "name": "Binodini",
+  "verdict": "keep",
+  "reason": "Genuine Bengali girl's name; vinodinī, one who delights."
+ },
+ {
+  "name": "Divyang",
+  "verdict": "reject",
+  "reason": "other: Now the official term for persons with disabilities; not a natural given name and the \"divine limbs\" gloss is awkward."
+ },
+ {
+  "name": "Gora",
+  "verdict": "reject",
+  "reason": "other: Devanagari गोरा is gorā (Hindi \"fair-skinned/white person\"), not gaura; mismatch and novel-character name, not a standard given name."
+ },
+ {
+  "name": "Guru",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Means teacher; a title, not a given name (also planet Jupiter)."
+ },
+ {
+  "name": "Haimanti",
+  "verdict": "keep",
+  "reason": "Genuine Bengali girl's name, \"of winter\"."
+ },
+ {
+  "name": "Kapalkundala",
+  "verdict": "reject",
+  "reason": "obscure_figure: Bankim novel heroine tied to a Kapalika ascetic; skull imagery, not used as a given name."
+ },
+ {
+  "name": "Kavyansh",
+  "verdict": "keep",
+  "reason": "Modern used boy's name; kāvya + aṃśa."
+ },
+ {
+  "name": "Ketu",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Shadow-planet node regarded as inauspicious; not given as a name."
+ },
+ {
+  "name": "Magh",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Month name nobody uses as a given name; poet Magha is an author."
+ },
+ {
+  "name": "Margashirsha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Month name, overlong and not used as a given name."
+ },
+ {
+  "name": "Mrinmoyee",
+  "verdict": "keep",
+  "reason": "Used Bengali girl's name (Tagore's heroine); mṛnmayī, made of earth."
+ },
+ {
+  "name": "Pausha",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Month name not used as a given name."
+ },
+ {
+  "name": "Rasraj",
+  "verdict": "keep",
+  "reason": "Used name, epithet of Krishna; king of rasa (sentiment/essence)."
+ },
+ {
+  "name": "Sadhu",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Word for an ascetic or good person; a title/common noun, not a given name."
+ },
+ {
+  "name": "Samadhi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Technical term for meditative absorption; also a tomb/memorial; not a given name."
+ },
+ {
+  "name": "Vachan",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Plain noun meaning word/promise."
+ },
+ {
+  "name": "Vachaspati",
+  "verdict": "keep",
+  "reason": "Established name, lord of speech (Brihaspati)."
+ },
+ {
+  "name": "Vagish",
+  "verdict": "keep",
+  "reason": "Established name, lord of speech."
+ },
+ {
+  "name": "Vagmi",
+  "verdict": "fix",
+  "reason": "Used name, eloquent; iast should be the spoken form vāgmī.",
+  "fix": {
+   "iast": "vāgmī"
+  }
+ },
+ {
+  "name": "Vaishakh",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Month name; not used as a given name in this form."
+ },
+ {
+  "name": "Yogi",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Title for a practitioner of yoga, not a given name."
+ }
+]
