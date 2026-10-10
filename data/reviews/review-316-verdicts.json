@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Akhil",
+    "verdict": "keep",
+    "reason": "Common name; akhila = whole, entire. Correct."
+  },
+  {
+    "name": "Ambuj",
+    "verdict": "keep",
+    "reason": "ambu + ja, water-born, the lotus. Correct."
+  },
+  {
+    "name": "Ankit",
+    "verdict": "keep",
+    "reason": "aṅkita, marked, distinguished. Correct."
+  },
+  {
+    "name": "Ankur",
+    "verdict": "keep",
+    "reason": "aṅkura, sprout. Correct."
+  },
+  {
+    "name": "Anmol",
+    "verdict": "fix",
+    "reason": "IAST does not match the name as written; Hindi anmol (an- + mol, price), not Sanskrit.",
+    "fix": {
+      "name": "Anmol",
+      "devanagari": "अनमोल",
+      "iast": "anmol",
+      "meaning_en": "Priceless, precious (Hindi)."
+    }
+  },
+  {
+    "name": "Arpit",
+    "verdict": "keep",
+    "reason": "arpita, offered, dedicated. Correct."
+  },
+  {
+    "name": "Bhanupratap",
+    "verdict": "keep",
+    "reason": "bhānu + pratāpa, splendour of the sun. Established name."
+  },
+  {
+    "name": "Chandraprakash",
+    "verdict": "keep",
+    "reason": "candra + prakāśa, light of the moon. Established name."
+  },
+  {
+    "name": "Deependra",
+    "verdict": "keep",
+    "reason": "dīpa + indra, lord of light. Common modern name."
+  },
+  {
+    "name": "Dhruvesh",
+    "verdict": "fix",
+    "reason": "Meaning acceptable but the name is a modern compound; mark as coinage.",
+    "fix": {
+      "name": "Dhruvesh",
+      "devanagari": "ध्रुवेश",
+      "iast": "dhruveś",
+      "meaning_en": "Lord of the pole star; steadfast lord (modern coinage)."
+    }
+  },
+  {
+    "name": "Divyanshu",
+    "verdict": "keep",
+    "reason": "divya + aṃśu, divine ray. Correct."
+  },
+  {
+    "name": "Garvit",
+    "verdict": "keep",
+    "reason": "garvita, proud, dignified. Common modern name."
+  },
+  {
+    "name": "Gyanendra",
+    "verdict": "keep",
+    "reason": "jñāna + indra, lord of knowledge. Correct."
+  },
+  {
+    "name": "Kartavya",
+    "verdict": "keep",
+    "reason": "kartavya, duty. Used as a modern boy name."
+  },
+  {
+    "name": "Kuldeep",
+    "verdict": "fix",
+    "reason": "IAST should follow the name as written and pronounced (kuldīp).",
+    "fix": {
+      "name": "Kuldeep",
+      "devanagari": "कुलदीप",
+      "iast": "kuldīp",
+      "meaning_en": "Lamp of the family."
+    }
+  },
+  {
+    "name": "Lavesh",
+    "verdict": "keep",
+    "reason": "Modern coinage, already noted honestly."
+  },
+  {
+    "name": "Manas",
+    "verdict": "keep",
+    "reason": "मानस: of the mind, heart; the sacred lake Mānasa. Acceptable."
+  },
+  {
+    "name": "Mridul",
+    "verdict": "keep",
+    "reason": "mṛdula, soft, gentle. Correct."
+  },
+  {
+    "name": "Nikunj",
+    "verdict": "keep",
+    "reason": "nikuñja, bower, grove, associated with Krishna. Correct."
+  },
+  {
+    "name": "Paras",
+    "verdict": "keep",
+    "reason": "pārasa, the philosopher's stone. Common name."
+  },
+  {
+    "name": "Pranjal",
+    "verdict": "keep",
+    "reason": "prāñjala, straightforward, sincere. Correct."
+  },
+  {
+    "name": "Ruchir",
+    "verdict": "keep",
+    "reason": "rucira, beautiful, radiant. Correct."
+  },
+  {
+    "name": "Sanchit",
+    "verdict": "keep",
+    "reason": "sañcita, collected, accumulated. Common name."
+  },
+  {
+    "name": "Saransh",
+    "verdict": "keep",
+    "reason": "sāra + aṃśa, essence. Common modern name."
+  },
+  {
+    "name": "Shivam",
+    "verdict": "keep",
+    "reason": "śivam, auspicious, the good. Correct."
+  },
+  {
+    "name": "Sparsh",
+    "verdict": "keep",
+    "reason": "sparśa, touch. Used as a modern boy name."
+  },
+  {
+    "name": "Subodh",
+    "verdict": "keep",
+    "reason": "su + bodha, well understood, wise. Correct."
+  },
+  {
+    "name": "Suyash",
+    "verdict": "fix",
+    "reason": "IAST shows the stem suyaśas, not the name as written.",
+    "fix": {
+      "name": "Suyash",
+      "devanagari": "सुयश",
+      "iast": "suyaś",
+      "meaning_en": "Good fame, renown."
+    }
+  },
+  {
+    "name": "Tanuj",
+    "verdict": "keep",
+    "reason": "tanu + ja, son. Correct."
+  },
+  {
+    "name": "Utsav",
+    "verdict": "keep",
+    "reason": "utsava, festival. Correct."
+  },
+  {
+    "name": "Vardhan",
+    "verdict": "keep",
+    "reason": "vardhana, growth, one who increases. Correct."
+  },
+  {
+    "name": "Vatsal",
+    "verdict": "keep",
+    "reason": "vatsala, affectionate. Correct."
+  },
+  {
+    "name": "Vibhor",
+    "verdict": "fix",
+    "reason": "Hindi word; claimed Sanskrit source vibhora is not attested. Mark etymology honestly.",
+    "fix": {
+      "name": "Vibhor",
+      "devanagari": "विभोर",
+      "iast": "vibhor",
+      "meaning_en": "Engrossed, overwhelmed with joy (Hindi; Sanskrit etymology uncertain)."
+    }
+  }
+]
