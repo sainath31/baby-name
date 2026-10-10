@@ -14,8 +14,7 @@ const IDENTITY = new RegExp('^Name of (?:the |a |an )?(?:sage |god |deity |great
 
 export function assess(n) {
   if (!n.curation) return { listed: true, reason: '' };          // hand-compiled
-  if (n.origin === 'constructed' && n.gender === 'girl') return { listed: false, reason: 'awaiting-review' }; // girl compounds go live only after a reviewer keeps them
-  if (n.origin === 'constructed') return { listed: true, reason: '' }; // rule-built from curated elements; UI hides unless asked
+  if (n.origin === 'constructed') return { listed: false, reason: 'awaiting-review' }; // rule-built names go live only after a reviewer keeps them
   const iast = n.iast || '';
   const meaning = (n.meaning_en || '').replace(/\s+/g, ' ').trim();
   if (/[ḥ\s]/.test(iast)) return { listed: false, reason: 'visarga-or-phrase' };

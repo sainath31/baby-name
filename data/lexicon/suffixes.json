@@ -81,7 +81,11 @@
     {
       "iast": "kānta",
       "tpl": "Beloved of {X}",
-      "types": []
+      "types": [
+        "deity",
+        "sacred",
+        "nature"
+      ]
     },
     {
       "iast": "priya",
@@ -135,6 +139,67 @@
       "tpl": "Whose banner is {X}",
       "types": [
         "virtue"
+      ]
+    },
+    {
+      "iast": "īśa",
+      "tpl": "Lord of {X}",
+      "types": [
+        "virtue",
+        "nature",
+        "sacred"
+      ]
+    },
+    {
+      "iast": "indra",
+      "tpl": "Chief of {X}",
+      "types": [
+        "nature",
+        "virtue"
+      ]
+    },
+    {
+      "iast": "jit",
+      "tpl": "Conqueror of {X}",
+      "types": [
+        "virtue",
+        "nature"
+      ]
+    },
+    {
+      "iast": "nidhi",
+      "tpl": "Treasure of {X}",
+      "types": [
+        "virtue",
+        "nature",
+        "sacred"
+      ]
+    },
+    {
+      "iast": "dīpa",
+      "tpl": "Lamp of {X}",
+      "types": [
+        "virtue",
+        "sacred",
+        "deity"
+      ]
+    },
+    {
+      "iast": "prakāśa",
+      "tpl": "Light of {X}",
+      "types": [
+        "virtue",
+        "sacred",
+        "deity"
+      ]
+    },
+    {
+      "iast": "ānanda",
+      "tpl": "Joy of {X}",
+      "types": [
+        "deity",
+        "sacred",
+        "nature"
       ]
     }
   ],
