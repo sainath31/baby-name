@@ -226,7 +226,7 @@ function buildFilters() {
       h('div', { id: 'sylChips' }),
       h('p', { class: 'hint', style: 'margin-top:8px', text: 'Know the birth date and time, or only the expected due dates? Use "Find names from birth details" at the top of the page.' }))),
     group('Numerology', h('div', {},
-      h('p', { class: 'hint', text: 'Name number from the letters of the name. A traditional belief, shown for reference.' }),
+      h('p', { class: 'hint', text: 'Name number from the letters of the name.' }),
       h('label', { for: 'sysSel', class: 'sr', text: 'System' }), sysSel,
       h('div', { style: 'height:8px' }),
       chipOptions('nums', ['1', '2', '3', '4', '5', '6', '7', '8', '9']),
@@ -413,15 +413,13 @@ function renderDetail(r) {
     h('div', { class: 'd-iast', text: r.i }),
     h('p', { class: 'd-meaning', text: r.m || 'Meaning not recorded.' }),
     h('div', { class: 'tags' }, meta.map((t) => h('span', { class: 'tag', text: t })), (r.cn ? h('span', { class: 'tag warn', text: 'Constructed' }) : r.u && h('span', { class: 'tag warn', text: 'Unreviewed' }))),
-    r.cn && h('p', { class: 'warn-box', text: 'This name was built by rule from real Sanskrit elements (see components). It is a valid-looking compound, but it is not recorded in any text and nobody has reviewed it. Check it with a Sanskrit scholar before using it.' }),
-    !r.cn && r.u && h('p', { class: 'warn-box', text: 'This name was extracted automatically from a dictionary and has not been checked by a person. The meaning is the dictionary\'s own gloss, and the word may be an obscure figure rather than a common given name.' }),
     h('div', { class: 'd-actions' }, favBtn, shareBtn),
     r.st?.length && section('Used in', h('div', { class: 'pill-row' }, r.st.map((s) => h('span', { class: 'pill', text: s })))),
     r.r && section('Reference', h('p', { text: r.r })),
     r.co?.length && section('Components', h('dl', {}, r.co.flatMap(([p, g]) => [h('dt', { text: p }), h('dd', { text: g || '-' })]))),
     pairs.length && section('Prefix and suffix pairings', h('div', { class: 'pill-row' }, pairs.map((p) => h('span', { class: 'pill', text: p })))),
     r.cp?.length && section('Compound names', h('ul', {}, r.cp.map(([n, m]) => h('li', {}, h('strong', { text: n }), m && ` - ${m}`)))),
-    section('Numerology', h('div', { class: 'num-row' }, h('div', { class: 'num' }, h('b', { text: r.c1 }), h('small', { text: 'Chaldean' })), h('div', { class: 'num' }, h('b', { text: r.c2 }), h('small', { text: 'Pythagorean' }))), h('p', { class: 'hint', style: 'margin-top:8px', text: 'Numerology is a traditional belief, shown for cultural reference only.' })),
+    section('Numerology', h('div', { class: 'num-row' }, h('div', { class: 'num' }, h('b', { text: r.c1 }), h('small', { text: 'Chaldean' })), h('div', { class: 'num' }, h('b', { text: r.c2 }), h('small', { text: 'Pythagorean' })))),
     r.so?.length && section('Sources and license', h('ul', {}, r.so.map(([t, l]) => h('li', {}, t, l && h('span', { class: 'tag', style: 'margin-left:8px', text: l }))))),
   ].filter(Boolean));   // replaceChildren would print undefined/0 as text
 }
@@ -458,8 +456,7 @@ function buildBirthPanel() {
           field('rTo', 'To', h('input', { type: 'date', id: 'rTo' })),
           field('rTz', 'Time zone', h('input', { type: 'text', id: 'rTz', value: 'Asia/Kolkata' }))),
         h('button', { type: 'button', class: 'btn primary', id: 'rGo', text: 'Find possible names' }),
-        h('div', { id: 'rOut', 'aria-live': 'polite' })),
-      h('p', { class: 'hint', text: 'Computed with the Lahiri sidereal system. Astrology is a traditional belief; please confirm with a panchang or your family priest.' })));
+        h('div', { id: 'rOut', 'aria-live': 'polite' }))));
   box.addEventListener('click', (e) => {
     const t = e.target.closest('[role=tab]');
     if (!t) return;
@@ -495,7 +492,7 @@ function buildBirthPanel() {
         h('div', { class: 'num' }, h('b', { text: r.syllable }), h('small', { text: 'Naming syllable' })),
         r.lagna && h('div', { class: 'num' }, h('b', { text: String(r.lagna) }), h('small', { text: 'Lagna (ascendant)' }))),
         !r.lagna && h('p', { class: 'hint', text: 'Add a birth place to also see the lagna (ascendant).' }),
-        r.nearPadaBoundary && h('p', { class: 'warn-box', text: 'The birth time is close to a pada change, so the syllable may differ with a slightly different time. Please verify.' }),
+        r.nearPadaBoundary && h('p', { class: 'warn-box', text: 'The birth time is close to a pada change, so the syllable may differ with a slightly different time.' }),
         h('button', { type: 'button', class: 'btn primary', id: 'bUse', text: `Show names starting with "${r.syllable}"`, onclick: () => useSyllables([r.syllable], `Showing names for ${r.nakshatra} pada ${r.pada}`) }),
         h('button', { type: 'button', class: 'btn', text: `All syllables of ${r.nakshatra}`, onclick: () => { S.nak = r.nakshatra; S.rashi = ''; S.syls.clear(); syncInputs(); apply(); toast(`Showing names for ${r.nakshatra}`); } })].filter(Boolean));
       out.dataset.result = JSON.stringify({ n: r.nakshatra, p: r.pada, r: r.rashi, s: r.syllable });
