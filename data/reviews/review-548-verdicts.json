@@ -1,0 +1,5 @@
+[
+{"name":"Priyansh","verdict":"keep","reason":"Auspicious boy's name; priyāṃśa matches प्रियांश; meaning sound."},
+{"name":"Shubman","verdict":"fix","reason":"IAST should reflect manas: śubhamanas.","fix":{"name":"Shubman","devanagari":"शुभमनस्","iast":"śubhamanas","meaning_en":"Of auspicious mind; good-hearted."}},
+{"name":"Saurav","verdict":"fix","reason":"Surabhi/fragrance derivation unsound (that is saurabha); saurava is a taddhita from sura.","fix":{"name":"Saurav","devanagari":"सौरव","iast":"saurava","meaning_en":"Divine, of the gods (from sura); etymology uncertain."}}
+]
