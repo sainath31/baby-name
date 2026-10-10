@@ -1,5 +1,5 @@
 {
-  "note": "Name-final elements with meaning templates; 'types' lists the kinds of first element each can follow. Templates use only the standard sense of the suffix.",
+  "note": "Name-final elements with meaning templates; 'types' lists the kinds of first element each can follow. Templates use only the standard sense of the suffix. Tightened after reviewer feedback on 750 generated names (review-311/312/313): dropped pairings that reviewers rejected more than 70% of the time.",
   "suffixes": [
     {
       "iast": "datta",
@@ -14,8 +14,7 @@
       "tpl": "Servant of {X}",
       "types": [
         "deity",
-        "sacred",
-        "virtue"
+        "sacred"
       ]
     },
     {
@@ -32,8 +31,7 @@
       "iast": "rāja",
       "tpl": "King of {X}",
       "types": [
-        "virtue",
-        "nature"
+        "virtue"
       ]
     },
     {
@@ -50,8 +48,7 @@
       "tpl": "Son of {X}",
       "types": [
         "deity",
-        "sacred",
-        "nature"
+        "sacred"
       ]
     },
     {
@@ -84,11 +81,7 @@
     {
       "iast": "kānta",
       "tpl": "Beloved of {X}",
-      "types": [
-        "deity",
-        "sacred",
-        "nature"
-      ]
+      "types": []
     },
     {
       "iast": "priya",
@@ -127,8 +120,7 @@
       "iast": "śekhara",
       "tpl": "Crowned with {X}",
       "types": [
-        "nature",
-        "sacred"
+        "nature"
       ]
     },
     {
@@ -141,13 +133,6 @@
     {
       "iast": "ketu",
       "tpl": "Whose banner is {X}",
-      "types": [
-        "virtue"
-      ]
-    },
-    {
-      "iast": "prabha",
-      "tpl": "Radiance of {X}",
       "types": [
         "virtue"
       ]
@@ -185,9 +170,7 @@
       "iast": "divya",
       "tpl": "Divine {X}",
       "types": [
-        "virtue",
-        "nature",
-        "sacred"
+        "virtue"
       ]
     }
   ]
