@@ -1,0 +1,168 @@
+[
+ {
+  "name": "Ram Kumar",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Son of Rama."
+  }
+ },
+ {
+  "name": "Ram Prasad",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ram Chandra",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Ram Krishna",
+  "verdict": "reject",
+  "reason": "duplicate_variant"
+ },
+ {
+  "name": "Ram Das",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Ram Nath",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Ravi Shankar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ravi Kiran",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ravi Prakash",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ravi Kumar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shiv Kumar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shiv Prasad",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shiv Shankar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Om Prakash",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Raj Kumar",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Prem Kumar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Prem Chandra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vijay Shankar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vijay Krishna",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vijay Prakash",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Krishna Murthy",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Surya Prakash",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Surya Narayan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Satya Narayan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Satya Prasad",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Satya Prakash",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hari Prasad",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Hari Das",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Dev Kumar",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Divine son."
+  }
+ },
+ {
+  "name": "Dev Datta",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Ganesh Kumar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Venkata Narayan",
+  "verdict": "keep",
+  "reason": "ok"
+ }
+]
