@@ -1,0 +1,189 @@
+[
+ {
+  "name": "Ahalya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Aishwarya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Bhairavi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Bhakti",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chandrika",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dhara",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Dipali",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Draupadi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gandhari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Gurleen",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Hetal",
+  "verdict": "fix",
+  "reason": "meaning weak or imprecise",
+  "fix": {
+   "meaning_en": "Friendly, well-wishing (Gujarati name, from Sanskrit hita 'beneficial')"
+  }
+ },
+ {
+  "name": "Ishani",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jasleen",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Jyotsna",
+  "verdict": "fix",
+  "reason": "meaning weak or imprecise",
+  "fix": {
+   "meaning_en": "Moonlight"
+  }
+ },
+ {
+  "name": "Kavitha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Lopamudra",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Malavika",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mandodari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mansi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pooja",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pranjali",
+  "verdict": "fix",
+  "reason": "meaning weak or imprecise",
+  "fix": {
+   "meaning_en": "With folded hands in reverence; sincere"
+  }
+ },
+ {
+  "name": "Rajarajeshwari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rashmi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rupali",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sarita",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sayali",
+  "verdict": "fix",
+  "reason": "meaning weak or imprecise",
+  "fix": {
+   "meaning_en": "Night-blooming jasmine (Marathi flower name); etymology uncertain"
+  }
+ },
+ {
+  "name": "Shakuntala",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shivani",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Simran",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Smita",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Swapna",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Tanvi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Thamarai",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Tripurasundari",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Urmila",
+  "verdict": "keep",
+  "reason": "ok"
+ }
+]
