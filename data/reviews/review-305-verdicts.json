@@ -1,0 +1,204 @@
+[
+  {
+    "name": "Aryabhata",
+    "verdict": "reject",
+    "reason": "author_or_scholar: tied almost exclusively to the 5th-century mathematician; essentially never given to boys today."
+  },
+  {
+    "name": "Bankim",
+    "verdict": "fix",
+    "reason": "Good, real given name (esp. Bengal); IAST should match the name as written (no final -a).",
+    "fix": {
+      "name": "Bankim",
+      "devanagari": "बंकिम",
+      "iast": "baṅkim",
+      "meaning_en": "Gracefully curved, bent; an epithet of Krishna (as in Bankim Bihari)."
+    }
+  },
+  {
+    "name": "Bhartrihari",
+    "verdict": "reject",
+    "reason": "author_or_scholar: name of the poet-philosopher only; essentially never given as a personal name today."
+  },
+  {
+    "name": "Bhavabhuti",
+    "verdict": "reject",
+    "reason": "author_or_scholar: known only as the Sanskrit dramatist's name; essentially never given today."
+  },
+  {
+    "name": "Chanakya",
+    "verdict": "fix",
+    "reason": "Used as a given name; meaning should state what the name means, not only who bore it.",
+    "fix": {
+      "name": "Chanakya",
+      "devanagari": "चाणक्य",
+      "iast": "cāṇakya",
+      "meaning_en": "Descendant of Chanaka; name of the strategist-minister of Chandragupta Maurya."
+    }
+  },
+  {
+    "name": "Chandragupta",
+    "verdict": "keep",
+    "reason": "Historical name families do use; meaning, script and IAST correct."
+  },
+  {
+    "name": "Kalidas",
+    "verdict": "fix",
+    "reason": "Real, auspicious name; IAST should match the name as written.",
+    "fix": {
+      "name": "Kalidas",
+      "devanagari": "कालिदास",
+      "iast": "kālidās",
+      "meaning_en": "Servant of Goddess Kali; name of the great Sanskrit poet."
+    }
+  },
+  {
+    "name": "Kanakadasa",
+    "verdict": "reject",
+    "reason": "other: a religious name tied to the single Kannada saint-poet, essentially not given today; 'Golden servant' is also a loose rendering."
+  },
+  {
+    "name": "Krishnadevaraya",
+    "verdict": "reject",
+    "reason": "overlong_compound: tied to the Vijayanagara emperor and awkward as a given name; essentially never given."
+  },
+  {
+    "name": "Madanmohan",
+    "verdict": "fix",
+    "reason": "Real name of Krishna, commonly given; IAST should match the name as written.",
+    "fix": {
+      "name": "Madanmohan",
+      "devanagari": "मदनमोहन",
+      "iast": "madanmohan",
+      "meaning_en": "One who enchants even Kamadeva; a name of Krishna."
+    }
+  },
+  {
+    "name": "Mohandas",
+    "verdict": "fix",
+    "reason": "Real, auspicious given name; IAST should match the name as written.",
+    "fix": {
+      "name": "Mohandas",
+      "devanagari": "मोहनदास",
+      "iast": "mohandās",
+      "meaning_en": "Servant of Mohan (Krishna)."
+    }
+  },
+  {
+    "name": "Namdev",
+    "verdict": "fix",
+    "reason": "Real given name (esp. Maharashtra); IAST should match the name as written.",
+    "fix": {
+      "name": "Namdev",
+      "devanagari": "नामदेव",
+      "iast": "nāmdev",
+      "meaning_en": "God of the divine name; also the Marathi saint-poet."
+    }
+  },
+  {
+    "name": "Panini",
+    "verdict": "reject",
+    "reason": "author_or_scholar: name of the grammarian only; not given to boys today (occasionally used for girls)."
+  },
+  {
+    "name": "Patanjali",
+    "verdict": "reject",
+    "reason": "author_or_scholar: tied to the sage of the Yoga Sutras (and now a brand); essentially never given; 'pata + anjali' split is also uncertain."
+  },
+  {
+    "name": "Prithviraj",
+    "verdict": "fix",
+    "reason": "Common given name; IAST should match the name as written.",
+    "fix": {
+      "name": "Prithviraj",
+      "devanagari": "पृथ्वीराज",
+      "iast": "pṛthvīrāj",
+      "meaning_en": "King of the earth."
+    }
+  },
+  {
+    "name": "Pulakeshi",
+    "verdict": "reject",
+    "reason": "obscure_figure: tied to the single Chalukya king and essentially never given; IAST pulakeśin also did not match the name as written."
+  },
+  {
+    "name": "Rajguru",
+    "verdict": "reject",
+    "reason": "title_or_honorific: 'royal preceptor' is a title and a Marathi surname (Shivaram Rajguru), not a given name."
+  },
+  {
+    "name": "Ramprasad",
+    "verdict": "fix",
+    "reason": "Common, auspicious name; IAST should match the name as written.",
+    "fix": {
+      "name": "Ramprasad",
+      "devanagari": "रामप्रसाद",
+      "iast": "rāmprasād",
+      "meaning_en": "Grace (blessing) of Rama."
+    }
+  },
+  {
+    "name": "Sambhaji",
+    "verdict": "fix",
+    "reason": "Real given name in Maharashtra; standard Devanagari is संभाजी (sambhājī), matching the spelling Sambhaji.",
+    "fix": {
+      "name": "Sambhaji",
+      "devanagari": "संभाजी",
+      "iast": "sambhājī",
+      "meaning_en": "Named after Shambhu (Shiva); the second Maratha ruler."
+    }
+  },
+  {
+    "name": "Samudragupta",
+    "verdict": "reject",
+    "reason": "other: tied to the single Gupta emperor and essentially never given today, unlike Chandragupta."
+  },
+  {
+    "name": "Shivaji",
+    "verdict": "keep",
+    "reason": "Widely given historical name; meaning (after goddess Shivai), script and IAST correct."
+  },
+  {
+    "name": "Sukhdev",
+    "verdict": "fix",
+    "reason": "Common given name; IAST should match the name as written.",
+    "fix": {
+      "name": "Sukhdev",
+      "devanagari": "सुखदेव",
+      "iast": "sukhdev",
+      "meaning_en": "God of happiness; giver of joy."
+    }
+  },
+  {
+    "name": "Sushruta",
+    "verdict": "fix",
+    "reason": "Given today in the form Sushrut (esp. Maharashtra); Sushruta as written is tied to the ancient surgeon.",
+    "fix": {
+      "name": "Sushrut",
+      "devanagari": "सुश्रुत",
+      "iast": "suśrut",
+      "meaning_en": "Well heard, renowned."
+    }
+  },
+  {
+    "name": "Tilak",
+    "verdict": "fix",
+    "reason": "Common given name; IAST should match the name as written.",
+    "fix": {
+      "name": "Tilak",
+      "devanagari": "तिलक",
+      "iast": "tilak",
+      "meaning_en": "Sacred mark on the forehead; ornament, the best of its kind."
+    }
+  },
+  {
+    "name": "Tyagaraja",
+    "verdict": "keep",
+    "reason": "Name of Shiva at Tiruvarur, given in South India (Tyagaraja/Thyagarajan); meaning, script and IAST correct."
+  },
+  {
+    "name": "Vivekananda",
+    "verdict": "keep",
+    "reason": "Given to boys (also as Vivekanand); meaning, script and IAST correct."
+  }
+]
