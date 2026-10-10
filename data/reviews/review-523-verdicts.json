@@ -1,0 +1,1011 @@
+[
+ {
+  "name": "Abhipala",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Adhinatha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Agnikrita",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Ajetavya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Ameyatman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Anandatman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Antaragni",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Anulomin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Apiguna",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Archishmat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Arvananas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ashobhana",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Atavin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Atirupa",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Atmavat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Avabhasa",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Ayavat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bahuprajna",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Balamula",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Barhin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhadratara",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Bhangashravas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhavat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhujashalin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Bhutakarman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Brihadbhanu",
+  "verdict": "fix",
+  "reason": "Real, auspicious given name in usable form.",
+  "fix": {
+   "name": "Brihadbhanu",
+   "iast": "bṛhadbhānu",
+   "devanagari": "बृहद्भानु",
+   "meaning_en": "Greatly radiant; a name of the sun and of Agni.",
+   "components": [
+    {
+     "part": "bṛhat",
+     "gloss": "great"
+    },
+    {
+     "part": "bhānu",
+     "gloss": "light, sun"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Buddhishuddha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Chandrabindu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Chandramarga",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Chandrodaya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Charushravas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Chitrabhanu",
+  "verdict": "fix",
+  "reason": "Real, auspicious given name in usable form.",
+  "fix": {
+   "name": "Chitrabhanu",
+   "iast": "citrabhānu",
+   "devanagari": "चित्रभानु",
+   "meaning_en": "Of brilliant light; the sun or fire.",
+   "components": [
+    {
+     "part": "citra",
+     "gloss": "bright, brilliant"
+    },
+    {
+     "part": "bhānu",
+     "gloss": "light, sun"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Damunas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Devadharman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Dhaman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Dhanurvedin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Dharmayashas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Dhiraskandha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Dhritimat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Diptakirti",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Divavasu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Dridhakanda",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Dridhaskandha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Durnaman",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Dyumat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gadin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gathashravas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Gayin",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Girisha",
+  "verdict": "fix",
+  "reason": "Real, auspicious given name in usable form.",
+  "fix": {
+   "name": "Girisha",
+   "iast": "girīśa",
+   "devanagari": "गिरीश",
+   "meaning_en": "Lord of the mountain; a name of Shiva.",
+   "components": [
+    {
+     "part": "giri",
+     "gloss": "mountain"
+    },
+    {
+     "part": "īśa",
+     "gloss": "lord"
+    }
+   ]
+  }
+ },
+ {
+  "name": "Grahanemi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Gunavat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Harshachala",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Hatachchhaya",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Heman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Hitamitra",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Iraja",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Jalamitra",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Jatumani",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Jayanaman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Jnanaprabha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Jyotishkalpa",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Kahalin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kamacharin",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Kanchanaksha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Karmahasta",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Kavandhin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kharikhan",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kritachetas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kshantivadin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kshemadharman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kshmapa",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Kunaman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Kuthumin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Lokabandhu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mahabhagya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mahaputa",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mahat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Maitrin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mangalavat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mantrin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Matrivartin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Medhas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Mitrakama",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Mrigeshvara",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Nabhas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nalamalin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Navan",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Nirvara",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Nradhisha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Padmanandin",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Parajishnu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Parshniksheman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Patumati",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Prabhalepin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prabhushnu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Prajas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pramodin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Prashuchi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Pratishravas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Premapara",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Pritimanas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Pulimat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Punyatman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Puruhanman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Purvasuri",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Putamati",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rajas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ramayashas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Rashmivat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ravidharman",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Ritayin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ruchivaha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Rushat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sadhumat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sahasvat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Samanmatha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Samharshin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sampraharsha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sangarevas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Saras",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Sarvaputa",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Satraja",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Satyamugra",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Satyavakya",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sauraloka",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shakman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shamvat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sharvarisha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shatatin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shighravedhin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shilavritta",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shishupala",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shochishtha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shriyashas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shubhakarman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Shuchipati",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shukladharma",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shumbhamana",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Shyenagamin",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Sitaruchi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Somaja",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Somayashas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sthitapreman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Subhasvara",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Sudharman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sukeshan",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Sumanaska",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Suplan",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Suradhas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Suryagraha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Suryavarchas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Susita",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Suvakshas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Suvishuddha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Svardhin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Svayamprabha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Tandin",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Taras",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Tavishimat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Tridashendra",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Tungadhanvan",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Tyagin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Uddhata",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Ugratapas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Urdhvagravan",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Urjasvin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Ushnarashmi",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Vachashravas",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Vahnisakha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Vajishiras",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Vaprivan",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Vashavartin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Vatadhvaja",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Vayobala",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Vayupatha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Venumat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Vicharaka",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Viharsha",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Vijnatatman",
+  "verdict": "reject",
+  "reason": "author_or_scholar"
+ },
+ {
+  "name": "Vindhyashakti",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Viradaman",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Virochishnu",
+  "verdict": "reject",
+  "reason": "compound_or_adjective"
+ },
+ {
+  "name": "Vishravas",
+  "verdict": "reject",
+  "reason": "demon_or_villain"
+ },
+ {
+  "name": "Vishvavedin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Vivata",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Vrijinivat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Vyaghramarin",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Yashasvat",
+  "verdict": "reject",
+  "reason": "obscure_figure"
+ },
+ {
+  "name": "Yoganatha",
+  "verdict": "fix",
+  "reason": "Real, auspicious given name in usable form.",
+  "fix": {
+   "name": "Yoganatha",
+   "iast": "yoganātha",
+   "devanagari": "योगनाथ",
+   "meaning_en": "Lord of yoga; a name of Shiva.",
+   "components": [
+    {
+     "part": "yoga",
+     "gloss": "yoga"
+    },
+    {
+     "part": "nātha",
+     "gloss": "lord"
+    }
+   ]
+  }
+ }
+]
