@@ -538,3 +538,6 @@ function init() {
   const m = location.hash.match(/^#n=(.+)$/); if (m) openDetail(decodeURIComponent(m[1]), $('q'));
   window.__ready = true;
 }
+
+// offline support: cache what has been loaded so the site opens without a connection
+if ("serviceWorker" in navigator) { try { navigator.serviceWorker.register("./sw.js").catch(() => {}); } catch (e) { /* private mode etc. */ } }
