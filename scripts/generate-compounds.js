@@ -10,6 +10,7 @@ import { loadAll, norm } from './lib.js';
 const dir = new URL('../data/lexicon/', import.meta.url);
 const { suffixes, modifiers } = JSON.parse(readFileSync(new URL('suffixes.json', dir)));
 
+const fem = JSON.parse(readFileSync(new URL('suffixes-f.json', dir))).suffixes;
 const elements = new Map();
 for (const f of readdirSync(dir).filter((x) => /^lex-\d+-verdicts\.json$/.test(x)).sort())
   for (const e of JSON.parse(readFileSync(new URL(f, dir)))) if (e.use && e.gloss && e.type) elements.set(e.iast, e);
@@ -33,7 +34,7 @@ function join(a, b) {
 rmSync(new URL('../data/generated/constructed.json', import.meta.url), { force: true });
 const existing = new Set(loadAll({ all: true }).flatMap((n) => [norm(n.iast), ...(n.stem ? [norm(n.stem)] : [])]));
 const seen = new Set(), out = [];
-const add = (iast, tpl, x, partB, typeNote) => {
+const add = (iast, tpl, x, partB, gender) => {
   const key = norm(iast);
   if (existing.has(key) || seen.has(key)) return;
   const name = toLatin(iast);
@@ -46,7 +47,7 @@ const add = (iast, tpl, x, partB, typeNote) => {
     meaning_en: tpl.replace('{X}', tpl.startsWith('{X}') || /^(Great|Good|Auspicious|Divine)/.test(tpl) ? x.gloss.replace(/^(the|a|an) /, '') : x.gloss) + '.',
     components: [{ part: x.iast, gloss: x.gloss }, partB],
     pairs_with: { prefixes: [], suffixes: [] }, compounds: [], states: ['All India'],
-    origin: 'constructed', kind: 'compound', era: 'classical', confidence: 'medium', curation: 'unreviewed',
+    ...(gender ? { gender } : {}), origin: 'constructed', kind: 'compound', era: 'classical', confidence: 'medium', curation: 'unreviewed',
     sources: [{ title: `Rule-generated from curated elements (${x.iast} + ${partB.part}); pattern attested in Sanskrit naming, name itself not attested`, license: 'original compilation' }],
   });
 };
@@ -56,6 +57,11 @@ for (const x of elements.values()) {
     if (!s.types.includes(x.type)) continue;
     const j = join(x.iast, s.iast);
     if (j) add(j, s.tpl, x, { part: s.iast, gloss: s.tpl.replace(' {X}', '').replace('{X}', '').trim() });
+  }
+  for (const s of fem) {
+    if (!s.types.includes(x.type)) continue;
+    const j = join(x.iast, s.iast);
+    if (j) add(j, s.tpl, x, { part: s.iast, gloss: s.tpl.replace(' {X}', '').replace('{X}', '').trim() }, 'girl');
   }
   for (const m of modifiers) {
     if (!m.types.includes(x.type)) continue;

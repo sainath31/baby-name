@@ -1,0 +1,12 @@
+{
+  "note": "Feminine name-final elements for girl-name compounds. Same shape as suffixes.json. Output is labelled constructed and reviewed per name.",
+  "suffixes": [
+    { "iast": "priyā", "tpl": "Dear to {X}", "types": ["deity", "sacred", "virtue", "nature"] },
+    { "iast": "vatī", "tpl": "Endowed with {X}", "types": ["virtue", "nature"] },
+    { "iast": "mayī", "tpl": "Full of {X}", "types": ["virtue", "sacred", "nature"] },
+    { "iast": "nandinī", "tpl": "Delight of {X}", "types": ["deity", "sacred", "nature"] },
+    { "iast": "devī", "tpl": "Goddess of {X}", "types": ["nature", "virtue"] },
+    { "iast": "sundarī", "tpl": "Beauty of {X}", "types": ["nature", "deity"] },
+    { "iast": "dāsī", "tpl": "Servant of {X}", "types": ["deity"] }
+  ]
+}
