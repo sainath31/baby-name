@@ -12,8 +12,8 @@ _Last updated: 2026-10-10_
 
 | Measure | Count |
 |---|---|
-| Names listed (shown to users) | 3,719 (boys 2,688, girls 994, gender-neutral 37) |
-| - attested (found in texts, dictionaries or common use) | 2,531 |
+| Names listed (shown to users) | 3,729 (boys 2,690, girls 1,002, gender-neutral 37) |
+| - attested (found in texts, dictionaries or common use) | 2,541 |
 | - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 1,188 |
 | Hidden candidate records kept in data | ~18,700 |
 | Total records | 23,398 |

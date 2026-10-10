@@ -11,7 +11,7 @@ const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().rep
 const groups = (g) => (g === 'girl' ? ['f'] : g === 'unisex' ? ['m', 'f'] : ['m']);
 const keysOf = (iast, stem, g) => [norm(iast), ...(stem ? [norm(stem)] : [])].flatMap((k) => groups(g).map((x) => `${x}:${k}`));
 const have = new Set(names.flatMap((n) => keysOf(n.iast, n.stem, n.gender)));
-const BLOCKED = new Set(['Girish']);
+const BLOCKED = new Set(['Girish', 'Giridhar']);
 let added = 0;
 for (const f of readdirSync(new URL('../data/batches/', import.meta.url)).filter((x) => x.endsWith('.json')).sort()) {
   for (const [name, iast, dev, meaning, comps, state, ref, era, conf, gender] of JSON.parse(readFileSync(new URL(`../data/batches/${f}`, import.meta.url)))) {
