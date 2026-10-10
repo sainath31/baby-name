@@ -1,0 +1,101 @@
+[
+ {
+  "name": "Chandrima",
+  "verdict": "keep",
+  "reason": "Girl name, moonlight from candra; correct."
+ },
+ {
+  "name": "Chitransh",
+  "verdict": "fix",
+  "reason": "Meaning wrong and iast not the spoken form.",
+  "fix": {
+   "iast": "citrāṃśa",
+   "meaning_en": "A portion of Chitragupta; name of the Kayastha lineage said to descend from him."
+  }
+ },
+ {
+  "name": "Ekambar",
+  "verdict": "reject",
+  "reason": "other: Ekambareshwara is from Ekāmra (single mango tree), not \"one-sky\"; etymology invented."
+ },
+ {
+  "name": "Ekavali",
+  "verdict": "keep",
+  "reason": "Girl name; ekāvalī is a single-strand necklace."
+ },
+ {
+  "name": "Eshika",
+  "verdict": "reject",
+  "reason": "duplicate_variant: Variant of Ishika (iṣīkā); keep only one spelling."
+ },
+ {
+  "name": "Ikshu",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Plain word for sugarcane."
+ },
+ {
+  "name": "Ilesh",
+  "verdict": "fix",
+  "reason": "iast not the spoken form.",
+  "fix": {
+   "iast": "ileśa"
+  }
+ },
+ {
+  "name": "Ishika",
+  "verdict": "fix",
+  "reason": "Meaning clarified; Sanskrit is iṣīkā (reed, brush, arrow). Girl name.",
+  "fix": {
+   "meaning_en": "Paintbrush; arrow (from iṣīkā, a reed or brush)."
+  }
+ },
+ {
+  "name": "Ladli",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Hindi word for darling girl, not a Sanskrit given name."
+ },
+ {
+  "name": "Lavan",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Lavaṇa means salt; also a demon name in the Ramayana."
+ },
+ {
+  "name": "Oormi",
+  "verdict": "keep",
+  "reason": "Girl name; ūrmi means wave."
+ },
+ {
+  "name": "Tilak Raj",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: Two-word phrase, not a single name."
+ },
+ {
+  "name": "Trishala",
+  "verdict": "reject",
+  "reason": "buddhist_jain_figure: Mother of Mahavira, a Jain figure."
+ },
+ {
+  "name": "Unmesh",
+  "verdict": "fix",
+  "reason": "iast not the spoken form; meaning fuller.",
+  "fix": {
+   "iast": "unmeṣa",
+   "meaning_en": "Blossoming; awakening, opening of the eyes."
+  }
+ },
+ {
+  "name": "Upendra",
+  "verdict": "keep",
+  "reason": "Boy name of Vishnu, younger brother of Indra (as Vamana)."
+ },
+ {
+  "name": "Urja",
+  "verdict": "keep",
+  "reason": "Girl name; ūrjā means energy, vigour."
+ },
+ {
+  "name": "Urvashi",
+  "verdict": "keep",
+  "reason": "Girl name of the celestial nymph (apsaras) known from the Rigveda."
+ }
+]
