@@ -27068,5 +27068,1409 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Amitabh",
+    "iast": "amitābh",
+    "stem": "amitābha",
+    "devanagari": "अमिताभ",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Of boundless light.",
+    "components": [
+      {
+        "part": "amita",
+        "gloss": "boundless"
+      },
+      {
+        "part": "ābhā",
+        "gloss": "light"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anupam",
+    "iast": "anupam",
+    "stem": "anupama",
+    "devanagari": "अनुपम",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Incomparable, matchless.",
+    "components": [
+      {
+        "part": "an",
+        "gloss": "without"
+      },
+      {
+        "part": "upamā",
+        "gloss": "comparison"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ashwath",
+    "iast": "aśvatth",
+    "stem": "aśvattha",
+    "devanagari": "अश्वत्थ",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "The sacred peepal tree.",
+    "components": [
+      {
+        "part": "aśvattha",
+        "gloss": "peepal tree"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "deity_epic_ref": "Bhagavad Gita",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Balkrishna",
+    "iast": "bālakṛṣṇa",
+    "devanagari": "बालकृष्ण",
+    "letter": "B",
+    "syllable_count": 4,
+    "meaning_en": "The child Krishna.",
+    "components": [
+      {
+        "part": "bāla",
+        "gloss": "child"
+      },
+      {
+        "part": "kṛṣṇa",
+        "gloss": "Krishna"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhupesh",
+    "iast": "bhūpeś",
+    "stem": "bhūpeśa",
+    "devanagari": "भूपेश",
+    "letter": "B",
+    "syllable_count": 2,
+    "meaning_en": "Lord of kings.",
+    "components": [
+      {
+        "part": "bhūpa",
+        "gloss": "king"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chandresh",
+    "iast": "candreś",
+    "stem": "candreśa",
+    "devanagari": "चन्द्रेश",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "Lord of the moon; Shiva.",
+    "components": [
+      {
+        "part": "candra",
+        "gloss": "moon"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Deepesh",
+    "iast": "dīpeś",
+    "stem": "dīpeśa",
+    "devanagari": "दीपेश",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Lord of light.",
+    "components": [
+      {
+        "part": "dīpa",
+        "gloss": "lamp"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Devdas",
+    "iast": "devadās",
+    "stem": "devadāsa",
+    "devanagari": "देवदास",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Servant of God.",
+    "components": [
+      {
+        "part": "deva",
+        "gloss": "god"
+      },
+      {
+        "part": "dāsa",
+        "gloss": "servant"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dhanraj",
+    "iast": "dhanarāj",
+    "stem": "dhanarāja",
+    "devanagari": "धनराज",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "King of wealth; Kubera.",
+    "components": [
+      {
+        "part": "dhana",
+        "gloss": "wealth"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gaurishankar",
+    "iast": "gaurīśaṅkar",
+    "stem": "gaurīśaṅkara",
+    "devanagari": "गौरीशंकर",
+    "letter": "G",
+    "syllable_count": 4,
+    "meaning_en": "Shiva with Gauri (Parvati).",
+    "components": [
+      {
+        "part": "gaurī",
+        "gloss": "Parvati"
+      },
+      {
+        "part": "śaṅkara",
+        "gloss": "Shiva"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gopikrishna",
+    "iast": "gopīkṛṣṇa",
+    "devanagari": "गोपीकृष्ण",
+    "letter": "G",
+    "syllable_count": 4,
+    "meaning_en": "Krishna beloved of the gopis.",
+    "components": [
+      {
+        "part": "gopī",
+        "gloss": "cowherd women"
+      },
+      {
+        "part": "kṛṣṇa",
+        "gloss": "Krishna"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Harendra",
+    "iast": "harendra",
+    "devanagari": "हरेन्द्र",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Lord Shiva; lord of Hara.",
+    "components": [
+      {
+        "part": "hara",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hemendra",
+    "iast": "hemendra",
+    "devanagari": "हेमेन्द्र",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Lord of gold.",
+    "components": [
+      {
+        "part": "hema",
+        "gloss": "gold"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kailashnath",
+    "iast": "kailāsanāth",
+    "stem": "kailāsanātha",
+    "devanagari": "कैलासनाथ",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Lord of Kailasa; Shiva.",
+    "components": [
+      {
+        "part": "kailāsa",
+        "gloss": "Kailasa"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kashyap",
+    "iast": "kāśyap",
+    "stem": "kāśyapa",
+    "devanagari": "काश्यप",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Descendant of the sage Kashyapa.",
+    "components": [
+      {
+        "part": "kaśyapa",
+        "gloss": "the sage Kashyapa"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kaushal",
+    "iast": "kauśal",
+    "stem": "kauśala",
+    "devanagari": "कौशल",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Skill, cleverness.",
+    "components": [
+      {
+        "part": "kuśala",
+        "gloss": "skilled"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Madhukar",
+    "iast": "madhukar",
+    "stem": "madhukara",
+    "devanagari": "मधुकर",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Honey-maker; a bee.",
+    "components": [
+      {
+        "part": "madhu",
+        "gloss": "honey"
+      },
+      {
+        "part": "kara",
+        "gloss": "maker"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mukesh",
+    "iast": "mukeś",
+    "stem": "mukeśa",
+    "devanagari": "मुकेश",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Lord of liberation (popular etymology; also read as lord of Muka).",
+    "components": [
+      {
+        "part": "mukti",
+        "gloss": "liberation"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nandkishore",
+    "iast": "nandakiśor",
+    "stem": "nandakiśora",
+    "devanagari": "नन्दकिशोर",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Young son of Nanda; Krishna.",
+    "components": [
+      {
+        "part": "nanda",
+        "gloss": "Nanda"
+      },
+      {
+        "part": "kiśora",
+        "gloss": "youth"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pitambar",
+    "iast": "pītāmbar",
+    "stem": "pītāmbara",
+    "devanagari": "पीताम्बर",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Clad in yellow; Krishna.",
+    "components": [
+      {
+        "part": "pīta",
+        "gloss": "yellow"
+      },
+      {
+        "part": "ambara",
+        "gloss": "garment"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Prashant",
+    "iast": "praśānt",
+    "stem": "praśānta",
+    "devanagari": "प्रशान्त",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Calm, peaceful.",
+    "components": [
+      {
+        "part": "pra",
+        "gloss": "fully"
+      },
+      {
+        "part": "śānta",
+        "gloss": "calm"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pravin",
+    "iast": "pravīṇ",
+    "stem": "pravīṇa",
+    "devanagari": "प्रवीण",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Skilful, expert.",
+    "components": [
+      {
+        "part": "pravīṇa",
+        "gloss": "skilled"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pushpendra",
+    "iast": "puṣpendra",
+    "devanagari": "पुष्पेन्द्र",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Lord of flowers.",
+    "components": [
+      {
+        "part": "puṣpa",
+        "gloss": "flower"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "North India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rakesh",
+    "iast": "rākeś",
+    "stem": "rākeśa",
+    "devanagari": "राकेश",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Lord of the full-moon night; the moon.",
+    "components": [
+      {
+        "part": "rākā",
+        "gloss": "full-moon night"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ramdas",
+    "iast": "rāmadās",
+    "stem": "rāmadāsa",
+    "devanagari": "रामदास",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Servant of Rama.",
+    "components": [
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      },
+      {
+        "part": "dāsa",
+        "gloss": "servant"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ravishankar",
+    "iast": "raviśaṅkar",
+    "stem": "raviśaṅkara",
+    "devanagari": "रविशंकर",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "Sun and Shiva; the beneficent sun.",
+    "components": [
+      {
+        "part": "ravi",
+        "gloss": "sun"
+      },
+      {
+        "part": "śaṅkara",
+        "gloss": "Shiva"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rupesh",
+    "iast": "rūpeś",
+    "stem": "rūpeśa",
+    "devanagari": "रूपेश",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Lord of beauty.",
+    "components": [
+      {
+        "part": "rūpa",
+        "gloss": "beauty"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sadanand",
+    "iast": "sadānand",
+    "stem": "sadānanda",
+    "devanagari": "सदानन्द",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Ever blissful.",
+    "components": [
+      {
+        "part": "sadā",
+        "gloss": "always"
+      },
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shekhar",
+    "iast": "śekhar",
+    "stem": "śekhara",
+    "devanagari": "शेखर",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Crest, peak; crown.",
+    "components": [
+      {
+        "part": "śekhara",
+        "gloss": "crest"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shivendra",
+    "iast": "śivendra",
+    "devanagari": "शिवेन्द्र",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Lord Shiva.",
+    "components": [
+      {
+        "part": "śiva",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Somesh",
+    "iast": "someś",
+    "stem": "someśa",
+    "devanagari": "सोमेश",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Lord of the moon; Shiva.",
+    "components": [
+      {
+        "part": "soma",
+        "gloss": "moon"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sukesh",
+    "iast": "sukeś",
+    "stem": "sukeśa",
+    "devanagari": "सुकेश",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "One with beautiful hair.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "keśa",
+        "gloss": "hair"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sushil",
+    "iast": "suśīl",
+    "stem": "suśīla",
+    "devanagari": "सुशील",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Of good character.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "śīla",
+        "gloss": "character"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Swaroop",
+    "iast": "svarūp",
+    "stem": "svarūpa",
+    "devanagari": "स्वरूप",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "One's true form; beautiful.",
+    "components": [
+      {
+        "part": "sva",
+        "gloss": "own"
+      },
+      {
+        "part": "rūpa",
+        "gloss": "form"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Udit",
+    "iast": "udit",
+    "stem": "udita",
+    "devanagari": "उदित",
+    "letter": "U",
+    "syllable_count": 2,
+    "meaning_en": "Risen, awakened.",
+    "components": [
+      {
+        "part": "udita",
+        "gloss": "risen"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vijayendra",
+    "iast": "vijayendra",
+    "devanagari": "विजयेन्द्र",
+    "letter": "V",
+    "syllable_count": 4,
+    "meaning_en": "Lord of victory.",
+    "components": [
+      {
+        "part": "vijaya",
+        "gloss": "victory"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vikas",
+    "iast": "vikās",
+    "stem": "vikāsa",
+    "devanagari": "विकास",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Development, blossoming.",
+    "components": [
+      {
+        "part": "vikāsa",
+        "gloss": "expansion"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vimal",
+    "iast": "vimal",
+    "stem": "vimala",
+    "devanagari": "विमल",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Pure, spotless.",
+    "components": [
+      {
+        "part": "vi",
+        "gloss": "without"
+      },
+      {
+        "part": "mala",
+        "gloss": "dirt"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yadavendra",
+    "iast": "yādavendra",
+    "devanagari": "यादवेन्द्र",
+    "letter": "Y",
+    "syllable_count": 4,
+    "meaning_en": "Lord of the Yadavas; Krishna.",
+    "components": [
+      {
+        "part": "yādava",
+        "gloss": "Yadava"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hitendra",
+    "iast": "hitendra",
+    "devanagari": "हितेन्द्र",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Lord of well-wishers.",
+    "components": [
+      {
+        "part": "hita",
+        "gloss": "welfare"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-018-common.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
