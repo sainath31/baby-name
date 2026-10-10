@@ -1,0 +1,106 @@
+[
+ {
+  "name": "Anu",
+  "verdict": "fix",
+  "reason": "Used for boys, but IAST aṇu does not match अनु; the name is anu.",
+  "fix": {
+   "iast": "anu",
+   "meaning_en": "Following, after; also a son of King Yayati"
+  }
+ },
+ {
+  "name": "Arpan",
+  "verdict": "keep",
+  "reason": "Used for boys across north India; meaning correct."
+ },
+ {
+  "name": "Ashwini",
+  "verdict": "reject",
+  "reason": "female_name: mainly a girl's name; state tag south questionable."
+ },
+ {
+  "name": "Ayan",
+  "verdict": "keep",
+  "reason": "Used for boys (Bengali/Assamese/north); meaning acceptable."
+ },
+ {
+  "name": "Bhagwan",
+  "verdict": "reject",
+  "reason": "title_or_honorific: a term for God, not ideal as a given name."
+ },
+ {
+  "name": "Deep",
+  "verdict": "keep",
+  "reason": "Common boy's name in Punjab and Bengal; meaning correct."
+ },
+ {
+  "name": "Dhrubajyoti",
+  "verdict": "keep",
+  "reason": "Genuine Assamese/Bengali boy's name; regional spelling fine."
+ },
+ {
+  "name": "Dibyajyoti",
+  "verdict": "keep",
+  "reason": "Genuine Assamese/Odia boy's name; regional spelling fine."
+ },
+ {
+  "name": "Ishu",
+  "verdict": "reject",
+  "reason": "other: not really used as a Hindu boy's name; mostly a pet name or Jesus; unisex."
+ },
+ {
+  "name": "Jyotirmay",
+  "verdict": "keep",
+  "reason": "Used for boys in Odia/Bengali; meaning correct."
+ },
+ {
+  "name": "Ramnath",
+  "verdict": "keep",
+  "reason": "Common boy's name in Bihar/UP/Tamil Nadu; meaning correct."
+ },
+ {
+  "name": "Rampal",
+  "verdict": "keep",
+  "reason": "Common Haryana/Punjab/Bihar boy's name; meaning correct."
+ },
+ {
+  "name": "Ramulu",
+  "verdict": "keep",
+  "reason": "Genuine Telangana/Andhra boy's name; Telugu form of Rama."
+ },
+ {
+  "name": "Rituraj",
+  "verdict": "keep",
+  "reason": "Used for boys in north India; meaning correct."
+ },
+ {
+  "name": "Sambit",
+  "verdict": "keep",
+  "reason": "Genuine Odia boy's name; regional spelling of saṃvit."
+ },
+ {
+  "name": "Shanu",
+  "verdict": "reject",
+  "reason": "other: unisex pet form, mostly girls; parts and meaning not well founded."
+ },
+ {
+  "name": "Shyamlal",
+  "verdict": "keep",
+  "reason": "Common Bihar/UP boy's name; meaning correct."
+ },
+ {
+  "name": "Sneh",
+  "verdict": "keep",
+  "reason": "Used for boys in north India; meaning correct."
+ },
+ {
+  "name": "Subrat",
+  "verdict": "keep",
+  "reason": "Genuine Odia boy's name; regional spelling of Subrata (suvrata)."
+ },
+ {
+  "name": "Tanu",
+  "verdict": "reject",
+  "reason": "female_name: mainly a girl's name."
+ }
+]
