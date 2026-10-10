@@ -120166,5 +120166,606 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Pravallika",
+    "iast": "pravallikā",
+    "devanagari": "प्रवल्लिका",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "Tender creeper; a young shoot.",
+    "components": [
+      {
+        "part": "pra",
+        "gloss": "forth"
+      },
+      {
+        "part": "vallikā",
+        "gloss": "creeper"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pujitha",
+    "iast": "pūjitā",
+    "devanagari": "पूजिता",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Worshipped; honoured.",
+    "components": [
+      {
+        "part": "pūjita",
+        "gloss": "worshipped"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sahithya",
+    "iast": "sāhitya",
+    "devanagari": "साहित्य",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Literature; togetherness.",
+    "components": [
+      {
+        "part": "sāhitya",
+        "gloss": "literature"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shriya",
+    "iast": "śriyā",
+    "devanagari": "श्रिया",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "With fortune; Lakshmi.",
+    "components": [
+      {
+        "part": "śrī",
+        "gloss": "fortune"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shrinidhi",
+    "iast": "śrīnidhi",
+    "devanagari": "श्रीनिधि",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Treasure of fortune.",
+    "components": [
+      {
+        "part": "śrī",
+        "gloss": "fortune"
+      },
+      {
+        "part": "nidhi",
+        "gloss": "treasure"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Varshitha",
+    "iast": "varṣitā",
+    "devanagari": "वर्षिता",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Rained upon; blessed with rain.",
+    "components": [
+      {
+        "part": "varṣa",
+        "gloss": "rain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Divyasri",
+    "iast": "divyaśrī",
+    "devanagari": "दिव्यश्री",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Divine fortune.",
+    "components": [
+      {
+        "part": "divya",
+        "gloss": "divine"
+      },
+      {
+        "part": "śrī",
+        "gloss": "fortune"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Manogna",
+    "iast": "manojñā",
+    "devanagari": "मनोज्ञा",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Pleasing to the mind; lovely.",
+    "components": [
+      {
+        "part": "manas",
+        "gloss": "mind"
+      },
+      {
+        "part": "jñā",
+        "gloss": "knowing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Samhitha",
+    "iast": "saṃhitā",
+    "devanagari": "संहिता",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Collection; a compiled Veda text.",
+    "components": [
+      {
+        "part": "saṃhitā",
+        "gloss": "collection"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Srinija",
+    "iast": "śrīnijā",
+    "devanagari": "श्रीनिजा",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Own fortune.",
+    "components": [
+      {
+        "part": "śrī",
+        "gloss": "fortune"
+      },
+      {
+        "part": "nija",
+        "gloss": "own"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anshika",
+    "iast": "aṃśikā",
+    "devanagari": "अंशिका",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "A small part; a portion of the divine.",
+    "components": [
+      {
+        "part": "aṃśa",
+        "gloss": "part"
+      },
+      {
+        "part": "-ikā",
+        "gloss": "diminutive"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Avira",
+    "iast": "āvirā",
+    "devanagari": "आविरा",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Brilliant; shining forth.",
+    "components": [
+      {
+        "part": "āvis",
+        "gloss": "manifest"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gunika",
+    "iast": "guṇikā",
+    "devanagari": "गुणिका",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Virtuous one.",
+    "components": [
+      {
+        "part": "guṇa",
+        "gloss": "virtue"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mrinika",
+    "iast": "mṛṇikā",
+    "devanagari": "मृणिका",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Little lotus stalk.",
+    "components": [
+      {
+        "part": "mṛṇāla",
+        "gloss": "lotus stalk"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vanshita",
+    "iast": "vaṃśitā",
+    "devanagari": "वंशिता",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Of noble lineage.",
+    "components": [
+      {
+        "part": "vaṃśa",
+        "gloss": "lineage"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shravika",
+    "iast": "śrāvikā",
+    "devanagari": "श्राविका",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Listener; devout hearer.",
+    "components": [
+      {
+        "part": "śrāvaka",
+        "gloss": "listener"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Haritika",
+    "iast": "haritikā",
+    "devanagari": "हरितिका",
+    "letter": "H",
+    "syllable_count": 4,
+    "meaning_en": "Little green one.",
+    "components": [
+      {
+        "part": "harita",
+        "gloss": "green"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Srihan",
+    "iast": "śrīhan",
+    "stem": "śrīhana",
+    "devanagari": "श्रीहन",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Of auspicious beginnings (modern).",
+    "components": [
+      {
+        "part": "śrī",
+        "gloss": "fortune"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-122-modern-south.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

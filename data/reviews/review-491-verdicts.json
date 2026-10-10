@@ -1,0 +1,20 @@
+[
+{"name":"Pravallika","verdict":"keep","reason":"pra + vallikā, tender creeper; used in Telugu families"},
+{"name":"Pujitha","verdict":"keep","reason":"pūjitā, worshipped; sound"},
+{"name":"Sahithya","verdict":"fix","reason":"meaning weak; sāhitya means literature, association","fix":{"meaning_en":"Literature; composition (also association, togetherness)."}},
+{"name":"Shriya","verdict":"fix","reason":"meaning wording is the instrumental case form; name is from śrī","fix":{"meaning_en":"Prosperity, splendour; another name of Lakshmi (from śrī)."}},
+{"name":"Shrinidhi","verdict":"keep","reason":"śrī + nidhi, treasure of fortune; in use for girls and boys"},
+{"name":"Varshitha","verdict":"fix","reason":"varṣitā is a participle, meaning loosely stated; modern coinage","fix":{"meaning_en":"One showered upon (as with rain, i.e. blessings); modern coinage, etymology somewhat uncertain."}},
+{"name":"Divyasri","verdict":"keep","reason":"divya + śrī, divine fortune; sound compound"},
+{"name":"Manogna","verdict":"keep","reason":"manojñā, pleasing to the mind, charming; valid Sanskrit"},
+{"name":"Samhitha","verdict":"keep","reason":"saṃhitā, collection, Vedic text; in use in Telugu families"},
+{"name":"Srinija","verdict":"reject","reason":"nonsensical_compound: śrī + nija (own) does not read as a sound name"},
+{"name":"Anshika","verdict":"keep","reason":"aṃśikā, small part or portion; in current use, meaning acceptable"},
+{"name":"Avira","verdict":"reject","reason":"nonsensical_compound: āvirā not a Sanskrit form; āvis is only an adverb"},
+{"name":"Gunika","verdict":"reject","reason":"nonsensical_compound: guṇikā is not an attested word for virtuous one"},
+{"name":"Mrinika","verdict":"reject","reason":"nonsensical_compound: mṛṇikā not attested; valid form would be mṛṇālikā"},
+{"name":"Vanshita","verdict":"reject","reason":"nonsensical_compound: vaṃśitā does not mean noble lineage"},
+{"name":"Shravika","verdict":"reject","reason":"common_noun_or_technical_term: śrāvikā denotes a Jain lay female follower"},
+{"name":"Haritika","verdict":"reject","reason":"nonsensical_compound: haritikā not an established form"},
+{"name":"Srihan","verdict":"reject","reason":"negative_meaning: hana derives from han, to kill; reads as slayer of fortune"}
+]
