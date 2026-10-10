@@ -48,6 +48,10 @@ Vetted attested names number in the low thousands at most; anything beyond that 
 ### In progress
 - Nothing running in the background.
 
+### Recently added
+- Girl names: gender filter (Boys / Girls / Gender-neutral), about 300 reviewed attested girl names plus reviewed feminine compounds (-vati, -mayi, -nandini, -sundari, -dasi, -priya).
+- Astrology syllable coverage check: every naming syllable should have names; a few (Ng, Cho, Vo, Ho, Yi) are rare sounds at the start of Sanskrit names and stay thin.
+
 ### To do
 - Widen the generator's lexicon: 265 elements yields about 500 surviving names; 100k would need roughly 10,000
   elements, or looser rules that produce odd names. Reviewer strictness varies between batches (keep rates 4-62%).
