@@ -1,0 +1,230 @@
+[
+ {
+  "name": "Aarna",
+  "verdict": "fix",
+  "reason": "Devanagari/IAST corrected; Lakshmi claim unsupported",
+  "fix": {
+   "devanagari": "आर्णा",
+   "iast": "ārṇā",
+   "meaning_en": "Wave, flowing (from arṇa)"
+  }
+ },
+ {
+  "name": "Aarohi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Aashi",
+  "verdict": "fix",
+  "reason": "meaning wrong",
+  "fix": {
+   "meaning_en": "Blessing (āśīḥ)"
+  }
+ },
+ {
+  "name": "Advika",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Aradhya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Avni",
+  "verdict": "fix",
+  "reason": "iast long ī",
+  "fix": {
+   "iast": "avanī"
+  }
+ },
+ {
+  "name": "Charvi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Diya",
+  "verdict": "fix",
+  "reason": "iast spoken form",
+  "fix": {
+   "iast": "diyā"
+  }
+ },
+ {
+  "name": "Eshaanvi",
+  "verdict": "fix",
+  "reason": "invented meaning",
+  "fix": {
+   "meaning_en": "etymology uncertain"
+  }
+ },
+ {
+  "name": "Inaya",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Ira",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Isha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Jiya",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "iast": "jiyā",
+   "meaning_en": "Heart, life (Hindi jiyā, from jīva)"
+  }
+ },
+ {
+  "name": "Kiara",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Mahika",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Medha",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Myra",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Naira",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Navika",
+  "verdict": "fix",
+  "reason": "iast and meaning",
+  "fix": {
+   "iast": "nāvikā",
+   "meaning_en": "Boatwoman, female sailor"
+  }
+ },
+ {
+  "name": "Pihu",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Cry of the peacock or cuckoo (Hindi)"
+  }
+ },
+ {
+  "name": "Prisha",
+  "verdict": "fix",
+  "reason": "iast and meaning",
+  "fix": {
+   "iast": "priśā",
+   "meaning_en": "etymology uncertain"
+  }
+ },
+ {
+  "name": "Riya",
+  "verdict": "fix",
+  "reason": "invented meaning",
+  "fix": {
+   "meaning_en": "etymology uncertain"
+  }
+ },
+ {
+  "name": "Ruhi",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Saanvi",
+  "verdict": "fix",
+  "reason": "invented etymology",
+  "fix": {
+   "meaning_en": "etymology uncertain"
+  }
+ },
+ {
+  "name": "Samaira",
+  "verdict": "reject",
+  "reason": "other"
+ },
+ {
+  "name": "Sara",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Shanaya",
+  "verdict": "fix",
+  "reason": "iast",
+  "fix": {
+   "iast": "śanāyā",
+   "meaning_en": "etymology uncertain"
+  }
+ },
+ {
+  "name": "Siya",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "iast": "siyā",
+   "meaning_en": "Hindi form of Sītā"
+  }
+ },
+ {
+  "name": "Tanishka",
+  "verdict": "fix",
+  "reason": "invented etymology",
+  "fix": {
+   "meaning_en": "etymology uncertain"
+  }
+ },
+ {
+  "name": "Trisha",
+  "verdict": "reject",
+  "reason": "negative_meaning"
+ },
+ {
+  "name": "Vanya",
+  "verdict": "fix",
+  "reason": "foreign gloss removed",
+  "fix": {
+   "meaning_en": "Of the forest"
+  }
+ },
+ {
+  "name": "Yashvi",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Famous, glorious (cf. yaśasvī)"
+  }
+ },
+ {
+  "name": "Yuvika",
+  "verdict": "fix",
+  "reason": "meaning",
+  "fix": {
+   "meaning_en": "Young woman (modern formation, cf. yuvatī)"
+  }
+ },
+ {
+  "name": "Zara",
+  "verdict": "reject",
+  "reason": "other"
+ }
+]
