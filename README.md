@@ -8,18 +8,20 @@ choices with a family priest or panchang.**
 
 ## Status (updated each work pass)
 
-_Last updated: 2026-10-09_
+_Last updated: 2026-10-10_
 
 | Measure | Count |
 |---|---|
-| Names listed (shown to users) | 963 |
-| Candidate records kept in data but hidden | ~17,200 |
-| Total records | 18,197 |
-| Names read by the AI reviewer | ~3,200 (all 694 first-round, 2,480 shortlist) |
+| Names listed (shown to users) | 1,463 |
+| - attested (found in texts, dictionaries or common use) | 958 |
+| - constructed (rule-built from reviewed Sanskrit elements; shown only when the visitor asks) | 505 |
+| Hidden candidate records kept in data | ~18,700 |
+| Total records | 20,183 |
+| Names read by the AI reviewer | ~5,900 (first round 694, shortlist 2,480, constructed 1,993, other fixes) |
 | Tests | 18 passing |
 
-**Goal:** 100,000 unique names. **Reality check:** vetted attested names number in the low thousands at most;
-the remainder can only come from rule-based compound generation, labelled "constructed" (see To do).
+**Goal:** 100,000 unique names. **Reality check:** about 960 attested and 500 constructed names survive review today.
+Vetted attested names number in the low thousands at most; anything beyond that must come from rule-based generation.
 
 ### Done
 - Data model, importer, quality gate (`src/quality.js`), validators (uniqueness, meaning, sources, script round-trip).
@@ -32,12 +34,18 @@ the remainder can only come from rule-based compound generation, labelled "const
 - Numerology (Chaldean and Pythagorean) and sound-group filters.
 - Telugu/Kannada support: conversion from Devanagari/IAST and a validator (`scripts/check-name.js`).
 
+- Compound-name generator (`npm run generate`): 265 reviewer-curated elements x 17 suffixes + 4 prefixes with Sanskrit
+  joining rules. Reviewers read all ~2,000 generated names and rejected about 75%, so 505 survive. The generator was
+  tightened using their feedback. The UI has an "Include constructed names" toggle (off by default).
+- Reusable reviewer prompt (`data/reviews/REVIEWER_PROMPT.md`) and chunk maker (`scripts/make-review-chunks.js`).
+
 ### In progress
-- Compound-name generator: curating a lexicon of name-forming elements (nouns, deities, suffixes) with reviewers
-  (candidates in `data/lexicon/`). Constructed names will be labelled and kept separate from attested ones.
+- Nothing running in the background.
 
 ### To do
-- Build the generator and a "constructed names" mode in the UI; ship a Telugu/Kannada name display toggle.
+- Show Telugu/Kannada spellings in the UI (conversion and validation exist; the UI does not use them yet).
+- Widen the generator's lexicon: 265 elements yields about 500 surviving names; 100k would need roughly 10,000
+  elements, or looser rules that produce odd names. Reviewer strictness varies between batches (keep rates 4-62%).
 - Devotional lists not yet mined: Shiva, Lalita (masculine epithets), Ganesha, Hanuman sahasranamas and 108-name lists;
   Ramcharitmanas, Alvar, Nayanar and Bhakti poetry; more regional name sources.
 - Human review (a real priest or Sanskrit scholar) of the final list; review the remaining ~14,900 hidden candidates.
