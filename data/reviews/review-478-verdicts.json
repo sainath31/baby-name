@@ -1,0 +1,104 @@
+[
+{
+"name": "Pankhuri",
+"verdict": "fix",
+"reason": "Hindi loanword; IAST did not match Devanagari",
+"fix": {
+"iast": "paṃkhuḍī",
+"meaning_en": "Flower petal (Hindi paṃkhuḍī; etymology uncertain)"
+}
+},
+{
+"name": "Parnashree",
+"verdict": "keep",
+"reason": "parṇa leaf plus śrī; sound Bengali compound"
+},
+{
+"name": "Pinakini",
+"verdict": "reject",
+"reason": "place_or_river: river name"
+},
+{
+"name": "Preksha",
+"verdict": "keep",
+"reason": "prekṣā, seeing, insight; sound"
+},
+{
+"name": "Rudrani",
+"verdict": "keep",
+"reason": "rudrāṇī, Devi epithet; established"
+},
+{
+"name": "Sampriti",
+"verdict": "fix",
+"reason": "IAST sampṛti wrong; should be samprīti",
+"fix": {
+"iast": "samprīti",
+"meaning_en": "Mutual affection; harmony"
+}
+},
+{
+"name": "Sanjukta",
+"verdict": "keep",
+"reason": "saṃyuktā, united; IAST and script agree"
+},
+{
+"name": "Shaswati",
+"verdict": "keep",
+"reason": "śāśvatī, eternal; sound"
+},
+{
+"name": "Shivangi",
+"verdict": "fix",
+"reason": "meaning weak; śiva-aṅgī",
+"fix": {
+"meaning_en": "Having auspicious limbs; of Shiva's form"
+}
+},
+{
+"name": "Shobhita",
+"verdict": "keep",
+"reason": "śobhitā, adorned; sound"
+},
+{
+"name": "Shrivalli",
+"verdict": "keep",
+"reason": "śrī plus vallī; Valli, Murugan's consort"
+},
+{
+"name": "Snehalata",
+"verdict": "keep",
+"reason": "sneha plus latā; sound"
+},
+{
+"name": "Sreeparna",
+"verdict": "fix",
+"reason": "Lakshmi gloss unsupported",
+"fix": {
+"meaning_en": "Auspicious leaf; leaf of fortune"
+}
+},
+{
+"name": "Srujana",
+"verdict": "keep",
+"reason": "sṛjana, creating; IAST agrees with script"
+},
+{
+"name": "Suhasini",
+"verdict": "keep",
+"reason": "suhāsinī, sweetly smiling; sound"
+},
+{
+"name": "Ushasi",
+"verdict": "fix",
+"reason": "form uncertain; Bengali from Uṣā",
+"fix": {
+"meaning_en": "Of the dawn (Bengali form linked to Usha; etymology uncertain)"
+}
+},
+{
+"name": "Vallika",
+"verdict": "keep",
+"reason": "vallikā, small creeper; sound"
+}
+]

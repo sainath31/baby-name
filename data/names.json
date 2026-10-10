@@ -113559,5 +113559,586 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Pankhuri",
+    "iast": "pakṣarī",
+    "devanagari": "पंखुड़ी",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Flower petal.",
+    "components": [
+      {
+        "part": "pakṣa",
+        "gloss": "wing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Parnashree",
+    "iast": "parṇaśrī",
+    "devanagari": "पर्णश्री",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Beauty of leaves.",
+    "components": [
+      {
+        "part": "parṇa",
+        "gloss": "leaf"
+      },
+      {
+        "part": "śrī",
+        "gloss": "beauty"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pinakini",
+    "iast": "pinākinī",
+    "devanagari": "पिनाकिनी",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "River of Karnataka and Tamil Nadu; wife of Pinaka-bearer Shiva.",
+    "components": [
+      {
+        "part": "pināka",
+        "gloss": "Shiva's bow"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Preksha",
+    "iast": "prekṣā",
+    "devanagari": "प्रेक्षा",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Observation; insight.",
+    "components": [
+      {
+        "part": "prekṣā",
+        "gloss": "seeing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rudrani",
+    "iast": "rudrāṇī",
+    "devanagari": "रुद्राणी",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Consort of Rudra; Parvati.",
+    "components": [
+      {
+        "part": "rudra",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "-āṇī",
+        "gloss": "consort"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Devi Mahatmya",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sampriti",
+    "iast": "sampṛti",
+    "devanagari": "सम्प्रीति",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Great affection; harmony.",
+    "components": [
+      {
+        "part": "sam",
+        "gloss": "together"
+      },
+      {
+        "part": "prīti",
+        "gloss": "love"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sanjukta",
+    "iast": "saṃyuktā",
+    "devanagari": "संयुक्ता",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "United; joined; wife of Prithviraj.",
+    "components": [
+      {
+        "part": "saṃ",
+        "gloss": "together"
+      },
+      {
+        "part": "yukta",
+        "gloss": "joined"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shaswati",
+    "iast": "śāśvatī",
+    "devanagari": "शाश्वती",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Eternal.",
+    "components": [
+      {
+        "part": "śāśvata",
+        "gloss": "eternal"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shivangi",
+    "iast": "śivāṅgī",
+    "devanagari": "शिवांगी",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Body of Shiva; auspicious limbed.",
+    "components": [
+      {
+        "part": "śiva",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "aṅga",
+        "gloss": "body"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shobhita",
+    "iast": "śobhitā",
+    "devanagari": "शोभिता",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Adorned; beautified.",
+    "components": [
+      {
+        "part": "śobhita",
+        "gloss": "adorned"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shrivalli",
+    "iast": "śrīvallī",
+    "devanagari": "श्रीवल्ली",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Auspicious creeper; Valli, Murugan's consort.",
+    "components": [
+      {
+        "part": "śrī",
+        "gloss": "fortune"
+      },
+      {
+        "part": "vallī",
+        "gloss": "creeper"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Snehalata",
+    "iast": "snehalatā",
+    "devanagari": "स्नेहलता",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Creeper of affection.",
+    "components": [
+      {
+        "part": "sneha",
+        "gloss": "affection"
+      },
+      {
+        "part": "latā",
+        "gloss": "creeper"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sreeparna",
+    "iast": "śrīparṇā",
+    "devanagari": "श्रीपर्णा",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Auspicious leaf; Lakshmi.",
+    "components": [
+      {
+        "part": "śrī",
+        "gloss": "fortune"
+      },
+      {
+        "part": "parṇa",
+        "gloss": "leaf"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Srujana",
+    "iast": "sṛjanā",
+    "devanagari": "सृजना",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Creation; creativity.",
+    "components": [
+      {
+        "part": "sṛj",
+        "gloss": "create"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Suhasini",
+    "iast": "suhāsinī",
+    "devanagari": "सुहासिनी",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Sweetly smiling.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "hāsinī",
+        "gloss": "smiling"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ushasi",
+    "iast": "uṣasī",
+    "devanagari": "उषसी",
+    "letter": "U",
+    "syllable_count": 3,
+    "meaning_en": "Of the dawn.",
+    "components": [
+      {
+        "part": "uṣas",
+        "gloss": "dawn"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vallika",
+    "iast": "vallikā",
+    "devanagari": "वल्लिका",
+    "letter": "V",
+    "syllable_count": 3,
+    "meaning_en": "Small creeper.",
+    "components": [
+      {
+        "part": "valli",
+        "gloss": "creeper"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-109-girls5.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
