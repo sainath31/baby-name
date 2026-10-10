@@ -107076,5 +107076,42 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Sulabha",
+    "iast": "sulabhā",
+    "devanagari": "सुलभा",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Easily attained; a woman ascetic in the Mahabharata.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "easily"
+      },
+      {
+        "part": "labha",
+        "gloss": "gain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-088-girls-misc.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
