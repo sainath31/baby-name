@@ -64469,5 +64469,660 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Lalan",
+    "iast": "lālan",
+    "stem": "lālana",
+    "devanagari": "ललन",
+    "letter": "L",
+    "syllable_count": 2,
+    "meaning_en": "Caressing; beloved child.",
+    "components": [
+      {
+        "part": "lālana",
+        "gloss": "fondling"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Lavish",
+    "iast": "lavīś",
+    "stem": "lavīśa",
+    "devanagari": "लविश",
+    "letter": "L",
+    "syllable_count": 2,
+    "meaning_en": "Lord of the sacred grass; modern coinage.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Lingesh",
+    "iast": "liṅgeś",
+    "stem": "liṅgeśa",
+    "devanagari": "लिंगेश",
+    "letter": "L",
+    "syllable_count": 2,
+    "meaning_en": "Lord of the lingam; Shiva.",
+    "components": [
+      {
+        "part": "liṅga",
+        "gloss": "lingam"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Lokendra",
+    "iast": "lokendra",
+    "devanagari": "लोकेन्द्र",
+    "letter": "L",
+    "syllable_count": 3,
+    "meaning_en": "Lord of the worlds.",
+    "components": [
+      {
+        "part": "loka",
+        "gloss": "world"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kunjan",
+    "iast": "kuñjan",
+    "stem": "kuñjana",
+    "devanagari": "कुंजन",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Of the grove.",
+    "components": [
+      {
+        "part": "kuñja",
+        "gloss": "grove"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kumar",
+    "iast": "kumār",
+    "stem": "kumāra",
+    "devanagari": "कुमार",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Youth; prince.",
+    "components": [
+      {
+        "part": "kumāra",
+        "gloss": "boy"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kushagra",
+    "iast": "kuśāgra",
+    "devanagari": "कुशाग्र",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Sharp-minded.",
+    "components": [
+      {
+        "part": "kuśa",
+        "gloss": "grass"
+      },
+      {
+        "part": "agra",
+        "gloss": "tip"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kunti",
+    "iast": "kuntī",
+    "devanagari": "कुन्ती",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Mother of the Pandavas.",
+    "components": [
+      {
+        "part": "kunti",
+        "gloss": "spear"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kumkum",
+    "iast": "kuṅkum",
+    "stem": "kuṅkuma",
+    "devanagari": "कुमकुम",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Saffron; vermilion.",
+    "components": [
+      {
+        "part": "kuṅkuma",
+        "gloss": "saffron"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kumudini",
+    "iast": "kumudinī",
+    "devanagari": "कुमुदिनी",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Water lily plant.",
+    "components": [
+      {
+        "part": "kumuda",
+        "gloss": "night lotus"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gharat",
+    "iast": "gharaṭ",
+    "stem": "gharaṭa",
+    "devanagari": "घरट",
+    "letter": "G",
+    "syllable_count": 2,
+    "meaning_en": "Mill; Marathi surname form.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ghanendra",
+    "iast": "ghanendra",
+    "devanagari": "घनेन्द्र",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Lord of clouds.",
+    "components": [
+      {
+        "part": "ghana",
+        "gloss": "cloud"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tirthesh",
+    "iast": "tīrtheś",
+    "stem": "tīrtheśa",
+    "devanagari": "तीर्थेश",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "Lord of holy places.",
+    "components": [
+      {
+        "part": "tīrtha",
+        "gloss": "holy place"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tulsiram",
+    "iast": "tulasīrām",
+    "stem": "tulasīrāma",
+    "devanagari": "तुलसीराम",
+    "letter": "T",
+    "syllable_count": 4,
+    "meaning_en": "Rama with Tulsi.",
+    "components": [
+      {
+        "part": "tulasī",
+        "gloss": "basil"
+      },
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tejendra",
+    "iast": "tejendra",
+    "devanagari": "तेजेन्द्र",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Lord of splendour.",
+    "components": [
+      {
+        "part": "tejas",
+        "gloss": "splendour"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yaduvir",
+    "iast": "yaduvīr",
+    "stem": "yaduvīra",
+    "devanagari": "यदुवीर",
+    "letter": "Y",
+    "syllable_count": 3,
+    "meaning_en": "Hero of the Yadus; Krishna.",
+    "components": [
+      {
+        "part": "yadu",
+        "gloss": "Yadu"
+      },
+      {
+        "part": "vīra",
+        "gloss": "hero"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yugandhar",
+    "iast": "yugandhar",
+    "stem": "yugandhara",
+    "devanagari": "युगंधर",
+    "letter": "Y",
+    "syllable_count": 3,
+    "meaning_en": "Bearer of the age.",
+    "components": [
+      {
+        "part": "yuga",
+        "gloss": "age"
+      },
+      {
+        "part": "dhara",
+        "gloss": "bearer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vishakh",
+    "iast": "viśākh",
+    "stem": "viśākha",
+    "devanagari": "विशाख",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Branching; Kartikeya.",
+    "components": [
+      {
+        "part": "viśākha",
+        "gloss": "branched"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pushya",
+    "iast": "puṣya",
+    "devanagari": "पुष्य",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Nourishing; the eighth nakshatra.",
+    "components": [
+      {
+        "part": "puṣya",
+        "gloss": "nourishing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-065-nakshatra-gaps.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

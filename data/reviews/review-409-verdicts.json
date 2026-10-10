@@ -1,0 +1,101 @@
+[
+ {
+  "name": "Ghanendra",
+  "verdict": "keep",
+  "reason": "Established name with correct, understandable meaning."
+ },
+ {
+  "name": "Gharat",
+  "verdict": "reject",
+  "reason": "Marathi surname and common noun (mill), not a given name."
+ },
+ {
+  "name": "Kumar",
+  "verdict": "keep",
+  "reason": "Established name with correct, understandable meaning."
+ },
+ {
+  "name": "Kumkum",
+  "verdict": "keep",
+  "reason": "Established name with correct, understandable meaning."
+ },
+ {
+  "name": "Kumudini",
+  "verdict": "keep",
+  "reason": "Established name with correct, understandable meaning."
+ },
+ {
+  "name": "Kunjan",
+  "verdict": "reject",
+  "reason": "Meaning \"of the grove\" is an ungrounded invented etymology; name is a Malayalam pet name, not a Sanskrit given name."
+ },
+ {
+  "name": "Lalan",
+  "verdict": "fix",
+  "reason": "iast did not match Devanagari ललन (short a); meaning refined.",
+  "fix": {
+   "iast": "lalan",
+   "meaning_en": "Darling, beloved child (from lālana, caressing)."
+  }
+ },
+ {
+  "name": "Lavish",
+  "verdict": "reject",
+  "reason": "English word; Sanskrit etymology \"lord of sacred grass\" is invented and the Devanagari/IAST do not support it."
+ },
+ {
+  "name": "Lingesh",
+  "verdict": "keep",
+  "reason": "Established name with correct, understandable meaning."
+ },
+ {
+  "name": "Lokendra",
+  "verdict": "keep",
+  "reason": "Established name with correct, understandable meaning."
+ },
+ {
+  "name": "Pushya",
+  "verdict": "keep",
+  "reason": "Pushya is a used given name and the eighth nakshatra; meaning acceptable."
+ },
+ {
+  "name": "Tejendra",
+  "verdict": "keep",
+  "reason": "Established name with correct, understandable meaning."
+ },
+ {
+  "name": "Tirthesh",
+  "verdict": "keep",
+  "reason": "Established name with correct, understandable meaning."
+ },
+ {
+  "name": "Tulsiram",
+  "verdict": "fix",
+  "reason": "Meaning too vague.",
+  "fix": {
+   "meaning_en": "Rama united with the sacred tulasi (holy basil); a devotional name."
+  }
+ },
+ {
+  "name": "Vishakh",
+  "verdict": "fix",
+  "reason": "iast should be viśākha; meaning expanded.",
+  "fix": {
+   "iast": "viśākha",
+   "meaning_en": "Branching; a name of Kartikeya; also a nakshatra."
+  }
+ },
+ {
+  "name": "Yaduvir",
+  "verdict": "keep",
+  "reason": "Established name with correct, understandable meaning."
+ },
+ {
+  "name": "Yugandhar",
+  "verdict": "fix",
+  "reason": "Meaning clarified.",
+  "fix": {
+   "meaning_en": "Bearer of the yoke or of the age (yuga + dhara)."
+  }
+ }
+]
