@@ -19,7 +19,7 @@ K={
 197:("Yashovarman","yaśovarman","यशोवर्मन्","one whose armour is glory, glorious protector",[("yaśas","glory"),("varman","armour, protector")]),
 33:("Dharma","dharma","धर्म","righteousness, duty, cosmic order",[]),
 }
-print([i for i in range(len(d)) if i not in R and i not in K]);out=[]
+R.update({56:"obscure_figure",103:"author_or_scholar",161:"demon_or_villain",181:"author_or_scholar"});out=[]
 for i,r in enumerate(d):
     if i in K:
         n,ia,dv,m,c=K[i]
