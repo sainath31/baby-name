@@ -96647,5 +96647,1218 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Kovalan",
+    "iast": "kovalan",
+    "devanagari": "कोवलन",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Cowherd; the hero of the Silappadikaram.",
+    "components": [
+      {
+        "part": "kōvalan",
+        "gloss": "herdsman"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Silappadikaram",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kannagi",
+    "iast": "kaṇṇaki",
+    "devanagari": "कण्णगी",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Heroine of the Silappadikaram; the chaste wife.",
+    "components": [
+      {
+        "part": "kaṇṇaki",
+        "gloss": "name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Silappadikaram",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Manimekalai",
+    "iast": "maṇimēkalai",
+    "devanagari": "मणिमेखलै",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Jewelled girdle; the heroine of the Tamil epic.",
+    "components": [
+      {
+        "part": "maṇi",
+        "gloss": "jewel"
+      },
+      {
+        "part": "mēkalai",
+        "gloss": "girdle"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Manimekalai",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Valluvar",
+    "iast": "vaḷḷuvar",
+    "devanagari": "वल्लुवर",
+    "letter": "V",
+    "syllable_count": 5,
+    "meaning_en": "The Tamil poet-saint of the Tirukkural.",
+    "components": [
+      {
+        "part": "vaḷḷuvar",
+        "gloss": "name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Tirukkural",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Karikalan",
+    "iast": "karikālan",
+    "devanagari": "करिकालन",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "With a burnt foot; the great Chola king.",
+    "components": [
+      {
+        "part": "kari",
+        "gloss": "burnt"
+      },
+      {
+        "part": "kālan",
+        "gloss": "foot"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Senguttuvan",
+    "iast": "ceṅkuṭṭuvan",
+    "devanagari": "सेंगुट्टुवन",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Red Chera; the Chera king of Silappadikaram.",
+    "components": [
+      {
+        "part": "ceṅ",
+        "gloss": "red"
+      },
+      {
+        "part": "kuṭṭuvan",
+        "gloss": "Chera"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Arasu",
+    "iast": "araci",
+    "devanagari": "अरसु",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "King; ruler (Tamil).",
+    "components": [
+      {
+        "part": "arasu",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ezhil",
+    "iast": "eḻil",
+    "devanagari": "एळिल",
+    "letter": "E",
+    "syllable_count": 2,
+    "meaning_en": "Beauty (Tamil).",
+    "components": [
+      {
+        "part": "eḻil",
+        "gloss": "beauty"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "unisex",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ezhilan",
+    "iast": "eḻilan",
+    "devanagari": "एळिलन",
+    "letter": "E",
+    "syllable_count": 3,
+    "meaning_en": "The beautiful one (Tamil).",
+    "components": [
+      {
+        "part": "eḻil",
+        "gloss": "beauty"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kural",
+    "iast": "kuṟaḷ",
+    "devanagari": "कुरल",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Couplet; the Tirukkural verse.",
+    "components": [
+      {
+        "part": "kuṟaḷ",
+        "gloss": "short verse"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Tirukkural",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Thendral",
+    "iast": "teṉṟal",
+    "devanagari": "तेन्द्रल",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "Gentle breeze (Tamil).",
+    "components": [
+      {
+        "part": "teṉṟal",
+        "gloss": "south wind"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mullai",
+    "iast": "mullai",
+    "devanagari": "मुल्लै",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Jasmine; the forest landscape of Sangam poetry.",
+    "components": [
+      {
+        "part": "mullai",
+        "gloss": "jasmine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kuyil",
+    "iast": "kuyil",
+    "devanagari": "कुयिल",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Cuckoo (Tamil).",
+    "components": [
+      {
+        "part": "kuyil",
+        "gloss": "koel"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tamizh",
+    "iast": "tamiḻ",
+    "devanagari": "तमिऴ",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "The Tamil language; sweet.",
+    "components": [
+      {
+        "part": "tamiḻ",
+        "gloss": "Tamil"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ilakkiya",
+    "iast": "ilakkiyā",
+    "devanagari": "इलक्किया",
+    "letter": "I",
+    "syllable_count": 4,
+    "meaning_en": "Literature (Tamil).",
+    "components": [
+      {
+        "part": "ilakkiyam",
+        "gloss": "literature"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Inbam",
+    "iast": "iṉpam",
+    "devanagari": "इन्बम",
+    "letter": "I",
+    "syllable_count": 2,
+    "meaning_en": "Happiness; joy (Tamil).",
+    "components": [
+      {
+        "part": "iṉpam",
+        "gloss": "joy"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anbarasan",
+    "iast": "aṉparacaṉ",
+    "devanagari": "अन्बरसन",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "King of love (Tamil).",
+    "components": [
+      {
+        "part": "aṉpu",
+        "gloss": "love"
+      },
+      {
+        "part": "aracaṉ",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Aadhavan",
+    "iast": "ātavaṉ",
+    "devanagari": "आदवन",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "The sun (Tamil).",
+    "components": [
+      {
+        "part": "ātavaṉ",
+        "gloss": "sun"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ilamaran",
+    "iast": "iḷamaṟaṉ",
+    "devanagari": "इलमारन",
+    "letter": "I",
+    "syllable_count": 5,
+    "meaning_en": "Young warrior (Tamil).",
+    "components": [
+      {
+        "part": "iḷam",
+        "gloss": "young"
+      },
+      {
+        "part": "maṟaṉ",
+        "gloss": "warrior"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mathivanan",
+    "iast": "matiyvaṇṇaṉ",
+    "devanagari": "मतिवाणन",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Moon-faced; radiant (Tamil).",
+    "components": [
+      {
+        "part": "mati",
+        "gloss": "moon"
+      },
+      {
+        "part": "vaṇṇaṉ",
+        "gloss": "colour"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Thirumal",
+    "iast": "tirumāl",
+    "devanagari": "तिरुमाल",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Lord Vishnu (Tamil).",
+    "components": [
+      {
+        "part": "tiru",
+        "gloss": "sacred"
+      },
+      {
+        "part": "māl",
+        "gloss": "dark one"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nilavan",
+    "iast": "nilavaṉ",
+    "devanagari": "निलवन",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Moon-like (Tamil).",
+    "components": [
+      {
+        "part": "nilavu",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Poovizhi",
+    "iast": "pūviḻi",
+    "devanagari": "पूविऴि",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Flower-eyed (Tamil).",
+    "components": [
+      {
+        "part": "pū",
+        "gloss": "flower"
+      },
+      {
+        "part": "viḻi",
+        "gloss": "eye"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yazhini",
+    "iast": "yāḻiṉi",
+    "devanagari": "याळिनी",
+    "letter": "Y",
+    "syllable_count": 3,
+    "meaning_en": "Of the yazh (lute) (Tamil).",
+    "components": [
+      {
+        "part": "yāḻ",
+        "gloss": "lute"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yazhisai",
+    "iast": "yāḻicai",
+    "devanagari": "याळिसै",
+    "letter": "Y",
+    "syllable_count": 3,
+    "meaning_en": "Music of the yazh (Tamil).",
+    "components": [
+      {
+        "part": "yāḻ",
+        "gloss": "lute"
+      },
+      {
+        "part": "icai",
+        "gloss": "music"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ilavarasi",
+    "iast": "iḷavaraci",
+    "devanagari": "इलवरसी",
+    "letter": "I",
+    "syllable_count": 6,
+    "meaning_en": "Young queen (Tamil).",
+    "components": [
+      {
+        "part": "iḷa",
+        "gloss": "young"
+      },
+      {
+        "part": "araci",
+        "gloss": "queen"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Thenmozhi",
+    "iast": "teṉmoḻi",
+    "devanagari": "तेन्मोळि",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Sweet-spoken (Tamil).",
+    "components": [
+      {
+        "part": "teṉ",
+        "gloss": "honey"
+      },
+      {
+        "part": "moḻi",
+        "gloss": "speech"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tamilselvi",
+    "iast": "tamiḻcelvi",
+    "devanagari": "तमिळ्सेल्वी",
+    "letter": "T",
+    "syllable_count": 4,
+    "meaning_en": "Wealth of Tamil (Tamil).",
+    "components": [
+      {
+        "part": "tamiḻ",
+        "gloss": "Tamil"
+      },
+      {
+        "part": "celvi",
+        "gloss": "wealth"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Amudhan",
+    "iast": "amutaṉ",
+    "devanagari": "अमुदन",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Nectar (Tamil).",
+    "components": [
+      {
+        "part": "amutu",
+        "gloss": "nectar"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chezhian",
+    "iast": "ceḻiyaṉ",
+    "devanagari": "चेऴियन",
+    "letter": "C",
+    "syllable_count": 3,
+    "meaning_en": "Prosperous one; Pandya king (Tamil).",
+    "components": [
+      {
+        "part": "ceḻiyaṉ",
+        "gloss": "Pandya king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pandian",
+    "iast": "pāṇṭiyaṉ",
+    "devanagari": "पांडियन",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "The Pandya king (Tamil).",
+    "components": [
+      {
+        "part": "pāṇṭiyaṉ",
+        "gloss": "Pandya"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Cholan",
+    "iast": "cōḻaṉ",
+    "devanagari": "चोलन",
+    "letter": "C",
+    "syllable_count": 1,
+    "meaning_en": "The Chola king (Tamil).",
+    "components": [
+      {
+        "part": "cōḻaṉ",
+        "gloss": "Chola"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pari",
+    "iast": "pāri",
+    "devanagari": "पारी",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Generous chieftain of Parambu hills; Sangam patron.",
+    "components": [
+      {
+        "part": "pāri",
+        "gloss": "name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ori",
+    "iast": "ōri",
+    "devanagari": "ओरी",
+    "letter": "O",
+    "syllable_count": 1,
+    "meaning_en": "Sangam chieftain, the archer.",
+    "components": [
+      {
+        "part": "ōri",
+        "gloss": "name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nedunchezhiyan",
+    "iast": "neṭuñceḻiyaṉ",
+    "devanagari": "नेडुंचेऴियन",
+    "letter": "N",
+    "syllable_count": 5,
+    "meaning_en": "Long-lived Pandya; the king in Sangam poems.",
+    "components": [
+      {
+        "part": "neṭu",
+        "gloss": "long"
+      },
+      {
+        "part": "ceḻiyaṉ",
+        "gloss": "Pandya"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Madhivadhani",
+    "iast": "matiyatani",
+    "devanagari": "मतिवदनी",
+    "letter": "M",
+    "syllable_count": 5,
+    "meaning_en": "Moon-faced woman (Tamil).",
+    "components": [
+      {
+        "part": "mati",
+        "gloss": "moon"
+      },
+      {
+        "part": "vatani",
+        "gloss": "face"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-077-tamil.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

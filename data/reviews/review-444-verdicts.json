@@ -1,0 +1,296 @@
+[
+ {
+  "name": "Aadhavan",
+  "verdict": "keep",
+  "reason": "Genuine Tamil given name; meaning and script acceptable."
+ },
+ {
+  "name": "Amudhan",
+  "verdict": "keep",
+  "reason": "Genuine Tamil given name; meaning and script acceptable."
+ },
+ {
+  "name": "Anbarasan",
+  "verdict": "keep",
+  "reason": "Genuine Tamil given name; meaning and script acceptable."
+ },
+ {
+  "name": "Arasu",
+  "verdict": "fix",
+  "reason": "IAST wrong (araci is the feminine form).",
+  "fix": {
+   "name": "Arasu",
+   "devanagari": "अरसु",
+   "iast": "aracu",
+   "meaning_en": "King; ruler (Tamil)."
+  }
+ },
+ {
+  "name": "Chezhian",
+  "verdict": "fix",
+  "reason": "Meaning hedged; Pandya title used as personal name.",
+  "fix": {
+   "name": "Chezhian",
+   "devanagari": "चेऴियन",
+   "iast": "ceḻiyaṉ",
+   "meaning_en": "Pandya royal title used as a name; commonly glossed \"prosperous one\" (etymology uncertain)."
+  }
+ },
+ {
+  "name": "Cholan",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: dynasty/people name, not used as a personal name."
+ },
+ {
+  "name": "Ezhil",
+  "verdict": "fix",
+  "reason": "Use ऴ for Tamil ழ.",
+  "fix": {
+   "name": "Ezhil",
+   "devanagari": "एऴिल",
+   "iast": "eḻil",
+   "meaning_en": "Beauty (Tamil)."
+  }
+ },
+ {
+  "name": "Ezhilan",
+  "verdict": "fix",
+  "reason": "IAST ending should be ṉ; ழ rendered ऴ.",
+  "fix": {
+   "name": "Ezhilan",
+   "devanagari": "एऴिलन",
+   "iast": "eḻilaṉ",
+   "meaning_en": "The beautiful one (Tamil)."
+  }
+ },
+ {
+  "name": "Ilakkiya",
+  "verdict": "keep",
+  "reason": "Genuine Tamil given name; meaning and script acceptable."
+ },
+ {
+  "name": "Ilamaran",
+  "verdict": "fix",
+  "reason": "Devanagari used wrong letters for ள and ற.",
+  "fix": {
+   "name": "Ilamaran",
+   "devanagari": "इळमऱन",
+   "iast": "iḷamaṟaṉ",
+   "meaning_en": "Young warrior (Tamil iḷam young + maṟaṉ valour)."
+  }
+ },
+ {
+  "name": "Ilavarasi",
+  "verdict": "fix",
+  "reason": "Devanagari ள should be ळ.",
+  "fix": {
+   "name": "Ilavarasi",
+   "devanagari": "इळवरसि",
+   "iast": "iḷavaraci",
+   "meaning_en": "Young queen (Tamil)."
+  }
+ },
+ {
+  "name": "Inbam",
+  "verdict": "keep",
+  "reason": "Genuine Tamil given name; meaning and script acceptable."
+ },
+ {
+  "name": "Kannagi",
+  "verdict": "keep",
+  "reason": "Genuine Tamil given name; meaning and script acceptable."
+ },
+ {
+  "name": "Karikalan",
+  "verdict": "fix",
+  "reason": "IAST final ṉ; meaning is a traditional gloss.",
+  "fix": {
+   "name": "Karikalan",
+   "devanagari": "करिकालन",
+   "iast": "karikālaṉ",
+   "meaning_en": "Name of the great Chola king; traditionally glossed \"charred foot\" (etymology uncertain)."
+  }
+ },
+ {
+  "name": "Kovalan",
+  "verdict": "fix",
+  "reason": "IAST lacks long vowel and final ṉ.",
+  "fix": {
+   "name": "Kovalan",
+   "devanagari": "कोवलन",
+   "iast": "kovalaṉ",
+   "meaning_en": "Cowherd; hero of the Silappadikaram."
+  }
+ },
+ {
+  "name": "Kural",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: means a couplet of the Tirukkural; a text term, rarely a personal name."
+ },
+ {
+  "name": "Kuyil",
+  "verdict": "keep",
+  "reason": "Genuine Tamil given name; meaning and script acceptable."
+ },
+ {
+  "name": "Madhivadhani",
+  "verdict": "fix",
+  "reason": "IAST garbled (matiyatani).",
+  "fix": {
+   "name": "Madhivadhani",
+   "devanagari": "मतिवदनी",
+   "iast": "mativataṉi",
+   "meaning_en": "Moon-faced woman (Sanskrit-derived mati + vadani)."
+  }
+ },
+ {
+  "name": "Manimekalai",
+  "verdict": "fix",
+  "reason": "Tamil form of the Devanagari should use क not ख.",
+  "fix": {
+   "name": "Manimekalai",
+   "devanagari": "मणिमेकलै",
+   "iast": "maṇimekalai",
+   "meaning_en": "Jewelled girdle; heroine of the Tamil epic."
+  }
+ },
+ {
+  "name": "Mathivanan",
+  "verdict": "fix",
+  "reason": "IAST garbled (matiyvaṇṇaṉ).",
+  "fix": {
+   "name": "Mathivanan",
+   "devanagari": "मतिवण्णन",
+   "iast": "mativaṇṇaṉ",
+   "meaning_en": "Moon-coloured; moon-like radiant one (Tamil mati + vaṇṇaṉ)."
+  }
+ },
+ {
+  "name": "Mullai",
+  "verdict": "keep",
+  "reason": "Genuine Tamil given name; meaning and script acceptable."
+ },
+ {
+  "name": "Nedunchezhiyan",
+  "verdict": "fix",
+  "reason": "Meaning wrong (neṭu is long/tall, not long-lived); Devanagari fix.",
+  "fix": {
+   "name": "Nedunchezhiyan",
+   "devanagari": "नेडुञ्चेऴियन",
+   "iast": "neṭuñceḻiyaṉ",
+   "meaning_en": "Tall/great Cheliyan; name of Pandya kings in Sangam poems."
+  }
+ },
+ {
+  "name": "Nilavan",
+  "verdict": "keep",
+  "reason": "Genuine Tamil given name; meaning and script acceptable."
+ },
+ {
+  "name": "Ori",
+  "verdict": "reject",
+  "reason": "obscure_figure: Sangam chieftain (Valvil Ori); rarely given as a name today."
+ },
+ {
+  "name": "Pandian",
+  "verdict": "fix",
+  "reason": "Used as a personal name; script fix.",
+  "fix": {
+   "name": "Pandian",
+   "devanagari": "पाण्डियन",
+   "iast": "pāṇṭiyaṉ",
+   "meaning_en": "Of the Pandya dynasty; Pandya king."
+  }
+ },
+ {
+  "name": "Pari",
+  "verdict": "keep",
+  "reason": "Genuine Tamil given name; meaning and script acceptable."
+ },
+ {
+  "name": "Poovizhi",
+  "verdict": "keep",
+  "reason": "Genuine Tamil given name; meaning and script acceptable."
+ },
+ {
+  "name": "Senguttuvan",
+  "verdict": "fix",
+  "reason": "Devanagari anusvara wrong; meaning hedged.",
+  "fix": {
+   "name": "Senguttuvan",
+   "devanagari": "सेङ्गुट्टुवन",
+   "iast": "ceṅkuṭṭuvaṉ",
+   "meaning_en": "Chera king of the Silappadikaram; ceṅ commonly glossed red/good (etymology partly uncertain)."
+  }
+ },
+ {
+  "name": "Tamilselvi",
+  "verdict": "fix",
+  "reason": "Devanagari conjunct fix.",
+  "fix": {
+   "name": "Tamilselvi",
+   "devanagari": "तमिऴ्सेल्वी",
+   "iast": "tamiḻcelvi",
+   "meaning_en": "Wealth (treasure) of Tamil."
+  }
+ },
+ {
+  "name": "Tamizh",
+  "verdict": "keep",
+  "reason": "Genuine Tamil given name; meaning and script acceptable."
+ },
+ {
+  "name": "Thendral",
+  "verdict": "fix",
+  "reason": "Devanagari ன்ற should use ऱ.",
+  "fix": {
+   "name": "Thendral",
+   "devanagari": "तेन्ऱल",
+   "iast": "teṉṟal",
+   "meaning_en": "Gentle breeze (Tamil)."
+  }
+ },
+ {
+  "name": "Thenmozhi",
+  "verdict": "fix",
+  "reason": "Devanagari ழ should be ऴ.",
+  "fix": {
+   "name": "Thenmozhi",
+   "devanagari": "तेन्मोऴि",
+   "iast": "teṉmoḻi",
+   "meaning_en": "Sweet speech; honey-voiced (Tamil)."
+  }
+ },
+ {
+  "name": "Thirumal",
+  "verdict": "keep",
+  "reason": "Genuine Tamil given name; meaning and script acceptable."
+ },
+ {
+  "name": "Valluvar",
+  "verdict": "reject",
+  "reason": "author_or_scholar: Thiruvalluvar, the poet-author of the Tirukkural; a caste/author title not given as a name."
+ },
+ {
+  "name": "Yazhini",
+  "verdict": "fix",
+  "reason": "Devanagari ழ should be ऴ.",
+  "fix": {
+   "name": "Yazhini",
+   "devanagari": "याऴिनि",
+   "iast": "yāḻini",
+   "meaning_en": "Woman of the yazh (lute) (Tamil)."
+  }
+ },
+ {
+  "name": "Yazhisai",
+  "verdict": "fix",
+  "reason": "Devanagari ழ should be ऴ.",
+  "fix": {
+   "name": "Yazhisai",
+   "devanagari": "याऴिसै",
+   "iast": "yāḻicai",
+   "meaning_en": "Music of the yazh (lute) (Tamil)."
+  }
+ }
+]
