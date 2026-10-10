@@ -1,0 +1,166 @@
+[
+ {
+  "name": "Anwesha",
+  "verdict": "keep",
+  "reason": "Female name from anveṣā, seeker/search; correct."
+ },
+ {
+  "name": "Chirag",
+  "verdict": "keep",
+  "reason": "Persian-derived (chirāġ, lamp) but in genuine, long-standing Hindu use; boy name."
+ },
+ {
+  "name": "Debjani",
+  "verdict": "fix",
+  "reason": "Bengali form of Devayānī; meaning made precise.",
+  "fix": {
+   "iast": "debajānī",
+   "meaning_en": "Bengali form of Devayani: belonging to the gods; Devayani, daughter of Shukracharya in the Mahabharata."
+  }
+ },
+ {
+  "name": "Dola",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: plain word for a swing, not a regular given name."
+ },
+ {
+  "name": "Ganesh Prasad",
+  "verdict": "fix",
+  "reason": "Valid two-word boy name; IAST lacked final vowel.",
+  "fix": {
+   "iast": "gaṇeśaprasāda",
+   "meaning_en": "Blessing/grace of Ganesha."
+  }
+ },
+ {
+  "name": "Heena",
+  "verdict": "fix",
+  "reason": "Female; Arabic-Persian henna word in genuine Hindu use in Gujarat/Maharashtra; long ī.",
+  "fix": {
+   "devanagari": "हीना",
+   "iast": "hīnā",
+   "meaning_en": "Henna, the plant whose leaf paste decorates hands (Arabic-Persian-derived word, in common Hindu use)."
+  }
+ },
+ {
+  "name": "Hiral",
+  "verdict": "keep",
+  "reason": "Female Gujarati name from hīra (diamond); meaning fine."
+ },
+ {
+  "name": "Ipsita",
+  "verdict": "keep",
+  "reason": "Female name from īpsita, desired; correct."
+ },
+ {
+  "name": "Jai Malhar",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: devotional salutation/battle cry to Khandoba, not a personal name."
+ },
+ {
+  "name": "Jigna",
+  "verdict": "fix",
+  "reason": "Female Gujarati name; spoken IAST was wrong.",
+  "fix": {
+   "iast": "jignā",
+   "meaning_en": "Curiosity; desire to know (from Sanskrit jijñāsā)."
+  }
+ },
+ {
+  "name": "Kanchan Mala",
+  "verdict": "keep",
+  "reason": "Female two-word name; kāñcana + mālā, garland of gold, sound."
+ },
+ {
+  "name": "Khyati",
+  "verdict": "keep",
+  "reason": "Female; khyāti fame, renown; correct."
+ },
+ {
+  "name": "Krina",
+  "verdict": "reject",
+  "reason": "other: no Sanskrit basis; \"kṛṇā\" and the meaning \"kind\" are invented etymology."
+ },
+ {
+  "name": "Mitesh",
+  "verdict": "fix",
+  "reason": "Boy name; modern Gujarati form of mitra + īśa (strict sandhi would be mitreśa); IAST fixed.",
+  "fix": {
+   "iast": "miteśa",
+   "meaning_en": "Lord of friends (modern Gujarati formation from mitra + īśa)."
+  }
+ },
+ {
+  "name": "Moushumi",
+  "verdict": "fix",
+  "reason": "Female Bengali name; mausam is Arabic-Persian-derived but in genuine Bengali Hindu use; meaning refined.",
+  "fix": {
+   "meaning_en": "Of the season; the monsoon season (from mausam, Arabic-Persian-derived, in genuine Bengali use)."
+  }
+ },
+ {
+  "name": "Nirali",
+  "verdict": "keep",
+  "reason": "Female Gujarati name from nirālā, unique; correct."
+ },
+ {
+  "name": "Om Sai",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: two sacred invocations joined, not a personal name."
+ },
+ {
+  "name": "Rakhumai",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Marathi devotional form for the goddess Rukmini, consort of Vitthal; deity address, not given to people."
+ },
+ {
+  "name": "Sakhi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: ordinary noun for a female friend, not a given name."
+ },
+ {
+  "name": "Sharmistha",
+  "verdict": "fix",
+  "reason": "Female; Mahabharata figure, wife of Yayati; meaning was shaky.",
+  "fix": {
+   "meaning_en": "Very fortunate/blessed (śarman + iṣṭha, etymology slightly uncertain); daughter of Vrishaparva and wife of Yayati."
+  }
+ },
+ {
+  "name": "Susmita",
+  "verdict": "keep",
+  "reason": "Female; su + smita, sweet smile; correct."
+ },
+ {
+  "name": "Swagata",
+  "verdict": "fix",
+  "reason": "Female Bengali name; Devanagari and IAST were the neuter noun form.",
+  "fix": {
+   "devanagari": "स्वागता",
+   "iast": "svāgatā",
+   "meaning_en": "Welcome; well-arrived."
+  }
+ },
+ {
+  "name": "Tithi",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: calendrical term for a lunar day."
+ },
+ {
+  "name": "Viral",
+  "verdict": "fix",
+  "reason": "Boy Gujarati name from virala; meaning clarified.",
+  "fix": {
+   "meaning_en": "Rare; uncommon (from Sanskrit virala)."
+  }
+ },
+ {
+  "name": "Yash Raj",
+  "verdict": "fix",
+  "reason": "Boy two-word name; IAST lacked final vowel.",
+  "fix": {
+   "iast": "yaśarāja",
+   "meaning_en": "King of fame; glorious king."
+  }
+ }
+]
