@@ -25,12 +25,14 @@ const top = new Set(names.map((m) => norm(m.name)));
 for (const n of names) for (const c of n.compounds || []) if (top.has(norm(c.name))) errors.push(`${c.name}: listed as both compound and top-level`);
 
 // Script consistency: Devanagari must be what the IAST spells (modern respellings like मयंक are warnings only).
+// A nasal consonant + virama before a consonant is the same sound as an anusvara (शङ्कर = शंकर).
+const normDev = (d) => d.replace(/[ङञणनम]\u094d(?=[\u0915-\u0939])/g, '\u0902');
 let scriptMismatch = 0;
 for (const n of names.filter((x) => x.listed)) {
   if (/[ṉṟḻḷ]/.test(n.iast || '')) continue;                  // Dravidian letters: no Sanskrit script round-trip
   const slp = fromIast((n.iast || '').replace(/\s+/g, ''));
   if (slp === null) { errors.push(`${n.name}: IAST has unrecognised characters (${n.iast})`); continue; }
-  if (toDevanagari(slp) !== (n.devanagari || '').replace(/\s+/g, '')) {
+  if (normDev(toDevanagari(slp)) !== normDev((n.devanagari || '').replace(/\s+/g, ''))) {
     scriptMismatch++;
     if (n.curation) errors.push(`${n.name}: devanagari ${n.devanagari} != ${toDevanagari(slp)} from IAST ${n.iast}`);
     else console.warn(`warn: ${n.name}: devanagari ${n.devanagari} differs from IAST-derived ${toDevanagari(slp)}`);

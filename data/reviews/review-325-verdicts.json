@@ -1,0 +1,1414 @@
+[
+ {
+  "name": "Shrichakra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrichid",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrichit",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shridamodara",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shridana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shridaya",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shridevaki",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shridevi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shridharma",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shridhi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shridhriti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shridhruva",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shridradhiman",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shridyuti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shriganga",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shrigauri",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shriguha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shriguna",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shriguru",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrihara",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrijaitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrijanaka",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrijatavedas",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrijaya",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Shrijaya",
+   "devanagari": "श्रीजय",
+   "iast": "śrījaya",
+   "meaning_en": "Glorious victory"
+  }
+ },
+ {
+  "name": "Shrijina",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrijnana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrikala",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shrikalyana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrikandarpa",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrikapila",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrikashi",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrikedara",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrikirti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrikratu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrikshema",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrikumara",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrikuru",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrikusha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrilakshmana",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrilakshmi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shrilila",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shrimadhava",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Shrimadhava",
+   "devanagari": "श्रीमाधव",
+   "iast": "śrīmādhava",
+   "meaning_en": "Revered Madhava (Krishna/Vishnu)"
+  }
+ },
+ {
+  "name": "Shrimahendra",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrimahesha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrimaheshvara",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrimanmatha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrimantra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrimanu",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrimati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrimedha",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shrimukunda",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Shrimukunda",
+   "devanagari": "श्रीमुकुन्द",
+   "iast": "śrīmukunda",
+   "meaning_en": "Revered Mukunda (Krishna)"
+  }
+ },
+ {
+  "name": "Shrimuni",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrimunindra",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrimunisha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrinanda",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrinandaka",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrinandi",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrinarayana",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Shrinarayana",
+   "devanagari": "श्रीनारायण",
+   "iast": "śrīnārāyaṇa",
+   "meaning_en": "Revered Narayana (Vishnu)"
+  }
+ },
+ {
+  "name": "Shrinaya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shriparamesha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shriprajaya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shriprajesha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shriprema",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shriprithu",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shripriti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shripunya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shripuru",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shripurusha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shriradha",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shriraghava",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Shriraghava",
+   "devanagari": "श्रीराघव",
+   "iast": "śrīrāghava",
+   "meaning_en": "Revered Rama, scion of Raghu"
+  }
+ },
+ {
+  "name": "Shriraghu",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrirudra",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrisahas",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisama",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisarasvati",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shrisatya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisauhrida",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrishachisha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrishakti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisham",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrishambhu",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrishamkara",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrishankha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrishanti",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shrishesha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrishila",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrishiva",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrishobha",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shriskanda",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrisoma",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrisumanas",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrisuposha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shritapo",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shritejah",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrivaikuntha",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrivajra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrivak",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrivaruna",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrivasudeva",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Shrivasudeva",
+   "devanagari": "श्रीवासुदेव",
+   "iast": "śrīvāsudeva",
+   "meaning_en": "Revered Vasudeva (Krishna)"
+  }
+ },
+ {
+  "name": "Shrivayu",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shriveda",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrividya",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Shrivira",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrivirya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrivishnu",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Shrivishnu",
+   "devanagari": "श्रीविष्णु",
+   "iast": "śrīviṣṇu",
+   "meaning_en": "Revered Vishnu"
+  }
+ },
+ {
+  "name": "Shrivishva",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shrivivasvat",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shrivraja",
+  "verdict": "reject",
+  "reason": "title_or_honorific"
+ },
+ {
+  "name": "Shriyadu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shriyajna",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shriyashah",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shriyasho",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shriyoga",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shukramitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shukranandana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shukranatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shukrapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shukrapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Shukrashekhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sindhunandana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sindhunatha",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Sindhunatha",
+   "devanagari": "सिन्धुनाथ",
+   "iast": "sindhunātha",
+   "meaning_en": "Lord of the ocean"
+  }
+ },
+ {
+  "name": "Sindhupala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sindhupriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sindhushekhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Skandadatta",
+  "verdict": "keep",
+  "reason": "sensible, correctly joined"
+ },
+ {
+  "name": "Skandakumara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Skandamitra",
+  "verdict": "keep",
+  "reason": "sensible, correctly joined"
+ },
+ {
+  "name": "Skandanandana",
+  "verdict": "keep",
+  "reason": "sensible, correctly joined"
+ },
+ {
+  "name": "Skandanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Skandapriya",
+  "verdict": "keep",
+  "reason": "sensible, correctly joined"
+ },
+ {
+  "name": "Skandaputra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Somadasa",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Somadasa",
+   "devanagari": "सोमदास",
+   "iast": "somadāsa",
+   "meaning_en": "Devotee of Soma, the moon god"
+  }
+ },
+ {
+  "name": "Somakumara",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Somakumara",
+   "devanagari": "सोमकुमार",
+   "iast": "somakumāra",
+   "meaning_en": "Young prince of the moon"
+  }
+ },
+ {
+  "name": "Somanandana",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Somanandana",
+   "devanagari": "सोमनन्दन",
+   "iast": "somanandana",
+   "meaning_en": "Delight of the moon"
+  }
+ },
+ {
+  "name": "Somanatha",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Somanatha",
+   "devanagari": "सोमनाथ",
+   "iast": "somanātha",
+   "meaning_en": "Lord of the moon (Shiva)"
+  }
+ },
+ {
+  "name": "Somapriya",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Somapriya",
+   "devanagari": "सोमप्रिय",
+   "iast": "somapriya",
+   "meaning_en": "Dear to Soma, the moon"
+  }
+ },
+ {
+  "name": "Somaputra",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Somaputra",
+   "devanagari": "सोमपुत्र",
+   "iast": "somaputra",
+   "meaning_en": "Son of the moon"
+  }
+ },
+ {
+  "name": "Subhakti",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Subhakti",
+   "devanagari": "सुभक्ति",
+   "iast": "subhakti",
+   "meaning_en": "One of good devotion"
+  }
+ },
+ {
+  "name": "Subhasu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhatu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subhu",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Subhuvana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Subodhi",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Subodhi",
+   "devanagari": "सुबोधि",
+   "iast": "subodhi",
+   "meaning_en": "Of good understanding"
+  }
+ },
+ {
+  "name": "Subradhna",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudahana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudaya",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sudharani",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sudhi",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Sudhi",
+   "devanagari": "सुधी",
+   "iast": "sudhī",
+   "meaning_en": "Of good intellect, wise"
+  }
+ },
+ {
+  "name": "Sudipa",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Sudipa",
+   "devanagari": "सुदीप",
+   "iast": "sudīpa",
+   "meaning_en": "Well-lit, radiant lamp"
+  }
+ },
+ {
+  "name": "Sudradhiman",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudruma",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudyota",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sudyuti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sugagana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sugiri",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suguna",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Suguna",
+   "devanagari": "सुगुण",
+   "iast": "suguṇa",
+   "meaning_en": "Of good qualities"
+  }
+ },
+ {
+  "name": "Suharsha",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Suharsha",
+   "devanagari": "सुहर्ष",
+   "iast": "suharṣa",
+   "meaning_en": "Great joy"
+  }
+ },
+ {
+  "name": "Suhema",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suhima",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suhira",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suhiranya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sujagad",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sujagat",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sujaitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sujala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sujnana",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Sujnana",
+   "devanagari": "सुज्ञान",
+   "iast": "sujñāna",
+   "meaning_en": "Of good knowledge"
+  }
+ },
+ {
+  "name": "Sujvala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sujyotir",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukairavin",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukalyana",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Sukalyana",
+   "devanagari": "सुकल्याण",
+   "iast": "sukalyāṇa",
+   "meaning_en": "Highly auspicious"
+  }
+ },
+ {
+  "name": "Sukanaka",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukanchana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukhabhushana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukhadhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukhaketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukhamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukhapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukhapati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukhapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukhavardhana",
+  "verdict": "keep",
+  "reason": "sensible, correctly joined"
+ },
+ {
+  "name": "Sukshema",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sukshiti",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sulila",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sumadhu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumahi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sumalaya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumanika",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sumanikya",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sumarichin",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumegha",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Sumegha",
+   "devanagari": "सुमेघ",
+   "iast": "sumegha",
+   "meaning_en": "Beautiful cloud"
+  }
+ },
+ {
+  "name": "Sumeru",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Sumeru",
+   "devanagari": "सुमेरु",
+   "iast": "sumeru",
+   "meaning_en": "Excellent Mount Meru"
+  }
+ },
+ {
+  "name": "Sumihira",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumriganka",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumrigendra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumrinalin",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumugdhendu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sumukta",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sunandaka",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sunisha",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Supadma",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Supadma",
+   "devanagari": "सुपद्म",
+   "iast": "supadma",
+   "meaning_en": "Beautiful lotus"
+  }
+ },
+ {
+  "name": "Supavana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suposhadhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suposhaketu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suposhamitra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suposhanatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suposhapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suposhapati",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suposhapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suposharaja",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suprajaya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suprema",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suprithvi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supriti",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supundarika",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supurnamasa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supurnendu",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Supurnendu",
+   "devanagari": "सुपूर्णेन्दु",
+   "iast": "supūrṇendu",
+   "meaning_en": "Beautiful full moon"
+  }
+ },
+ {
+  "name": "Supushkara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Supushpa",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surajata",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suranandana",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suranatha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surapriya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Surashekhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suravi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suryamitra",
+  "verdict": "keep",
+  "reason": "sensible, correctly joined"
+ },
+ {
+  "name": "Suryanandana",
+  "verdict": "keep",
+  "reason": "sensible, correctly joined"
+ },
+ {
+  "name": "Suryanatha",
+  "verdict": "keep",
+  "reason": "sensible, correctly joined"
+ },
+ {
+  "name": "Suryapala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Suryapriya",
+  "verdict": "keep",
+  "reason": "sensible, correctly joined"
+ },
+ {
+  "name": "Suryashekhara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susagara",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susahas",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susakalendu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susarasi",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Susatya",
+  "verdict": "fix",
+  "reason": "meaning_en corrected",
+  "fix": {
+   "name": "Susatya",
+   "devanagari": "सुसत्य",
+   "iast": "susatya",
+   "meaning_en": "Truly truthful"
+  }
+ },
+ {
+  "name": "Susauhrida",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sushaila",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sushala",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susham",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sushashanka",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sushashi",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Sushobha",
+  "verdict": "reject",
+  "reason": "female_name"
+ },
+ {
+  "name": "Sushukra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susindhu",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susujyotis",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susukha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susumanas",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susuposha",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susura",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ },
+ {
+  "name": "Susurya",
+  "verdict": "reject",
+  "reason": "nonsensical_compound"
+ }
+]
