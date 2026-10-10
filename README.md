@@ -1,6 +1,6 @@
 # baby-name
 
-A library of Hindu baby boy names, indexed A-Z, with English meanings, sources and licenses, and filters
+A library of Hindu baby boy and girl names, indexed A-Z, with English meanings, sources and licenses, and filters
 for state, syllables, sound group, nakshatra/rashi (with a birth date/time/place helper), and numerology.
 Static website + JSON data. Names are checked by validators; an AI reviewer role plays a priest-scholar
 (not a human priest). **Treat astrology, numerology and AI-reviewed meanings as aids, and verify important
@@ -35,7 +35,7 @@ Vetted attested names number in the low thousands at most; anything beyond that 
 - Names store IAST as written (Neeraj = nīraj) plus the Sanskrit `stem` (nīraja); duplicates are matched on both.
 - "Find names from birth details" panel at the top of the site: exact birth (date, time, place) or an expected date range
   (lists every nakshatra pada the Moon passes through and shows names for all their syllables).
-- Gender filter (boys / gender-neutral) and a "Making new names from this one" section on every name (which suffixes and prefixes it can take, from the reviewed word list).
+- Gender filter (boys / girls / gender-neutral) and a "Making new names from this one" section on every name (which suffixes and prefixes it can take, from the reviewed word list).
 - Spelling-variant search: Ishan finds Ishaan, Arav finds Aarav, Sidharth finds Siddharth, Rajiv finds Rajeev.
 - Telugu/Kannada support: conversion, a validator (`scripts/check-name.js`) and Telugu/Kannada display in the UI.
 - Live site: https://sainath31.github.io/baby-name/ (GitHub Pages, redeployed on every push).

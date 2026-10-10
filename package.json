@@ -1,7 +1,7 @@
 {
   "name": "baby-name",
   "version": "0.1.0",
-  "description": "Library of unique Hindu baby boy names, indexed A-Z with astrology, numerology, state and sound filters",
+  "description": "Library of unique Hindu baby boy and girl names, indexed A-Z with astrology, numerology, state and sound filters",
   "type": "module",
   "scripts": {
     "validate": "node scripts/validate.js",

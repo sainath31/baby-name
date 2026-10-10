@@ -49,7 +49,8 @@ function filterShard({ recs, qs }, q) {
   return list.filter((r) => {
     if (q.reviewedOnly && r.u) return false;
     if (q.gender === 'unisex' && !r.gu) return false;
-    if (q.gender === 'boy' && r.gu) return false;
+    if (q.gender === 'boy' && (r.gu || r.gg)) return false;
+    if (q.gender === 'girl' && !r.gg) return false;
     if (r.cn && !q.withConstructed) return false;          // constructed names only when asked for
     if (eras && !eras.has(r.e || '')) return false;
     if (groups && !groups.has(r.g)) return false;
