@@ -1,0 +1,56 @@
+[
+ {
+  "name": "Dhyanchand",
+  "verdict": "reject",
+  "reason": "Full name of hockey player Dhyan Chand; IAST also wrong."
+ },
+ {
+  "name": "Gulzar",
+  "verdict": "reject",
+  "reason": "Persian-derived word and a poet pen name, not genuine Hindu given-name use."
+ },
+ {
+  "name": "Hema",
+  "verdict": "keep",
+  "reason": "Female name from hema, golden; fine for a girl."
+ },
+ {
+  "name": "Jasprit",
+  "verdict": "fix",
+  "reason": "Punjabi-style name from yaśas + prīti; spoken form drops the schwa.",
+  "fix": {
+   "iast": "jasprīt",
+   "meaning_en": "Love of glory or fame."
+  }
+ },
+ {
+  "name": "Milkha",
+  "verdict": "reject",
+  "reason": "Nickname of an athlete; etymology uncertain, no real meaning."
+ },
+ {
+  "name": "Mirabai",
+  "verdict": "reject",
+  "reason": "Full name of historical saint with honorific bai."
+ },
+ {
+  "name": "Prasoon",
+  "verdict": "keep",
+  "reason": "From prasūna, flower; correct."
+ },
+ {
+  "name": "Pullela",
+  "verdict": "reject",
+  "reason": "Telugu family name; surname."
+ },
+ {
+  "name": "Saina",
+  "verdict": "reject",
+  "reason": "Etymology from Sena is unsupported; name of a sportsperson."
+ },
+ {
+  "name": "Sania",
+  "verdict": "reject",
+  "reason": "Arabic-derived Muslim name; Arabic etymology not shown to be Hindu use."
+ }
+]

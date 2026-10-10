@@ -65124,5 +65124,473 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Jasprit",
+    "iast": "jasaprīt",
+    "stem": "jasaprīta",
+    "devanagari": "जसप्रीत",
+    "letter": "J",
+    "syllable_count": 3,
+    "meaning_en": "Love of praise.",
+    "components": [
+      {
+        "part": "yaśas",
+        "gloss": "praise"
+      },
+      {
+        "part": "prīti",
+        "gloss": "love"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Arijit",
+    "iast": "arijit",
+    "devanagari": "अरिजीत",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Conqueror of enemies.",
+    "components": [
+      {
+        "part": "ari",
+        "gloss": "enemy"
+      },
+      {
+        "part": "jit",
+        "gloss": "conqueror"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Prasoon",
+    "iast": "prasūn",
+    "stem": "prasūna",
+    "devanagari": "प्रसून",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Flower.",
+    "components": [
+      {
+        "part": "prasūna",
+        "gloss": "flower"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Gulzar",
+    "iast": "gulzār",
+    "devanagari": "गुलज़ार",
+    "letter": "G",
+    "syllable_count": 2,
+    "meaning_en": "Garden of roses (Persian-derived).",
+    "components": [
+      {
+        "part": "gulzār",
+        "gloss": "rose garden"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dhyanchand",
+    "iast": "dhyānacandr",
+    "stem": "dhyānacandra",
+    "devanagari": "ध्यानचंद",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Moon of meditation.",
+    "components": [
+      {
+        "part": "dhyāna",
+        "gloss": "meditation"
+      },
+      {
+        "part": "candra",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Milkha",
+    "iast": "milkhā",
+    "devanagari": "मिल्खा",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Punjabi name; etymology uncertain.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pullela",
+    "iast": "pullela",
+    "devanagari": "पुल्लेला",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Telugu family name used as a given name; etymology uncertain.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mithali",
+    "iast": "mitālī",
+    "devanagari": "मिताली",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Friendship.",
+    "components": [
+      {
+        "part": "mitra",
+        "gloss": "friend"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Rajasthan"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sunidhi",
+    "iast": "sunidhi",
+    "devanagari": "सुनिधि",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Good treasure.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "nidhi",
+        "gloss": "treasure"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Delhi"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Asha",
+    "iast": "āśā",
+    "devanagari": "आशा",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Hope.",
+    "components": [
+      {
+        "part": "āśā",
+        "gloss": "hope"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hema",
+    "iast": "hemā",
+    "devanagari": "हेमा",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Golden.",
+    "components": [
+      {
+        "part": "hema",
+        "gloss": "gold"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sania",
+    "iast": "sāniyā",
+    "devanagari": "सानिया",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Brilliant (Arabic-derived).",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Saina",
+    "iast": "sainā",
+    "devanagari": "साइना",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Army (from Sena); modern name.",
+    "components": [
+      {
+        "part": "senā",
+        "gloss": "army"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Haryana"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mirabai",
+    "iast": "mīrābāī",
+    "devanagari": "मीराबाई",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "The devotee-poet Mira.",
+    "components": [
+      {
+        "part": "mīrā",
+        "gloss": "name"
+      },
+      {
+        "part": "bāī",
+        "gloss": "lady"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Rajasthan"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-066-public-figures.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
