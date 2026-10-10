@@ -1,0 +1,219 @@
+[
+ {
+  "name": "Brijmohan",
+  "verdict": "fix",
+  "reason": "IAST did not match Devanagari बृज (Brij); corrected to bṛjamohan.",
+  "fix": {
+   "name": "Brijmohan",
+   "devanagari": "बृजमोहन",
+   "iast": "bṛjamohan",
+   "meaning_en": "Enchanter of Braj; Krishna."
+  }
+ },
+ {
+  "name": "Devanand",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Dharmesh",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Dinanath",
+  "verdict": "fix",
+  "reason": "IAST short vowel did not match Devanagari दीनानाथ; corrected to dīnānāth.",
+  "fix": {
+   "name": "Dinanath",
+   "devanagari": "दीनानाथ",
+   "iast": "dīnānāth",
+   "meaning_en": "Lord and protector of the humble and poor."
+  }
+ },
+ {
+  "name": "Gajendra",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Gyanesh",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Harihar",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Hariprasad",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Jaganmohan",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Jayaram",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Kamalnath",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Karunesh",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Krishnakant",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Lokanath",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Manmohan",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Narendra",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Navin",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Nikhilesh",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Niranjan",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Omprakash",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Prem",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Rajkumar",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Rajnath",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Rameshwar",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Ramkumar",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Sachidanand",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Santosh",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Satyendra",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Shivshankar",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Shrinath",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Shubh",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Shyamsundar",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Srijan",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Surendra",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Suryakant",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Umakant",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Vedprakash",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Vidyasagar",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Virendra",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Yatindra",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ },
+ {
+  "name": "Yogiraj",
+  "verdict": "keep",
+  "reason": "Common boy's name; meaning, spelling and script correct."
+ }
+]
