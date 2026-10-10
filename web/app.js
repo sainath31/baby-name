@@ -139,7 +139,7 @@ function favButton(r, cls = 'fav') {
 function card(r) {
   return h('li', { class: 'card' },
     h('button', { type: 'button', class: 'card-main', 'data-name': r.n, 'aria-label': `${r.n}, ${r.m || ''}`.slice(0, 200) },
-      h('span', { class: 'card-title' }, h('span', { class: 'card-name', text: r.n }), r.d && h('span', { class: 'deva', lang: 'sa', text: r.d })),
+      h('span', { class: 'card-title' }, h('span', { class: 'card-name', text: r.n }), r.d && h('span', { class: 'deva', lang: 'sa', text: r.d }), r.te && h('span', { class: 'telu', lang: 'te', text: r.te }), r.kn && h('span', { class: 'knda', lang: 'kn', text: r.kn })),
       h('span', { class: 'iast', text: r.i }),
       h('span', { class: 'card-meaning', text: r.m || '' }),
       h('span', { class: 'tags' }, tagsFor(r).map((t) => h('span', { class: 'tag', text: t })), (r.cn ? h('span', { class: 'tag warn', text: 'Constructed' }) : r.u && h('span', { class: 'tag warn', text: 'Unreviewed' })))),
@@ -252,7 +252,7 @@ function buildFilters() {
       h('label', { for: 'sortSel', class: 'sr', text: 'Sort order' }),
       h('select', { class: 'select', id: 'sortSel', 'data-sel': 'sort' }, h('option', { value: 'az', text: 'A to Z' }), h('option', { value: 'short', text: 'Shortest first' }), h('option', { value: 'long', text: 'Longest first' })),
       h('p', { class: 'hint', style: 'margin:12px 0 4px', text: 'Show names in' }),
-      h('div', { class: 'opt-grid' }, [['all', 'All scripts'], ['deva', 'Devanagari'], ['iast', 'IAST'], ['latin', 'Latin only']].map(([v, l]) => h('label', { class: 'opt' }, h('input', { type: 'radio', name: 'script', 'data-script': v, checked: v === 'all' }), h('span', { text: l })))))),
+      h('div', { class: 'opt-grid' }, [['all', 'All scripts'], ['deva', 'Devanagari'], ['telugu', 'Telugu'], ['kannada', 'Kannada'], ['iast', 'IAST'], ['latin', 'Latin only']].map(([v, l]) => h('label', { class: 'opt' }, h('input', { type: 'radio', name: 'script', 'data-script': v, checked: v === 'all' }), h('span', { text: l })))))),
   );
   import('./src/cities.js').then(({ CITIES }) => $('cityList').append(...CITIES.map((c) => h('option', { value: c[0], label: c[1] }))));
   $('bGo').addEventListener('click', async () => {
@@ -443,9 +443,10 @@ function renderDetail(r) {
     try { await navigator.clipboard.writeText(link); toast('Link copied'); } catch { window.prompt('Copy this link', link); }
   } }, svgIcon('M10 14a5 5 0 007 0l3-3a5 5 0 00-7-7l-1 1M14 10a5 5 0 00-7 0l-3 3a5 5 0 007 7l1-1'), h('span', { text: 'Share link' }));
   const meta = [`${r.s} syllable${r.s === 1 ? '' : 's'}`, r.e, r.k, r.cf && `${r.cf} confidence`].filter(Boolean);
-  body.replaceChildren(
+  body.replaceChildren(...[
     h('h2', { class: 'd-name', id: 'detailName', text: r.n }),
     r.d && h('div', { class: 'd-deva', lang: 'sa', text: r.d }),
+    (r.te || r.kn) && h('div', { class: 'd-regional' }, r.te && h('span', { lang: 'te', class: 'd-telu', text: `Telugu: ${r.te}` }), r.kn && h('span', { lang: 'kn', class: 'd-knda', text: `Kannada: ${r.kn}` })),
     h('div', { class: 'd-iast', text: r.i }),
     h('p', { class: 'd-meaning', text: r.m || 'Meaning not recorded.' }),
     h('div', { class: 'tags' }, meta.map((t) => h('span', { class: 'tag', text: t })), (r.cn ? h('span', { class: 'tag warn', text: 'Constructed' }) : r.u && h('span', { class: 'tag warn', text: 'Unreviewed' }))),
@@ -459,7 +460,7 @@ function renderDetail(r) {
     r.cp?.length && section('Compound names', h('ul', {}, r.cp.map(([n, m]) => h('li', {}, h('strong', { text: n }), m && ` - ${m}`)))),
     section('Numerology', h('div', { class: 'num-row' }, h('div', { class: 'num' }, h('b', { text: r.c1 }), h('small', { text: 'Chaldean' })), h('div', { class: 'num' }, h('b', { text: r.c2 }), h('small', { text: 'Pythagorean' }))), h('p', { class: 'hint', style: 'margin-top:8px', text: 'Numerology is a traditional belief, shown for cultural reference only.' })),
     r.so?.length && section('Sources and license', h('ul', {}, r.so.map(([t, l]) => h('li', {}, t, l && h('span', { class: 'tag', style: 'margin-left:8px', text: l }))))),
-  );
+  ].filter(Boolean));   // replaceChildren would print undefined/0 as text
 }
 window.addEventListener('hashchange', () => { const m = location.hash.match(/^#n=(.+)$/); if (m) openDetail(decodeURIComponent(m[1]), null); });
 

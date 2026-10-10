@@ -1,6 +1,7 @@
 // Emits per-letter JSON shards + a small manifest under web/data/ (consumed by web/).
 import { writeFileSync, mkdirSync, rmSync } from 'node:fs';
 import { loadAll } from './lib.js';
+import { toTelugu, toKannada } from '../src/indic-scripts.js';
 import { nameNumber } from '../src/numerology.js';
 import { initialSound } from '../src/sounds.js';
 
@@ -31,6 +32,9 @@ const compact = (n) => {
     c1: nameNumber(n.name, 'chaldean'), c2: nameNumber(n.name, 'pythagorean'),
     g: initialSound(n.iast)?.group || '', a: initialSound(n.iast)?.aspirated ? 1 : 0,
   };
+  const dev = (n.devanagari || '').replace(/\s+/g, ' ').trim();
+  const te = dev && toTelugu(dev), kn = dev && toKannada(dev);
+  if (te) o.te = te; if (kn) o.kn = kn;
   const th = tagsOf(THEMES, n.meaning_en || ''); if (th.length) o.th = th;
   const dt = tagsOf(DEITIES, `${n.deity_epic_ref || ''} ${n.meaning_en || ''} ${n.name}`); if (dt.length) o.dt = dt;
   if (n.components?.length) o.co = n.components.map((c) => [c.part, c.gloss || '']);
