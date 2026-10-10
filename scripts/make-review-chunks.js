@@ -25,7 +25,7 @@ for (let s = 0; s < pool.length; s += size) {
   i++;
   writeFileSync(new URL(`../data/reviews/${dir}/${prefix}-${String(i).padStart(2, '0')}-input.json`, import.meta.url),
     JSON.stringify(pool.slice(s, s + size).map((n) => ({
-      name: n.name, devanagari: n.devanagari, iast: n.iast, meaning_en: n.meaning_en,
+      name: n.name, gender: n.gender || 'boy', devanagari: n.devanagari, iast: n.iast, meaning_en: n.meaning_en,
       parts: (n.components || []).map((c) => c.part).join(' + '),
       source: n.origin === 'constructed' ? 'rule-built compound' : (n.curation ? 'dictionary-generated' : 'hand-compiled'),
     }))));
