@@ -59,6 +59,7 @@ export function validateName(text, script) {
   if (!t) return { valid: false, errors: ['empty name'], script };
   const chars = [...t];
   let prev = null;                                    // kind of previous character
+  const hiatus = [];
   chars.forEach((ch, i) => {
     const cp = ch.codePointAt(0);
     if (ch === ' ') { if (prev === 'virama') errors.push(`word ends in a dangling virama before space (position ${i})`); prev = 'space'; return; }
@@ -74,11 +75,13 @@ export function validateName(text, script) {
     if (kind === 'matra' && prev !== 'consonant') errors.push(`vowel sign at position ${i} must follow a consonant`);
     if (kind === 'virama' && prev !== 'consonant') errors.push(`virama at position ${i} must follow a consonant`);
     if (kind === 'sign' && !['consonant', 'vowel', 'matra'].includes(prev)) errors.push(`anusvara/visarga at position ${i} must follow a letter`);
-    if (kind === 'vowel' && (prev === 'consonant' || prev === 'matra' || prev === 'vowel')) errors.push(`independent vowel at position ${i} inside a word (expected a vowel sign)`);
+    if (kind === 'vowel' && prev === 'consonant') errors.push(`independent vowel at position ${i} right after a consonant (expected a vowel sign)`);
+    if (kind === 'vowel' && (prev === 'matra' || prev === 'vowel')) hiatus.push(i);   // vowel after vowel, e.g. साई / Sai: allowed
     if (kind === 'consonant' && prev === 'virama') { /* conjunct, fine */ }
     prev = kind;
   });
   const warnings = [];
+  if (hiatus.length) warnings.push('two vowels side by side (hiatus); usual in names like Sai, but Telugu/Kannada often write a -y- glide instead (సాయి)');
   if (prev === 'virama') warnings.push('ends in a bare consonant (virama); in Telugu/Kannada such names usually take a final vowel, e.g. -u or -a');
   const dev = toDevanagariFrom(t, script);
   return { valid: errors.length === 0, errors, warnings, script, devanagari: dev };

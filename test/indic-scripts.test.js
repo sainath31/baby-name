@@ -22,6 +22,11 @@ test('malformed names fail with a reason', () => {
   assert.equal(validateName('Rama', 'telugu').valid, false);              // Latin letters
   assert.equal(validateName('', 'kannada').valid, false);
 });
+test('vowel hiatus (Sai/Nimai) is valid with a warning', () => {
+  const r = validateName('ನಿಮಾಈ', 'kannada');
+  assert.equal(r.valid, true); assert.equal(r.warnings.length, 1);
+  assert.equal(validateName('సాఈ', 'telugu').valid, true);
+});
 test('round-trips back to Devanagari', () => {
   assert.equal(validateName('రామ', 'telugu').devanagari, 'राम');
   assert.equal(validateName('ಮಂಜುನಾಥ', 'kannada').devanagari, 'मंजुनाथ');
