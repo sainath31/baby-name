@@ -22794,5 +22794,932 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Chandragupta",
+    "iast": "candragupta",
+    "devanagari": "चन्द्रगुप्त",
+    "letter": "C",
+    "syllable_count": 4,
+    "meaning_en": "Protected by the moon; founder of the Maurya empire, also two Gupta emperors.",
+    "components": [
+      {
+        "part": "candra",
+        "gloss": "moon"
+      },
+      {
+        "part": "gupta",
+        "gloss": "protected"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Bihar"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Samudragupta",
+    "iast": "samudragupta",
+    "devanagari": "समुद्रगुप्त",
+    "letter": "S",
+    "syllable_count": 5,
+    "meaning_en": "Protected by the ocean; the great Gupta emperor.",
+    "components": [
+      {
+        "part": "samudra",
+        "gloss": "ocean"
+      },
+      {
+        "part": "gupta",
+        "gloss": "protected"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Bihar"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pulakeshi",
+    "iast": "pulakeśin",
+    "devanagari": "पुलकेशी",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "Name of the great Chalukya king of Badami.",
+    "components": [
+      {
+        "part": "pulakeśin",
+        "gloss": "Pulakeshin (etymology uncertain)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Krishnadevaraya",
+    "iast": "kṛṣṇadevarāya",
+    "devanagari": "कृष्णदेवराय",
+    "letter": "K",
+    "syllable_count": 6,
+    "meaning_en": "Name of the great Vijayanagara emperor; Krishna as divine king.",
+    "components": [
+      {
+        "part": "kṛṣṇa",
+        "gloss": "Krishna"
+      },
+      {
+        "part": "deva",
+        "gloss": "god"
+      },
+      {
+        "part": "rāya",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shivaji",
+    "iast": "śivājī",
+    "devanagari": "शिवाजी",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Named after the goddess Shivai; founder of the Maratha kingdom.",
+    "components": [
+      {
+        "part": "śivā",
+        "gloss": "the goddess Shivai"
+      },
+      {
+        "part": "-jī",
+        "gloss": "honorific"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sambhaji",
+    "iast": "śambhājī",
+    "devanagari": "शंभाजी",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Named after Shambhu (Shiva); the second Maratha ruler.",
+    "components": [
+      {
+        "part": "śambhu",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "-jī",
+        "gloss": "honorific"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Prithviraj",
+    "iast": "pṛthvīrāja",
+    "devanagari": "पृथ्वीराज",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "King of the earth; the Chauhan king of Delhi and Ajmer.",
+    "components": [
+      {
+        "part": "pṛthvī",
+        "gloss": "earth"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Rajasthan"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tilak",
+    "iast": "tilaka",
+    "devanagari": "तिलक",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "The sacred mark on the forehead; ornament; also Lokmanya Tilak.",
+    "components": [
+      {
+        "part": "tilaka",
+        "gloss": "sacred mark"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mohandas",
+    "iast": "mohanadāsa",
+    "devanagari": "मोहनदास",
+    "letter": "M",
+    "syllable_count": 5,
+    "meaning_en": "Servant of Mohan (Krishna); Mahatma Gandhi's given name.",
+    "components": [
+      {
+        "part": "mohana",
+        "gloss": "Krishna"
+      },
+      {
+        "part": "dāsa",
+        "gloss": "servant"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vivekananda",
+    "iast": "vivekānanda",
+    "devanagari": "विवेकानन्द",
+    "letter": "V",
+    "syllable_count": 5,
+    "meaning_en": "Bliss of discernment; the monk Swami Vivekananda.",
+    "components": [
+      {
+        "part": "viveka",
+        "gloss": "discernment"
+      },
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bankim",
+    "iast": "baṅkima",
+    "devanagari": "बंकिम",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Curved, gracefully bent (an epithet of Krishna); the novelist Bankim Chandra.",
+    "components": [
+      {
+        "part": "baṅkima",
+        "gloss": "curved (Bengali)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sukhdev",
+    "iast": "sukhadeva",
+    "devanagari": "सुखदेव",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "God of happiness.",
+    "components": [
+      {
+        "part": "sukha",
+        "gloss": "happiness"
+      },
+      {
+        "part": "deva",
+        "gloss": "god"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rajguru",
+    "iast": "rājaguru",
+    "devanagari": "राजगुरु",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "Royal preceptor.",
+    "components": [
+      {
+        "part": "rāja",
+        "gloss": "king"
+      },
+      {
+        "part": "guru",
+        "gloss": "teacher"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Madanmohan",
+    "iast": "madanamohana",
+    "devanagari": "मदनमोहन",
+    "letter": "M",
+    "syllable_count": 6,
+    "meaning_en": "One who enchants even Kamadeva; Krishna.",
+    "components": [
+      {
+        "part": "madana",
+        "gloss": "Kamadeva"
+      },
+      {
+        "part": "mohana",
+        "gloss": "enchanting"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ramprasad",
+    "iast": "rāmaprasāda",
+    "devanagari": "रामप्रसाद",
+    "letter": "R",
+    "syllable_count": 5,
+    "meaning_en": "Grace of Rama.",
+    "components": [
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      },
+      {
+        "part": "prasāda",
+        "gloss": "grace"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kalidas",
+    "iast": "kālidāsa",
+    "devanagari": "कालिदास",
+    "letter": "K",
+    "syllable_count": 4,
+    "meaning_en": "Servant of Kali; the greatest classical Sanskrit poet.",
+    "components": [
+      {
+        "part": "kālī",
+        "gloss": "Kali"
+      },
+      {
+        "part": "dāsa",
+        "gloss": "servant"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Madhya Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Aryabhata",
+    "iast": "āryabhaṭa",
+    "devanagari": "आर्यभट",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Noble warrior; the 5th-century mathematician and astronomer.",
+    "components": [
+      {
+        "part": "ārya",
+        "gloss": "noble"
+      },
+      {
+        "part": "bhaṭa",
+        "gloss": "warrior"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Bihar"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chanakya",
+    "iast": "cāṇakya",
+    "devanagari": "चाणक्य",
+    "letter": "C",
+    "syllable_count": 3,
+    "meaning_en": "Name of the strategist-minister of Chandragupta Maurya, author of the Arthashastra.",
+    "components": [
+      {
+        "part": "cāṇakya",
+        "gloss": "of the Chanaka family"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Bihar"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Panini",
+    "iast": "pāṇini",
+    "devanagari": "पाणिनि",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Name of the great Sanskrit grammarian.",
+    "components": [
+      {
+        "part": "pāṇini",
+        "gloss": "descendant of Panin"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Patanjali",
+    "iast": "patañjali",
+    "devanagari": "पतञ्जलि",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "Name of the sage who compiled the Yoga Sutras.",
+    "components": [
+      {
+        "part": "pata",
+        "gloss": "falling"
+      },
+      {
+        "part": "añjali",
+        "gloss": "folded hands"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Yoga Sutras",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Charaka",
+    "iast": "caraka",
+    "devanagari": "चरक",
+    "letter": "C",
+    "syllable_count": 3,
+    "meaning_en": "Wanderer; the ancient physician of Ayurveda.",
+    "components": [
+      {
+        "part": "caraka",
+        "gloss": "wanderer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sushruta",
+    "iast": "suśruta",
+    "devanagari": "सुश्रुत",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Well heard, renowned; the ancient surgeon of Ayurveda.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "well"
+      },
+      {
+        "part": "śruta",
+        "gloss": "heard"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tyagaraja",
+    "iast": "tyāgarāja",
+    "devanagari": "त्यागराज",
+    "letter": "T",
+    "syllable_count": 4,
+    "meaning_en": "King of renunciation; the great Carnatic composer, named after Shiva of Tiruvarur.",
+    "components": [
+      {
+        "part": "tyāga",
+        "gloss": "renunciation"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kanakadasa",
+    "iast": "kanakadāsa",
+    "devanagari": "कनकदास",
+    "letter": "K",
+    "syllable_count": 5,
+    "meaning_en": "Golden servant; the Kannada saint-poet devoted to Krishna.",
+    "components": [
+      {
+        "part": "kanaka",
+        "gloss": "gold"
+      },
+      {
+        "part": "dāsa",
+        "gloss": "servant"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Namdev",
+    "iast": "nāmadeva",
+    "devanagari": "नामदेव",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "God of the divine name; the Marathi saint-poet.",
+    "components": [
+      {
+        "part": "nāma",
+        "gloss": "name"
+      },
+      {
+        "part": "deva",
+        "gloss": "god"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "deity_epic_ref": "Abhangas of Maharashtra saints",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhartrihari",
+    "iast": "bhartṛhari",
+    "devanagari": "भर्तृहरि",
+    "letter": "B",
+    "syllable_count": 4,
+    "meaning_en": "Name of the poet-philosopher of the Shatakatraya.",
+    "components": [
+      {
+        "part": "bhartṛ",
+        "gloss": "supporter"
+      },
+      {
+        "part": "hari",
+        "gloss": "Hari"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhavabhuti",
+    "iast": "bhavabhūti",
+    "devanagari": "भवभूति",
+    "letter": "B",
+    "syllable_count": 4,
+    "meaning_en": "Prosperity of Shiva; the Sanskrit dramatist.",
+    "components": [
+      {
+        "part": "bhava",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "bhūti",
+        "gloss": "prosperity"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-014-history.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
