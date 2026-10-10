@@ -1,0 +1,79 @@
+[
+ {
+  "name": "Sai Chaitanya",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sai Vardhan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Naga Sai",
+  "verdict": "fix",
+  "reason": "meaning invented; both words real, family-given",
+  "fix": {
+   "meaning_en": "Naga (serpent) and Sai; a combined devotional name."
+  }
+ },
+ {
+  "name": "Naga Venkata",
+  "verdict": "fix",
+  "reason": "meaning weak",
+  "fix": {
+   "meaning_en": "Naga (serpent) with Venkata, a name of Lord Venkateshwara."
+  }
+ },
+ {
+  "name": "Bala Murugan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Bala Subramanian",
+  "verdict": "fix",
+  "reason": "IAST and Devanagari did not match spelling Subramanian",
+  "fix": {
+   "name": "Bala Subramanian",
+   "devanagari": "बाल सुब्रमण्यन्",
+   "iast": "bāla subramaṇyan",
+   "meaning_en": "The child Subramanya (Kartikeya)."
+  }
+ },
+ {
+  "name": "Pavan Kumar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pavan Kalyan",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Pavan Sai",
+  "verdict": "keep",
+  "reason": "both words real, used by families"
+ },
+ {
+  "name": "Manoj Kumar",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Mohana Krishna",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Veera Raghava",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Veera Venkata",
+  "verdict": "keep",
+  "reason": "ok"
+ }
+]
