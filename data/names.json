@@ -111405,5 +111405,550 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Adrika",
+    "iast": "adrikā",
+    "devanagari": "अद्रिका",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Of the mountain; the celestial nymph cursed to be a fish.",
+    "components": [
+      {
+        "part": "adri",
+        "gloss": "mountain"
+      },
+      {
+        "part": "-kā",
+        "gloss": "feminine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Anindita",
+    "iast": "aninditā",
+    "devanagari": "अनिन्दिता",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Blameless; flawless.",
+    "components": [
+      {
+        "part": "a",
+        "gloss": "not"
+      },
+      {
+        "part": "ninditā",
+        "gloss": "blamed"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Apala",
+    "iast": "apālā",
+    "devanagari": "अपाला",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Vedic seer who was cured of a skin disease.",
+    "components": [
+      {
+        "part": "apālā",
+        "gloss": "Vedic seer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Rigveda",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chandrakala",
+    "iast": "candrakalā",
+    "devanagari": "चन्द्रकला",
+    "letter": "C",
+    "syllable_count": 4,
+    "meaning_en": "Digit of the moon.",
+    "components": [
+      {
+        "part": "candra",
+        "gloss": "moon"
+      },
+      {
+        "part": "kalā",
+        "gloss": "part"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dakshina",
+    "iast": "dakṣiṇā",
+    "devanagari": "दक्षिणा",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Gift to the teacher; the south; skilful.",
+    "components": [
+      {
+        "part": "dakṣiṇā",
+        "gloss": "gift, south"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dishita",
+    "iast": "diśitā",
+    "devanagari": "दिशिता",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "Directed; shown the way.",
+    "components": [
+      {
+        "part": "diś",
+        "gloss": "direction"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Garima",
+    "iast": "garimā",
+    "devanagari": "गरिमा",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Dignity; weight; majesty.",
+    "components": [
+      {
+        "part": "garimā",
+        "gloss": "gravity"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jalaja",
+    "iast": "jalajā",
+    "devanagari": "जलजा",
+    "letter": "J",
+    "syllable_count": 3,
+    "meaning_en": "Born of water; the lotus.",
+    "components": [
+      {
+        "part": "jala",
+        "gloss": "water"
+      },
+      {
+        "part": "ja",
+        "gloss": "born"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jeevika",
+    "iast": "jīvikā",
+    "devanagari": "जीविका",
+    "letter": "J",
+    "syllable_count": 3,
+    "meaning_en": "Livelihood; source of life.",
+    "components": [
+      {
+        "part": "jīvikā",
+        "gloss": "livelihood"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Karabi",
+    "iast": "karavī",
+    "devanagari": "करबी",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Oleander flower.",
+    "components": [
+      {
+        "part": "karavīra",
+        "gloss": "oleander"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Madalasa",
+    "iast": "madālasā",
+    "devanagari": "मदालसा",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Languid with joy; the queen who taught her sons wisdom.",
+    "components": [
+      {
+        "part": "mada",
+        "gloss": "joy"
+      },
+      {
+        "part": "ālasā",
+        "gloss": "languid"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Markandeya Purana",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mridani",
+    "iast": "mṛḍānī",
+    "devanagari": "मृडानी",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Consort of Mrida (Shiva); Parvati.",
+    "components": [
+      {
+        "part": "mṛḍa",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "-ānī",
+        "gloss": "consort"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nandika",
+    "iast": "nandikā",
+    "devanagari": "नन्दिका",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Delight-giving; Nandi's feminine.",
+    "components": [
+      {
+        "part": "nandi",
+        "gloss": "joy"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Priyamvada",
+    "iast": "priyaṃvadā",
+    "devanagari": "प्रियंवदा",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "Sweet-spoken.",
+    "components": [
+      {
+        "part": "priya",
+        "gloss": "dear"
+      },
+      {
+        "part": "vadā",
+        "gloss": "speaking"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Abhijnanashakuntalam",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Saudamini",
+    "iast": "saudāminī",
+    "devanagari": "सौदामिनी",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Lightning.",
+    "components": [
+      {
+        "part": "saudāminī",
+        "gloss": "lightning"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ambalika",
+    "iast": "ambālikā",
+    "devanagari": "अम्बालिका",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Mother of Pandu; little mother.",
+    "components": [
+      {
+        "part": "ambā",
+        "gloss": "mother"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-105-sanskrit-girls.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
