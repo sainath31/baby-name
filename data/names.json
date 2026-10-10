@@ -48988,5 +48988,986 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Andal",
+    "iast": "āṇḍāḷ",
+    "devanagari": "आण्डाळ्",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Alvar saint-poetess of Srivilliputhur; she who rules.",
+    "components": [
+      {
+        "part": "āṇḍāḷ",
+        "gloss": "one who rules"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "deity_epic_ref": "Tiruppavai",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Akka Mahadevi",
+    "iast": "akkamahādevī",
+    "devanagari": "अक्क महादेवी",
+    "letter": "A",
+    "syllable_count": 6,
+    "meaning_en": "Veerashaiva mystic-poet of Karnataka.",
+    "components": [
+      {
+        "part": "akka",
+        "gloss": "elder sister"
+      },
+      {
+        "part": "mahādevī",
+        "gloss": "great goddess"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "deity_epic_ref": "Vachana literature",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Lalleshwari",
+    "iast": "lallēśvarī",
+    "devanagari": "ललेश्वरी",
+    "letter": "L",
+    "syllable_count": 3,
+    "meaning_en": "Kashmiri Shaiva mystic-poet Lalla.",
+    "components": [
+      {
+        "part": "lallā",
+        "gloss": "name"
+      },
+      {
+        "part": "īśvarī",
+        "gloss": "lady"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Kashmir"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Janabai",
+    "iast": "janābāī",
+    "devanagari": "जनाबाई",
+    "letter": "J",
+    "syllable_count": 4,
+    "meaning_en": "Marathi saint-poetess, disciple of Namdev.",
+    "components": [
+      {
+        "part": "janā",
+        "gloss": "person"
+      },
+      {
+        "part": "bāī",
+        "gloss": "lady"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "deity_epic_ref": "Abhangas",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Muktabai",
+    "iast": "muktābāī",
+    "devanagari": "मुक्ताबाई",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Marathi saint, sister of Dnyaneshwar.",
+    "components": [
+      {
+        "part": "muktā",
+        "gloss": "liberated"
+      },
+      {
+        "part": "bāī",
+        "gloss": "lady"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Karaikkal Ammaiyar",
+    "iast": "kāraikkālammaiyār",
+    "devanagari": "कारैक्काल अम्मैयार",
+    "letter": "K",
+    "syllable_count": 6,
+    "meaning_en": "Shaiva Nayanar poetess.",
+    "components": [
+      {
+        "part": "ammaiyār",
+        "gloss": "revered mother"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "deity_epic_ref": "Tirumurai",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Avvaiyar",
+    "iast": "avvaiyār",
+    "devanagari": "अव्वैयार",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Revered old woman; the Tamil poetess.",
+    "components": [
+      {
+        "part": "avvai",
+        "gloss": "old woman"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rani Lakshmibai",
+    "iast": "rānī lakṣmībāī",
+    "devanagari": "रानी लक्ष्मीबाई",
+    "letter": "R",
+    "syllable_count": 6,
+    "meaning_en": "Queen of Jhansi, 1857 freedom fighter.",
+    "components": [
+      {
+        "part": "rānī",
+        "gloss": "queen"
+      },
+      {
+        "part": "lakṣmī",
+        "gloss": "fortune"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Madhya Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ahilya",
+    "iast": "ahilyā",
+    "devanagari": "अहिल्या",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Unploughed; the Holkar queen Ahilyabai.",
+    "components": [
+      {
+        "part": "a",
+        "gloss": "not"
+      },
+      {
+        "part": "halya",
+        "gloss": "ploughed"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Madhya Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chennamma",
+    "iast": "cennammā",
+    "devanagari": "चेन्नम्मा",
+    "letter": "C",
+    "syllable_count": 3,
+    "meaning_en": "Beautiful mother; the Kittur queen.",
+    "components": [
+      {
+        "part": "cenna",
+        "gloss": "beautiful"
+      },
+      {
+        "part": "ammā",
+        "gloss": "mother"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rudramadevi",
+    "iast": "rudramādevī",
+    "devanagari": "रुद्रमादेवी",
+    "letter": "R",
+    "syllable_count": 5,
+    "meaning_en": "Kakatiya queen of Warangal.",
+    "components": [
+      {
+        "part": "rudra",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "mā",
+        "gloss": "mother"
+      },
+      {
+        "part": "devī",
+        "gloss": "goddess"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mallamma",
+    "iast": "mallammā",
+    "devanagari": "मल्लम्मा",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Goddess Mallamma; wrestler's mother.",
+    "components": [
+      {
+        "part": "malla",
+        "gloss": "wrestler"
+      },
+      {
+        "part": "ammā",
+        "gloss": "mother"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Padmini",
+    "iast": "padminī",
+    "devanagari": "पद्मिनी",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Lotus-like; the Rajput queen Padmini.",
+    "components": [
+      {
+        "part": "padma",
+        "gloss": "lotus"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Rajasthan"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sarojini",
+    "iast": "sarojinī",
+    "devanagari": "सरोजिनी",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Lotus pond.",
+    "components": [
+      {
+        "part": "saroja",
+        "gloss": "lotus"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kasturi",
+    "iast": "kastūrī",
+    "devanagari": "कस्तूरी",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Musk.",
+    "components": [
+      {
+        "part": "kastūrī",
+        "gloss": "musk"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sumati",
+    "iast": "sumatī",
+    "devanagari": "सुमती",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Of good mind; a Jain queen.",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "mati",
+        "gloss": "mind"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Charulata",
+    "iast": "cārulatā",
+    "devanagari": "चारुलता",
+    "letter": "C",
+    "syllable_count": 4,
+    "meaning_en": "Lovely creeper.",
+    "components": [
+      {
+        "part": "cāru",
+        "gloss": "lovely"
+      },
+      {
+        "part": "latā",
+        "gloss": "creeper"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chandramukhi",
+    "iast": "candramukhī",
+    "devanagari": "चन्द्रमुखी",
+    "letter": "C",
+    "syllable_count": 4,
+    "meaning_en": "Moon-faced.",
+    "components": [
+      {
+        "part": "candra",
+        "gloss": "moon"
+      },
+      {
+        "part": "mukha",
+        "gloss": "face"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nalayani",
+    "iast": "nalāyanī",
+    "devanagari": "नलायनी",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Wife of Nala; Draupadi in past birth.",
+    "components": [
+      {
+        "part": "nala",
+        "gloss": "Nala"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pramila",
+    "iast": "pramīlā",
+    "devanagari": "प्रमिला",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Wife of Arjuna in the Mahabharata; delight.",
+    "components": [
+      {
+        "part": "pramīlā",
+        "gloss": "delight"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ulupi",
+    "iast": "ulūpī",
+    "devanagari": "उलूपी",
+    "letter": "U",
+    "syllable_count": 3,
+    "meaning_en": "Naga princess, wife of Arjuna.",
+    "components": [
+      {
+        "part": "ulūpī",
+        "gloss": "name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Manipur"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chitrangada",
+    "iast": "citrāṅgadā",
+    "devanagari": "चित्रांगदा",
+    "letter": "C",
+    "syllable_count": 4,
+    "meaning_en": "With a beautiful body; princess of Manipur.",
+    "components": [
+      {
+        "part": "citra",
+        "gloss": "beautiful"
+      },
+      {
+        "part": "aṅgada",
+        "gloss": "armlet"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Manipur"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vasantasena",
+    "iast": "vasantasenā",
+    "devanagari": "वसन्तसेना",
+    "letter": "V",
+    "syllable_count": 5,
+    "meaning_en": "Army of spring; heroine of Mrichchhakatika.",
+    "components": [
+      {
+        "part": "vasanta",
+        "gloss": "spring"
+      },
+      {
+        "part": "senā",
+        "gloss": "army"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mrichchhakatika",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ratnavali",
+    "iast": "ratnāvalī",
+    "devanagari": "रत्नावली",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "Necklace of jewels; heroine of a Sanskrit play.",
+    "components": [
+      {
+        "part": "ratna",
+        "gloss": "jewel"
+      },
+      {
+        "part": "āvalī",
+        "gloss": "row"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ratnavali",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Priyadarshini",
+    "iast": "priyadarśinī",
+    "devanagari": "प्रियदर्शिनी",
+    "letter": "P",
+    "syllable_count": 5,
+    "meaning_en": "Pleasing to look at.",
+    "components": [
+      {
+        "part": "priya",
+        "gloss": "dear"
+      },
+      {
+        "part": "darśin",
+        "gloss": "seeing"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Kalindi",
+    "iast": "kālindī",
+    "devanagari": "कालिन्दी",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "The Yamuna river; wife of Krishna.",
+    "components": [
+      {
+        "part": "kālindī",
+        "gloss": "Yamuna"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Bhagavata Purana",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Satyabhama",
+    "iast": "satyabhāmā",
+    "devanagari": "सत्यभामा",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Truth and radiance; wife of Krishna.",
+    "components": [
+      {
+        "part": "satya",
+        "gloss": "truth"
+      },
+      {
+        "part": "bhāmā",
+        "gloss": "radiant"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Bhagavata Purana",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jambavati",
+    "iast": "jāmbavatī",
+    "devanagari": "जाम्बवती",
+    "letter": "J",
+    "syllable_count": 4,
+    "meaning_en": "Daughter of Jambavan; wife of Krishna.",
+    "components": [
+      {
+        "part": "jāmbavat",
+        "gloss": "Jambavan"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Bhagavata Purana",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-045-girls-history.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

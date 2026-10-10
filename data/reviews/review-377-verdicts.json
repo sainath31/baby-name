@@ -1,0 +1,170 @@
+[
+ {
+  "name": "Ahilya",
+  "verdict": "fix",
+  "reason": "meaning corrected",
+  "fix": {
+   "meaning_en": "Unploughed, flawless; wife of sage Gautama in the Ramayana"
+  }
+ },
+ {
+  "name": "Akka Mahadevi",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: full name of a historical poet, akka is an honorific"
+ },
+ {
+  "name": "Andal",
+  "verdict": "keep",
+  "reason": "established saint name"
+ },
+ {
+  "name": "Avvaiyar",
+  "verdict": "reject",
+  "reason": "title_or_honorific: means venerable old woman, a title"
+ },
+ {
+  "name": "Chandramukhi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Charulata",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Chennamma",
+  "verdict": "keep",
+  "reason": "Kannada name, acceptable"
+ },
+ {
+  "name": "Chitrangada",
+  "verdict": "fix",
+  "reason": "meaning refined",
+  "fix": {
+   "meaning_en": "With beautiful limbs; wife of Arjuna in the Mahabharata"
+  }
+ },
+ {
+  "name": "Jambavati",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Janabai",
+  "verdict": "reject",
+  "reason": "obscure_figure: name plus bai honorific of a minor saint"
+ },
+ {
+  "name": "Kalindi",
+  "verdict": "fix",
+  "reason": "meaning refined",
+  "fix": {
+   "meaning_en": "Daughter of Mount Kalinda; the Yamuna river; a wife of Krishna"
+  }
+ },
+ {
+  "name": "Karaikkal Ammaiyar",
+  "verdict": "reject",
+  "reason": "multiple_names_or_phrase: place plus honorific, full name of a saint"
+ },
+ {
+  "name": "Kasturi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Lalleshwari",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: epithet of the poet Lalla, not a given name"
+ },
+ {
+  "name": "Mallamma",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: a regional village goddess name"
+ },
+ {
+  "name": "Muktabai",
+  "verdict": "fix",
+  "reason": "meaning refined",
+  "fix": {
+   "meaning_en": "Liberated one (from mukta, freed); name of the Marathi saint"
+  }
+ },
+ {
+  "name": "Nalayani",
+  "verdict": "fix",
+  "reason": "meaning corrected",
+  "fix": {
+   "meaning_en": "Name of Draupadi in a past birth in the Mahabharata; etymology uncertain"
+  }
+ },
+ {
+  "name": "Padmini",
+  "verdict": "fix",
+  "reason": "meaning refined",
+  "fix": {
+   "meaning_en": "Lotus-like; lotus pond"
+  }
+ },
+ {
+  "name": "Pramila",
+  "verdict": "fix",
+  "reason": "iast and meaning corrected",
+  "fix": {
+   "iast": "pramilā",
+   "meaning_en": "Etymology uncertain; queen of the Amazon realm in the Jaimini Ashvamedha"
+  }
+ },
+ {
+  "name": "Priyadarshini",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rani Lakshmibai",
+  "verdict": "reject",
+  "reason": "title_or_honorific: title plus full name of the historical queen"
+ },
+ {
+  "name": "Ratnavali",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Rudramadevi",
+  "verdict": "reject",
+  "reason": "obscure_figure: historical queen full name, compound with title devi"
+ },
+ {
+  "name": "Sarojini",
+  "verdict": "fix",
+  "reason": "meaning refined",
+  "fix": {
+   "meaning_en": "Lotus-like; abounding in lotuses"
+  }
+ },
+ {
+  "name": "Satyabhama",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Sumati",
+  "verdict": "fix",
+  "reason": "meaning simplified",
+  "fix": {
+   "meaning_en": "Of good mind; wise"
+  }
+ },
+ {
+  "name": "Ulupi",
+  "verdict": "keep",
+  "reason": "ok"
+ },
+ {
+  "name": "Vasantasena",
+  "verdict": "reject",
+  "reason": "other: courtesan heroine of a play, not a suitable given name"
+ }
+]
