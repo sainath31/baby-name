@@ -41440,5 +41440,352 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Annamayya",
+    "iast": "annamayya",
+    "devanagari": "अन्नमय्य",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Telugu form honouring the saint-poet Annamacharya; 'Anna' as father/elder with devotional suffix.",
+    "components": [
+      {
+        "part": "anna",
+        "gloss": "elder"
+      },
+      {
+        "part": "ayya",
+        "gloss": "respected father"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-036-telugu-kannada-rare.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Potana",
+    "iast": "potana",
+    "devanagari": "पोतना",
+    "letter": "P",
+    "syllable_count": 3,
+    "meaning_en": "Name of Bammera Potana, Telugu poet who rendered the Bhagavatam.",
+    "components": [
+      {
+        "part": "potana",
+        "gloss": "poet's name (etymology uncertain)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-036-telugu-kannada-rare.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tikkana",
+    "iast": "tikkana",
+    "devanagari": "तिक्कन",
+    "letter": "T",
+    "syllable_count": 3,
+    "meaning_en": "Telugu poet who composed the later books of the Mahabharata.",
+    "components": [
+      {
+        "part": "tikkana",
+        "gloss": "poet's name (etymology uncertain)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-036-telugu-kannada-rare.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Allama",
+    "iast": "allama",
+    "devanagari": "अल्लम",
+    "letter": "A",
+    "syllable_count": 3,
+    "meaning_en": "Name of the Veerashaiva mystic Allama Prabhu.",
+    "components": [
+      {
+        "part": "allama",
+        "gloss": "mystic's name (etymology uncertain)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-036-telugu-kannada-rare.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Nrupatunga",
+    "iast": "nṛpatuṅga",
+    "devanagari": "नृपतुंग",
+    "letter": "N",
+    "syllable_count": 4,
+    "meaning_en": "Lofty among kings; Rashtrakuta emperor.",
+    "components": [
+      {
+        "part": "nṛpa",
+        "gloss": "king"
+      },
+      {
+        "part": "tuṅga",
+        "gloss": "lofty"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-036-telugu-kannada-rare.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pampa",
+    "iast": "pampa",
+    "devanagari": "पंपा",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Adi-kavi of Kannada; name of the Tungabhadra river and its deity.",
+    "components": [
+      {
+        "part": "pampa",
+        "gloss": "river name (etymology uncertain)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-036-telugu-kannada-rare.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Venkateshwarlu",
+    "iast": "veṅkaṭeśvar",
+    "stem": "veṅkaṭeśvara",
+    "devanagari": "वेंकटेश्वरलु",
+    "letter": "V",
+    "syllable_count": 4,
+    "meaning_en": "Telugu form of Venkateshwara, lord of Venkata hill.",
+    "components": [
+      {
+        "part": "veṅkaṭa",
+        "gloss": "hill"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-036-telugu-kannada-rare.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Subbarao",
+    "iast": "subbārāvu",
+    "devanagari": "सुब्बाराव",
+    "letter": "S",
+    "syllable_count": 4,
+    "meaning_en": "Subramanya the chief; Telugu family name form.",
+    "components": [
+      {
+        "part": "subba",
+        "gloss": "Subrahmanya"
+      },
+      {
+        "part": "rāvu",
+        "gloss": "chief"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-036-telugu-kannada-rare.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pullaiah",
+    "iast": "pullayy",
+    "stem": "pullayya",
+    "devanagari": "पुल्लय्य",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Telugu respectful name, from Pulla (flower/lotus) with ayya.",
+    "components": [
+      {
+        "part": "pulla",
+        "gloss": "flower"
+      },
+      {
+        "part": "ayya",
+        "gloss": "respected"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-036-telugu-kannada-rare.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Bhimashankar",
+    "iast": "bhīmaśaṅkar",
+    "stem": "bhīmaśaṅkara",
+    "devanagari": "भीमशंकर",
+    "letter": "B",
+    "syllable_count": 4,
+    "meaning_en": "Shiva as the mighty, auspicious lord.",
+    "components": [
+      {
+        "part": "bhīma",
+        "gloss": "mighty"
+      },
+      {
+        "part": "śaṅkara",
+        "gloss": "auspicious"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-036-telugu-kannada-rare.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
