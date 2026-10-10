@@ -1,0 +1,119 @@
+[
+ {
+  "name": "Appar",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Appar means \"father\" and is an affectionate title for Tirunavukkarasar, not his given name or a name families give."
+ },
+ {
+  "name": "Basava",
+  "verdict": "fix",
+  "reason": "Common given name (Basavaraj etc.); meaning clarified.",
+  "fix": {
+   "meaning_en": "Bull (Nandi); name of the 12th-century Lingayat reformer Basavanna."
+  }
+ },
+ {
+  "name": "Chandidas",
+  "verdict": "fix",
+  "reason": "Used as a given name; meaning made explicit.",
+  "fix": {
+   "meaning_en": "Servant of Chandi (the goddess Durga); name of the medieval Bengali poet."
+  }
+ },
+ {
+  "name": "Chokha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Short form of Chokhamela (a saint's byname); not used as a given name."
+ },
+ {
+  "name": "Dnyandev",
+  "verdict": "fix",
+  "reason": "Real given name; meaning slightly clarified.",
+  "fix": {
+   "meaning_en": "Lord of knowledge (jnana + deva); name of the saint Dnyaneshwar."
+  }
+ },
+ {
+  "name": "Jalaram",
+  "verdict": "fix",
+  "reason": "\"Rama of the waters\" was an invented gloss.",
+  "fix": {
+   "meaning_en": "Name of the Gujarati saint Jalaram Bapa; from jala (water) and Rama, exact etymology uncertain."
+  }
+ },
+ {
+  "name": "Jayatirtha",
+  "verdict": "fix",
+  "reason": "Acceptable name; meaning phrased plainly.",
+  "fix": {
+   "meaning_en": "Victory (jaya) and sacred ford (tirtha); name of the Madhva scholar-saint."
+  }
+ },
+ {
+  "name": "Madhavdev",
+  "verdict": "fix",
+  "reason": "Used as a given name; meaning clarified.",
+  "fix": {
+   "meaning_en": "Divine Madhava (Krishna); name of the Assamese saint Madhavadeva."
+  }
+ },
+ {
+  "name": "Manikkavasagar",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Manikkavacakar is a title (\"of ruby words\") for the saint Vatavurar; overlong and not a given name."
+ },
+ {
+  "name": "Muthuswami",
+  "verdict": "keep",
+  "reason": "Genuine given name, correct form and meaning."
+ },
+ {
+  "name": "Nammazhwar",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: \"Our own Alvar\" is an honorific for the saint Maran/Satakopan; not a given name."
+ },
+ {
+  "name": "Purandaradasa",
+  "verdict": "reject",
+  "reason": "obscure_figure: Full historical dasa-name of a composer; not a name families give (Purandar/Dasa are the usable forms)."
+ },
+ {
+  "name": "Ramadasu",
+  "verdict": "fix",
+  "reason": "Valid devotional name; meaning clarified.",
+  "fix": {
+   "meaning_en": "Servant of Rama (Telugu form of Ramadas); also the name of the devotee Bhadrachala Ramadasu."
+  }
+ },
+ {
+  "name": "Ravidas",
+  "verdict": "fix",
+  "reason": "Genuine given name; meaning hedged.",
+  "fix": {
+   "meaning_en": "Servant of Ravi (the sun); name of the saint-poet Ravidas (Raidas), etymology of the saint's name uncertain."
+  }
+ },
+ {
+  "name": "Sambandar",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Byname of the child-saint Tirugnanasambandar; Devanagari सम्बन्दर does not match iast campantar; not a given name."
+ },
+ {
+  "name": "Sankaradeva",
+  "verdict": "fix",
+  "reason": "Used as given name (Sankardev); meaning clarified.",
+  "fix": {
+   "meaning_en": "Divine Shankara (Shiva); name of the Assamese saint Srimanta Sankardev."
+  }
+ },
+ {
+  "name": "Sundarar",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Honorific -ar form used for the Nayanar saint; the given name is Sundar/Sundaramurti."
+ },
+ {
+  "name": "Swaminarayan",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: Name of the deified founder/God worshipped by a sect; not appropriate as a child's name."
+ }
+]

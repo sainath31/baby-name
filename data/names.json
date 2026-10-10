@@ -65592,5 +65592,644 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Nammazhwar",
+    "iast": "nammāḻvār",
+    "devanagari": "नम्माळ्वार",
+    "letter": "N",
+    "syllable_count": 3,
+    "meaning_en": "Our own Alvar; the Vaishnava saint-poet.",
+    "components": [
+      {
+        "part": "nam",
+        "gloss": "our"
+      },
+      {
+        "part": "āḻvār",
+        "gloss": "one immersed"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "deity_epic_ref": "Tiruvaymoli",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Appar",
+    "iast": "appar",
+    "devanagari": "अप्पर",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "Father; the Shaiva saint Tirunavukkarasar.",
+    "components": [
+      {
+        "part": "appar",
+        "gloss": "father"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "deity_epic_ref": "Tevaram",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sundarar",
+    "iast": "suntarar",
+    "devanagari": "सुन्दरर",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "The beautiful one; Nayanar saint.",
+    "components": [
+      {
+        "part": "sundara",
+        "gloss": "beautiful"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "deity_epic_ref": "Tevaram",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sambandar",
+    "iast": "campantar",
+    "devanagari": "सम्बन्दर",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Related to the divine; Nayanar saint.",
+    "components": [
+      {
+        "part": "sambandha",
+        "gloss": "connection"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "deity_epic_ref": "Tevaram",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Manikkavasagar",
+    "iast": "māṇikkavācakar",
+    "devanagari": "माणिक्कवासकर",
+    "letter": "M",
+    "syllable_count": 6,
+    "meaning_en": "Whose words are rubies; the Tamil Shaiva saint.",
+    "components": [
+      {
+        "part": "māṇikka",
+        "gloss": "ruby"
+      },
+      {
+        "part": "vācaka",
+        "gloss": "speech"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "deity_epic_ref": "Tiruvasagam",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Basava",
+    "iast": "basava",
+    "devanagari": "बसव",
+    "letter": "B",
+    "syllable_count": 3,
+    "meaning_en": "Bull; the Lingayat reformer.",
+    "components": [
+      {
+        "part": "basava",
+        "gloss": "bull"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Purandaradasa",
+    "iast": "purandaradāsa",
+    "devanagari": "पुरन्दरदास",
+    "letter": "P",
+    "syllable_count": 6,
+    "meaning_en": "Servant of Purandara; Karnataka's father of Carnatic music.",
+    "components": [
+      {
+        "part": "purandara",
+        "gloss": "Vishnu"
+      },
+      {
+        "part": "dāsa",
+        "gloss": "servant"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jayatirtha",
+    "iast": "jayatīrtha",
+    "devanagari": "जयतीर्थ",
+    "letter": "J",
+    "syllable_count": 4,
+    "meaning_en": "Sacred ford of victory; Madhva scholar.",
+    "components": [
+      {
+        "part": "jaya",
+        "gloss": "victory"
+      },
+      {
+        "part": "tīrtha",
+        "gloss": "ford"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ravidas",
+    "iast": "ravidās",
+    "stem": "ravidāsa",
+    "devanagari": "रविदास",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Servant of Ravi (the sun); the saint-poet.",
+    "components": [
+      {
+        "part": "ravi",
+        "gloss": "sun"
+      },
+      {
+        "part": "dāsa",
+        "gloss": "servant"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Uttar Pradesh"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jalaram",
+    "iast": "jalārām",
+    "stem": "jalārāma",
+    "devanagari": "जलाराम",
+    "letter": "J",
+    "syllable_count": 3,
+    "meaning_en": "Rama of the waters; Gujarati saint.",
+    "components": [
+      {
+        "part": "jala",
+        "gloss": "water"
+      },
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Swaminarayan",
+    "iast": "svāminārāyaṇ",
+    "stem": "svāminārāyaṇa",
+    "devanagari": "स्वामीनारायण",
+    "letter": "S",
+    "syllable_count": 5,
+    "meaning_en": "Lord Narayana; founder of a Hindu sect.",
+    "components": [
+      {
+        "part": "svāmin",
+        "gloss": "lord"
+      },
+      {
+        "part": "nārāyaṇa",
+        "gloss": "Narayana"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dnyandev",
+    "iast": "jñānadev",
+    "stem": "jñānadeva",
+    "devanagari": "ज्ञानदेव",
+    "letter": "D",
+    "syllable_count": 3,
+    "meaning_en": "God of knowledge; the saint Dnyaneshwar.",
+    "components": [
+      {
+        "part": "jñāna",
+        "gloss": "knowledge"
+      },
+      {
+        "part": "deva",
+        "gloss": "god"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chokha",
+    "iast": "cokhā",
+    "devanagari": "चोखा",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "Pure; Marathi saint Chokhamela.",
+    "components": [
+      {
+        "part": "cokhā",
+        "gloss": "pure"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Muthuswami",
+    "iast": "muttusvāmi",
+    "devanagari": "मुत्तुस्वामी",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Lord of pearls; Carnatic composer Dikshitar.",
+    "components": [
+      {
+        "part": "muttu",
+        "gloss": "pearl"
+      },
+      {
+        "part": "svāmi",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ramadasu",
+    "iast": "rāmadāsu",
+    "devanagari": "रामदासु",
+    "letter": "R",
+    "syllable_count": 4,
+    "meaning_en": "Servant of Rama (Telugu).",
+    "components": [
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      },
+      {
+        "part": "dāsu",
+        "gloss": "servant"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Telangana"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sankaradeva",
+    "iast": "śaṅkaradeva",
+    "devanagari": "शंकरदेव",
+    "letter": "S",
+    "syllable_count": 5,
+    "meaning_en": "Shankara the divine; the Assamese saint.",
+    "components": [
+      {
+        "part": "śaṅkara",
+        "gloss": "Shiva"
+      },
+      {
+        "part": "deva",
+        "gloss": "god"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Assam"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Madhavdev",
+    "iast": "mādhavadev",
+    "stem": "mādhavadeva",
+    "devanagari": "माधवदेव",
+    "letter": "M",
+    "syllable_count": 4,
+    "meaning_en": "Madhava the divine; Assamese saint.",
+    "components": [
+      {
+        "part": "mādhava",
+        "gloss": "Krishna"
+      },
+      {
+        "part": "deva",
+        "gloss": "god"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Assam"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chandidas",
+    "iast": "caṇḍīdās",
+    "stem": "caṇḍīdāsa",
+    "devanagari": "चण्डीदास",
+    "letter": "C",
+    "syllable_count": 3,
+    "meaning_en": "Servant of Chandi; Bengali poet.",
+    "components": [
+      {
+        "part": "caṇḍī",
+        "gloss": "Durga"
+      },
+      {
+        "part": "dāsa",
+        "gloss": "servant"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-067-saints.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
