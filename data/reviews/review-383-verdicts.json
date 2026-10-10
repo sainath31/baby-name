@@ -1,0 +1,203 @@
+[
+ {
+  "name": "Chenchu",
+  "verdict": "reject",
+  "reason": "other: tribe name of Andhra, not a given name"
+ },
+ {
+  "name": "Cheran",
+  "verdict": "reject",
+  "reason": "other: Chera dynasty/king designation, not a given name"
+ },
+ {
+  "name": "Chhagan",
+  "verdict": "reject",
+  "reason": "other: pet form, no independent Indian etymology"
+ },
+ {
+  "name": "Chhatrapati",
+  "verdict": "reject",
+  "reason": "title_or_honorific: royal title \"lord of the umbrella\""
+ },
+ {
+  "name": "Chhavi",
+  "verdict": "keep",
+  "reason": "girl name from Sanskrit chavi, radiance/image; valid"
+ },
+ {
+  "name": "Chhaya",
+  "verdict": "keep",
+  "reason": "girl name, Sanskrit chāyā shade; wife of Surya"
+ },
+ {
+  "name": "Dohit",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: kinship word \"grandson\", form garbled from dauhitra"
+ },
+ {
+  "name": "Dolan",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: \"swinging\", common noun"
+ },
+ {
+  "name": "Gahan",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: adjective \"deep\""
+ },
+ {
+  "name": "Geet",
+  "verdict": "keep",
+  "reason": "Hindi/Sanskrit gīta \"song\"; in genuine use as a given name"
+ },
+ {
+  "name": "Geetanjali",
+  "verdict": "keep",
+  "reason": "girl name, Tagore title; offering of songs"
+ },
+ {
+  "name": "Geetesh",
+  "verdict": "fix",
+  "reason": "IAST was garbled (gītīś); gīta+īśa gives gīteśa, sandhi fine",
+  "fix": {
+   "name": "Geetesh",
+   "devanagari": "गीतेश",
+   "iast": "gīteś",
+   "meaning_en": "Lord of song (gīta + īśa)"
+  }
+ },
+ {
+  "name": "Geetika",
+  "verdict": "keep",
+  "reason": "girl name, little song; valid"
+ },
+ {
+  "name": "Ghanavi",
+  "verdict": "reject",
+  "reason": "other: ungrounded form, no clear Sanskrit basis; \"cloud-like\" not supported"
+ },
+ {
+  "name": "Ghatotkach",
+  "verdict": "reject",
+  "reason": "demon_or_villain: rakshasa-born figure, not normally given as a name"
+ },
+ {
+  "name": "Homesh",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: constructed homa+īśa, not attested as a name"
+ },
+ {
+  "name": "Hotri",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: ritual priest role, not a given name"
+ },
+ {
+  "name": "Hutashan",
+  "verdict": "keep",
+  "reason": "Hutāśana, a name of Agni; acceptable given name, rare"
+ },
+ {
+  "name": "Jhalak",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Hindi word \"glimpse\", no Sanskrit name basis"
+ },
+ {
+  "name": "Jhilmil",
+  "verdict": "reject",
+  "reason": "other: pet/onomatopoeic word \"twinkle\""
+ },
+ {
+  "name": "Khemchand",
+  "verdict": "fix",
+  "reason": "IAST wrongly \"kṣemacandr\"; spoken form is khemacand (kṣema + candra); genuine use in Hindu trading families",
+  "fix": {
+   "name": "Khemchand",
+   "devanagari": "खेमचंद",
+   "iast": "khemacand",
+   "meaning_en": "Moon of well-being (kṣema + candra)"
+  }
+ },
+ {
+  "name": "Khushboo",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Persian word \"fragrance\", common noun, not a usual name"
+ },
+ {
+  "name": "Khushi",
+  "verdict": "fix",
+  "reason": "Persian-derived but in genuine, widespread Hindu use as a girl name",
+  "fix": {
+   "name": "Khushi",
+   "devanagari": "खुशी",
+   "iast": "khuśī",
+   "meaning_en": "Happiness, joy (Persian-derived, widely used among Hindus)"
+  }
+ },
+ {
+  "name": "Khushwant",
+  "verdict": "fix",
+  "reason": "Persian khush + Indic -want; genuine Punjabi/Hindu use, meaning to fix",
+  "fix": {
+   "name": "Khushwant",
+   "devanagari": "खुशवंत",
+   "iast": "khuśvant",
+   "meaning_en": "Joyful one (Persian khush + -vant)"
+  }
+ },
+ {
+  "name": "Leela",
+  "verdict": "keep",
+  "reason": "girl name, līlā divine play; valid"
+ },
+ {
+  "name": "Leelavati",
+  "verdict": "fix",
+  "reason": "meaning weak; classic Sanskrit girl name, also title of Bhaskara II treatise",
+  "fix": {
+   "name": "Leelavati",
+   "devanagari": "लीलावती",
+   "iast": "līlāvatī",
+   "meaning_en": "Graceful, playful woman (līlā + -vatī)"
+  }
+ },
+ {
+  "name": "Pethan",
+  "verdict": "reject",
+  "reason": "markup_or_garbled: ungrounded; claimed derivation from Pitamaha not supported"
+ },
+ {
+  "name": "Phalak",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Persian/Sanskrit \"sky; board\", common noun"
+ },
+ {
+  "name": "Tosh",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: truncation of toṣa \"satisfaction\", common noun/slang"
+ },
+ {
+  "name": "Toshal",
+  "verdict": "reject",
+  "reason": "other: ungrounded -al form of toṣa, no clear basis"
+ },
+ {
+  "name": "Vora",
+  "verdict": "reject",
+  "reason": "other: trader community surname, not a given name"
+ },
+ {
+  "name": "Yellamma",
+  "verdict": "keep",
+  "reason": "girl name after goddess Yellamma/Renuka, genuinely given in Karnataka/Andhra"
+ },
+ {
+  "name": "Yellappa",
+  "verdict": "fix",
+  "reason": "genuine Karnataka boy name, meaning given was unclear",
+  "fix": {
+   "name": "Yellappa",
+   "devanagari": "येल्लप्पा",
+   "iast": "yellappa",
+   "meaning_en": "Devotee of goddess Yellamma (etymology uncertain)"
+  }
+ }
+]

@@ -54020,5 +54020,1078 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Hutashan",
+    "iast": "hutāśan",
+    "stem": "hutāśana",
+    "devanagari": "हुताशन",
+    "letter": "H",
+    "syllable_count": 3,
+    "meaning_en": "Eater of oblations; Agni.",
+    "components": [
+      {
+        "part": "huta",
+        "gloss": "offering"
+      },
+      {
+        "part": "aśana",
+        "gloss": "eating"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Homesh",
+    "iast": "homeś",
+    "stem": "homeśa",
+    "devanagari": "होमेश",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Lord of the sacrificial fire.",
+    "components": [
+      {
+        "part": "homa",
+        "gloss": "fire offering"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Hotri",
+    "iast": "hotṛ",
+    "devanagari": "होतृ",
+    "letter": "H",
+    "syllable_count": 2,
+    "meaning_en": "Priest who offers oblations.",
+    "components": [
+      {
+        "part": "hotṛ",
+        "gloss": "invoker"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Rigveda",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Geet",
+    "iast": "gīt",
+    "stem": "gīta",
+    "devanagari": "गीत",
+    "letter": "G",
+    "syllable_count": 1,
+    "meaning_en": "Song.",
+    "components": [
+      {
+        "part": "gīta",
+        "gloss": "song"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Geetesh",
+    "iast": "gītīś",
+    "stem": "gītīśa",
+    "devanagari": "गीतेश",
+    "letter": "G",
+    "syllable_count": 2,
+    "meaning_en": "Lord of song.",
+    "components": [
+      {
+        "part": "gīta",
+        "gloss": "song"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Geetanjali",
+    "iast": "gītāñjali",
+    "devanagari": "गीतांजलि",
+    "letter": "G",
+    "syllable_count": 4,
+    "meaning_en": "Offering of songs.",
+    "components": [
+      {
+        "part": "gīta",
+        "gloss": "song"
+      },
+      {
+        "part": "añjali",
+        "gloss": "offering"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Geetika",
+    "iast": "gītikā",
+    "devanagari": "गीतिका",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Short song.",
+    "components": [
+      {
+        "part": "gīta",
+        "gloss": "song"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yellappa",
+    "iast": "yellappa",
+    "devanagari": "येल्लप्पा",
+    "letter": "Y",
+    "syllable_count": 3,
+    "meaning_en": "Karnataka form of Ellamma's devotee.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Yellamma",
+    "iast": "yellammā",
+    "devanagari": "येल्लम्मा",
+    "letter": "Y",
+    "syllable_count": 3,
+    "meaning_en": "Goddess Yellamma of Karnataka.",
+    "components": [
+      {
+        "part": "yellamma",
+        "gloss": "mother of all"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Khushi",
+    "iast": "khuśī",
+    "devanagari": "खुशी",
+    "letter": "K",
+    "syllable_count": 2,
+    "meaning_en": "Happiness.",
+    "components": [
+      {
+        "part": "khuśī",
+        "gloss": "joy (Persian-derived, used in India)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Khushboo",
+    "iast": "khuśabū",
+    "devanagari": "खुशबू",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Fragrance.",
+    "components": [
+      {
+        "part": "khuśabū",
+        "gloss": "fragrance (Persian-derived)"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Khushwant",
+    "iast": "khuśavant",
+    "stem": "khuśavanta",
+    "devanagari": "खुशवंत",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Bringer of joy.",
+    "components": [
+      {
+        "part": "khuśa",
+        "gloss": "joy"
+      },
+      {
+        "part": "vant",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Punjab"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Khemchand",
+    "iast": "kṣemacandr",
+    "stem": "kṣemacandra",
+    "devanagari": "खेमचंद",
+    "letter": "K",
+    "syllable_count": 3,
+    "meaning_en": "Moon of safety.",
+    "components": [
+      {
+        "part": "kṣema",
+        "gloss": "safety"
+      },
+      {
+        "part": "candra",
+        "gloss": "moon"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Rajasthan"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jhalak",
+    "iast": "jhalak",
+    "stem": "jhalaka",
+    "devanagari": "झलक",
+    "letter": "J",
+    "syllable_count": 2,
+    "meaning_en": "Glimpse; gleam.",
+    "components": [
+      {
+        "part": "jhalaka",
+        "gloss": "glimmer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jhilmil",
+    "iast": "jhilamil",
+    "stem": "jhilamila",
+    "devanagari": "झिलमिल",
+    "letter": "J",
+    "syllable_count": 3,
+    "meaning_en": "Twinkle.",
+    "components": [
+      {
+        "part": "jhilamila",
+        "gloss": "shimmer"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Leela",
+    "iast": "līlā",
+    "devanagari": "लीला",
+    "letter": "L",
+    "syllable_count": 2,
+    "meaning_en": "Divine play.",
+    "components": [
+      {
+        "part": "līlā",
+        "gloss": "play"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Leelavati",
+    "iast": "līlāvatī",
+    "devanagari": "लीलावती",
+    "letter": "L",
+    "syllable_count": 4,
+    "meaning_en": "Graceful; the mathematical treatise of Bhaskara.",
+    "components": [
+      {
+        "part": "līlā",
+        "gloss": "play"
+      },
+      {
+        "part": "vatī",
+        "gloss": "having"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Lilavati",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ghatotkach",
+    "iast": "ghaṭotkac",
+    "stem": "ghaṭotkaca",
+    "devanagari": "घटोत्कच",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Pot-headed; son of Bhima.",
+    "components": [
+      {
+        "part": "ghaṭa",
+        "gloss": "pot"
+      },
+      {
+        "part": "utkaca",
+        "gloss": "bald"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ghanavi",
+    "iast": "ghanavī",
+    "devanagari": "घनवी",
+    "letter": "G",
+    "syllable_count": 3,
+    "meaning_en": "Cloud-like.",
+    "components": [
+      {
+        "part": "ghana",
+        "gloss": "cloud"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tosh",
+    "iast": "toṣ",
+    "stem": "toṣa",
+    "devanagari": "तोष",
+    "letter": "T",
+    "syllable_count": 1,
+    "meaning_en": "Satisfaction.",
+    "components": [
+      {
+        "part": "toṣa",
+        "gloss": "contentment"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "high",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Toshal",
+    "iast": "toṣal",
+    "stem": "toṣala",
+    "devanagari": "तोषल",
+    "letter": "T",
+    "syllable_count": 2,
+    "meaning_en": "Satisfied one.",
+    "components": [
+      {
+        "part": "toṣa",
+        "gloss": "contentment"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pethan",
+    "iast": "pēthan",
+    "devanagari": "पेथन",
+    "letter": "P",
+    "syllable_count": 1,
+    "meaning_en": "Gujarati/Marathi form of Pitamaha.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chenchu",
+    "iast": "cencu",
+    "devanagari": "चेंचु",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "Tribal group of Andhra; Chenchu Lakshmi.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Andhra Pradesh"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Cheran",
+    "iast": "ceraṉ",
+    "devanagari": "चेरन",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "Chera king.",
+    "components": [
+      {
+        "part": "ceran",
+        "gloss": "Chera"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Tamil Nadu"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Phalak",
+    "iast": "phalak",
+    "stem": "phalaka",
+    "devanagari": "फलक",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "Sky; board.",
+    "components": [
+      {
+        "part": "phalaka",
+        "gloss": "plank"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "medium",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chhavi",
+    "iast": "chavi",
+    "devanagari": "छवि",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "Image; radiance.",
+    "components": [
+      {
+        "part": "chavi",
+        "gloss": "lustre"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chhaya",
+    "iast": "chāyā",
+    "devanagari": "छाया",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "Shadow; shade; wife of Surya.",
+    "components": [
+      {
+        "part": "chāyā",
+        "gloss": "shade"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chhatrapati",
+    "iast": "chatrapati",
+    "devanagari": "छत्रपति",
+    "letter": "C",
+    "syllable_count": 4,
+    "meaning_en": "Lord of the umbrella; king.",
+    "components": [
+      {
+        "part": "chatra",
+        "gloss": "umbrella"
+      },
+      {
+        "part": "pati",
+        "gloss": "lord"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Maharashtra"
+    ],
+    "origin": "attested",
+    "era": "medieval",
+    "confidence": "medium",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Chhagan",
+    "iast": "chagan",
+    "stem": "chagana",
+    "devanagari": "छगन",
+    "letter": "C",
+    "syllable_count": 2,
+    "meaning_en": "Pet form of Chhagan in Gujarat.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Vora",
+    "iast": "vorā",
+    "devanagari": "वोरा",
+    "letter": "V",
+    "syllable_count": 2,
+    "meaning_en": "Trader community name used as a given name.",
+    "components": [
+      {
+        "part": "etymology uncertain"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Gujarat"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dolan",
+    "iast": "dolan",
+    "stem": "dolana",
+    "devanagari": "डोलन",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Swinging.",
+    "components": [
+      {
+        "part": "dolana",
+        "gloss": "swinging"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "West Bengal"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dohit",
+    "iast": "dohit",
+    "stem": "dohita",
+    "devanagari": "दोहित",
+    "letter": "D",
+    "syllable_count": 2,
+    "meaning_en": "Grandson.",
+    "components": [
+      {
+        "part": "dauhitra",
+        "gloss": "daughter's son"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "modern",
+    "confidence": "low",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-050-syllable-gaps2.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
