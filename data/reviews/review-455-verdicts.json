@@ -1,0 +1,74 @@
+[
+ {
+  "name": "Anasuya",
+  "verdict": "keep",
+  "reason": "Classic name of Atri's wife; meaning sound."
+ },
+ {
+  "name": "Devahuti",
+  "verdict": "keep",
+  "reason": "Epic mother of Kapila; correct and auspicious."
+ },
+ {
+  "name": "Shabari",
+  "verdict": "keep",
+  "reason": "Rama devotee; used as a girl's name."
+ },
+ {
+  "name": "Renuka",
+  "verdict": "keep",
+  "reason": "Mother of Parashurama, worshipped as Renuka/Yellamma; commonly given."
+ },
+ {
+  "name": "Menaka",
+  "verdict": "keep",
+  "reason": "Apsara name, in real use; meaning acceptable though some families avoid it."
+ },
+ {
+  "name": "Tilottama",
+  "verdict": "fix",
+  "reason": "Used name, but tila means sesame seed; meaning weak.",
+  "fix": {
+   "name": "Tilottama",
+   "devanagari": "तिलोत्तमा",
+   "iast": "tilottamā",
+   "meaning_en": "Made from the finest sesame-seed-sized particles of beauty; the celestial nymph"
+  }
+ },
+ {
+  "name": "Rati",
+  "verdict": "fix",
+  "reason": "Suitable, but IAST/script have a wrong long vowel; word is rati.",
+  "fix": {
+   "name": "Rati",
+   "devanagari": "रति",
+   "iast": "rati",
+   "meaning_en": "Delight, love; consort of Kama"
+  }
+ },
+ {
+  "name": "Shachi",
+  "verdict": "keep",
+  "reason": "Indra's consort, used as a girl's name; script and IAST correct."
+ },
+ {
+  "name": "Prithvi",
+  "verdict": "keep",
+  "reason": "Earth; commonly given and correct."
+ },
+ {
+  "name": "Madri",
+  "verdict": "keep",
+  "reason": "Pandu's wife; correct and in use."
+ },
+ {
+  "name": "Swaha",
+  "verdict": "reject",
+  "reason": "deity_not_for_person"
+ },
+ {
+  "name": "Sati",
+  "verdict": "reject",
+  "reason": "other"
+ }
+]

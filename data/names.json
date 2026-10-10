@@ -106652,5 +106652,429 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Anasuya",
+    "iast": "anasūyā",
+    "devanagari": "अनसूया",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Free from envy; the sage Atri's devoted wife.",
+    "components": [
+      {
+        "part": "an",
+        "gloss": "without"
+      },
+      {
+        "part": "asūyā",
+        "gloss": "envy"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ramayana",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-087-epic-women.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Devahuti",
+    "iast": "devahūti",
+    "devanagari": "देवहूति",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "Invocation of the gods; mother of the sage Kapila.",
+    "components": [
+      {
+        "part": "deva",
+        "gloss": "god"
+      },
+      {
+        "part": "āhuti",
+        "gloss": "invocation"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Bhagavata Purana",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-087-epic-women.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shabari",
+    "iast": "śabarī",
+    "devanagari": "शबरी",
+    "letter": "S",
+    "syllable_count": 3,
+    "meaning_en": "Devotee of Rama who offered him berries.",
+    "components": [
+      {
+        "part": "śabara",
+        "gloss": "forest dweller"
+      },
+      {
+        "part": "-ī",
+        "gloss": "feminine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Ramayana",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-087-epic-women.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Renuka",
+    "iast": "reṇukā",
+    "devanagari": "रेणुका",
+    "letter": "R",
+    "syllable_count": 3,
+    "meaning_en": "Dust-born; the goddess Yellamma, mother of Parashurama.",
+    "components": [
+      {
+        "part": "reṇu",
+        "gloss": "dust, pollen"
+      },
+      {
+        "part": "-kā",
+        "gloss": "feminine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Karnataka"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-087-epic-women.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Menaka",
+    "iast": "menakā",
+    "devanagari": "मेनका",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Mother of Parvati in some accounts; a celestial nymph.",
+    "components": [
+      {
+        "part": "menakā",
+        "gloss": "celestial nymph"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-087-epic-women.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Tilottama",
+    "iast": "tilottamā",
+    "devanagari": "तिलोत्तमा",
+    "letter": "T",
+    "syllable_count": 4,
+    "meaning_en": "Best of every particle; a celestial nymph.",
+    "components": [
+      {
+        "part": "tila",
+        "gloss": "particle"
+      },
+      {
+        "part": "uttamā",
+        "gloss": "best"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-087-epic-women.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Rati",
+    "iast": "ratī",
+    "devanagari": "रती",
+    "letter": "R",
+    "syllable_count": 2,
+    "meaning_en": "Delight; love; consort of Kama.",
+    "components": [
+      {
+        "part": "rati",
+        "gloss": "pleasure, love"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Kumarasambhava",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-087-epic-women.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Shachi",
+    "iast": "śacī",
+    "devanagari": "शची",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Power; strength; consort of Indra.",
+    "components": [
+      {
+        "part": "śacī",
+        "gloss": "power, might"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Rigveda",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-087-epic-women.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Prithvi",
+    "iast": "pṛthvī",
+    "devanagari": "पृथ्वी",
+    "letter": "P",
+    "syllable_count": 2,
+    "meaning_en": "The broad one; the earth.",
+    "components": [
+      {
+        "part": "pṛthvī",
+        "gloss": "broad, earth"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Rigveda",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-087-epic-women.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Madri",
+    "iast": "mādrī",
+    "devanagari": "माद्री",
+    "letter": "M",
+    "syllable_count": 2,
+    "meaning_en": "Princess of Madra; Pandu's wife.",
+    "components": [
+      {
+        "part": "madra",
+        "gloss": "Madra"
+      },
+      {
+        "part": "-ī",
+        "gloss": "feminine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-087-epic-women.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Swaha",
+    "iast": "svāhā",
+    "devanagari": "स्वाहा",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Hail; the offering; consort of Agni.",
+    "components": [
+      {
+        "part": "svāhā",
+        "gloss": "oblation"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Rigveda",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-087-epic-women.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Sati",
+    "iast": "satī",
+    "devanagari": "सती",
+    "letter": "S",
+    "syllable_count": 2,
+    "meaning_en": "Truthful, virtuous; first consort of Shiva.",
+    "components": [
+      {
+        "part": "sat",
+        "gloss": "truth"
+      },
+      {
+        "part": "-ī",
+        "gloss": "feminine"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Pan-India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Shiva Purana",
+    "gender": "girl",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-087-epic-women.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]
