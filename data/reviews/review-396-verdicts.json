@@ -1,0 +1,373 @@
+[
+ {
+  "name": "Jamadagni",
+  "verdict": "fix",
+  "reason": "Meaning is not a meaning; replace.",
+  "fix": {
+   "meaning_en": "Vedic sage, father of Parashurama; etymology uncertain"
+  }
+ },
+ {
+  "name": "Jananatha",
+  "verdict": "reject",
+  "reason": "title_or_honorific: means king"
+ },
+ {
+  "name": "Jaspreet",
+  "verdict": "fix",
+  "reason": "Used for boys and girls; meaning loosely stated.",
+  "fix": {
+   "gender": "unisex",
+   "meaning_en": "Love of glory and good repute (Punjabi, from yaśas + prīti)"
+  }
+ },
+ {
+  "name": "Jaswant",
+  "verdict": "fix",
+  "reason": "Devanagari does not match the spoken name.",
+  "fix": {
+   "devanagari": "जसवन्त"
+  }
+ },
+ {
+  "name": "Jayakara",
+  "verdict": "fix",
+  "reason": "Devanagari has a stray long vowel; jayakara is the correct form.",
+  "fix": {
+   "devanagari": "जयकर",
+   "iast": "jayakara"
+  }
+ },
+ {
+  "name": "Jitendra",
+  "verdict": "fix",
+  "reason": "Meaning odd; standard sense is conqueror of the senses.",
+  "fix": {
+   "meaning_en": "Conqueror of the senses; victorious lord"
+  }
+ },
+ {
+  "name": "Kakutstha",
+  "verdict": "reject",
+  "reason": "obscure_figure: ancestor/epithet of Rama, rarely given"
+ },
+ {
+  "name": "Kalika",
+  "verdict": "fix",
+  "reason": "Devanagari lacks final long aa for a girl's name.",
+  "fix": {
+   "devanagari": "कालिका",
+   "iast": "kālikā"
+  }
+ },
+ {
+  "name": "Kalki",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: future avatar of Vishnu"
+ },
+ {
+  "name": "Kandan",
+  "verdict": "fix",
+  "reason": "Devanagari should be the plain Tamil-derived spelling.",
+  "fix": {
+   "devanagari": "कन्दन"
+  }
+ },
+ {
+  "name": "Kapritha",
+  "verdict": "reject",
+  "reason": "other: non-meaning 'Name of Indra []', garbled"
+ },
+ {
+  "name": "Karan",
+  "verdict": "fix",
+  "reason": "Devanagari shows Karna; the name Karan is करण.",
+  "fix": {
+   "devanagari": "करण",
+   "iast": "karaṇ",
+   "meaning_en": "Doer, cause (karaṇa); also a popular variant of Karna"
+  }
+ },
+ {
+  "name": "Kardama",
+  "verdict": "reject",
+  "reason": "negative_meaning: word means mud"
+ },
+ {
+  "name": "Kashmira",
+  "verdict": "reject",
+  "reason": "place_or_river: Kashmir"
+ },
+ {
+  "name": "Kesarinandan",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: epithet of Hanuman"
+ },
+ {
+  "name": "Khila",
+  "verdict": "reject",
+  "reason": "other: meaning wrong; khila means supplement or waste land"
+ },
+ {
+  "name": "Krish",
+  "verdict": "fix",
+  "reason": "Devanagari malformed with bare halant.",
+  "fix": {
+   "devanagari": "कृष"
+  }
+ },
+ {
+  "name": "Krishnamurthy",
+  "verdict": "fix",
+  "reason": "State tag is a comma-joined string.",
+  "fix": {
+   "states": [
+    "Tamil Nadu",
+    "Karnataka",
+    "Andhra Pradesh"
+   ]
+  }
+ },
+ {
+  "name": "Kunda",
+  "verdict": "fix",
+  "reason": "Devanagari कुण्ड means pit/bowl; jasmine is कुन्द. Gender fitted to flower name.",
+  "fix": {
+   "devanagari": "कुन्द",
+   "gender": "unisex",
+   "iast": "kunda"
+  }
+ },
+ {
+  "name": "Lokapala",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: world-guardian, a title/class of deities"
+ },
+ {
+  "name": "Mahabahu",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: adjectival epithet 'mighty-armed'"
+ },
+ {
+  "name": "Mahadyuti",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: bare adjective, not a given name"
+ },
+ {
+  "name": "Mahamana",
+  "verdict": "reject",
+  "reason": "title_or_honorific: honorific adjective (great-souled)"
+ },
+ {
+  "name": "Mahashakti",
+  "verdict": "reject",
+  "reason": "deity_not_for_person: shakti is the goddess principle; meaning 'name of Kartikeya' is unsupported"
+ },
+ {
+  "name": "Mahavir",
+  "verdict": "fix",
+  "reason": "Hindu use is valid (Hanuman epithet) but meaning wrongly points to Jain Tirthankara only.",
+  "fix": {
+   "meaning_en": "Great hero; epithet of Hanuman (also the 24th Jain Tirthankara)."
+  }
+ },
+ {
+  "name": "Mahinasa",
+  "verdict": "reject",
+  "reason": "obscure_figure: meaning 'Name of a Rudra' is a non-meaning"
+ },
+ {
+  "name": "Mandaramani",
+  "verdict": "reject",
+  "reason": "markup_or_garbled: gloss itself says doubtful reading (w.r.)"
+ },
+ {
+  "name": "Mandasana",
+  "verdict": "reject",
+  "reason": "obscure_figure: Vedic epithet, not a given name"
+ },
+ {
+  "name": "Manju",
+  "verdict": "fix",
+  "reason": "Manju is used for girls and boys.",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Manojava",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: adjective phrase, epithet-like"
+ },
+ {
+  "name": "Manomay",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: Upanishadic term (kosha)"
+ },
+ {
+  "name": "Mantradruma",
+  "verdict": "reject",
+  "reason": "obscure_figure: Indra of a Manvantara, not a usable name"
+ },
+ {
+  "name": "Milan",
+  "verdict": "fix",
+  "reason": "Milan is used for girls and boys.",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Mrigavyadha",
+  "verdict": "reject",
+  "reason": "demon_or_villain: Rudra name meaning 'deer hunter'; unsuitable"
+ },
+ {
+  "name": "Mrinal",
+  "verdict": "fix",
+  "reason": "Mrinal is used for girls and boys.",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Muktabai",
+  "verdict": "reject",
+  "reason": "obscure_figure: name of a specific saint with honorific -bai; not a given name form"
+ },
+ {
+  "name": "Nabhya",
+  "verdict": "fix",
+  "reason": "Meaning garbled; nābhya means belonging to the navel or hub, central.",
+  "fix": {
+   "meaning_en": "Belonging to the navel or hub; central"
+  }
+ },
+ {
+  "name": "Nachiket",
+  "verdict": "fix",
+  "reason": "Meaning names a figure instead of explaining; etymology uncertain.",
+  "fix": {
+   "meaning_en": "The young seeker of the Katha Upanishad who questioned Yama about death; etymology uncertain"
+  }
+ },
+ {
+  "name": "Nagarjuna",
+  "verdict": "fix",
+  "reason": "Meaning centred on Buddhist philosopher; popular Telugu name, give plain meaning.",
+  "fix": {
+   "meaning_en": "Bright serpent (nāga + arjuna, white or bright); a popular Telugu given name"
+  }
+ },
+ {
+  "name": "Nalayani",
+  "verdict": "reject",
+  "reason": "obscure_figure: Mahabharata epithet with uncertain etymology, non-meaning."
+ },
+ {
+  "name": "Namrata",
+  "verdict": "fix",
+  "reason": "State tag Madhya Pradesh too narrow for a pan-Indian name.",
+  "fix": {
+   "states": [
+    "All India"
+   ]
+  }
+ },
+ {
+  "name": "Nandirudra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: invented Shiva-form name with vague meaning."
+ },
+ {
+  "name": "Navika",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: means boatwoman/sailor, not a proper name."
+ },
+ {
+  "name": "Naya",
+  "verdict": "fix",
+  "reason": "Modern usage is girl or unisex; Naya is not a boy-only name.",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Nikama",
+  "verdict": "reject",
+  "reason": "obscure_figure: only a name of an Agni."
+ },
+ {
+  "name": "Nilavastra",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Balarama epithet, obscure."
+ },
+ {
+  "name": "Nirmalya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: discarded temple offerings, not auspicious for a person."
+ },
+ {
+  "name": "Nirmay",
+  "verdict": "fix",
+  "reason": "Parts nir + maya; give clearer meaning.",
+  "fix": {
+   "meaning_en": "Free from illusion or deceit (nir + māyā)"
+  }
+ },
+ {
+  "name": "Nirvan",
+  "verdict": "fix",
+  "reason": "Parts mis-split; meaning should be plain.",
+  "fix": {
+   "meaning_en": "Liberation; extinction of desire and suffering"
+  }
+ },
+ {
+  "name": "Nrupatunga",
+  "verdict": "reject",
+  "reason": "title_or_honorific: royal title of a Rashtrakuta emperor."
+ },
+ {
+  "name": "Nutan",
+  "verdict": "fix",
+  "reason": "Nutan is used for both boys and girls.",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Ojishtha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: bare superlative adjective."
+ },
+ {
+  "name": "Patikhechara",
+  "verdict": "reject",
+  "reason": "markup_or_garbled: meaning garbled, obscure epithet."
+ },
+ {
+  "name": "Pavitra",
+  "verdict": "fix",
+  "reason": "Meaning wrong: pavitra means pure or holy, and the name is unisex.",
+  "fix": {
+   "meaning_en": "Pure, holy, sacred",
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Pinakavasa",
+  "verdict": "reject",
+  "reason": "markup_or_garbled: garbled meaning, obscure Rudra epithet."
+ },
+ {
+  "name": "Pitrirupa",
+  "verdict": "reject",
+  "reason": "obscure_figure: only a name of a Rudra."
+ },
+ {
+  "name": "Prabhu",
+  "verdict": "reject",
+  "reason": "title_or_honorific: means lord/master."
+ }
+]

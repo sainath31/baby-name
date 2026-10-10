@@ -1,0 +1,782 @@
+[
+ {
+  "name": "Murari",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Murugan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Muruganandam",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Muthu",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nabhya",
+  "verdict": "fix",
+  "reason": "Meaning garbled; nābhya means belonging to the navel or hub, central.",
+  "fix": {
+   "meaning_en": "Belonging to the navel or hub; central"
+  }
+ },
+ {
+  "name": "Nachiket",
+  "verdict": "fix",
+  "reason": "Meaning names a figure instead of explaining; etymology uncertain.",
+  "fix": {
+   "meaning_en": "The young seeker of the Katha Upanishad who questioned Yama about death; etymology uncertain"
+  }
+ },
+ {
+  "name": "Nada",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nagabhushan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nagaraj",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nagarajan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nagarjuna",
+  "verdict": "fix",
+  "reason": "Meaning centred on Buddhist philosopher; popular Telugu name, give plain meaning.",
+  "fix": {
+   "meaning_en": "Bright serpent (nāga + arjuna, white or bright); a popular Telugu given name"
+  }
+ },
+ {
+  "name": "Nagendra",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nagesh",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nageswara",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Naitik",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nakul",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nal",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nalayani",
+  "verdict": "reject",
+  "reason": "obscure_figure: Mahabharata epithet with uncertain etymology, non-meaning."
+ },
+ {
+  "name": "Nalini",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Naman",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Namdev",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Namrata",
+  "verdict": "fix",
+  "reason": "State tag Madhya Pradesh too narrow for a pan-Indian name.",
+  "fix": {
+   "states": [
+    "All India"
+   ]
+  }
+ },
+ {
+  "name": "Nanda",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nandan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nandi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nandini",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nandirudra",
+  "verdict": "reject",
+  "reason": "nonsensical_compound: invented Shiva-form name with vague meaning."
+ },
+ {
+  "name": "Nandish",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nandkishore",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nandlal",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Narad",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Narahari",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Narasimha",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Narasimhan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Narayan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Narayanan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Narayani",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Narendra",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Naresh",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Narottama",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nasatya",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nataraj",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nateshvara",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nava",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Navdeep",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Navika",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: means boatwoman/sailor, not a proper name."
+ },
+ {
+  "name": "Navin",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Navneet",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Navya",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Naya",
+  "verdict": "fix",
+  "reason": "Modern usage is girl or unisex; Naya is not a boy-only name.",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Nayan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Neel",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Neelima",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Neelkanth",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Neeraj",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nikama",
+  "verdict": "reject",
+  "reason": "obscure_figure: only a name of an Agni."
+ },
+ {
+  "name": "Nikhil",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nikhilesh",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nikunj",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nilamadhava",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nilanjan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nilavastra",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: Balarama epithet, obscure."
+ },
+ {
+  "name": "Nilesh",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nimai",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nimi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Ninad",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nirali",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Niramaya",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Niranjan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nirav",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nirmal",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nirmalya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: discarded temple offerings, not auspicious for a person."
+ },
+ {
+  "name": "Nirmay",
+  "verdict": "fix",
+  "reason": "Parts nir + maya; give clearer meaning.",
+  "fix": {
+   "meaning_en": "Free from illusion or deceit (nir + māyā)"
+  }
+ },
+ {
+  "name": "Nirmit",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nirmoha",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nirvan",
+  "verdict": "fix",
+  "reason": "Parts mis-split; meaning should be plain.",
+  "fix": {
+   "meaning_en": "Liberation; extinction of desire and suffering"
+  }
+ },
+ {
+  "name": "Nisha",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nishakar",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nishchal",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nishith",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nithya",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nityananda",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nivritti",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nripendra",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nrupatunga",
+  "verdict": "reject",
+  "reason": "title_or_honorific: royal title of a Rashtrakuta emperor."
+ },
+ {
+  "name": "Nupur",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Nutan",
+  "verdict": "fix",
+  "reason": "Nutan is used for both boys and girls.",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Ojas",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Ojasvi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Ojishtha",
+  "verdict": "reject",
+  "reason": "compound_or_adjective: bare superlative adjective."
+ },
+ {
+  "name": "Om",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Omkar",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Omprakash",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Padmanabh",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Padmaraja",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Padmini",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Palaniappan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pallav",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pallavi",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pandurang",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pankaj",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Parag",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Parakrama",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Param",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Parameshwar",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Parameshwaran",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Paras",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Parashuram",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Paresh",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Parijat",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Parikshit",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Parthasarathy",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Parv",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Parvati",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pashupati",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Patikhechara",
+  "verdict": "reject",
+  "reason": "markup_or_garbled: meaning garbled, obscure epithet."
+ },
+ {
+  "name": "Pavak",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pavamana",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pavan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pavanputra",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pavitra",
+  "verdict": "fix",
+  "reason": "Meaning wrong: pavitra means pure or holy, and the name is unisex.",
+  "fix": {
+   "meaning_en": "Pure, holy, sacred",
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Periyaswamy",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Perumal",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Phalguna",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Phanish",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pihu",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pinak",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pinakavasa",
+  "verdict": "reject",
+  "reason": "markup_or_garbled: garbled meaning, obscure Rudra epithet."
+ },
+ {
+  "name": "Pitambar",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pitrirupa",
+  "verdict": "reject",
+  "reason": "obscure_figure: only a name of a Rudra."
+ },
+ {
+  "name": "Piyush",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pooja",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pooran",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pooranchand",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Prabal",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Prabha",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Prabhakar",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Prabhat",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Prabhava",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Prabhjot",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Prabhu",
+  "verdict": "reject",
+  "reason": "title_or_honorific: means lord/master."
+ },
+ {
+  "name": "Prabhuta",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pradip",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pradnesh",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pradyot",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pradyumna",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Prafulla",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Pragyan",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Prahlad",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ },
+ {
+  "name": "Prajakta",
+  "verdict": "keep",
+  "reason": "Sound name, meaning and tags acceptable."
+ }
+]

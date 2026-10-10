@@ -1,0 +1,776 @@
+[
+ {
+  "name": "Prajapati",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prakash",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prakhar",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prakriti",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pramati",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pramila",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pramit",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pramod",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pran Nath",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prana",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: breath, not a given name"
+ },
+ {
+  "name": "Pranav",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pranay",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pranit",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pranjal",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prarthana",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prasad",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prasanna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prasenjit",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prasham",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prashant",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pratap",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pratham",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prathamesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prathima",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prathita",
+  "verdict": "reject",
+  "reason": "obscure_figure: wrong/obscure meaning (Manu name)"
+ },
+ {
+  "name": "Pratibha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pratik",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pratishrava",
+  "verdict": "reject",
+  "reason": "obscure_figure: Rudra name from a cakra scheme"
+ },
+ {
+  "name": "Pratosha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pratyush",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pravaresha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pravin",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pravira",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prayag",
+  "verdict": "reject",
+  "reason": "place_or_river: Prayag is a place"
+ },
+ {
+  "name": "Prem",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prem Lata",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Premakara",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prerna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prisha",
+  "verdict": "fix",
+  "reason": "Beloved, dear (modern name from priya); etymology uncertain",
+  "fix": {
+   "meaning_en": "Beloved, dear (modern name from priya); etymology uncertain"
+  }
+ },
+ {
+  "name": "Pritam",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pritha",
+  "verdict": "fix",
+  "reason": "Devanagari should be पृथा",
+  "fix": {
+   "devanagari": "पृथा"
+  }
+ },
+ {
+  "name": "Prithu",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Prithviraj",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Priya",
+  "verdict": "fix",
+  "reason": "Priya is chiefly a girl's name",
+  "fix": {
+   "gender": "girl"
+  }
+ },
+ {
+  "name": "Priyadarshini",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Priyanka",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pugazh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pulkit",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pullaiah",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Punaradheya",
+  "verdict": "reject",
+  "reason": "common_noun_or_technical_term: a Soma rite"
+ },
+ {
+  "name": "Punarvasu",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pundalik",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pundarika",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pundarikaksha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Punit",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Puranasimha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: obscure epithet"
+ },
+ {
+  "name": "Purandara",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Purnendu",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Purushottam",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Puruvasu",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pushkala",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pushkar",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pushkaraksha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pushpa",
+  "verdict": "fix",
+  "reason": "Pushpa used for both genders",
+  "fix": {
+   "gender": "unisex"
+  }
+ },
+ {
+  "name": "Pushpak",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pushpanjali",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pushpendra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pushti",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Pushtimati",
+  "verdict": "reject",
+  "reason": "other: feminine -mati form, Agni epithet, non-meaning"
+ },
+ {
+  "name": "Rachana",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rachit",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Radha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Radhakant",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Raghav",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Raghavan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Raghavendra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Raghu",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Raghunandan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Raghunath",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Raghupati",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Raghuvir",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rahul",
+  "verdict": "fix",
+  "reason": "Meaning unclear; Rahul is popular, gloss honestly",
+  "fix": {
+   "meaning_en": "Capable, efficient (popular gloss); also Rahula, son of the Buddha; etymology uncertain"
+  }
+ },
+ {
+  "name": "Raibhya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Raivata",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Raj",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Raj Kamal",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajalakshmi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajanna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajarajeshwari",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajaram",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajasekhar",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajasimha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajat",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajatadyuti",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: obscure Hanuman epithet"
+ },
+ {
+  "name": "Rajeev",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajendra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajeshwar",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajeshwari",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajitha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajkumar",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajnath",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajveer",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rajyalakshmi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Raka",
+  "verdict": "fix",
+  "reason": "Devanagari wrong, should be राका",
+  "fix": {
+   "devanagari": "राका"
+  }
+ },
+ {
+  "name": "Rakesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rakshit",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ram Charan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramachandran",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramakant",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramakrishna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Raman",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramanuja",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramanujam",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramchandra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramdas",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramesh",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rameshwar",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramkumar",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramnath",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rampal",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramprasad",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramu",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramulu",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ramya",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ranganath",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ranganathan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rangaswamy",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rani",
+  "verdict": "reject",
+  "reason": "title_or_honorific: Rani means queen, common noun"
+ },
+ {
+  "name": "Ranjan",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ranjit",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rantidev",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ranveer",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rashmi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rasik",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rathna",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ratna Prabha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ratnavali",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ravi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ravi Teja",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ravikiran",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ravindra",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Ravishankar",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Rayishtha",
+  "verdict": "reject",
+  "reason": "epithet_not_given_name: obscure Vedic epithet, vague meaning"
+ },
+ {
+  "name": "Rekha",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Renuka",
+  "verdict": "fix",
+  "reason": "Devanagari should be रेणुका for feminine",
+  "fix": {
+   "devanagari": "रेणुका"
+  }
+ },
+ {
+  "name": "Revant",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Revathi",
+  "verdict": "keep",
+  "reason": "Suitable name with acceptable meaning"
+ },
+ {
+  "name": "Reyansh",
+  "verdict": "fix",
+  "reason": "Parts re+aṃśa invented; modern coinage",
+  "fix": {
+   "meaning_en": "Modern name, glossed 'ray of light'; etymology uncertain"
+  }
+ }
+]
