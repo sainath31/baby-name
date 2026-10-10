@@ -63792,5 +63792,322 @@
         "license": "original compilation"
       }
     ]
+  },
+  {
+    "name": "Yayati",
+    "iast": "yayāti",
+    "devanagari": "ययाति",
+    "letter": "Y",
+    "syllable_count": 3,
+    "meaning_en": "Ancestor of the Kuru and Yadu lines.",
+    "components": [
+      {
+        "part": "yayāti",
+        "gloss": "king"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-063-epic.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Pururavas",
+    "iast": "purūravas",
+    "devanagari": "पुरूरवस",
+    "letter": "P",
+    "syllable_count": 4,
+    "meaning_en": "Ancestor of the lunar dynasty.",
+    "components": [
+      {
+        "part": "puru",
+        "gloss": "much"
+      },
+      {
+        "part": "ravas",
+        "gloss": "cry"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Rigveda",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-063-epic.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Mandhata",
+    "iast": "māndhātṛ",
+    "devanagari": "मान्धाता",
+    "letter": "M",
+    "syllable_count": 3,
+    "meaning_en": "Great emperor of the Ikshvaku line.",
+    "components": [
+      {
+        "part": "māndhātṛ",
+        "gloss": "name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Puranas",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-063-epic.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Jambavan",
+    "iast": "jāmbavān",
+    "devanagari": "जाम्बवान",
+    "letter": "J",
+    "syllable_count": 3,
+    "meaning_en": "King of bears.",
+    "components": [
+      {
+        "part": "jāmbavat",
+        "gloss": "name"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Ramayana",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-063-epic.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Janamejaya",
+    "iast": "janamejaya",
+    "devanagari": "जनमेजय",
+    "letter": "J",
+    "syllable_count": 5,
+    "meaning_en": "Who makes people tremble; Parikshit's son.",
+    "components": [
+      {
+        "part": "jana",
+        "gloss": "people"
+      },
+      {
+        "part": "ejaya",
+        "gloss": "shaking"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-063-epic.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Babruvahana",
+    "iast": "babhruvāhana",
+    "devanagari": "बभ्रुवाहन",
+    "letter": "B",
+    "syllable_count": 5,
+    "meaning_en": "Arjuna's son from Manipur.",
+    "components": [
+      {
+        "part": "babhru",
+        "gloss": "brown"
+      },
+      {
+        "part": "vāhana",
+        "gloss": "vehicle"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "Manipur"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-063-epic.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Dhrishtadyumna",
+    "iast": "dhṛṣṭadyumna",
+    "devanagari": "धृष्टद्युम्न",
+    "letter": "D",
+    "syllable_count": 4,
+    "meaning_en": "Bold and splendid; Draupadi's brother.",
+    "components": [
+      {
+        "part": "dhṛṣṭa",
+        "gloss": "bold"
+      },
+      {
+        "part": "dyumna",
+        "gloss": "splendour"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-063-epic.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Ashwatthama",
+    "iast": "aśvatthāman",
+    "devanagari": "अश्वत्थामा",
+    "letter": "A",
+    "syllable_count": 4,
+    "meaning_en": "Having the strength of a horse; Drona's son.",
+    "components": [
+      {
+        "part": "aśva",
+        "gloss": "horse"
+      },
+      {
+        "part": "sthāman",
+        "gloss": "strength"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "medium",
+    "deity_epic_ref": "Mahabharata",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-063-epic.json",
+        "license": "original compilation"
+      }
+    ]
+  },
+  {
+    "name": "Atri",
+    "iast": "atri",
+    "devanagari": "अत्रि",
+    "letter": "A",
+    "syllable_count": 2,
+    "meaning_en": "One of the seven sages.",
+    "components": [
+      {
+        "part": "atri",
+        "gloss": "sage"
+      }
+    ],
+    "pairs_with": {
+      "prefixes": [],
+      "suffixes": []
+    },
+    "compounds": [],
+    "states": [
+      "All India"
+    ],
+    "origin": "attested",
+    "era": "classical",
+    "confidence": "high",
+    "deity_epic_ref": "Rigveda",
+    "gender": "boy",
+    "sources": [
+      {
+        "title": "Standard Sanskrit etymology (cf. Monier-Williams); compiled by hand, batch batch-063-epic.json",
+        "license": "original compilation"
+      }
+    ]
   }
 ]

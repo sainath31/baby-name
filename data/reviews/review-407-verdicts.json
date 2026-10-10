@@ -1,0 +1,9 @@
+[
+{"name":"Ashwatthama","verdict":"reject","reason":"demon_or_villain"},
+{"name":"Babruvahana","verdict":"fix","reason":"Meaning was only a relationship description; gave a literal gloss.","fix":{"meaning_en":"One with tawny (brown) steeds or vehicle; Arjuna's son of Manipur (etymology of babhru-vāhana, uncertain in detail)"}},
+{"name":"Dhrishtadyumna","verdict":"keep","reason":"Pandava commander, Draupadi's brother; correct parts dhṛṣṭa (bold) + dyumna (splendour)."},
+{"name":"Jambavan","verdict":"fix","reason":"Meaning was a title, not a meaning of the name.","fix":{"meaning_en":"Wise and mighty bear-king of the Ramayana, ally of Rama (name from Jambavat; etymology uncertain)"}},
+{"name":"Janamejaya","verdict":"keep","reason":"Epic king, Parikshit's son; traditional gloss acceptable, though nuance uncertain."},
+{"name":"Mandhata","verdict":"fix","reason":"iast field was the stem form, not the spoken name.","fix":{"iast":"māndhātā","meaning_en":"Great Ikshvaku emperor of the Puranas; etymology uncertain"}},
+{"name":"Pururavas","verdict":"fix","reason":"Spoken Hindi form is Pururava; Devanagari had a halant-less stem form and meaning was only a lineage note.","fix":{"name":"Pururava","devanagari":"पुरूरवा","iast":"purūravā","meaning_en":"Very renowned or loud-crying (puru 'much' + rava 'cry, fame'); etymology uncertain"}}
+]
