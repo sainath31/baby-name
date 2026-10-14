@@ -138511,7 +138511,7 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Bengali form related to the name of the painter Abanindranath Tagore (founder of the Bengal School of Art)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -138519,15 +138519,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abanindranath Tagore - Wikipedia (https://en.wikipedia.org/wiki/Abanindranath_Tagore)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -138536,7 +138535,7 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
+    "meaning_en": "Name of Abanindranath Tagore (1871-1951), renowned Indian painter and founder of the Bengal School of Art",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -138544,15 +138543,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abanindranath Tagore - Wikipedia (https://en.wikipedia.org/wiki/Abanindranath_Tagore)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -138882,10 +138880,10 @@
   {
     "name": "Abdhi",
     "iast": "abdhi",
-    "devanagari": "",
+    "devanagari": "अब्धि",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Ocean; also figuratively, and the name of an attendant of the Sun",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -138893,16 +138891,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abdhi - wisdomlib (https://www.wisdomlib.org/definition/abdhi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Abdhija",
@@ -139325,11 +139322,11 @@
   },
   {
     "name": "Abhaas",
-    "iast": "abhaas",
-    "devanagari": "",
+    "iast": "ābhāsa",
+    "devanagari": "आभास",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Appearance, semblance, reflection, glimmer",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -139337,15 +139334,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhasa, Ābhāsa, Abhasha - wisdomlib (https://www.wisdomlib.org/definition/abhasha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -139374,11 +139370,11 @@
   },
   {
     "name": "Abhai",
-    "iast": "abhai",
-    "devanagari": "",
+    "iast": "abhaya",
+    "devanagari": "अभय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Fearless, free from fear",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -139386,15 +139382,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhay - wisdomlib (https://www.wisdomlib.org/definition/abhay)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -139607,27 +139602,35 @@
   },
   {
     "name": "Abhang",
-    "iast": "abhang",
-    "devanagari": "",
+    "iast": "abhaṅga",
+    "devanagari": "अभंग",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "A genre of Marathi devotional poetry sung in praise of Vithoba, from 'a-'(not)+'bhaṅga'(broken), i.e. unbroken/continuous",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "bhaṅga",
+        "gloss": "breaking"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhanga, Abhamga, Abhang - wisdomlib (https://www.wisdomlib.org/definition/abhanga)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -139661,11 +139664,11 @@
   },
   {
     "name": "Abharan",
-    "iast": "abharan",
-    "devanagari": "",
+    "iast": "ābharaṇa",
+    "devanagari": "आभरण",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Ornament, decoration, adornment",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -139673,19 +139676,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abharana, Ābharaṇa - wisdomlib (https://www.wisdomlib.org/definition/abharana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -139765,11 +139763,11 @@
   },
   {
     "name": "Abhasa",
-    "iast": "abhasa",
-    "devanagari": "",
+    "iast": "ābhāsa",
+    "devanagari": "आभास",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Appearance, semblance, reflection, glimmer",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -139777,19 +139775,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhasa, Ābhāsa, Abhasha - wisdomlib (https://www.wisdomlib.org/definition/abhasha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -139819,11 +139812,11 @@
   },
   {
     "name": "Abhash",
-    "iast": "abhash",
-    "devanagari": "",
+    "iast": "ābhāṣa",
+    "devanagari": "आभाष",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Speech, address, conversation (from the root related to appearance/shining)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -139831,24 +139824,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhash, Ābhāṣ, Ābhās - wisdomlib (https://www.wisdomlib.org/definition/abhash)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhasvara",
-    "iast": "abhasvara",
-    "devanagari": "",
+    "iast": "ābhāsvara",
+    "devanagari": "आभास्वर",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "'Shining, radiant'; name of a class of deities (one of nine Gana classes attached to Shiva in the Puranas, and a Buddhist deva realm)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -139856,19 +139848,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhasvara, Ābhāsvara - wisdomlib (https://wisdomlib.org/definition/abhasvara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
