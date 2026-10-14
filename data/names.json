@@ -140047,77 +140047,97 @@
   },
   {
     "name": "Abhayad",
-    "iast": "abhayad",
-    "devanagari": "",
+    "iast": "abhayada",
+    "devanagari": "अभयद",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Giver of fearlessness'; one of the 56 Vinayakas worshipped at Kashi (Varanasi)",
+    "components": [
+      {
+        "part": "abhaya",
+        "gloss": "fearlessness"
+      },
+      {
+        "part": "da",
+        "gloss": "giver"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhayada, Abhaya-da - wisdomlib (https://www.wisdomlib.org/definition/abhayada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhayada",
     "iast": "abhayada",
-    "devanagari": "",
+    "devanagari": "अभयद",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Giver of fearlessness'; one of the 56 Vinayakas worshipped at Kashi (Varanasi)",
+    "components": [
+      {
+        "part": "abhaya",
+        "gloss": "fearlessness"
+      },
+      {
+        "part": "da",
+        "gloss": "giver"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhayada, Abhaya-da - wisdomlib (https://www.wisdomlib.org/definition/abhayada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhayam",
     "iast": "abhayam",
-    "devanagari": "",
+    "devanagari": "अभयम्",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Fearlessness, safety, protection",
+    "components": [
+      {
+        "part": "abhaya",
+        "gloss": "fearless"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhay - wisdomlib (https://www.wisdomlib.org/definition/abhay)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -140154,28 +140174,32 @@
     "iast": "abhayananda",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Bliss of fearlessness', compound of two independently confirmed roots 'abhaya'(fearless) and 'ananda'(bliss)",
+    "components": [
+      {
+        "part": "abhaya",
+        "gloss": "fearless"
+      },
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -140263,32 +140287,36 @@
   },
   {
     "name": "Abhaya Prada",
-    "iast": "abhaya prada",
-    "devanagari": "",
+    "iast": "abhayaprada",
+    "devanagari": "अभयप्रद",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'One who bestows protection/fearlessness'",
+    "components": [
+      {
+        "part": "abhaya",
+        "gloss": "fearlessness"
+      },
+      {
+        "part": "prada",
+        "gloss": "giving, bestowing"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhayaprada, Abhaya-prada - wisdomlib (https://www.wisdomlib.org/definition/abhayaprada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "boy",
+    "gender": "girl",
     "alt_spellings": [
       "Abhayaprada"
     ]
@@ -140298,24 +140326,32 @@
     "iast": "abhayasimha",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Fearless lion'; name of Abhai Singh of Marwar (1702-1749), an 18th-century Maharaja of Jodhpur",
+    "components": [
+      {
+        "part": "abhaya",
+        "gloss": "fearless"
+      },
+      {
+        "part": "siṃha",
+        "gloss": "lion"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhai Singh of Marwar - Wikipedia (https://en.wikipedia.org/wiki/Abhai_Singh_of_Marwar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -140323,28 +140359,32 @@
     "iast": "abhayasinha",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Variant spelling of Abhayasimha: 'fearless lion', name of Abhai Singh of Marwar",
+    "components": [
+      {
+        "part": "abhaya",
+        "gloss": "fearless"
+      },
+      {
+        "part": "siṃha",
+        "gloss": "lion"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhai Singh of Marwar - Wikipedia (https://en.wikipedia.org/wiki/Abhai_Singh_of_Marwar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -140453,27 +140493,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Abhayasimha: 'fearless lion', name of Abhai Singh of Marwar",
+    "components": [
+      {
+        "part": "abhaya",
+        "gloss": "fearless"
+      },
+      {
+        "part": "siṃha",
+        "gloss": "lion"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhai Singh of Marwar - Wikipedia (https://en.wikipedia.org/wiki/Abhai_Singh_of_Marwar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -140561,11 +140605,11 @@
   },
   {
     "name": "Abheera",
-    "iast": "abheera",
-    "devanagari": "",
+    "iast": "ābhīra",
+    "devanagari": "आभीर",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a pastoral/cowherd tribe or caste; epithet associated with Krishna as cowherd",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -140573,16 +140617,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhira, Ābhīra - wisdomlib (https://www.wisdomlib.org/definition/abhira)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Abheeran",
@@ -140686,11 +140729,11 @@
   },
   {
     "name": "Abheesht",
-    "iast": "abheesht",
-    "devanagari": "",
+    "iast": "abhīṣṭa",
+    "devanagari": "अभीष्ट",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Wished, desired, dear, favourite",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -140698,24 +140741,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhishta, Abhīṣṭa - wisdomlib (https://www.wisdomlib.org/definition/abhishta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abheeshtha",
-    "iast": "abheeshtha",
-    "devanagari": "",
+    "iast": "abhīṣṭa",
+    "devanagari": "अभीष्ट",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Abheesht: wished, desired, dear, favourite",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -140723,24 +140765,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhishta, Abhīṣṭa - wisdomlib (https://www.wisdomlib.org/definition/abhishta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abheest",
-    "iast": "abheest",
-    "devanagari": "",
+    "iast": "abhīṣṭa",
+    "devanagari": "अभीष्ट",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Abheesht: wished, desired, dear, favourite",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -140748,15 +140789,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhishta, Abhīṣṭa - wisdomlib (https://www.wisdomlib.org/definition/abhishta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -140811,11 +140851,11 @@
   },
   {
     "name": "Abheri",
-    "iast": "abheri",
-    "devanagari": "",
+    "iast": "ābherī",
+    "devanagari": "आभेरी",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a raga (musical mode) in Carnatic/Hindustani classical music",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -140823,28 +140863,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abheri raga - Wikipedia (https://en.wikipedia.org/wiki/Abheri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Abhey",
-    "iast": "abhey",
-    "devanagari": "",
+    "iast": "abhaya",
+    "devanagari": "अभय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Fearless, free from fear",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -140852,19 +140887,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhay - wisdomlib (https://www.wisdomlib.org/definition/abhay)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -140902,11 +140932,11 @@
   },
   {
     "name": "Abhibha",
-    "iast": "abhibha",
-    "devanagari": "",
+    "iast": "abhibhā",
+    "devanagari": "अभिभा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "'To glitter or shine'; also 'apparition, phenomenon, an inauspicious omen', or 'calamity, state of being overpowered'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -140914,15 +140944,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhibha, Abhibhā - wisdomlib (https://www.wisdomlib.org/definition/abhibha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -140981,11 +141010,11 @@
   },
   {
     "name": "Abhibhu",
-    "iast": "abhibhu",
-    "devanagari": "",
+    "iast": "abhibhū",
+    "devanagari": "अभिभू",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "One who overpowers or surpasses others; a conqueror",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -140993,19 +141022,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhibhu, Abhibhū - wisdomlib (https://www.wisdomlib.org/definition/abhibhu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -141089,10 +141113,10 @@
   {
     "name": "Abhida",
     "iast": "abhida",
-    "devanagari": "",
+    "devanagari": "अभिद",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Giving, bestowing (related to 'abhidā')",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -141100,15 +141124,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhida - wisdomlib (https://www.wisdomlib.org/definition/abhida)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -141138,11 +141161,11 @@
   },
   {
     "name": "Abhidha",
-    "iast": "abhidha",
-    "devanagari": "",
+    "iast": "abhidhā",
+    "devanagari": "अभिधा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "The literal/primary denotative power of a word; a key term in Sanskrit poetics (alankara-shastra)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -141150,44 +141173,43 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhidha, Abhidhā, Ābhidhā - wisdomlib (https://www.wisdomlib.org/definition/abhidha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Abhidhan",
-    "iast": "abhidhan",
-    "devanagari": "",
+    "iast": "abhidhāna",
+    "devanagari": "अभिधान",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Naming, designation, a dictionary/lexicon (related to 'abhidhā')",
+    "components": [
+      {
+        "part": "abhidhā",
+        "gloss": "denotation, literal meaning"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhidha, Abhidhā, Ābhidhā - wisdomlib (https://www.wisdomlib.org/definition/abhidha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -141217,36 +141239,44 @@
   },
   {
     "name": "Abhidharm",
-    "iast": "abhidharm",
-    "devanagari": "",
+    "iast": "abhidharma",
+    "devanagari": "अभिधर्म",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Higher/upper law'; the branch of Buddhist philosophical literature dealing with metaphysics, phenomenology, and doctrine (Abhidharma Pitaka)",
+    "components": [
+      {
+        "part": "abhi",
+        "gloss": "higher, upon"
+      },
+      {
+        "part": "dharma",
+        "gloss": "law, teaching"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhidhamma, Abhidharma - wisdomlib (https://de.wisdomlib.org/definition/abhidhamma)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhidhya",
-    "iast": "abhidhya",
-    "devanagari": "",
+    "iast": "abhidhyā",
+    "devanagari": "अभिध्या",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Covetousness, longing, meditation/contemplation depending on context",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -141254,20 +141284,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhidhya, Abhidhyā - wisdomlib (https://de.wisdomlib.org/definition/abhidhya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Abhidhyan",
