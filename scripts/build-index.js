@@ -82,6 +82,7 @@ const compact = (n) => {
   if (n.kind) o.k = n.kind;
   if (n.curation === 'unreviewed' && !n.reviewed) o.u = 1;   // names that got a reviewer verdict are reviewed, whatever their origin
   if (n.origin === 'constructed') o.cn = 1;
+  if (n.review_status === 'pending') o.rp = 1;   // bulk-crawled candidate not yet pandit-reviewed; distinct from the dictionary-import 'Unreviewed' tag above
   if (n.alt_spellings?.length) o.al = n.alt_spellings;
   if (n.gender === 'unisex') o.gu = 1;
   if (n.gender === 'girl') o.gg = 1;

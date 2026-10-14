@@ -149,7 +149,7 @@ function card(r) {
       h('span', { class: 'card-title' }, h('span', { class: 'card-name', text: r.n }), r.d && h('span', { class: 'deva', lang: 'sa', text: r.d }), r.te && h('span', { class: 'telu', lang: 'te', text: r.te }), r.kn && h('span', { class: 'knda', lang: 'kn', text: r.kn })),
       h('span', { class: 'iast', text: r.i }),
       h('span', { class: 'card-meaning', text: r.m || '' }),
-      h('span', { class: 'tags' }, tagsFor(r).map((t) => h('span', { class: 'tag', text: t })), (r.cn ? h('span', { class: 'tag warn', text: 'Constructed' }) : r.u && h('span', { class: 'tag warn', text: 'Unreviewed' })))),
+      h('span', { class: 'tags' }, tagsFor(r).map((t) => h('span', { class: 'tag', text: t })), (r.cn ? h('span', { class: 'tag warn', text: 'Constructed' }) : r.rp ? h('span', { class: 'tag warn', text: 'Review pending' }) : r.u && h('span', { class: 'tag warn', text: 'Unreviewed' })))),
     favButton(r));
 }
 $('results').addEventListener('click', (e) => {
@@ -423,7 +423,7 @@ function renderDetail(r) {
     h('div', { class: 'd-iast', text: r.i }),
     r.al?.length && h('div', { class: 'd-iast', text: `Also spelled: ${r.al.join(', ')}` }),
     h('p', { class: 'd-meaning', text: r.m || 'Meaning not recorded.' }),
-    h('div', { class: 'tags' }, meta.map((t) => h('span', { class: 'tag', text: t })), (r.cn ? h('span', { class: 'tag warn', text: 'Constructed' }) : r.u && h('span', { class: 'tag warn', text: 'Unreviewed' }))),
+    h('div', { class: 'tags' }, meta.map((t) => h('span', { class: 'tag', text: t })), (r.cn ? h('span', { class: 'tag warn', text: 'Constructed' }) : r.rp ? h('span', { class: 'tag warn', text: 'Review pending' }) : r.u && h('span', { class: 'tag warn', text: 'Unreviewed' }))),
     h('div', { class: 'd-actions' }, favBtn, shareBtn),
     r.st?.length && section('Used in', h('div', { class: 'pill-row' }, r.st.map((s) => h('span', { class: 'pill', text: s })))),
     r.r && section('Reference', h('p', { text: r.r })),

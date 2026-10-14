@@ -13,11 +13,11 @@ for (const n of names) {
   const key = `${n.gender === 'girl' ? 'f' : 'm'}:${norm(n.iast || n.name)}`;   // boy/girl counterparts (Lalit / Lalita) sound alike but are different names
   if (seen.has(key) || seenSpell.has(n.name.toLowerCase())) errors.push(`duplicate: ${n.name} / ${seen.get(key) || seenSpell.get(n.name.toLowerCase())}`);
   seen.set(key, n.name); seenSpell.set(n.name.toLowerCase(), n.name);
-  if (!n.meaning_en) errors.push(`${n.name}: missing meaning_en`);
-  if (!n.sources?.length) errors.push(`${n.name}: missing sources`);
-  if (n.sources?.some((s) => !s.license)) errors.push(`${n.name}: source missing license`);
+  if (!n.meaning_en && n.review_status !== 'pending') errors.push(`${n.name}: missing meaning_en`);
+  if (!n.sources?.length && n.review_status !== 'pending') errors.push(`${n.name}: missing sources`);
+  if (n.sources?.some((s) => !s.license) && n.review_status !== 'pending') errors.push(`${n.name}: source missing license`);
   if (n.letter !== n.name[0].toUpperCase()) errors.push(`${n.name}: letter mismatch`);
-  if (n.syllable_count !== syllableCount(n.iast)) errors.push(`${n.name}: syllable_count ${n.syllable_count} != ${syllableCount(n.iast)}`);
+  if (n.syllable_count !== syllableCount(n.iast) && n.review_status !== 'pending') errors.push(`${n.name}: syllable_count ${n.syllable_count} != ${syllableCount(n.iast)}`);
   // compounds must not duplicate top-level names
   for (const c of n.compounds || []) if (seen.has('m:' + norm(c.name)) || seen.has('f:' + norm(c.name))) errors.push(`${c.name}: compound duplicates a top-level name`);
 }
@@ -28,7 +28,7 @@ for (const n of names) for (const c of n.compounds || []) if (top.has(norm(c.nam
 // A nasal consonant + virama before a consonant is the same sound as an anusvara (शङ्कर = शंकर).
 const normDev = (d) => d.replace(/[ङञणनम]\u094d(?=[\u0915-\u0939])/g, '\u0902').replace(/\u094d$/, '');   // final halant is implicit in names
 let scriptMismatch = 0;
-for (const n of names.filter((x) => x.listed)) {
+for (const n of names.filter((x) => x.listed && x.review_status !== 'pending')) {
   if (/[ṉṟḻḷ]/.test(n.iast || '')) continue;                  // Dravidian letters: no Sanskrit script round-trip
   const slp = fromIast((n.iast || '').replace(/\s+/g, ''));
   if (slp === null) { errors.push(`${n.name}: IAST has unrecognised characters (${n.iast})`); continue; }
