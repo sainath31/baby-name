@@ -361641,55 +361641,59 @@
   {
     "name": "Hanumanta",
     "iast": "hanumanta",
-    "devanagari": "",
+    "devanagari": "हनुमंत",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular form of Hanuman, the monkey deity devoted to Rama, celebrated for strength, devotion, and courage",
+    "components": [
+      {
+        "part": "hanumanta (Hanuman)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Hanuman - Wikipedia (https://en.wikipedia.org/wiki/Hanuman)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Hanumanth",
-    "iast": "hanumanth",
-    "devanagari": "",
+    "iast": "hanumanta",
+    "devanagari": "हनुमंत",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular form of Hanuman, the monkey deity devoted to Rama",
+    "components": [
+      {
+        "part": "hanumanta (Hanuman)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Hanuman - Wikipedia (https://en.wikipedia.org/wiki/Hanuman)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -361872,35 +361876,31 @@
   },
   {
     "name": "Har",
-    "iast": "har",
-    "devanagari": "",
+    "iast": "hara",
+    "devanagari": "हर",
     "letter": "H",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Contracted vernacular spelling of Hara, 'the remover/destroyer', a principal epithet of Shiva",
+    "components": [
+      {
+        "part": "hara (remover/destroyer, epithet of Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Hara - epithet of Shiva, wisdomlib.org (https://www.wisdomlib.org/definition/hara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -362062,27 +362062,31 @@
   },
   {
     "name": "Harapriya",
-    "iast": "harapriya",
-    "devanagari": "",
+    "iast": "haraprīyā",
+    "devanagari": "हरप्रिया",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Beloved of Hara (Shiva)', an epithet of Parvati",
+    "components": [
+      {
+        "part": "hara (Shiva) + priyā (beloved)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "harapriya - wisdomlib.org (https://www.wisdomlib.org/definition/harapriya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -362112,31 +362116,31 @@
   },
   {
     "name": "Hardhik",
-    "iast": "hardhik",
-    "devanagari": "",
+    "iast": "hārdika",
+    "devanagari": "हार्दिक",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Hardik, 'hearty, cordial, from the heart'",
+    "components": [
+      {
+        "part": "hārdika (hearty, from hrid, heart)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "hardika - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hardika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -362268,35 +362272,31 @@
   },
   {
     "name": "Hareshwar",
-    "iast": "hareshwar",
-    "devanagari": "",
+    "iast": "hareśvara",
+    "devanagari": "हरेश्वर",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord Hari', epithet of Vishnu, or could be read as 'lord of Hara/Shiva'",
+    "components": [
+      {
+        "part": "hari/hara + īśvara (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "hareshvara - wisdomlib.org (https://www.wisdomlib.org/definition/hareshvara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -362438,31 +362438,31 @@
   },
   {
     "name": "Haribala",
-    "iast": "haribala",
-    "devanagari": "",
+    "iast": "haribalā",
+    "devanagari": "हरिबला",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Strength of Hari (Vishnu)'; a devotional compound given name",
+    "components": [
+      {
+        "part": "hari (Vishnu) + balā (strength/maiden)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "haribala - wisdomlib.org (https://www.wisdomlib.org/definition/haribala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -362544,35 +362544,31 @@
   },
   {
     "name": "Haricharan",
-    "iast": "haricharan",
-    "devanagari": "",
+    "iast": "haricaraṇa",
+    "devanagari": "हरिचरण",
     "letter": "H",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'At the feet of Hari (Vishnu/Krishna)'; a common devotional given name",
+    "components": [
+      {
+        "part": "hari (Vishnu) + caraṇa (feet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "haricharana - wisdomlib.org (https://www.wisdomlib.org/definition/haricharana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -362678,55 +362674,59 @@
   {
     "name": "Haridev",
     "iast": "haridev",
-    "devanagari": "",
+    "devanagari": "हरिदेव",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'Hari (Vishnu) + dev (divine)'; a devotional given name",
+    "components": [
+      {
+        "part": "hari (Vishnu) + deva (divine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "haridev - wisdomlib.org (https://www.wisdomlib.org/definition/haridev)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Haridra",
-    "iast": "haridra",
-    "devanagari": "",
+    "iast": "haridrā",
+    "devanagari": "हरिद्रा",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Turmeric'; a sacred and auspicious substance in Hindu ritual, also used as a given name",
+    "components": [
+      {
+        "part": "haridrā (turmeric)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "haridra - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/haridra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -362785,39 +362785,31 @@
   },
   {
     "name": "Harigopal",
-    "iast": "harigopal",
-    "devanagari": "",
+    "iast": "harigopāla",
+    "devanagari": "हरिगोपाल",
     "letter": "H",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Compound 'Hari + Gopal', both epithets of Krishna, meaning 'Hari the cow-protector'",
+    "components": [
+      {
+        "part": "hari (Vishnu/Krishna) + gopāla (cow-protector)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gopala (Krishna) - Wikipedia (https://en.wikipedia.org/wiki/Gopala_(Krishna))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -363120,60 +363112,60 @@
   },
   {
     "name": "Harikrishna",
-    "iast": "harikrishna",
-    "devanagari": "",
+    "iast": "harikṛṣṇa",
+    "devanagari": "हरिकृष्ण",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'Hari + Krishna', doubling two epithets of the same deity, widely used as a given name",
+    "components": [
+      {
+        "part": "hari (Vishnu) + kṛṣṇa (Krishna)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Hari - Wikipedia (epithet of Vishnu/Krishna) (https://en.wikipedia.org/wiki/Hari)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Harilal",
-    "iast": "harilal",
-    "devanagari": "",
+    "iast": "harilāla",
+    "devanagari": "हरिलाल",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Compound 'Hari (Vishnu) + lal (dear one)'; a traditional North Indian devotional given name",
+    "components": [
+      {
+        "part": "hari (Vishnu) + lāla (dear one)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "harilala - wisdomlib.org (https://www.wisdomlib.org/definition/harilala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -363285,109 +363277,89 @@
   },
   {
     "name": "Harinaksh",
-    "iast": "harinaksh",
-    "devanagari": "",
+    "iast": "hariṇākṣa",
+    "devanagari": "हरिणाक्ष",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Deer-eyed' or 'tawny-eyed', a poetic epithet describing beautiful eyes",
+    "components": [
+      {
+        "part": "hariṇa/hari (deer/tawny) + akṣa (eye)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "harinaksha - wisdomlib.org (https://www.wisdomlib.org/definition/harinaksha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Harinakshi",
-    "iast": "harinakshi",
-    "devanagari": "",
+    "iast": "hariṇākṣī",
+    "devanagari": "हरिणाक्षी",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Deer-eyed woman', a classical poetic epithet for a woman with beautiful eyes",
+    "components": [
+      {
+        "part": "hariṇa (deer) + akṣī (eyed, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "harinakshi - wisdomlib.org (https://www.wisdomlib.org/definition/harinakshi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Harinarayan",
-    "iast": "harinarayan",
-    "devanagari": "",
+    "iast": "harinārāyaṇa",
+    "devanagari": "हरिनारायण",
     "letter": "H",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 6,
+    "meaning_en": "Compound 'Hari + Narayana', both principal epithets of Vishnu",
+    "components": [
+      {
+        "part": "hari (Vishnu) + nārāyaṇa (Vishnu)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Narayana - Wikipedia (https://en.wikipedia.org/wiki/Narayana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -363442,56 +363414,60 @@
   },
   {
     "name": "Harinath",
-    "iast": "harinath",
-    "devanagari": "",
+    "iast": "harinātha",
+    "devanagari": "हरिनाथ",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord Hari', epithet of Vishnu",
+    "components": [
+      {
+        "part": "hari (Vishnu) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "harinatha - wisdomlib.org (https://www.wisdomlib.org/definition/harinatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Harinatha",
-    "iast": "harinatha",
-    "devanagari": "",
+    "iast": "harinātha",
+    "devanagari": "हरिनाथ",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord Hari', epithet of Vishnu",
+    "components": [
+      {
+        "part": "hari (Vishnu) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "harinatha - wisdomlib.org (https://www.wisdomlib.org/definition/harinatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
