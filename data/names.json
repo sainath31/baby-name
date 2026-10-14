@@ -359788,39 +359788,31 @@
   },
   {
     "name": "Hamsa",
-    "iast": "hamsa",
-    "devanagari": "",
+    "iast": "haṃsa",
+    "devanagari": "हंस",
     "letter": "H",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Swan/goose'; a sacred bird in Hindu iconography, the vahana of Brahma and Saraswati, symbolizing discernment and purity",
+    "components": [
+      {
+        "part": "haṃsa (swan)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Hamsa (bird) - Wikipedia (https://en.wikipedia.org/wiki/Hamsa_(bird))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -359850,31 +359842,31 @@
   },
   {
     "name": "Hamsabrahmari",
-    "iast": "hamsabrahmari",
-    "devanagari": "",
+    "iast": "haṃsabhramari",
+    "devanagari": "हंसभ्रमरी",
     "letter": "H",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a raga (Hamsabhramari) in Carnatic classical music, combining hamsa (swan) and bhramari (bee)",
+    "components": [
+      {
+        "part": "haṃsa (swan) + bhramarī (bee)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "Hamsabhramari - Wikipedia (Carnatic raga) (https://en.wikipedia.org/wiki/Hamsabhramari)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -359908,31 +359900,31 @@
   },
   {
     "name": "Hamsadhvani",
-    "iast": "hamsadhvani",
-    "devanagari": "",
+    "iast": "haṃsadhvani",
+    "devanagari": "हंसध्वनि",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a popular raga (Hamsadhvani, 'cry of the swan') in Carnatic and Hindustani classical music",
+    "components": [
+      {
+        "part": "haṃsa (swan) + dhvani (sound)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Hamsadhvani - Wikipedia (https://en.wikipedia.org/wiki/Hamsadhvani)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -359962,27 +359954,31 @@
   },
   {
     "name": "Hamsanandi",
-    "iast": "hamsanandi",
-    "devanagari": "",
+    "iast": "haṃsānandi",
+    "devanagari": "हंसानन्दी",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a raga (Hamsanandi) in Hindustani classical music",
+    "components": [
+      {
+        "part": "haṃsa (swan) + nandi (joy)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Hamsanandi - Wikipedia (https://en.wikipedia.org/wiki/Hamsanandi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -360016,27 +360012,31 @@
   },
   {
     "name": "Hamsavahini",
-    "iast": "hamsavahini",
-    "devanagari": "",
+    "iast": "haṃsavāhinī",
+    "devanagari": "हंसवाहिनी",
     "letter": "H",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'She whose vehicle is the swan', epithet of goddess Saraswati",
+    "components": [
+      {
+        "part": "haṃsa (swan) + vāhinī (carrier/vehicle)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "hamsavahini - wisdomlib.org (https://www.wisdomlib.org/definition/hamsavahini)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -360214,31 +360214,31 @@
   },
   {
     "name": "Hamsika",
-    "iast": "hamsika",
-    "devanagari": "",
+    "iast": "haṃsikā",
+    "devanagari": "हंसिका",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Little swan', diminutive feminine form of hamsa",
+    "components": [
+      {
+        "part": "haṃsa (swan) + -ikā (diminutive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "hamsika - wisdomlib.org (https://www.wisdomlib.org/definition/hamsika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -360417,27 +360417,31 @@
   },
   {
     "name": "Hanamanth",
-    "iast": "hanamanth",
-    "devanagari": "",
+    "iast": "hanumanta",
+    "devanagari": "हनुमंत",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Kannada/South Indian vernacular spelling of Hanumant/Hanuman, the monkey deity devoted to Rama",
+    "components": [
+      {
+        "part": "hanumanta (Hanuman)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Hanuman - Wikipedia (https://en.wikipedia.org/wiki/Hanuman)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -360571,27 +360575,31 @@
   },
   {
     "name": "Hanavanta",
-    "iast": "hanavanta",
-    "devanagari": "",
+    "iast": "hanumanta",
+    "devanagari": "हनुमंत",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling variant of Hanumanta/Hanuman, the monkey deity devoted to Rama",
+    "components": [
+      {
+        "part": "hanumanta (Hanuman)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Hanuman - Wikipedia (https://en.wikipedia.org/wiki/Hanuman)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -361118,35 +361126,31 @@
   },
   {
     "name": "Hansaraj",
-    "iast": "hansaraj",
-    "devanagari": "",
+    "iast": "haṃsarāja",
+    "devanagari": "हंसराज",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'King of swans'; a traditional North Indian given name",
+    "components": [
+      {
+        "part": "haṃsa (swan) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "hamsaraja - wisdomlib.org (https://www.wisdomlib.org/definition/hamsaraja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -361205,27 +361209,31 @@
   },
   {
     "name": "Hansdhwani",
-    "iast": "hansdhwani",
-    "devanagari": "",
+    "iast": "haṃsadhvani",
+    "devanagari": "हंसध्वनि",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Hamsadhvani, a popular raga in Carnatic and Hindustani classical music ('cry of the swan')",
+    "components": [
+      {
+        "part": "haṃsa (swan) + dhvani (sound)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Hamsadhvani - Wikipedia (https://en.wikipedia.org/wiki/Hamsadhvani)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -361512,35 +361520,31 @@
   },
   {
     "name": "Hansini",
-    "iast": "hansini",
-    "devanagari": "",
+    "iast": "haṃsinī",
+    "devanagari": "हंसिनी",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Female swan', feminine possessive form of hamsa",
+    "components": [
+      {
+        "part": "haṃsa (swan) + -inī (feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "hamsini - wisdomlib.org (https://www.wisdomlib.org/definition/hamsini)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -361570,31 +361574,31 @@
   },
   {
     "name": "Hansraaj",
-    "iast": "hansraaj",
-    "devanagari": "",
+    "iast": "haṃsarāja",
+    "devanagari": "हंसराज",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Hansaraj, 'king of swans'",
+    "components": [
+      {
+        "part": "haṃsa (swan) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "hamsaraja - wisdomlib.org (https://www.wisdomlib.org/definition/hamsaraja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
