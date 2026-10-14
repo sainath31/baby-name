@@ -365694,63 +365694,59 @@
   },
   {
     "name": "Harsha",
-    "iast": "harsha",
-    "devanagari": "",
+    "iast": "harṣa",
+    "devanagari": "हर्ष",
     "letter": "H",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Joy, delight, happiness'; also the name of the famous 7th-century emperor Harsha (Harshavardhana) of Kannauj",
+    "components": [
+      {
+        "part": "harṣa (joy)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Harsha - Wikipedia (https://en.wikipedia.org/wiki/Harsha)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Harshada",
-    "iast": "harshada",
-    "devanagari": "",
+    "iast": "harṣadā",
+    "devanagari": "हर्षदा",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Giver of joy'",
+    "components": [
+      {
+        "part": "harṣa (joy) + dā (giver)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "harshada - wisdomlib.org (https://www.wisdomlib.org/definition/harshada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -365780,59 +365776,59 @@
   },
   {
     "name": "Harshal",
-    "iast": "harshal",
-    "devanagari": "",
+    "iast": "harṣala",
+    "devanagari": "हर्षल",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Related to harsha (joy); a common Marathi/Gujarati given name",
+    "components": [
+      {
+        "part": "harṣa (joy) + -la",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "harshal - wisdomlib.org (https://www.wisdomlib.org/definition/harshal)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Harshala",
-    "iast": "harshala",
-    "devanagari": "",
+    "iast": "harṣalā",
+    "devanagari": "हर्षला",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to harsha (joy)",
+    "components": [
+      {
+        "part": "harṣa (joy) + -lā",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "harshal - wisdomlib.org (https://www.wisdomlib.org/definition/harshal)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -366070,60 +366066,60 @@
   },
   {
     "name": "Harshavardan",
-    "iast": "harshavardan",
-    "devanagari": "",
+    "iast": "harṣavardhana",
+    "devanagari": "हर्षवर्धन",
     "letter": "H",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'One who increases joy'; also the name of the famous 7th-century emperor Harshavardhana of Kannauj",
+    "components": [
+      {
+        "part": "harṣa (joy) + vardhana (increaser)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Harsha - Wikipedia (https://en.wikipedia.org/wiki/Harsha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Harshavardhan",
-    "iast": "harshavardhan",
-    "devanagari": "",
+    "iast": "harṣavardhana",
+    "devanagari": "हर्षवर्धन",
     "letter": "H",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'One who increases joy'; the full name of the renowned 7th-century emperor Harsha of Kannauj",
+    "components": [
+      {
+        "part": "harṣa (joy) + vardhana (increaser)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Harsha - Wikipedia (https://en.wikipedia.org/wiki/Harsha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -366261,27 +366257,31 @@
   },
   {
     "name": "Harshida",
-    "iast": "harshida",
-    "devanagari": "",
+    "iast": "harṣidā",
+    "devanagari": "हर्षिदा",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Giver of joy' (feminine), a common Gujarati given name",
+    "components": [
+      {
+        "part": "harṣa (joy) + -idā (giver)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "harshida - wisdomlib.org (https://www.wisdomlib.org/definition/harshida)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -366336,35 +366336,31 @@
   },
   {
     "name": "Harshika",
-    "iast": "harshika",
-    "devanagari": "",
+    "iast": "harṣikā",
+    "devanagari": "हर्षिका",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Diminutive feminine form related to harsha (joy), meaning 'joyful one'",
+    "components": [
+      {
+        "part": "harṣa (joy) + -ikā",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "harshika - wisdomlib.org (https://www.wisdomlib.org/definition/harshika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -366419,68 +366415,60 @@
   },
   {
     "name": "Harshita",
-    "iast": "harshita",
-    "devanagari": "",
+    "iast": "harṣitā",
+    "devanagari": "हर्षिता",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Joyful, delighted' (feminine past participle of harsha)",
+    "components": [
+      {
+        "part": "harṣita (joyful)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "harshita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/harshita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Harshith",
-    "iast": "harshith",
-    "devanagari": "",
+    "iast": "harṣita",
+    "devanagari": "हर्षित",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular spelling of Harshit, 'joyful, delighted'",
+    "components": [
+      {
+        "part": "harṣita (joyful)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "harshita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/harshita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -366618,35 +366606,31 @@
   },
   {
     "name": "Harshvardhan",
-    "iast": "harshvardhan",
-    "devanagari": "",
+    "iast": "harṣavardhana",
+    "devanagari": "हर्षवर्धन",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Vernacular spelling of Harshavardhana, 'one who increases joy'; the name of the renowned 7th-century emperor Harsha of Kannauj",
+    "components": [
+      {
+        "part": "harṣa (joy) + vardhana (increaser)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Harsha - Wikipedia (https://en.wikipedia.org/wiki/Harsha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -366676,35 +366660,31 @@
   },
   {
     "name": "Harsika",
-    "iast": "harsika",
-    "devanagari": "",
+    "iast": "harṣikā",
+    "devanagari": "हर्षिका",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Harshika, 'joyful one'",
+    "components": [
+      {
+        "part": "harṣa (joy) + -ikā",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "harshika - wisdomlib.org (https://www.wisdomlib.org/definition/harshika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -366713,27 +366693,27 @@
     "devanagari": "",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Sikh/Punjabi compound 'Har (God) + simran (remembrance/meditation)', meaning 'meditation on God'",
+    "components": [
+      {
+        "part": "hari (God) + smaraṇa (remembrance)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Har-prefixed devotional naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
