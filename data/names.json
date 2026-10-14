@@ -358162,105 +358162,89 @@
   },
   {
     "name": "Haima",
-    "iast": "haima",
-    "devanagari": "",
+    "iast": "haimā",
+    "devanagari": "हैमा",
     "letter": "H",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Golden/of gold' or 'relating to snow/Himalaya' (from hima, snow); used as an epithet-adjacent term for Parvati, daughter of the Himalayas",
+    "components": [
+      {
+        "part": "haima (golden/snowy, from hima)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "haima - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/haima)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Haimavathi",
-    "iast": "haimavathi",
-    "devanagari": "",
+    "iast": "haimavatī",
+    "devanagari": "हैमवती",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Daughter of the Himalayas (Himavat)', an epithet of goddess Parvati",
+    "components": [
+      {
+        "part": "haimavata (of/from the Himalayas) + -ī (feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "haimavati - wisdomlib.org (https://www.wisdomlib.org/definition/haimavati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Haimavathy",
-    "iast": "haimavathy",
-    "devanagari": "",
+    "iast": "haimavatī",
+    "devanagari": "हैमवती",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Haimavathi, 'daughter of the Himalayas', epithet of Parvati",
+    "components": [
+      {
+        "part": "haimavata + -ī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "haimavati - wisdomlib.org (https://www.wisdomlib.org/definition/haimavati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -359420,31 +359404,31 @@
   },
   {
     "name": "Hameer",
-    "iast": "hameer",
-    "devanagari": "",
+    "iast": "hammīra",
+    "devanagari": "हम्मीर",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "A medieval Rajput royal title/name (e.g. Hammir Singh, Rana Hammir of Mewar); derived from the Arabic 'amir' but long naturalized into Rajasthani royal nomenclature",
+    "components": [
+      {
+        "part": "hammīra (royal title, from Arabic amir)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Rana Hammir - Wikipedia (https://en.wikipedia.org/wiki/Rana_Hammir)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -359649,31 +359633,31 @@
   },
   {
     "name": "Hamir",
-    "iast": "hamir",
-    "devanagari": "",
+    "iast": "hammīra",
+    "devanagari": "हम्मीर",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "A medieval Rajput royal title/name, naturalized into Rajasthani nomenclature (e.g. Rana Hammir of Mewar)",
+    "components": [
+      {
+        "part": "hammīra (royal title)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Rana Hammir - Wikipedia (https://en.wikipedia.org/wiki/Rana_Hammir)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
