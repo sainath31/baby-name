@@ -327268,39 +327268,35 @@
   },
   {
     "name": "Ekapad",
-    "iast": "ekapad",
-    "devanagari": "",
+    "iast": "ekapāda",
+    "devanagari": "एकपाद",
     "letter": "E",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "one-footed; Vedic deity, later a form of Shiva representing the cosmic pillar",
+    "components": [
+      {
+        "part": "eka",
+        "gloss": "one"
+      },
+      {
+        "part": "pāda",
+        "gloss": "foot"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Wikipedia, 'Ekapada' (https://en.wikipedia.org/wiki/Ekapada)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -343444,39 +343440,35 @@
   },
   {
     "name": "Gaurinandan",
-    "iast": "gaurinandan",
-    "devanagari": "",
+    "iast": "gaurīnandana",
+    "devanagari": "गौरीनन्दन",
     "letter": "G",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "son of Gauri; epithet of Ganesha",
+    "components": [
+      {
+        "part": "gaurī",
+        "gloss": "epithet of Parvati"
+      },
+      {
+        "part": "nandana",
+        "gloss": "son"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "FirstCry, 'Gourinandan Name Meaning' (https://parenting.firstcry.com/baby-names/meaning-of-gourinandan/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -347865,35 +347857,35 @@
   },
   {
     "name": "Girijanandan",
-    "iast": "girijanandan",
-    "devanagari": "",
+    "iast": "girijānandana",
+    "devanagari": "गिरिजानन्दन",
     "letter": "G",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 6,
+    "meaning_en": "son of Girija; epithet of Ganesha",
+    "components": [
+      {
+        "part": "girijā",
+        "gloss": "epithet of Parvati"
+      },
+      {
+        "part": "nandana",
+        "gloss": "son"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Wisdomlib, 'Girinandana, Giri-nandana' (https://de.wisdomlib.org/definition/girinandana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -348962,11 +348954,11 @@
   },
   {
     "name": "Gita",
-    "iast": "gita",
-    "devanagari": "",
+    "iast": "gītā",
+    "devanagari": "गीता",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "song; as in Bhagavad Gita, 'Song of the Lord'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -348974,27 +348966,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Lotus Sculpture, 'Bhagavad Gita: Song of the Lord' (https://www.lotussculpture.com/bronze_sculpture_bhagavad.htm)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -356356,35 +356335,35 @@
   },
   {
     "name": "Gunaratna",
-    "iast": "gunaratna",
-    "devanagari": "",
+    "iast": "guṇaratna",
+    "devanagari": "गुणरत्न",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "jewel of virtues; also the name of a notable Jain scholar-monk",
+    "components": [
+      {
+        "part": "guṇa",
+        "gloss": "virtue, quality"
+      },
+      {
+        "part": "ratna",
+        "gloss": "jewel"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Wisdomlib, 'Gunaratna, Guṇaratna' (https://de.wisdomlib.org/definition/gunaratna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -358216,11 +358195,11 @@
   },
   {
     "name": "Gurjari",
-    "iast": "gurjari",
-    "devanagari": "",
+    "iast": "gurjarī",
+    "devanagari": "गुर्जरी",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "name of a classical raga/ragini, associated with Gujarat",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -358228,23 +358207,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Wikipedia, 'Gurjari (raga)' (https://en.wikipedia.org/wiki/Gurjari_(raga))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -366514,31 +366484,35 @@
     "devanagari": "",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "historically, the name of the poet Harindranath Chattopadhyaya; etymologically a compound honorific referencing Hari/Vishnu and Indra",
+    "components": [
+      {
+        "part": "hari",
+        "gloss": "epithet of Vishnu"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Poets.org, 'Harindranath Chattopadhyaya' (https://poets.org/poet/harindranath-chattopadhyaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
