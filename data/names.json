@@ -355690,27 +355690,27 @@
     "devanagari": "",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'One who faces/follows the Guru'; a significant term in Sikhism referring to a person oriented towards the Guru's teachings, contrasted with 'manmukh'",
+    "components": [
+      {
+        "part": "guru (teacher) + mukh (face)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gurmukh - Wikipedia (https://en.wikipedia.org/wiki/Gurmukh)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -355744,27 +355744,27 @@
     "devanagari": "",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Sikh/Punjabi compound 'Guru + naam (name)', meaning 'name of the Guru'",
+    "components": [
+      {
+        "part": "guru (teacher) + nāma (name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Guru-prefixed naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -355923,31 +355923,27 @@
     "devanagari": "",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Sikh/Punjabi compound 'Guru + sharan (refuge)', meaning 'refuge of the Guru'",
+    "components": [
+      {
+        "part": "guru (teacher) + śaraṇa (refuge)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Guru-prefixed naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -355956,23 +355952,27 @@
     "devanagari": "",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Sikh/Punjabi compound 'Guru + simran (remembrance/meditation)', meaning 'meditation on the Guru'",
+    "components": [
+      {
+        "part": "guru (teacher) + smaraṇa (remembrance)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Guru-prefixed naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "unisex"
   },
   {
@@ -355981,179 +355981,171 @@
     "devanagari": "",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Gurbachan, 'Guru + bachan (word)', meaning 'the Guru's word'",
+    "components": [
+      {
+        "part": "guru (teacher) + vacana (word)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Guru-prefixed naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gurucharan",
-    "iast": "gurucharan",
-    "devanagari": "",
+    "iast": "gurucaraṇa",
+    "devanagari": "गुरुचरण",
     "letter": "G",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'At the feet of the guru/teacher'; a devotional compound widely used as a given name across Hindu and Sikh traditions",
+    "components": [
+      {
+        "part": "guru (teacher) + caraṇa (feet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gurucharana - wisdomlib.org (https://www.wisdomlib.org/definition/gurucharana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gurudatt",
-    "iast": "gurudatt",
-    "devanagari": "",
+    "iast": "gurudatta",
+    "devanagari": "गुरुदत्त",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Given by the guru/teacher'; also the name of celebrated Bollywood filmmaker Guru Dutt",
+    "components": [
+      {
+        "part": "guru (teacher) + datta (given)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Guru Dutt - Wikipedia (https://en.wikipedia.org/wiki/Guru_Dutt)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gurudatta",
     "iast": "gurudatta",
-    "devanagari": "",
+    "devanagari": "गुरुदत्त",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Given by the guru/teacher'",
+    "components": [
+      {
+        "part": "guru (teacher) + datta (given)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Guru Dutt - Wikipedia (https://en.wikipedia.org/wiki/Guru_Dutt)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Gurudeva",
     "iast": "gurudeva",
-    "devanagari": "",
+    "devanagari": "गुरुदेव",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Divine teacher'; a respectful title/name for a revered spiritual master",
+    "components": [
+      {
+        "part": "guru (teacher) + deva (divine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gurudeva - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gurudeva)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gurudutt",
-    "iast": "gurudutt",
-    "devanagari": "",
+    "iast": "gurudatta",
+    "devanagari": "गुरुदत्त",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular spelling of Gurudatt, 'given by the guru'; also the name of celebrated Bollywood filmmaker Guru Dutt",
+    "components": [
+      {
+        "part": "guru (teacher) + datta (given)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Guru Dutt - Wikipedia (https://en.wikipedia.org/wiki/Guru_Dutt)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -356208,52 +356200,60 @@
   },
   {
     "name": "Gurumurthy",
-    "iast": "gurumurthy",
-    "devanagari": "",
+    "iast": "gurumūrti",
+    "devanagari": "गुरुमूर्ति",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Embodiment of the guru/teacher'; a common South Indian given name",
+    "components": [
+      {
+        "part": "guru (teacher) + mūrti (embodiment/form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gurumurti - wisdomlib.org (https://www.wisdomlib.org/definition/gurumurti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gurunathan",
-    "iast": "gurunathan",
+    "iast": "gurunāthan",
     "devanagari": "",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'guru (teacher) + nathan (lord)', meaning 'lord/master teacher'",
+    "components": [
+      {
+        "part": "guru (teacher) + nātha (lord) + Tamil suffix",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "gurunatha - wisdomlib.org (https://www.wisdomlib.org/definition/gurunatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -356283,35 +356283,31 @@
   },
   {
     "name": "Guruprasad",
-    "iast": "guruprasad",
-    "devanagari": "",
+    "iast": "guruprasāda",
+    "devanagari": "गुरुप्रसाद",
     "letter": "G",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Grace/blessing of the guru/teacher'; a common South Indian given name",
+    "components": [
+      {
+        "part": "guru (teacher) + prasāda (grace/blessing)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "guruprasada - wisdomlib.org (https://www.wisdomlib.org/definition/guruprasada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy",
     "alt_spellings": [
       "Guru Prasad"
@@ -356343,27 +356339,31 @@
   },
   {
     "name": "Gururaja",
-    "iast": "gururaja",
-    "devanagari": "",
+    "iast": "gururāja",
+    "devanagari": "गुरुराज",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'King among teachers', an honorific compound used as a given name",
+    "components": [
+      {
+        "part": "guru (teacher) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gururaja - wisdomlib.org (https://www.wisdomlib.org/definition/gururaja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -356534,52 +356534,60 @@
   },
   {
     "name": "Gyaan",
-    "iast": "gyaan",
-    "devanagari": "",
+    "iast": "jñāna",
+    "devanagari": "ज्ञान",
     "letter": "G",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "'Knowledge, wisdom, spiritual insight'; a foundational concept in Hindu philosophy (jnana yoga, the path of knowledge)",
+    "components": [
+      {
+        "part": "jñāna (knowledge)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jnana - Wikipedia (https://en.wikipedia.org/wiki/Jnana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gyaana",
-    "iast": "gyaana",
-    "devanagari": "",
+    "iast": "jñānā",
+    "devanagari": "ज्ञाना",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine vernacular spelling of Gyan/Jnana, 'knowledge, wisdom'",
+    "components": [
+      {
+        "part": "jñāna (knowledge)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jnana - Wikipedia (https://en.wikipedia.org/wiki/Jnana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -356609,64 +356617,60 @@
   },
   {
     "name": "Gyana",
-    "iast": "gyana",
-    "devanagari": "",
+    "iast": "jñāna",
+    "devanagari": "ज्ञान",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling of Jnana, 'knowledge, wisdom, spiritual insight'",
+    "components": [
+      {
+        "part": "jñāna (knowledge)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jnana - Wikipedia (https://en.wikipedia.org/wiki/Jnana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gyanada",
-    "iast": "gyanada",
-    "devanagari": "",
+    "iast": "jñānadā",
+    "devanagari": "ज्ञानदा",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Giver of knowledge'; an epithet of Goddess Saraswati",
+    "components": [
+      {
+        "part": "jñāna (knowledge) + dā (giver)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jnanada - wisdomlib.org (https://www.wisdomlib.org/definition/jnanada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -356721,143 +356725,147 @@
   },
   {
     "name": "Gyandeep",
-    "iast": "gyandeep",
-    "devanagari": "",
+    "iast": "jñānadīpa",
+    "devanagari": "ज्ञानदीप",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lamp of knowledge'",
+    "components": [
+      {
+        "part": "jñāna (knowledge) + dīpa (lamp)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jnanadipa - wisdomlib.org (https://www.wisdomlib.org/definition/jnanadipa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gyandev",
-    "iast": "gyandev",
-    "devanagari": "",
+    "iast": "jñānadeva",
+    "devanagari": "ज्ञानदेव",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Compound 'knowledge + deva (divine)'; also a variant form of the name of the saint-poet Jnaneshwar (Dnyandev)",
+    "components": [
+      {
+        "part": "jñāna (knowledge) + deva (divine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Jnaneshwar - Wikipedia (also known as Dnyandev) (https://en.wikipedia.org/wiki/Jnaneshwar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gyaneshwar",
-    "iast": "gyaneshwar",
-    "devanagari": "",
+    "iast": "jñāneśvara",
+    "devanagari": "ज्ञानेश्वर",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of knowledge'; also the name of the revered 13th-century Marathi saint-poet Jnaneshwar",
+    "components": [
+      {
+        "part": "jñāna (knowledge) + īśvara (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Jnaneshwar - Wikipedia (https://en.wikipedia.org/wiki/Jnaneshwar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gyaneshwara",
-    "iast": "gyaneshwara",
-    "devanagari": "",
+    "iast": "jñāneśvara",
+    "devanagari": "ज्ञानेश्वर",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Gyaneshwar, 'lord of knowledge', also the saint-poet's name",
+    "components": [
+      {
+        "part": "jñāna (knowledge) + īśvara (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Jnaneshwar - Wikipedia (https://en.wikipedia.org/wiki/Jnaneshwar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gyaneshwari",
-    "iast": "gyaneshwari",
-    "devanagari": "",
+    "iast": "jñāneśvarī",
+    "devanagari": "ज्ञानेश्वरी",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form 'lady of knowledge'; also the title of saint Jnaneshwar's famous commentary on the Bhagavad Gita",
+    "components": [
+      {
+        "part": "jñāna (knowledge) + īśvarī (lady)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Jnaneshwari - Wikipedia (https://en.wikipedia.org/wiki/Dnyaneshwari)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -356990,27 +356998,31 @@
   },
   {
     "name": "Gytanjalee",
-    "iast": "gytanjalee",
-    "devanagari": "",
+    "iast": "gītāñjali",
+    "devanagari": "गीतांजलि",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Gitanjali, Tagore's Nobel Prize-winning poetry collection ('offering of songs')",
+    "components": [
+      {
+        "part": "gīta (song) + añjali (offering)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gitanjali - Wikipedia (https://en.wikipedia.org/wiki/Gitanjali)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -357040,27 +357052,31 @@
   },
   {
     "name": "Gytanjaly",
-    "iast": "gytanjaly",
-    "devanagari": "",
+    "iast": "gītāñjali",
+    "devanagari": "गीतांजलि",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Gitanjali, Tagore's Nobel Prize-winning poetry collection",
+    "components": [
+      {
+        "part": "gīta (song) + añjali (offering)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gitanjali - Wikipedia (https://en.wikipedia.org/wiki/Gitanjali)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Haadiya",
