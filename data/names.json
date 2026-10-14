@@ -349682,81 +349682,89 @@
   },
   {
     "name": "Goswami",
-    "iast": "goswami",
-    "devanagari": "",
+    "iast": "gosvāmī",
+    "devanagari": "गोस्वामी",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Master of cows/senses', a title for a spiritual teacher/ascetic, common surname among Vaishnava religious leaders",
+    "components": [
+      {
+        "part": "go (cow/senses) + svāmī (master)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
+        "title": "Goswami - Wikipedia (https://en.wikipedia.org/wiki/Goswami)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gotam",
-    "iast": "gotam",
-    "devanagari": "",
+    "iast": "gautama",
+    "devanagari": "गौतम",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular spelling variant of Gautama, Vedic sage and the Buddha's clan name",
+    "components": [
+      {
+        "part": "gautama",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gautama - Wikipedia (https://en.wikipedia.org/wiki/Gautama)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gotum",
-    "iast": "gotum",
-    "devanagari": "",
+    "iast": "gautama",
+    "devanagari": "गौतम",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular spelling variant of Gautama, Vedic sage and the Buddha's clan name",
+    "components": [
+      {
+        "part": "gautama",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
+        "title": "Gautama - Wikipedia (https://en.wikipedia.org/wiki/Gautama)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -349786,27 +349794,31 @@
   },
   {
     "name": "Goura",
-    "iast": "goura",
-    "devanagari": "",
+    "iast": "gaurā",
+    "devanagari": "गौरा",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Fair/golden one', epithet of goddess Parvati/Durga in her fair-complexioned form",
+    "components": [
+      {
+        "part": "gaura (fair) + feminine ending",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gauri - Wikipedia (also known as Gaura, fair form of Parvati) (https://en.wikipedia.org/wiki/Gauri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -349840,60 +349852,60 @@
   },
   {
     "name": "Gouranga",
-    "iast": "gouranga",
-    "devanagari": "",
+    "iast": "gaurāṅga",
+    "devanagari": "गौराङ्ग",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Fair/golden-bodied', well-known epithet of Chaitanya Mahaprabhu",
+    "components": [
+      {
+        "part": "gaura (fair) + aṅga (body)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
+        "title": "Chaitanya Mahaprabhu - Wikipedia (also called Gauranga) (https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gourangi",
-    "iast": "gourangi",
-    "devanagari": "",
+    "iast": "gaurāṅgī",
+    "devanagari": "गौराङ्गी",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form of Gauranga: 'fair/golden-bodied woman'",
+    "components": [
+      {
+        "part": "gaura (fair) + aṅgī (feminine of body)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gaurangi - wisdomlib.org (https://www.wisdomlib.org/definition/gaurangi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -349927,31 +349939,31 @@
   },
   {
     "name": "Gouri",
-    "iast": "gouri",
-    "devanagari": "",
+    "iast": "gaurī",
+    "devanagari": "गौरी",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'The fair one', a principal epithet/form of goddess Parvati",
+    "components": [
+      {
+        "part": "gaurī (Parvati)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gauri - Wikipedia (https://en.wikipedia.org/wiki/Gauri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -349981,143 +349993,147 @@
   },
   {
     "name": "Gourishankar",
-    "iast": "gourishankar",
-    "devanagari": "",
+    "iast": "gaurīśaṅkara",
+    "devanagari": "गौरीशङ्कर",
     "letter": "G",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Compound of Gauri (Parvati) and Shankar (Shiva), the divine couple; also the traditional Sanskrit/Nepali name for Mount Everest",
+    "components": [
+      {
+        "part": "gaurī (Parvati) + śaṅkara (Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gaurishankar - Wikipedia (https://en.wikipedia.org/wiki/Gauri_Sankar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Goutam",
-    "iast": "goutam",
-    "devanagari": "",
+    "iast": "gautama",
+    "devanagari": "गौतम",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular spelling variant of Gautama, Vedic sage and the Buddha's clan name",
+    "components": [
+      {
+        "part": "gautama",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gautama - Wikipedia (https://en.wikipedia.org/wiki/Gautama)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Goutham",
-    "iast": "goutham",
-    "devanagari": "",
+    "iast": "gautama",
+    "devanagari": "गौतम",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "South Indian transliteration variant of Gautama, Vedic sage and the Buddha's clan name",
+    "components": [
+      {
+        "part": "gautama",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gautama - Wikipedia (https://en.wikipedia.org/wiki/Gautama)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gouthaman",
-    "iast": "gouthaman",
+    "iast": "gautaman",
     "devanagari": "",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Gautam/Gautama, the Vedic sage and the Buddha's clan name",
+    "components": [
+      {
+        "part": "gautama + Tamil masculine suffix -an",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gautama - Wikipedia (https://en.wikipedia.org/wiki/Gautama)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gouthami",
-    "iast": "gouthami",
-    "devanagari": "",
+    "iast": "gautamī",
+    "devanagari": "गौतमी",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "South Indian transliteration variant of Gautami, feminine form of Gautama, also alternate name of the Godavari river",
+    "components": [
+      {
+        "part": "gautama + -ī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gautami - Wikipedia (Godavari river alternate name) (https://en.wikipedia.org/wiki/Godavari_River)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -350198,46 +350214,30 @@
   {
     "name": "Govinda",
     "iast": "govinda",
-    "devanagari": "",
+    "devanagari": "गोविन्द",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Cow-finder/protector', one of the principal epithets/names of Krishna",
+    "components": [
+      {
+        "part": "go (cow) + vinda (finder)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Govinda - Wikipedia (epithet of Krishna) (https://en.wikipedia.org/wiki/Govinda_(Krishna))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -350267,56 +350267,60 @@
   },
   {
     "name": "Govindaraj",
-    "iast": "govindaraj",
-    "devanagari": "",
+    "iast": "govindarāja",
+    "devanagari": "गोविन्दराज",
     "letter": "G",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Compound 'Govinda (Krishna) + raja (king)'; a common South Indian given name/surname",
+    "components": [
+      {
+        "part": "govinda (Krishna) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Govinda - Wikipedia (epithet of Krishna) (https://en.wikipedia.org/wiki/Govinda_(Krishna))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Govindaraju",
-    "iast": "govindaraju",
-    "devanagari": "",
+    "iast": "govindarāju",
+    "devanagari": "గోవిందరాజు",
     "letter": "G",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Telugu form of Govindaraj, 'Govinda (Krishna) + raju (king)'",
+    "components": [
+      {
+        "part": "govinda (Krishna) + rāju (king, Telugu)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Govinda - Wikipedia (epithet of Krishna) (https://en.wikipedia.org/wiki/Govinda_(Krishna))",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Govindi",
@@ -350353,27 +350357,31 @@
   },
   {
     "name": "Govindraj",
-    "iast": "govindraj",
-    "devanagari": "",
+    "iast": "govindarāja",
+    "devanagari": "गोविन्दराज",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Vernacular spelling of Govindaraj, 'Govinda (Krishna) + raja (king)'",
+    "components": [
+      {
+        "part": "govinda (Krishna) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Govinda - Wikipedia (epithet of Krishna) (https://en.wikipedia.org/wiki/Govinda_(Krishna))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -350403,59 +350411,59 @@
   },
   {
     "name": "Gowranga",
-    "iast": "gowranga",
-    "devanagari": "",
+    "iast": "gaurāṅga",
+    "devanagari": "गौराङ्ग",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Gauranga, epithet of Chaitanya Mahaprabhu ('fair/golden-bodied')",
+    "components": [
+      {
+        "part": "gaura (fair) + aṅga (body)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Chaitanya Mahaprabhu - Wikipedia (also called Gauranga) (https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Gowri",
-    "iast": "gowri",
-    "devanagari": "",
+    "iast": "gaurī",
+    "devanagari": "गौरी",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'The fair one', a principal epithet/form of goddess Parvati",
+    "components": [
+      {
+        "part": "gaurī (Parvati)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gauri - Wikipedia (https://en.wikipedia.org/wiki/Gauri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -350485,52 +350493,60 @@
   },
   {
     "name": "Gowrisankar",
-    "iast": "gowrisankar",
-    "devanagari": "",
+    "iast": "gaurīśaṅkara",
+    "devanagari": "गौरीशङ्कर",
     "letter": "G",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Variant spelling of Gaurishankar, compound of Gauri (Parvati) and Shankar (Shiva); also the traditional name for Mount Everest",
+    "components": [
+      {
+        "part": "gaurī (Parvati) + śaṅkara (Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gaurishankar - Wikipedia (https://en.wikipedia.org/wiki/Gauri_Sankar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gowrishangar",
-    "iast": "gowrishangar",
-    "devanagari": "",
+    "iast": "gaurīśaṅkara",
+    "devanagari": "गौरीशङ्कर",
     "letter": "G",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Variant spelling of Gaurishankar, compound of Gauri and Shankar, traditional name for Mount Everest",
+    "components": [
+      {
+        "part": "gaurī (Parvati) + śaṅkara (Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gaurishankar - Wikipedia (https://en.wikipedia.org/wiki/Gauri_Sankar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -350661,85 +350677,89 @@
   },
   {
     "name": "Gowtham",
-    "iast": "gowtham",
-    "devanagari": "",
+    "iast": "gautama",
+    "devanagari": "गौतम",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "South Indian transliteration variant of Gautama, Vedic sage and the Buddha's clan name",
+    "components": [
+      {
+        "part": "gautama",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gautama - Wikipedia (https://en.wikipedia.org/wiki/Gautama)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gowthaman",
-    "iast": "gowthaman",
+    "iast": "gautaman",
     "devanagari": "",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Gautam/Gautama",
+    "components": [
+      {
+        "part": "gautama + Tamil masculine suffix -an",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gautama - Wikipedia (https://en.wikipedia.org/wiki/Gautama)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gowthami",
-    "iast": "gowthami",
-    "devanagari": "",
+    "iast": "gautamī",
+    "devanagari": "गौतमी",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "South Indian transliteration variant of Gautami, feminine form of Gautama, also alternate name of the Godavari river",
+    "components": [
+      {
+        "part": "gautama + -ī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gautami - Wikipedia (Godavari river alternate name) (https://en.wikipedia.org/wiki/Godavari_River)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -351197,27 +351217,31 @@
   },
   {
     "name": "Granth",
-    "iast": "granth",
-    "devanagari": "",
+    "iast": "grantha",
+    "devanagari": "ग्रन्थ",
     "letter": "G",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "A book, text, scripture, composition (e.g. Guru Granth Sahib, the Sikh scripture)",
+    "components": [
+      {
+        "part": "grantha (book/text)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "grantha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/grantha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
