@@ -143129,11 +143129,11 @@
   },
   {
     "name": "Abhimaan",
-    "iast": "abhimaan",
-    "devanagari": "",
+    "iast": "abhimāna",
+    "devanagari": "अभिमान",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Pride, self-respect, self-conception, ego",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -143141,15 +143141,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhimana, Abhimāna - wisdomlib (https://www.wisdomlib.org/definition/abhimana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -143179,11 +143178,11 @@
   },
   {
     "name": "Abhiman",
-    "iast": "abhiman",
-    "devanagari": "",
+    "iast": "abhimāna",
+    "devanagari": "अभिमान",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Pride, self-respect, self-conception, ego",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -143191,15 +143190,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhimana, Abhimāna - wisdomlib (https://www.wisdomlib.org/definition/abhimana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -143258,31 +143256,32 @@
   },
   {
     "name": "Abhimani",
-    "iast": "abhimani",
-    "devanagari": "",
+    "iast": "abhimānin",
+    "devanagari": "अभिमानिन्",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Proud, self-respecting, one who has self-conception",
+    "components": [
+      {
+        "part": "abhimāna",
+        "gloss": "pride, self-respect"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhimanin, Abhimānin - wisdomlib (https://de.wisdomlib.org/definition/abhimanin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Abhimanini",
@@ -143336,11 +143335,11 @@
   },
   {
     "name": "Abhimanya",
-    "iast": "abhimanya",
-    "devanagari": "",
+    "iast": "abhimanyu",
+    "devanagari": "अभिमन्यु",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Abhimanyu, the valorous son of Arjuna and Subhadra in the Mahabharata",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -143348,15 +143347,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhimanyu - Wikipedia (https://en.wikipedia.org/wiki/Abhimanyu)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -143811,10 +143809,10 @@
   {
     "name": "Abhinandana",
     "iast": "abhinandana",
-    "devanagari": "",
+    "devanagari": "अभिनन्दन",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
+    "meaning_en": "Welcome, congratulation, greeting, joyful acclamation; also a well-known modern bearer, IAF pilot Abhinandan Varthaman",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -143822,19 +143820,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhinandan Varthaman - Wikipedia (https://en.wikipedia.org/wiki/Abhinandan_Varthaman)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -143968,10 +143961,10 @@
   {
     "name": "Abhinava",
     "iast": "abhinava",
-    "devanagari": "",
+    "devanagari": "अभिनव",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Quite new or fresh; young, blooming, youthful",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -143979,28 +143972,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhinava - wisdomlib (https://www.wisdomlib.org/definition/abhinava)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhinavan",
-    "iast": "abhinavan",
-    "devanagari": "",
+    "iast": "abhinava",
+    "devanagari": "अभिनव",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Variant of Abhinava: new, fresh, youthful",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -144008,19 +143996,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhinava - wisdomlib (https://www.wisdomlib.org/definition/abhinava)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -144050,11 +144033,11 @@
   },
   {
     "name": "Abhinay",
-    "iast": "abhinay",
-    "devanagari": "",
+    "iast": "abhinaya",
+    "devanagari": "अभिनय",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "'Technique of dramatic representation'; the four categories of expressive technique in Indian classical performing arts (per the Natyashastra)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -144062,28 +144045,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhinaya - wisdomlib (https://www.wisdomlib.org/definition/abhinaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhinaya",
     "iast": "abhinaya",
-    "devanagari": "",
+    "devanagari": "अभिनय",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "'Technique of dramatic representation'; the four categories of expressive technique in Indian classical performing arts (per the Natyashastra)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -144091,19 +144069,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhinaya - wisdomlib (https://www.wisdomlib.org/definition/abhinaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -144427,11 +144400,11 @@
   },
   {
     "name": "Abhinivesa",
-    "iast": "abhinivesa",
-    "devanagari": "",
+    "iast": "abhiniveśa",
+    "devanagari": "अभिनिवेश",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
+    "meaning_en": "Clinging to life, tenacity, deep attachment; one of the five kleshas (afflictions) in Yoga philosophy",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -144439,24 +144412,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhinivesa, Abhinivesha - wisdomlib (https://de.wisdomlib.org/definition/abhinivesa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhinivesh",
-    "iast": "abhinivesh",
-    "devanagari": "",
+    "iast": "abhiniveśa",
+    "devanagari": "अभिनिवेश",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "Clinging to life, tenacity, deep attachment; one of the five kleshas (afflictions) in Yoga philosophy",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -144464,32 +144436,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhinivesa, Abhinivesha - wisdomlib (https://de.wisdomlib.org/definition/abhinivesa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhinivesha",
-    "iast": "abhinivesha",
-    "devanagari": "",
+    "iast": "abhiniveśa",
+    "devanagari": "अभिनिवेश",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
+    "meaning_en": "Clinging to life, tenacity, deep attachment; one of the five kleshas (afflictions) in Yoga philosophy",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -144497,15 +144460,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhinivesa, Abhinivesha - wisdomlib (https://de.wisdomlib.org/definition/abhinivesa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
