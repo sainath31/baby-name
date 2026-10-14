@@ -141533,11 +141533,11 @@
   },
   {
     "name": "Abhigjna",
-    "iast": "abhigjna",
-    "devanagari": "",
+    "iast": "abhijña",
+    "devanagari": "अभिज्ञ",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling related to 'abhijñā': direct/higher/supernormal knowledge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -141545,24 +141545,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhijna, Abhijña, Abhijñā - wisdomlib (https://www.wisdomlib.org/definition/abhijna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Abhigna",
-    "iast": "abhigna",
-    "devanagari": "",
+    "iast": "abhijña",
+    "devanagari": "अभिज्ञ",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Knowing, skilled, intelligent; related to 'abhijñā' (direct/higher knowledge)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -141570,53 +141569,52 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhijna, Abhijña, Abhijñā - wisdomlib (https://www.wisdomlib.org/definition/abhijna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Abhignan",
-    "iast": "abhignan",
-    "devanagari": "",
+    "iast": "abhijñāna",
+    "devanagari": "अभिज्ञान",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Recognition, token, sign; related to 'abhijñā' (knowledge)",
+    "components": [
+      {
+        "part": "abhijñā",
+        "gloss": "knowledge, recognition"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhijna, Abhijña, Abhijñā - wisdomlib (https://www.wisdomlib.org/definition/abhijna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhignya",
-    "iast": "abhignya",
-    "devanagari": "",
+    "iast": "abhijñā",
+    "devanagari": "अभिज्ञा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Direct/higher/supernormal knowledge; also 'wise, skilled'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -141624,15 +141622,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhijna, Abhijña, Abhijñā - wisdomlib (https://www.wisdomlib.org/definition/abhijna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -141736,11 +141733,11 @@
   },
   {
     "name": "Abhigya",
-    "iast": "abhigya",
-    "devanagari": "",
+    "iast": "abhijñā",
+    "devanagari": "अभिज्ञा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Direct/higher/supernormal knowledge; also 'wise, skilled'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -141748,73 +141745,72 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhijna, Abhijña, Abhijñā - wisdomlib (https://www.wisdomlib.org/definition/abhijna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Abhigyaan",
-    "iast": "abhigyaan",
-    "devanagari": "",
+    "iast": "abhijñāna",
+    "devanagari": "अभिज्ञान",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Recognition, token, sign; related to 'abhijñā' (knowledge)",
+    "components": [
+      {
+        "part": "abhijñā",
+        "gloss": "knowledge, recognition"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhijna, Abhijña, Abhijñā - wisdomlib (https://www.wisdomlib.org/definition/abhijna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhigyan",
-    "iast": "abhigyan",
-    "devanagari": "",
+    "iast": "abhijñāna",
+    "devanagari": "अभिज्ञान",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Recognition, token, sign; related to 'abhijñā' (knowledge)",
+    "components": [
+      {
+        "part": "abhijñā",
+        "gloss": "knowledge, recognition"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhijna, Abhijña, Abhijñā - wisdomlib (https://www.wisdomlib.org/definition/abhijna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -141870,10 +141866,10 @@
   {
     "name": "Abhihita",
     "iast": "abhihita",
-    "devanagari": "",
+    "devanagari": "अभिहित",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Said, told, declared, expressed",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -141881,27 +141877,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhihita, Abhihīta - wisdomlib (https://www.wisdomlib.org/definition/abhihita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Abhijaat",
-    "iast": "abhijaat",
-    "devanagari": "",
+    "iast": "abhijāta",
+    "devanagari": "अभिजात",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Of noble birth, well-born, highborn",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -141909,32 +141901,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhijata, Abhijāta - wisdomlib (https://www.wisdomlib.org/definition/abhijata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhijaata",
-    "iast": "abhijaata",
-    "devanagari": "",
+    "iast": "abhijāta",
+    "devanagari": "अभिजात",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Of noble birth, well-born, highborn",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -141942,15 +141925,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhijata, Abhijāta - wisdomlib (https://www.wisdomlib.org/definition/abhijata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -142037,11 +142019,11 @@
   },
   {
     "name": "Abhijat",
-    "iast": "abhijat",
-    "devanagari": "",
+    "iast": "abhijāta",
+    "devanagari": "अभिजात",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Of noble birth, well-born, highborn",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -142049,28 +142031,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhijata, Abhijāta - wisdomlib (https://www.wisdomlib.org/definition/abhijata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhijata",
-    "iast": "abhijata",
-    "devanagari": "",
+    "iast": "abhijāta",
+    "devanagari": "अभिजात",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Of noble birth, well-born, highborn",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -142078,27 +142055,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhijata, Abhijāta - wisdomlib (https://www.wisdomlib.org/definition/abhijata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Abhijath",
-    "iast": "abhijath",
-    "devanagari": "",
+    "iast": "abhijāta",
+    "devanagari": "अभिजात",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Abhijat: of noble birth, well-born, highborn",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -142106,15 +142079,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhijata, Abhijāta - wisdomlib (https://www.wisdomlib.org/definition/abhijata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -142144,27 +142116,32 @@
   },
   {
     "name": "Abhijatya",
-    "iast": "abhijatya",
-    "devanagari": "",
+    "iast": "ābhijātya",
+    "devanagari": "आभिजात्य",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Nobility, high birth, aristocratic quality (abstract noun from abhijata)",
+    "components": [
+      {
+        "part": "abhijāta",
+        "gloss": "well-born, noble"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhijatya, Ābhijātya - wisdomlib (https://www.wisdomlib.org/definition/abhijatya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Abhijay",
@@ -142229,35 +142206,35 @@
   },
   {
     "name": "Abhijeet",
-    "iast": "abhijeet",
-    "devanagari": "",
+    "iast": "abhijit",
+    "devanagari": "अभिजित्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Victorious, conquering'; name of a nakshatra (lunar mansion)",
+    "components": [
+      {
+        "part": "abhi",
+        "gloss": "towards"
+      },
+      {
+        "part": "jit",
+        "gloss": "conquering"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhijit - wisdomlib (https://www.wisdomlib.org/definition/abhijit)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -142366,11 +142343,11 @@
   },
   {
     "name": "Abhijita",
-    "iast": "abhijita",
-    "devanagari": "",
+    "iast": "abhijit",
+    "devanagari": "अभिजित्",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Feminine/variant form of Abhijit: victorious, conquering; name of a nakshatra",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -142378,53 +142355,56 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhijit - wisdomlib (https://www.wisdomlib.org/definition/abhijit)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Abhijith",
-    "iast": "abhijith",
-    "devanagari": "",
+    "iast": "abhijit",
+    "devanagari": "अभिजित्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Victorious, conquering'; name of a nakshatra (lunar mansion)",
+    "components": [
+      {
+        "part": "abhi",
+        "gloss": "towards"
+      },
+      {
+        "part": "jit",
+        "gloss": "conquering"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhijit - wisdomlib (https://www.wisdomlib.org/definition/abhijit)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhijiti",
     "iast": "abhijiti",
-    "devanagari": "",
+    "devanagari": "अभिजिति",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Related to 'abhijit' (victory, conquering)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -142432,27 +142412,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhijiti - wisdomlib (https://www.wisdomlib.org/definition/abhijiti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Abhijna",
-    "iast": "abhijna",
-    "devanagari": "",
+    "iast": "abhijña",
+    "devanagari": "अभिज्ञ",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Knowing, skilled, intelligent; related to 'abhijñā' (direct/higher knowledge)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -142460,47 +142436,44 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhijna, Abhijña, Abhijñā - wisdomlib (https://www.wisdomlib.org/definition/abhijna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Abhijnana",
-    "iast": "abhijnana",
-    "devanagari": "",
+    "iast": "abhijñāna",
+    "devanagari": "अभिज्ञान",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Recognition, token, sign; related to 'abhijñā' (knowledge)",
+    "components": [
+      {
+        "part": "abhijñā",
+        "gloss": "knowledge, recognition"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhijna, Abhijña, Abhijñā - wisdomlib (https://www.wisdomlib.org/definition/abhijna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Abhijun",
@@ -142948,11 +142921,11 @@
   },
   {
     "name": "Abhilasa",
-    "iast": "abhilasa",
-    "devanagari": "",
+    "iast": "abhilāṣā",
+    "devanagari": "अभिलाषा",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Desire, wish, longing",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -142960,28 +142933,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhilasa, Abhilāṣā, Abhilasha - wisdomlib (https://de.wisdomlib.org/definition/abhilasa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Abhilashah",
-    "iast": "abhilashah",
-    "devanagari": "",
+    "iast": "abhilāṣa",
+    "devanagari": "अभिलाष",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Desire, wish, longing",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -142989,23 +142957,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhilash, Abhilaṣ - wisdomlib (https://de.wisdomlib.org/definition/abhilash)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Abhilashita",
-    "iast": "abhilashita",
-    "devanagari": "",
+    "iast": "abhilāṣita",
+    "devanagari": "अभिलाषित",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
+    "meaning_en": "Desired, wished for",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -143013,44 +142981,44 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhilashita, Abhilāṣita - wisdomlib (https://de.wisdomlib.org/definition/abhilashita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Abhilasin",
-    "iast": "abhilasin",
-    "devanagari": "",
+    "iast": "abhilāṣin",
+    "devanagari": "अभिलाषिन्",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "One who desires or longs for something",
+    "components": [
+      {
+        "part": "abhilāṣa",
+        "gloss": "desire, wish"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhilash, Abhilaṣ - wisdomlib (https://de.wisdomlib.org/definition/abhilash)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Abhilesh",
