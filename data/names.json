@@ -134033,11 +134033,11 @@
   },
   {
     "name": "Aarsh",
-    "iast": "aarsh",
-    "devanagari": "",
+    "iast": "ārṣa",
+    "devanagari": "आर्ष",
     "letter": "A",
-    "syllable_count": 1,
-    "meaning_en": null,
+    "syllable_count": 2,
+    "meaning_en": "Relating to or derived from the Rishis (Vedic sages); archaic, sage-like",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -134045,28 +134045,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arshas, Arśa, Ārṣa - wisdomlib (https://de.wisdomlib.org/definition/arshas)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aarshabh",
-    "iast": "aarshabh",
-    "devanagari": "",
+    "iast": "ārṣabha",
+    "devanagari": "आर्षभ",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "'Of the first rank, prime, worthy of admiration' (from rishabha, bull/best)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -134074,19 +134069,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arshabha, Ārṣabha - wisdomlib (https://www.wisdomlib.org/definition/arshabha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -134226,8 +134216,8 @@
     "iast": "aarul",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Tamil word 'arul' (அருள்) meaning grace, divine blessing",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -134235,19 +134225,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (Tamil naming conventions reference) (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -134280,24 +134265,32 @@
     "iast": "aarumugham",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Six-faced'; Tamil epithet of the god Murugan (equivalent to Sanskrit Shanmukha)",
+    "components": [
+      {
+        "part": "āru",
+        "gloss": "six"
+      },
+      {
+        "part": "mugam",
+        "gloss": "face"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -134305,24 +134298,32 @@
     "iast": "aarumughan",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Six-faced'; Tamil epithet of the god Murugan (equivalent to Sanskrit Shanmukha)",
+    "components": [
+      {
+        "part": "āru",
+        "gloss": "six"
+      },
+      {
+        "part": "mugam",
+        "gloss": "face"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -134352,11 +134353,11 @@
   },
   {
     "name": "Aaruna",
-    "iast": "aaruna",
-    "devanagari": "",
+    "iast": "aruṇa",
+    "devanagari": "अरुण",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Reddish, light brown, golden-yellow; the colour of dawn; also charioteer of the sun god",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -134364,15 +134365,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aruna, Aruṇa, Aruṇā - wisdomlib (https://de.wisdomlib.org/definition/aruna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -134664,11 +134664,11 @@
   },
   {
     "name": "Aaryaman",
-    "iast": "aaryaman",
-    "devanagari": "",
+    "iast": "aryaman",
+    "devanagari": "अर्यमन्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a Vedic solar deity, one of the twelve Adityas (sons of Kashyapa and Aditi); also foremost among the Pitris (ancestors)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -134676,15 +134676,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aryaman, Aryamā, Aryama - wisdomlib (https://www.wisdomlib.org/definition/aryaman)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -135072,11 +135071,11 @@
   },
   {
     "name": "Aasha",
-    "iast": "aasha",
-    "devanagari": "",
+    "iast": "āśā",
+    "devanagari": "आशा",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Hope, wish, expectation",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -135084,23 +135083,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Asha, Āsā, Āsa, Āśā - wisdomlib (https://de.wisdomlib.org/definition/asha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
