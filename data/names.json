@@ -146232,11 +146232,11 @@
   },
   {
     "name": "Abhisheik",
-    "iast": "abhisheik",
-    "devanagari": "",
+    "iast": "abhiṣeka",
+    "devanagari": "अभिषेक",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Abhishek: ceremonial anointing/consecration",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -146244,24 +146244,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Significance of Abhisheka - wisdomlib (https://www.wisdomlib.org/concept/abhisheka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhisheka",
-    "iast": "abhisheka",
-    "devanagari": "",
+    "iast": "abhiṣeka",
+    "devanagari": "अभिषेक",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Ceremonial anointing/consecration, ritual bathing of a deity or king",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -146269,40 +146268,43 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Significance of Abhisheka - wisdomlib (https://www.wisdomlib.org/concept/abhisheka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Abhishekita",
-    "iast": "abhishekita",
-    "devanagari": "",
+    "iast": "abhiṣekita",
+    "devanagari": "अभिषेकित",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Anointed, consecrated (related to abhisheka)",
+    "components": [
+      {
+        "part": "abhiṣeka",
+        "gloss": "anointing, consecration"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Significance of Abhisheka - wisdomlib (https://www.wisdomlib.org/concept/abhisheka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -146332,81 +146334,89 @@
   },
   {
     "name": "Abhishikt",
-    "iast": "abhishikt",
-    "devanagari": "",
+    "iast": "abhiṣikta",
+    "devanagari": "अभिषिक्त",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Anointed, consecrated (past participle of abhisheka)",
+    "components": [
+      {
+        "part": "abhiṣeka",
+        "gloss": "anointing, consecration"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhishikta, Abhiṣikta - wisdomlib (https://de.wisdomlib.org/definition/abhishikta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhishikta",
-    "iast": "abhishikta",
-    "devanagari": "",
+    "iast": "abhiṣikta",
+    "devanagari": "अभिषिक्त",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Anointed, consecrated (past participle of abhisheka)",
+    "components": [
+      {
+        "part": "abhiṣeka",
+        "gloss": "anointing, consecration"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhishikta, Abhiṣikta - wisdomlib (https://de.wisdomlib.org/definition/abhishikta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Abhishikth",
-    "iast": "abhishikth",
-    "devanagari": "",
+    "iast": "abhiṣikta",
+    "devanagari": "अभिषिक्त",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Abhishikta: anointed, consecrated",
+    "components": [
+      {
+        "part": "abhiṣeka",
+        "gloss": "anointing, consecration"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhishikta, Abhiṣikta - wisdomlib (https://de.wisdomlib.org/definition/abhishikta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -146461,11 +146471,11 @@
   },
   {
     "name": "Abhishri",
-    "iast": "abhishri",
-    "devanagari": "",
+    "iast": "abhiśrī",
+    "devanagari": "अभिश्री",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Splendour, glory, radiance",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -146473,28 +146483,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhishri, Abhiśrī, Abhisṛ - wisdomlib (https://www.wisdomlib.org/definition/abhishri)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Abhishu",
-    "iast": "abhishu",
-    "devanagari": "",
+    "iast": "abhiṣu",
+    "devanagari": "अभिषु",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "A rein, bridle; also a ray of light (Vedic term)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -146502,15 +146507,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhishu, Abhiṣu, Abhīśu - wisdomlib (https://www.wisdomlib.org/definition/abhishu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -146565,31 +146569,32 @@
   },
   {
     "name": "Abhisikta",
-    "iast": "abhisikta",
-    "devanagari": "",
+    "iast": "abhiṣikta",
+    "devanagari": "अभिषिक्त",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Abhishikta: anointed, consecrated",
+    "components": [
+      {
+        "part": "abhiṣeka",
+        "gloss": "anointing, consecration"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhishikta, Abhiṣikta - wisdomlib (https://de.wisdomlib.org/definition/abhishikta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Abhisneha",
@@ -146651,11 +146656,11 @@
   },
   {
     "name": "Abhisri",
-    "iast": "abhisri",
-    "devanagari": "",
+    "iast": "abhiśrī",
+    "devanagari": "अभिश्री",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Abhishri: splendour, glory, radiance",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -146663,28 +146668,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhishri, Abhiśrī, Abhisṛ - wisdomlib (https://www.wisdomlib.org/definition/abhishri)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Abhisu",
-    "iast": "abhisu",
-    "devanagari": "",
+    "iast": "abhiṣu",
+    "devanagari": "अभिषु",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "A rein, bridle; also a ray of light (Vedic term)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -146692,19 +146692,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhishu, Abhiṣu, Abhīśu - wisdomlib (https://www.wisdomlib.org/definition/abhishu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Abhisumant",
@@ -147226,11 +147222,11 @@
   },
   {
     "name": "Abhivandan",
-    "iast": "abhivandan",
-    "devanagari": "",
+    "iast": "abhivandana",
+    "devanagari": "अभिवन्दन",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "Salutation, respectful greeting, veneration",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -147238,15 +147234,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhivandana, Abhivamdana - wisdomlib (https://de.wisdomlib.org/definition/abhivandana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -147570,7 +147565,7 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a pentatonic raga in Carnatic and Hindustani classical music",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -147578,23 +147573,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Abhogi - Wikipedia (https://en.wikipedia.org/wiki/Abhogi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Abhoy",
-    "iast": "abhoy",
-    "devanagari": "",
+    "iast": "abhaya",
+    "devanagari": "অভয়",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Bengali spelling of Abhay/Abhaya: fearless, free from fear",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -147602,24 +147597,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhay - wisdomlib (https://www.wisdomlib.org/definition/abhay)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhra",
     "iast": "abhra",
-    "devanagari": "",
+    "devanagari": "अभ्र",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Cloud",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -147627,27 +147621,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhra, Ābhra - wisdomlib (https://www.wisdomlib.org/definition/abhra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
