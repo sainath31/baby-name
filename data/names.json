@@ -148164,11 +148164,11 @@
   },
   {
     "name": "Abhyas",
-    "iast": "abhyas",
-    "devanagari": "",
+    "iast": "abhyāsa",
+    "devanagari": "अभ्यास",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Practice, repetition, habit, study",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -148176,15 +148176,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhyasa, Abhyāsa, Abhyasha - wisdomlib (https://www.wisdomlib.org/definition/abhyasha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -148288,11 +148287,11 @@
   },
   {
     "name": "Abhyuday",
-    "iast": "abhyuday",
-    "devanagari": "",
+    "iast": "abhyudaya",
+    "devanagari": "अभ्युदय",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Rise, prosperity, elevation, success",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -148300,15 +148299,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhyudayeshti, Abhyudaya-ishti - wisdomlib (https://wisdomlib.org/definition/abhyudayeshti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -148363,11 +148361,11 @@
   },
   {
     "name": "Abhyudhay",
-    "iast": "abhyudhay",
-    "devanagari": "",
+    "iast": "abhyudaya",
+    "devanagari": "अभ्युदय",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Abhyuday: rise, prosperity, elevation, success",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -148375,24 +148373,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhyudayeshti, Abhyudaya-ishti - wisdomlib (https://wisdomlib.org/definition/abhyudayeshti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhyudit",
-    "iast": "abhyudit",
-    "devanagari": "",
+    "iast": "abhyudita",
+    "devanagari": "अभ्युदित",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Risen, arisen (especially of the sun)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -148400,24 +148397,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhyudita - wisdomlib (https://de.wisdomlib.org/definition/abhyudita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abhyudita",
     "iast": "abhyudita",
-    "devanagari": "",
+    "devanagari": "अभ्युदित",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Risen, arisen (especially of the sun)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -148425,19 +148421,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhyudita - wisdomlib (https://de.wisdomlib.org/definition/abhyudita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Abibhava",
@@ -148727,11 +148719,11 @@
   },
   {
     "name": "Abimanyu",
-    "iast": "abimanyu",
-    "devanagari": "",
+    "iast": "abhimanyu",
+    "devanagari": "अभिमन्यु",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Abhimanyu, the valorous son of Arjuna and Subhadra in the Mahabharata",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -148739,23 +148731,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abhimanyu - Wikipedia (https://en.wikipedia.org/wiki/Abhimanyu)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -148988,11 +148971,11 @@
   },
   {
     "name": "Abinav",
-    "iast": "abinav",
-    "devanagari": "",
+    "iast": "abhinava",
+    "devanagari": "अभिनव",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Quite new or fresh; young, blooming, youthful",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -149000,24 +148983,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhinava - wisdomlib (https://www.wisdomlib.org/definition/abhinava)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abinay",
-    "iast": "abinay",
-    "devanagari": "",
+    "iast": "abhinaya",
+    "devanagari": "अभिनय",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "'Technique of dramatic representation' in Indian classical performing arts",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -149025,15 +149007,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhinaya - wisdomlib (https://www.wisdomlib.org/definition/abhinaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -149117,11 +149098,11 @@
   },
   {
     "name": "Abiram",
-    "iast": "abiram",
-    "devanagari": "",
+    "iast": "abhirāma",
+    "devanagari": "अभिराम",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Abhiram: delightful, lovely, pleasing",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -149129,24 +149110,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Abhiram, Abhi-ram - wisdomlib (https://www.wisdomlib.org/definition/abhiram)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Abirami",
-    "iast": "abirami",
-    "devanagari": "",
+    "iast": "abhirāmī",
+    "devanagari": "ஆபிராமி",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Tamil form of 'Abhirami', an epithet of the goddess Parvati; subject of the celebrated 18th-century devotional poem 'Abirami Andhadhi' by Abirami Bhattar",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -149154,19 +149134,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abirami Andhadhi - various sources confirming the deity/poem (https://www.svtsydney.org/abirami-andhaathi/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -149321,11 +149296,11 @@
   },
   {
     "name": "Abishek",
-    "iast": "abishek",
-    "devanagari": "",
+    "iast": "abhiṣeka",
+    "devanagari": "अभिषेक",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Ceremonial anointing/consecration, ritual bathing of a deity or king",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -149333,19 +149308,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Significance of Abhisheka - wisdomlib (https://www.wisdomlib.org/concept/abhisheka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
