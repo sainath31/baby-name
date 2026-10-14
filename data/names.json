@@ -353923,60 +353923,60 @@
   },
   {
     "name": "Gunavathi",
-    "iast": "gunavathi",
-    "devanagari": "",
+    "iast": "guṇavatī",
+    "devanagari": "गुणवती",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Virtuous woman, one possessing good qualities'",
+    "components": [
+      {
+        "part": "guṇa (virtue) + -vatī (feminine possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gunavati - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gunavati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gunavati",
-    "iast": "gunavati",
-    "devanagari": "",
+    "iast": "guṇavatī",
+    "devanagari": "गुणवती",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Virtuous woman, one possessing good qualities'",
+    "components": [
+      {
+        "part": "guṇa (virtue) + -vatī (feminine possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gunavati - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gunavati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -354035,52 +354035,60 @@
   },
   {
     "name": "Gundapa",
-    "iast": "gundapa",
-    "devanagari": "",
+    "iast": "guṇḍappa",
+    "devanagari": "ಗುಂಡಪ್ಪ",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Kannada given name/surname, famously that of cricketer Gundappa Vishwanath; etymology likely related to a regional honorific form",
+    "components": [
+      {
+        "part": "Kannada honorific form",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gundappa Viswanath - Wikipedia (https://en.wikipedia.org/wiki/Gundappa_Viswanath)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gundappa",
-    "iast": "gundappa",
-    "devanagari": "",
+    "iast": "guṇḍappa",
+    "devanagari": "ಗುಂಡಪ್ಪ",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Kannada given name, famously that of cricketer Gundappa Vishwanath",
+    "components": [
+      {
+        "part": "Kannada honorific form",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gundappa Viswanath - Wikipedia (https://en.wikipedia.org/wiki/Gundappa_Viswanath)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -354110,31 +354118,31 @@
   },
   {
     "name": "Guneet",
-    "iast": "guneet",
+    "iast": "guṇaprīta",
     "devanagari": "",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Punjabi/Sikh compound 'gun (virtue, from guna) + preet (love)', meaning 'one who loves virtue'",
+    "components": [
+      {
+        "part": "guṇa (virtue) + prīta (loved/love)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "gunavat/guna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/guna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Gunesa",
@@ -354491,81 +354499,89 @@
   },
   {
     "name": "Gunj",
-    "iast": "gunj",
-    "devanagari": "",
+    "iast": "guñja",
+    "devanagari": "गुंज",
     "letter": "G",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "'Resonance, echo, buzzing sound'; also the name of a small red-and-black seed (Abrus precatorius) used traditionally as a weight measure",
+    "components": [
+      {
+        "part": "guñja (resonance/sound; also a seed)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gunja - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gunja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gunja",
-    "iast": "gunja",
-    "devanagari": "",
+    "iast": "guñjā",
+    "devanagari": "गुंजा",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Resonance, echo'; also the name of a small red-and-black seed used traditionally as a weight measure in Ayurveda/jewelry",
+    "components": [
+      {
+        "part": "guñjā (resonance; also a seed)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gunja - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gunja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gunjana",
-    "iast": "gunjana",
-    "devanagari": "",
+    "iast": "guñjana",
+    "devanagari": "गुंजन",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Humming, buzzing, resounding' (e.g. of bees)",
+    "components": [
+      {
+        "part": "guñjana (humming/resonating)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gunjana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gunjana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -354961,35 +354977,31 @@
   },
   {
     "name": "Gunvant",
-    "iast": "gunvant",
-    "devanagari": "",
+    "iast": "guṇavanta",
+    "devanagari": "गुणवंत",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Possessing virtues/good qualities', vernacular form of Gunavan",
+    "components": [
+      {
+        "part": "guṇa (virtue) + -vanta (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gunavat - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gunavat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -355019,60 +355031,60 @@
   },
   {
     "name": "Gunwant",
-    "iast": "gunwant",
-    "devanagari": "",
+    "iast": "guṇavanta",
+    "devanagari": "गुणवंत",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Possessing virtues/good qualities', vernacular spelling variant of Gunvant",
+    "components": [
+      {
+        "part": "guṇa (virtue) + -vanta (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gunavat - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gunavat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gunwanti",
-    "iast": "gunwanti",
-    "devanagari": "",
+    "iast": "guṇavatī",
+    "devanagari": "गुणवती",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular spelling variant of Gunavati, 'virtuous woman'",
+    "components": [
+      {
+        "part": "guṇa (virtue) + -vatī (feminine possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gunavati - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gunavati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -355135,31 +355147,27 @@
     "devanagari": "",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Sikh/Punjabi compound name 'Guru + bachan (word/utterance)', meaning 'the Guru's word'; a traditional Sikh given name pattern",
+    "components": [
+      {
+        "part": "guru (spiritual teacher) + bachan/vacana (word)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Guru-prefixed naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -355168,23 +355176,27 @@
     "devanagari": "",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'The Guru's word/utterance'; refers to the sacred hymns and compositions of the Sikh Gurus compiled in the Guru Granth Sahib",
+    "components": [
+      {
+        "part": "guru (teacher) + bani/vani (word/speech)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gurbani - Wikipedia (https://en.wikipedia.org/wiki/Gurbani)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -355268,23 +355280,27 @@
     "devanagari": "",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Sikh/Punjabi compound 'Guru + bir (brave/warrior)', meaning 'the Guru's warrior'",
+    "components": [
+      {
+        "part": "guru (teacher) + vīra (brave/warrior)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Guru-prefixed naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -355293,31 +355309,27 @@
     "devanagari": "",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Sikh/Punjabi compound 'Guru + charan (feet)', meaning 'at the feet of the Guru', a traditional Sikh given name",
+    "components": [
+      {
+        "part": "guru (teacher) + caraṇa (feet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Guru-prefixed naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -355325,32 +355337,28 @@
     "iast": "gurdayal",
     "devanagari": "",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Sikh/Punjabi compound 'Guru + dayal (merciful)', meaning 'the merciful Guru'",
+    "components": [
+      {
+        "part": "guru (teacher) + dayāla (merciful)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Guru-prefixed naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -355358,28 +355366,28 @@
     "iast": "gurdeep",
     "devanagari": "",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Sikh/Punjabi compound 'Guru + deep (lamp)', meaning 'lamp of the Guru'",
+    "components": [
+      {
+        "part": "guru (teacher) + dīpa (lamp)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Guru-prefixed naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -355388,27 +355396,27 @@
     "devanagari": "",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Sikh/Punjabi compound 'Guru + dev (divine)', meaning 'divine teacher'",
+    "components": [
+      {
+        "part": "guru (teacher) + deva (divine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Guru-prefixed naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -355599,31 +355607,27 @@
     "devanagari": "",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Sikh/Punjabi compound 'Guru + man (mind/heart)', meaning 'the Guru's mind/one devoted in mind to the Guru'",
+    "components": [
+      {
+        "part": "guru (teacher) + manas (mind)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Guru-prefixed naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -355656,28 +355660,28 @@
     "iast": "gurmeet",
     "devanagari": "",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Sikh/Punjabi compound 'Guru + meet/mitra (friend)', meaning 'friend of the Guru'",
+    "components": [
+      {
+        "part": "guru (teacher) + mitra (friend)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Guru-prefixed naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
