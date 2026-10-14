@@ -340517,52 +340517,60 @@
   },
   {
     "name": "Gangothry",
-    "iast": "gangothry",
-    "devanagari": "",
+    "iast": "gaṅgotrī",
+    "devanagari": "गंगोत्री",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Gangotri, the town and glacier that is the source of the Ganges river, a major Hindu pilgrimage site",
+    "components": [
+      {
+        "part": "gaṅgā (Ganga) + utrī/uttri (source/origin)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gangotri - Wikipedia (https://en.wikipedia.org/wiki/Gangotri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gangotri",
-    "iast": "gangotri",
-    "devanagari": "",
+    "iast": "gaṅgotrī",
+    "devanagari": "गंगोत्री",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of the glacier and town that is the source of the Ganges river; a major Hindu pilgrimage site, used as a girl's given name",
+    "components": [
+      {
+        "part": "gaṅgā (Ganga) + utrī (source/origin)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gangotri - Wikipedia (https://en.wikipedia.org/wiki/Gangotri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -340696,52 +340704,60 @@
   },
   {
     "name": "Ganit",
-    "iast": "ganit",
-    "devanagari": "",
+    "iast": "gaṇita",
+    "devanagari": "गणित",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Mathematics, arithmetic, calculation",
+    "components": [
+      {
+        "part": "gaṇita (mathematics, from root gaṇ, to count)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "ganita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ganita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ganith",
-    "iast": "ganith",
-    "devanagari": "",
+    "iast": "gaṇita",
+    "devanagari": "गणित",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Ganit: mathematics, arithmetic, calculation",
+    "components": [
+      {
+        "part": "gaṇita (mathematics)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "ganita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ganita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -340848,56 +340864,60 @@
   },
   {
     "name": "Gannaath",
-    "iast": "gannaath",
-    "devanagari": "",
+    "iast": "gaṇanātha",
+    "devanagari": "गणनाथ",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of the Ganas', epithet of Ganesha",
+    "components": [
+      {
+        "part": "gaṇa (troop) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gananatha - wisdomlib.org (https://www.wisdomlib.org/definition/gananatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gannath",
-    "iast": "gannath",
-    "devanagari": "",
+    "iast": "gaṇanātha",
+    "devanagari": "गणनाथ",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular spelling of Gananatha, 'lord of the Ganas', epithet of Ganesha",
+    "components": [
+      {
+        "part": "gaṇa (troop) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gananatha - wisdomlib.org (https://www.wisdomlib.org/definition/gananatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -340981,60 +341001,60 @@
   },
   {
     "name": "Ganpat",
-    "iast": "ganpat",
-    "devanagari": "",
+    "iast": "gaṇapati",
+    "devanagari": "गणपति",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Common vernacular (Hindi/Marathi) contraction of Ganapati, 'lord of the Ganas', name/epithet of Ganesha",
+    "components": [
+      {
+        "part": "gaṇa (troop) + pati (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ganesha - Wikipedia (https://en.wikipedia.org/wiki/Ganesha#Names_and_epithets)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ganpati",
-    "iast": "ganpati",
-    "devanagari": "",
+    "iast": "gaṇapati",
+    "devanagari": "गणपति",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular spelling of Ganapati, epithet/name of Ganesha, 'lord of the Ganas'",
+    "components": [
+      {
+        "part": "gaṇa (troop) + pati (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Ganesha - Wikipedia (https://en.wikipedia.org/wiki/Ganesha#Names_and_epithets)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -341127,26 +341147,30 @@
   {
     "name": "Garbha",
     "iast": "garbha",
-    "devanagari": "",
+    "devanagari": "गर्भ",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Womb, embryo, interior; also found in compounds like Hiranyagarbha (golden womb, an epithet of Brahma)",
+    "components": [
+      {
+        "part": "garbha (womb/embryo)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "garbha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/garbha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -341176,60 +341200,60 @@
   },
   {
     "name": "Garg",
-    "iast": "garg",
-    "devanagari": "",
+    "iast": "garga",
+    "devanagari": "गर्ग",
     "letter": "G",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Name of an ancient sage (Garga Muni), author of texts on astrology and astronomy; also a common Brahmin surname in North India",
+    "components": [
+      {
+        "part": "garga (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Garga - Wikipedia (https://en.wikipedia.org/wiki/Garga)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Garga",
     "iast": "garga",
-    "devanagari": "",
+    "devanagari": "गर्ग",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of the ancient sage Garga Muni, astrologer/astronomer associated with the Garga Samhita",
+    "components": [
+      {
+        "part": "garga (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Garga - Wikipedia (https://en.wikipedia.org/wiki/Garga)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -341334,27 +341358,31 @@
   },
   {
     "name": "Gariman",
-    "iast": "gariman",
-    "devanagari": "",
+    "iast": "garimā",
+    "devanagari": "गरिमा",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Dignity, weight, importance, greatness; also one of the eight classical siddhis (supernatural powers) in yoga, meaning the power of becoming heavy",
+    "components": [
+      {
+        "part": "garimā/garima (weight, dignity, a siddhi)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "garima - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/garima)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -341436,81 +341464,89 @@
   },
   {
     "name": "Garisht",
-    "iast": "garisht",
-    "devanagari": "",
+    "iast": "gariṣṭha",
+    "devanagari": "गरिष्ठ",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Most excellent, weightiest, most venerable' (superlative degree of guru, heavy/great)",
+    "components": [
+      {
+        "part": "gariṣṭha (superlative of guru)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "garishtha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/garishtha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Garishtha",
-    "iast": "garishtha",
-    "devanagari": "",
+    "iast": "gariṣṭha",
+    "devanagari": "गरिष्ठ",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Most excellent, weightiest, most venerable' (superlative degree of guru)",
+    "components": [
+      {
+        "part": "gariṣṭha (superlative of guru)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "garishtha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/garishtha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Garistha",
-    "iast": "garistha",
-    "devanagari": "",
+    "iast": "gariṣṭha",
+    "devanagari": "गरिष्ठ",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Garishtha: 'most excellent, weightiest' (superlative of guru)",
+    "components": [
+      {
+        "part": "gariṣṭha",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "garishtha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/garishtha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -341565,68 +341601,60 @@
   },
   {
     "name": "Garjan",
-    "iast": "garjan",
-    "devanagari": "",
+    "iast": "garjana",
+    "devanagari": "गर्जन",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Roaring, thundering, bellowing (as of clouds, lions, or elephants)",
+    "components": [
+      {
+        "part": "garjana (roaring/thundering)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "garjana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/garjana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Garuda",
-    "iast": "garuda",
-    "devanagari": "",
+    "iast": "garuḍa",
+    "devanagari": "गरुड",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "The divine eagle-like bird, vahana (mount) of Vishnu, and king of birds in Hindu mythology",
+    "components": [
+      {
+        "part": "garuḍa (proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Garuda - Wikipedia (https://en.wikipedia.org/wiki/Garuda)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -341682,55 +341710,59 @@
   {
     "name": "Garutmat",
     "iast": "garutmat",
-    "devanagari": "",
+    "devanagari": "गरुत्मत्",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Winged one', a Vedic/epic epithet for Garuda (and sometimes for the sun or Agni)",
+    "components": [
+      {
+        "part": "garutmat (winged, from garut, wing)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "garutmat - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/garutmat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Garv",
-    "iast": "garv",
-    "devanagari": "",
+    "iast": "garva",
+    "devanagari": "गर्व",
     "letter": "G",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Pride, arrogance, haughtiness",
+    "components": [
+      {
+        "part": "garva (pride)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "garva - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/garva)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -341860,27 +341892,31 @@
   },
   {
     "name": "Garvi",
-    "iast": "garvi",
-    "devanagari": "",
+    "iast": "garvī",
+    "devanagari": "गर्वी",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Proud one' (feminine of garvin/garva)",
+    "components": [
+      {
+        "part": "garva (pride) + -ī (feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "garvi/garvin - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/garvi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -341915,26 +341951,30 @@
   {
     "name": "Garvin",
     "iast": "garvin",
-    "devanagari": "",
+    "devanagari": "गर्विन्",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Proud one' (possessive form of garva, pride)",
+    "components": [
+      {
+        "part": "garva (pride) + -in (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "garvin - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/garvin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -341964,56 +342004,60 @@
   },
   {
     "name": "Garvita",
-    "iast": "garvita",
-    "devanagari": "",
+    "iast": "garvitā",
+    "devanagari": "गर्विता",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Proud one' (feminine), from garva (pride); a common modern Indian given name",
+    "components": [
+      {
+        "part": "garva (pride) + -itā (feminine past participle)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "garvita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/garvita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gatha",
-    "iast": "gatha",
-    "devanagari": "",
+    "iast": "gāthā",
+    "devanagari": "गाथा",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "A song, verse, ballad, or sacred narrative verse in Sanskrit/Pali literature",
+    "components": [
+      {
+        "part": "gāthā (verse/song)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gatha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -342048,30 +342092,30 @@
   {
     "name": "Gati",
     "iast": "gati",
-    "devanagari": "",
+    "devanagari": "गति",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Motion, movement, going, course, path; also philosophically 'destiny/way of life/refuge'",
+    "components": [
+      {
+        "part": "gati (motion/path)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gati - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Gatik and Gagan",
@@ -342330,26 +342374,30 @@
   {
     "name": "Gau",
     "iast": "gau",
-    "devanagari": "",
+    "devanagari": "गौ",
     "letter": "G",
     "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Cow; a sacred animal in Hindu tradition, also used as a short given name/prefix in compounds (e.g. Gautam)",
+    "components": [
+      {
+        "part": "gau/go (cow)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "go/gau - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/go)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
