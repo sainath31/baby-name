@@ -126166,60 +126166,68 @@
   },
   {
     "name": "Aadhan",
-    "iast": "aadhan",
-    "devanagari": "",
+    "iast": "ādhāna",
+    "devanagari": "आधान",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Placing, depositing; receptacle, foundation",
+    "components": [
+      {
+        "part": "ā-",
+        "gloss": "toward"
+      },
+      {
+        "part": "dhāna",
+        "gloss": "placing, holding"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adhana, Ādhāna - wisdomlib (https://www.wisdomlib.org/definition/adhana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aadhar",
-    "iast": "aadhar",
-    "devanagari": "",
+    "iast": "ādhāra",
+    "devanagari": "आधार",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Support, foundation, basis, receptacle",
+    "components": [
+      {
+        "part": "ā-",
+        "gloss": "toward"
+      },
+      {
+        "part": "dhāra",
+        "gloss": "holding, bearing"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adhara, Ādhāra - wisdomlib (https://www.wisdomlib.org/definition/adhara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -126307,11 +126315,11 @@
   },
   {
     "name": "Aadhi",
-    "iast": "aadhi",
-    "devanagari": "",
+    "iast": "ādi",
+    "devanagari": "आदि",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "First, beginning, primeval, original",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -126319,24 +126327,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adi, Ādi - wisdomlib (https://www.wisdomlib.org/definition/adi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aadhik",
-    "iast": "aadhik",
-    "devanagari": "",
+    "iast": "adhika",
+    "devanagari": "अधिक",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "More, additional, excessive, surpassing",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -126344,28 +126351,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adhika - wisdomlib (https://www.wisdomlib.org/definition/adhika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aadhikara",
-    "iast": "aadhikara",
-    "devanagari": "",
+    "iast": "adhikāra",
+    "devanagari": "अधिकार",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Authority, right, jurisdiction, entitlement",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -126373,69 +126375,80 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adhikara - wisdomlib (https://www.wisdomlib.org/definition/adhikara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aadhikesav",
-    "iast": "aadhikesav",
-    "devanagari": "",
+    "iast": "ādikeśava",
+    "devanagari": "आदिकेशव",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Primeval Keshava (Vishnu)'; epithet of Vishnu used as a temple name (Adi Kesava Perumal)",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first, primeval"
+      },
+      {
+        "part": "keśava",
+        "gloss": "name of Vishnu/Krishna"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adi Kesava Perumal temple - Wikipedia (https://en.wikipedia.org/wiki/Adi_Kesava_Perumal_temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aadhikesavan",
-    "iast": "aadhikesavan",
-    "devanagari": "",
+    "iast": "ādikeśavan",
+    "devanagari": "आदिकेशवन्",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil form of Aadhikesav: 'primeval Keshava/Vishnu'",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first"
+      },
+      {
+        "part": "keśavan",
+        "gloss": "Vishnu/Krishna (Tamil form)"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adi Kesava Perumal temple - Wikipedia (https://en.wikipedia.org/wiki/Adi_Kesava_Perumal_temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -126540,31 +126553,35 @@
   },
   {
     "name": "Aadhinath",
-    "iast": "aadhinath",
-    "devanagari": "",
+    "iast": "ādinātha",
+    "devanagari": "आदिनाथ",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'First lord'; epithet of Rishabhanatha, the first Jain Tirthankara, and also of Shiva",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord, protector"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adinatha - wisdomlib (https://www.wisdomlib.org/definition/adinatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -126598,11 +126615,11 @@
   },
   {
     "name": "Aadhira",
-    "iast": "aadhira",
-    "devanagari": "",
+    "iast": "ādhīrā",
+    "devanagari": "आधीरा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Commonly used as a Tamil/South Indian girl's name meaning 'moon' or associated with Vishnu; sourced mainly from aggregator/baby-name sites rather than classical dictionary",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -126610,35 +126627,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aadhira baby name meaning (https://www.momjunction.com/baby-names/aadhira/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Aadhira and Aarna",
@@ -126796,27 +126793,35 @@
   },
   {
     "name": "Aadhiseshan",
-    "iast": "aadhiseshan",
-    "devanagari": "",
+    "iast": "ādiśeṣa",
+    "devanagari": "आदिशेष",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Primeval Shesha'; epithet of Shesha/Ananta, the cosmic serpent on which Vishnu reclines",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first, primeval"
+      },
+      {
+        "part": "śeṣa",
+        "gloss": "the serpent Shesha/Ananta"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Shesha (Hinduism) - Wikipedia (https://en.wikipedia.org/wiki/Shesha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -126846,27 +126851,35 @@
   },
   {
     "name": "Aadhishankar",
-    "iast": "aadhishankar",
-    "devanagari": "",
+    "iast": "ādiśaṅkara",
+    "devanagari": "आदिशङ्कर",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Refers to Adi Shankara, the 8th-century philosopher-saint; 'first/original Shankara'",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first, original"
+      },
+      {
+        "part": "śaṅkara",
+        "gloss": "name of Shiva; also the philosopher Adi Shankara"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adi Shankara - Wikipedia (https://en.wikipedia.org/wiki/Adi_Shankara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -126925,40 +126938,44 @@
   },
   {
     "name": "Aadhriti",
-    "iast": "aadhriti",
-    "devanagari": "",
+    "iast": "ādhṛti",
+    "devanagari": "आधृति",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Support, firmness, steadiness; patience",
+    "components": [
+      {
+        "part": "ā-",
+        "gloss": "intensive prefix"
+      },
+      {
+        "part": "dhṛti",
+        "gloss": "firmness, steadiness"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adhriti, Ādhṛti - wisdomlib (https://www.wisdomlib.org/definition/adhriti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aadhunik",
-    "iast": "aadhunik",
-    "devanagari": "",
+    "iast": "ādhunika",
+    "devanagari": "आधुनिक",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Modern, present-day, contemporary",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -126966,19 +126983,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adhunika - wisdomlib (https://www.wisdomlib.org/definition/adhunika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -127041,11 +127053,11 @@
   },
   {
     "name": "Aadhyatm",
-    "iast": "aadhyatm",
-    "devanagari": "",
+    "iast": "adhyātma",
+    "devanagari": "अध्यात्म",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Relating to the self or soul; spiritual knowledge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -127053,15 +127065,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adhyatma - wisdomlib (https://www.wisdomlib.org/definition/adhyatma)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -127116,68 +127127,69 @@
   },
   {
     "name": "Aadidev",
-    "iast": "aadidev",
-    "devanagari": "",
+    "iast": "ādideva",
+    "devanagari": "आदिदेव",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'First/primeval god'; epithet used for Vishnu, Shiva, or Brahma",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first"
+      },
+      {
+        "part": "deva",
+        "gloss": "god"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adideva, Ādideva - wisdomlib (https://www.wisdomlib.org/definition/adideva)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aadideva",
-    "iast": "aadideva",
-    "devanagari": "",
+    "iast": "ādideva",
+    "devanagari": "आदिदेव",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'First/primeval god'; epithet used for Vishnu, Shiva, or Brahma",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first"
+      },
+      {
+        "part": "deva",
+        "gloss": "god"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Adideva, Ādideva - wisdomlib (https://www.wisdomlib.org/definition/adideva)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Aadie",
@@ -127230,40 +127242,44 @@
   },
   {
     "name": "Aadilakshmi",
-    "iast": "aadilakshmi",
-    "devanagari": "",
+    "iast": "ādilakṣmī",
+    "devanagari": "आदिलक्ष्मी",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Primeval Lakshmi'; one of the Ashta Lakshmi (eight forms of Lakshmi)",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first, primeval"
+      },
+      {
+        "part": "lakṣmī",
+        "gloss": "goddess of wealth and fortune"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashta Lakshmi - Wikipedia (https://en.wikipedia.org/wiki/Ashta_Lakshmi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aadim",
-    "iast": "aadim",
-    "devanagari": "",
+    "iast": "ādima",
+    "devanagari": "आदिम",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Primeval, original, first, primitive",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -127271,15 +127287,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adima - wisdomlib (https://www.wisdomlib.org/definition/adima)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -127338,89 +127353,101 @@
   },
   {
     "name": "Aadinadh",
-    "iast": "aadinadh",
-    "devanagari": "",
+    "iast": "ādinātha",
+    "devanagari": "आदिनाथ",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Aadinath: 'first lord', epithet of Rishabhanatha/Shiva",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adinatha - wisdomlib (https://www.wisdomlib.org/definition/adinatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aadinath",
-    "iast": "aadinath",
-    "devanagari": "",
+    "iast": "ādinātha",
+    "devanagari": "आदिनाथ",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'First lord'; epithet of Rishabhanatha, the first Jain Tirthankara, and also of Shiva",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adinatha - wisdomlib (https://www.wisdomlib.org/definition/adinatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aadinatha",
-    "iast": "aadinatha",
-    "devanagari": "",
+    "iast": "ādinātha",
+    "devanagari": "आदिनाथ",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'First lord'; epithet of Rishabhanatha, the first Jain Tirthankara, and also of Shiva",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adinatha - wisdomlib (https://www.wisdomlib.org/definition/adinatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -127428,24 +127455,32 @@
     "iast": "aadinathan",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Tamil form of Aadinath: 'first lord', epithet of Rishabhanatha/Shiva",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first"
+      },
+      {
+        "part": "nāthan",
+        "gloss": "lord (Tamil form)"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adinatha - wisdomlib (https://www.wisdomlib.org/definition/adinatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -127537,111 +127572,143 @@
   },
   {
     "name": "Aadishankar",
-    "iast": "aadishankar",
-    "devanagari": "",
+    "iast": "ādiśaṅkara",
+    "devanagari": "आदिशङ्कर",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Refers to Adi Shankara, the 8th-century philosopher-saint",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first, original"
+      },
+      {
+        "part": "śaṅkara",
+        "gloss": "name of Shiva; the philosopher Adi Shankara"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adi Shankara - Wikipedia (https://en.wikipedia.org/wiki/Adi_Shankara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aadishree",
-    "iast": "aadishree",
-    "devanagari": "",
+    "iast": "ādiśrī",
+    "devanagari": "आदिश्री",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Primeval/first Shri (Lakshmi)'",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first"
+      },
+      {
+        "part": "śrī",
+        "gloss": "goddess of fortune, splendour"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashta Lakshmi - Wikipedia (https://en.wikipedia.org/wiki/Ashta_Lakshmi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aadishri",
-    "iast": "aadishri",
-    "devanagari": "",
+    "iast": "ādiśrī",
+    "devanagari": "आदिश्री",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Aadishree: 'primeval/first Shri (Lakshmi)'",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first"
+      },
+      {
+        "part": "śrī",
+        "gloss": "goddess of fortune, splendour"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashta Lakshmi - Wikipedia (https://en.wikipedia.org/wiki/Ashta_Lakshmi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aadishwar",
-    "iast": "aadishwar",
-    "devanagari": "",
+    "iast": "ādīśvara",
+    "devanagari": "आदीश्वर",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'First lord'; epithet of Rishabhanatha, the first Jain Tirthankara (also spelled Adishwar)",
+    "components": [
+      {
+        "part": "ādi",
+        "gloss": "first"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Rishabhanatha - Wikipedia (https://en.wikipedia.org/wiki/Rishabhanatha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aadit",
-    "iast": "aadit",
-    "devanagari": "",
+    "iast": "āditya",
+    "devanagari": "आदित्य",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant/short form of Aditya: 'son of Aditi', the sun",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -127649,32 +127716,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aditya - wisdomlib (https://www.wisdomlib.org/definition/aditya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aadita",
-    "iast": "aadita",
-    "devanagari": "",
+    "iast": "ādityā",
+    "devanagari": "आदित्या",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Feminine form related to Aditya/sun",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -127682,24 +127740,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aditya - wisdomlib (https://www.wisdomlib.org/definition/aditya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aaditey",
-    "iast": "aaditey",
-    "devanagari": "",
+    "iast": "āditeya",
+    "devanagari": "आदितेय",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "'Son of Aditi'; patronymic epithet, e.g. of the Adityas/sun gods",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -127707,28 +127764,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aditeya, Āditeya - wisdomlib (https://www.wisdomlib.org/definition/aditeya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aaditeya",
-    "iast": "aaditeya",
-    "devanagari": "",
+    "iast": "āditeya",
+    "devanagari": "आदितेय",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "'Son of Aditi'; patronymic epithet, e.g. of the Adityas/sun gods",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -127736,32 +127788,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aditeya, Āditeya - wisdomlib (https://www.wisdomlib.org/definition/adityeya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aadith",
-    "iast": "aadith",
-    "devanagari": "",
+    "iast": "āditya",
+    "devanagari": "आदित्य",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant/short form of Aditya: 'son of Aditi', the sun",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -127769,15 +127812,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aditya - wisdomlib (https://www.wisdomlib.org/definition/aditya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -338436,35 +338478,28 @@
   },
   {
     "name": "Ganaraj",
-    "iast": "ganaraj",
-    "devanagari": "",
+    "iast": "gaṇarāja",
+    "devanagari": "गणराज",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'King of the Ganas', epithet of Ganesha, variant of Gananayaka/Ganapati",
+    "components": [
+      "gaṇa (troop) + rāja (king)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ganaraja - wisdomlib.org (https://www.wisdomlib.org/definition/ganaraja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -338656,27 +338691,28 @@
   },
   {
     "name": "Gandaki",
-    "iast": "gandaki",
-    "devanagari": "",
+    "iast": "gaṇḍakī",
+    "devanagari": "गण्डकी",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a sacred river (the Gandaki/Narayani river in Nepal), associated with Vishnu and the source of Shaligram stones",
+    "components": [
+      "gaṇḍakī (river name)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gandaki River - Wikipedia (https://en.wikipedia.org/wiki/Gandaki_River)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -338736,63 +338772,53 @@
   {
     "name": "Gandha",
     "iast": "gandha",
-    "devanagari": "",
+    "devanagari": "गन्ध",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Fragrance, smell, perfume",
+    "components": [
+      "gandha (fragrance)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gandha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gandha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gandhaa",
-    "iast": "gandhaa",
-    "devanagari": "",
+    "iast": "gandhā",
+    "devanagari": "गन्धा",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Gandha, 'fragrance'",
+    "components": [
+      "gandha (fragrance)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gandha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gandha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Gandhalika",
@@ -338821,56 +338847,54 @@
   },
   {
     "name": "Gandham",
-    "iast": "gandham",
-    "devanagari": "",
+    "iast": "gandha",
+    "devanagari": "गन्ध",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Fragrance, smell, perfume (accusative/vernacular form)",
+    "components": [
+      "gandha (fragrance)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gandha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gandha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gandhamadhana",
-    "iast": "gandhamadhana",
-    "devanagari": "",
+    "iast": "gandhamādana",
+    "devanagari": "गन्धमादन",
     "letter": "G",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a mythical mountain in the Himalayas associated with the Mahabharata and Ramayana (where Hanuman found the sanjivani herb)",
+    "components": [
+      "gandha (fragrance) + mādana (intoxicating/maddening)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "Gandhamadana - wisdomlib.org (https://www.wisdomlib.org/definition/gandhamadana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -338925,60 +338949,54 @@
   },
   {
     "name": "Gandhar",
-    "iast": "gandhar",
-    "devanagari": "",
+    "iast": "gandhāra",
+    "devanagari": "गन्धार",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Name of an ancient kingdom/region (Gandhara, in present-day Afghanistan/Pakistan) and also the third note (Ga) of the Indian classical musical scale",
+    "components": [
+      "gandhāra (place name / musical note)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gandhara - Wikipedia (https://en.wikipedia.org/wiki/Gandhara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gandhara",
-    "iast": "gandhara",
-    "devanagari": "",
+    "iast": "gandhāra",
+    "devanagari": "गन्धार",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of the ancient kingdom/region of Gandhara; also the musical note Ga in Indian classical music",
+    "components": [
+      "gandhāra"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gandhara - Wikipedia (https://en.wikipedia.org/wiki/Gandhara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -339066,76 +339084,54 @@
   },
   {
     "name": "Gandharv",
-    "iast": "gandharv",
-    "devanagari": "",
+    "iast": "gandharva",
+    "devanagari": "गन्धर्व",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "A celestial musician/demigod in Hindu mythology, skilled in music and dance",
+    "components": [
+      "gandharva (celestial musician)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gandharva - Wikipedia (https://en.wikipedia.org/wiki/Gandharva)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gandharva",
     "iast": "gandharva",
-    "devanagari": "",
+    "devanagari": "गन्धर्व",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "A celestial musician/demigod in Hindu mythology",
+    "components": [
+      "gandharva (celestial musician)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gandharva - Wikipedia (https://en.wikipedia.org/wiki/Gandharva)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -339190,35 +339186,28 @@
   },
   {
     "name": "Gandhi",
-    "iast": "gandhi",
-    "devanagari": "",
+    "iast": "gāndhī",
+    "devanagari": "गान्धी",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Originally an occupational surname meaning 'perfumer/spice-trader' (from gandha, fragrance); world-famous as Mahatma Gandhi's surname, widely used as a given name/surname in India",
+    "components": [
+      "gandha (fragrance/perfume) + -ī (occupational suffix)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gandhi (name) - Wikipedia (https://en.wikipedia.org/wiki/Gandhi_(name))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -339281,31 +339270,28 @@
   },
   {
     "name": "Gandhini",
-    "iast": "gandhini",
-    "devanagari": "",
+    "iast": "gandhinī",
+    "devanagari": "गन्धिनी",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Fragrant one' (feminine); a name of Satyavati in the Mahabharata before she was called Satyavati",
+    "components": [
+      "gandha (fragrance) + -inī (feminine possessive)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gandhini - wisdomlib.org (https://www.wisdomlib.org/definition/gandhini)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -339413,168 +339399,158 @@
   },
   {
     "name": "Ganender",
-    "iast": "ganender",
-    "devanagari": "",
+    "iast": "gaṇendra",
+    "devanagari": "गणेन्द्र",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling of Ganendra, 'lord of the Ganas', epithet of Ganesha",
+    "components": [
+      "gaṇa (troop) + indra (lord)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ganendra - wisdomlib.org (https://www.wisdomlib.org/definition/ganendra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ganendra",
-    "iast": "ganendra",
-    "devanagari": "",
+    "iast": "gaṇendra",
+    "devanagari": "गणेन्द्र",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of the Ganas', epithet of Ganesha",
+    "components": [
+      "gaṇa (troop) + indra (lord)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ganendra - wisdomlib.org (https://www.wisdomlib.org/definition/ganendra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ganes",
-    "iast": "ganes",
-    "devanagari": "",
+    "iast": "gaṇeśa",
+    "devanagari": "गणेश",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Contracted/anglicized spelling of Ganesha, the elephant-headed god of wisdom and new beginnings",
+    "components": [
+      "gaṇa (troop) + īśa (lord)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ganesha - Wikipedia (https://en.wikipedia.org/wiki/Ganesha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ganesa",
-    "iast": "ganesa",
-    "devanagari": "",
+    "iast": "gaṇeśa",
+    "devanagari": "गणेश",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Ganesha, 'lord of the Ganas', the elephant-headed god; attribution to a girl is unusual since this deity name is traditionally masculine",
+    "components": [
+      "gaṇa (troop) + īśa (lord)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ganesha - Wikipedia (https://en.wikipedia.org/wiki/Ganesha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Ganesha",
-    "iast": "ganesha",
-    "devanagari": "",
+    "iast": "gaṇeśa",
+    "devanagari": "गणेश",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of the Ganas', the elephant-headed god of wisdom, prosperity, and new beginnings, son of Shiva and Parvati",
+    "components": [
+      "gaṇa (troop) + īśa (lord)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "Ganesha - Wikipedia (https://en.wikipedia.org/wiki/Ganesha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ganeshan",
-    "iast": "ganeshan",
-    "devanagari": "",
+    "iast": "gaṇeśan",
+    "devanagari": "கணேசன்",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Ganesha, widely used as a given name/surname in Tamil Nadu and Sri Lanka",
+    "components": [
+      "gaṇeśa + Tamil masculine suffix -an"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ganesha - Wikipedia (https://en.wikipedia.org/wiki/Ganesha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -339582,7 +339558,7 @@
     "iast": "ganeshchandra",
     "devanagari": "",
     "letter": "G",
-    "syllable_count": 4,
+    "syllable_count": 5,
     "meaning_en": null,
     "components": [],
     "pairs_with": {
@@ -339593,14 +339569,9 @@
     "states": [],
     "origin": "candidate",
     "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
+    "sources": [],
+    "gender": "boy",
+    "review_status": "pending"
   },
   {
     "name": "Ganeshitra",
@@ -339679,217 +339650,209 @@
   },
   {
     "name": "Ganeswar",
-    "iast": "ganeswar",
-    "devanagari": "",
+    "iast": "gaṇeśvara",
+    "devanagari": "गणेश्वर",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of the Ganas', synonym epithet of Ganesha/Shiva",
+    "components": [
+      "gaṇa (troop) + īśvara (lord)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "ganeshvara - wisdomlib.org (https://www.wisdomlib.org/definition/ganeshvara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gangaadatt",
-    "iast": "gangaadatt",
-    "devanagari": "",
+    "iast": "gaṅgādatta",
+    "devanagari": "गंगादत्त",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Given by (the goddess) Ganga', a traditional North Indian given name",
+    "components": [
+      "gaṅgā (river/goddess Ganga) + datta (given)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gangadatta - wisdomlib.org (https://www.wisdomlib.org/definition/gangadatta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gangadatt",
-    "iast": "gangadatt",
-    "devanagari": "",
+    "iast": "gaṅgādatta",
+    "devanagari": "गंगादत्त",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Given by (the goddess) Ganga'",
+    "components": [
+      "gaṅgā (Ganga) + datta (given)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gangadatta - wisdomlib.org (https://www.wisdomlib.org/definition/gangadatta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gangadevi",
-    "iast": "gangadevi",
-    "devanagari": "",
+    "iast": "gaṅgādevī",
+    "devanagari": "गंगादेवी",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Goddess Ganga', the personification of the sacred river Ganges as a goddess",
+    "components": [
+      "gaṅgā (Ganga) + devī (goddess)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ganga (goddess) - Wikipedia (https://en.wikipedia.org/wiki/Ganga_(goddess))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gangadhara",
-    "iast": "gangadhara",
-    "devanagari": "",
+    "iast": "gaṅgādhara",
+    "devanagari": "गंगाधर",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Bearer of the Ganga', a well-known epithet of Shiva, who holds the descending Ganges in his hair",
+    "components": [
+      "gaṅgā (Ganga) + dhara (bearer)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gangadhara - epithet of Shiva, Wikipedia (Descent of Ganga) (https://en.wikipedia.org/wiki/Descent_of_Ganga)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gangadharan",
-    "iast": "gangadharan",
-    "devanagari": "",
+    "iast": "gaṅgādharan",
+    "devanagari": "கங்காதரன்",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Gangadhara, epithet of Shiva ('bearer of the Ganga')",
+    "components": [
+      "gaṅgādhara + Tamil masculine suffix -an"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gangadhara - epithet of Shiva, Wikipedia (Descent of Ganga) (https://en.wikipedia.org/wiki/Descent_of_Ganga)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Gangadutt",
-    "iast": "gangadutt",
-    "devanagari": "",
+    "iast": "gaṅgādatta",
+    "devanagari": "गंगादत्त",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular spelling of Gangadatta, 'given by Ganga'",
+    "components": [
+      "gaṅgā (Ganga) + datta (given)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gangadatta - wisdomlib.org (https://www.wisdomlib.org/definition/gangadatta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gangadwara",
-    "iast": "gangadwara",
-    "devanagari": "",
+    "iast": "gaṅgādvāra",
+    "devanagari": "गंगाद्वार",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Gateway of the Ganga', a traditional name for Haridwar, the place where the Ganges enters the plains",
+    "components": [
+      "gaṅgā (Ganga) + dvāra (gate/door)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Haridwar - Wikipedia (also known as Gangadwar) (https://en.wikipedia.org/wiki/Haridwar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -339922,7 +339885,7 @@
     "iast": "gangaiah",
     "devanagari": "",
     "letter": "G",
-    "syllable_count": 2,
+    "syllable_count": 3,
     "meaning_en": null,
     "components": [],
     "pairs_with": {
@@ -339933,14 +339896,9 @@
     "states": [],
     "origin": "candidate",
     "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
+    "sources": [],
+    "gender": "boy",
+    "review_status": "pending"
   },
   {
     "name": "Gangaiarasan",
@@ -340046,52 +340004,54 @@
   },
   {
     "name": "Gangaja",
-    "iast": "gangaja",
-    "devanagari": "",
+    "iast": "gāṅgeya",
+    "devanagari": "गाङ्गेय",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Son of the Ganga', epithet of Bhishma and Kartikeya (Skanda) in the Mahabharata/Puranas",
+    "components": [
+      "gaṅgā (Ganga) + ja (born of)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gangeya - wisdomlib.org (https://www.wisdomlib.org/definition/gangeya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gangajal",
-    "iast": "gangajal",
-    "devanagari": "",
+    "iast": "gaṅgājala",
+    "devanagari": "गंगाजल",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Water of the Ganga', sacred water used in Hindu ritual worship",
+    "components": [
+      "gaṅgā (Ganga) + jala (water)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gangajal - wisdomlib.org (https://www.wisdomlib.org/definition/gangajala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -340121,27 +340081,28 @@
   },
   {
     "name": "Gangalahari",
-    "iast": "gangalahari",
-    "devanagari": "",
+    "iast": "gaṅgālaharī",
+    "devanagari": "गंगालहरी",
     "letter": "G",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Wave of the Ganga'; also the title of a famous devotional hymn to the Ganga attributed to Jagannatha Pandita",
+    "components": [
+      "gaṅgā (Ganga) + laharī (wave)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ganga Lahari - wisdomlib.org (https://www.wisdomlib.org/definition/gangalahari)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -340171,27 +340132,28 @@
   },
   {
     "name": "Gangamata",
-    "iast": "gangamata",
-    "devanagari": "",
+    "iast": "gaṅgāmātā",
+    "devanagari": "गंगामाता",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Mother Ganga', devotional epithet for the river goddess Ganga",
+    "components": [
+      "gaṅgā (Ganga) + mātā (mother)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Ganga (goddess) - Wikipedia (https://en.wikipedia.org/wiki/Ganga_(goddess))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -340300,180 +340262,158 @@
   },
   {
     "name": "Gangesa",
-    "iast": "gangesa",
-    "devanagari": "",
+    "iast": "gaṅgeśa",
+    "devanagari": "गंगेश",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of the Ganga', epithet of Shiva or Bhagiratha; also name of the famous Navya-Nyaya philosopher Gangesha Upadhyaya",
+    "components": [
+      "gaṅgā (Ganga) + īśa (lord)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gangesha Upadhyaya - Wikipedia (https://en.wikipedia.org/wiki/Gangesha_Upadhyaya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gangesh",
-    "iast": "gangesh",
-    "devanagari": "",
+    "iast": "gaṅgeśa",
+    "devanagari": "गंगेश",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular spelling of Gangesha, 'lord of the Ganga'; also the name of the renowned 12th-century Navya-Nyaya logician Gangesha Upadhyaya",
+    "components": [
+      "gaṅgā (Ganga) + īśa (lord)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gangesha Upadhyaya - Wikipedia (https://en.wikipedia.org/wiki/Gangesha_Upadhyaya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gangesha",
-    "iast": "gangesha",
-    "devanagari": "",
+    "iast": "gaṅgeśa",
+    "devanagari": "गंगेश",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of the Ganga'; also the name of the renowned logician Gangesha Upadhyaya, founder of Navya-Nyaya",
+    "components": [
+      "gaṅgā (Ganga) + īśa (lord)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gangesha Upadhyaya - Wikipedia (https://en.wikipedia.org/wiki/Gangesha_Upadhyaya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gangeswar",
-    "iast": "gangeswar",
-    "devanagari": "",
+    "iast": "gaṅgeśvara",
+    "devanagari": "गंगेश्वर",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of the Ganga', synonym epithet variant of Gangesha",
+    "components": [
+      "gaṅgā (Ganga) + īśvara (lord)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gangeshvara - wisdomlib.org (https://www.wisdomlib.org/definition/gangeshvara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gangeya",
-    "iast": "gangeya",
-    "devanagari": "",
+    "iast": "gāṅgeya",
+    "devanagari": "गाङ्गेय",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Son of the Ganga', a well-attested epithet of Bhishma (and also Kartikeya) in the Mahabharata",
+    "components": [
+      "gaṅgā (Ganga) + -eya (patronymic suffix)"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gangeya - wisdomlib.org (https://www.wisdomlib.org/definition/gangeya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gangeyan",
-    "iast": "gangeyan",
-    "devanagari": "",
+    "iast": "gāṅgeyan",
+    "devanagari": "காங்கேயன்",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Tamil-suffixed form of Gangeya, 'son of the Ganga', epithet of Bhishma",
+    "components": [
+      "gāṅgeya + Tamil masculine suffix -an"
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gangeya - wisdomlib.org (https://www.wisdomlib.org/definition/gangeya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
