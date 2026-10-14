@@ -344358,169 +344358,173 @@
   {
     "name": "Gavya",
     "iast": "gavya",
-    "devanagari": "",
+    "devanagari": "गव्य",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Relating to cows/cattle', or derived from cow products (e.g. milk); also a unit of distance in ancient texts (gavyuti)",
+    "components": [
+      {
+        "part": "gavya (of/from cows)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gavya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gavya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Gawtam",
-    "iast": "gawtam",
-    "devanagari": "",
+    "iast": "gautama",
+    "devanagari": "गौतम",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular spelling variant of Gautama, Vedic sage and the Buddha's clan name",
+    "components": [
+      {
+        "part": "gautama",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gautama - Wikipedia (https://en.wikipedia.org/wiki/Gautama)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gawthami",
-    "iast": "gawthami",
-    "devanagari": "",
+    "iast": "gautamī",
+    "devanagari": "गौतमी",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling variant of Gautami, feminine form of Gautama, also alternate name of the Godavari river",
+    "components": [
+      {
+        "part": "gautama + -ī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gautami - Wikipedia (Godavari river alternate name) (https://en.wikipedia.org/wiki/Godavari_River)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Gaya",
-    "iast": "gaya",
-    "devanagari": "",
+    "iast": "gayā",
+    "devanagari": "गया",
     "letter": "G",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Name of a sacred Hindu/Buddhist pilgrimage city in Bihar (and Bodh Gaya nearby); also name of an asura/demon in Puranic legend from whom the city gets its name",
+    "components": [
+      {
+        "part": "gayā (place name, also a demon's name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gaya, India - Wikipedia (https://en.wikipedia.org/wiki/Gaya,_India)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gayak",
-    "iast": "gayak",
-    "devanagari": "",
+    "iast": "gāyaka",
+    "devanagari": "गायक",
     "letter": "G",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Singer, vocalist",
+    "components": [
+      {
+        "part": "gāyaka (singer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gayaka - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gayaka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gayaka",
-    "iast": "gayaka",
-    "devanagari": "",
+    "iast": "gāyaka",
+    "devanagari": "गायक",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Singer, vocalist",
+    "components": [
+      {
+        "part": "gāyaka (singer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gayaka - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gayaka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -344720,125 +344724,145 @@
   },
   {
     "name": "Gayathiri",
-    "iast": "gayathiri",
-    "devanagari": "",
+    "iast": "gāyatrī",
+    "devanagari": "गायत्री",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "South Indian transliteration variant of Gayatri, name of a Vedic meter/mantra and the goddess personifying it, one of the most sacred names in Hinduism",
+    "components": [
+      {
+        "part": "gāyatrī (Vedic meter/goddess)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gayatri Mantra - Wikipedia (https://en.wikipedia.org/wiki/Gayatri_Mantra)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Gayathiry",
-    "iast": "gayathiry",
-    "devanagari": "",
+    "iast": "gāyatrī",
+    "devanagari": "गायत्री",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Transliteration variant of Gayatri, the sacred Vedic meter/mantra and goddess",
+    "components": [
+      {
+        "part": "gāyatrī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gayatri Mantra - Wikipedia (https://en.wikipedia.org/wiki/Gayatri_Mantra)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Gayathry",
-    "iast": "gayathry",
-    "devanagari": "",
+    "iast": "gāyatrī",
+    "devanagari": "गायत्री",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Transliteration variant of Gayatri, the sacred Vedic meter/mantra and goddess",
+    "components": [
+      {
+        "part": "gāyatrī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gayatri Mantra - Wikipedia (https://en.wikipedia.org/wiki/Gayatri_Mantra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gayatree",
-    "iast": "gayatree",
-    "devanagari": "",
+    "iast": "gāyatrī",
+    "devanagari": "गायत्री",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Transliteration variant of Gayatri, the sacred Vedic meter/mantra and goddess",
+    "components": [
+      {
+        "part": "gāyatrī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gayatri Mantra - Wikipedia (https://en.wikipedia.org/wiki/Gayatri_Mantra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gayatry",
-    "iast": "gayatry",
-    "devanagari": "",
+    "iast": "gāyatrī",
+    "devanagari": "गायत्री",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Transliteration variant of Gayatri, the sacred Vedic meter/mantra and goddess",
+    "components": [
+      {
+        "part": "gāyatrī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gayatri Mantra - Wikipedia (https://en.wikipedia.org/wiki/Gayatri_Mantra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -344996,76 +345020,88 @@
   },
   {
     "name": "Geerthan",
-    "iast": "geerthan",
-    "devanagari": "",
+    "iast": "kīrtana",
+    "devanagari": "कीर्तन",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Tamil-transliterated form of Kirthan/Kirtan, 'praise, glorification, devotional singing'",
+    "components": [
+      {
+        "part": "kīrtana (praise/devotional singing)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirtana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirtana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Geerthanan",
-    "iast": "geerthanan",
+    "iast": "kīrtanan",
     "devanagari": "",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Geerthan/Kirtan, 'one who praises/glorifies', related to kirtana (devotional singing)",
+    "components": [
+      {
+        "part": "kīrtana (praise) + Tamil masculine suffix -an",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirtana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirtana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Geetah",
-    "iast": "geetah",
-    "devanagari": "",
+    "iast": "gītā",
+    "devanagari": "गीता",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Geeta/Gita, 'song', and the common name referring to the Bhagavad Gita",
+    "components": [
+      {
+        "part": "gītā (song)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Bhagavad Gita - Wikipedia (https://en.wikipedia.org/wiki/Bhagavad_Gita)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -345145,56 +345181,60 @@
   },
   {
     "name": "Geeth",
-    "iast": "geeth",
-    "devanagari": "",
+    "iast": "gīta",
+    "devanagari": "गीत",
     "letter": "G",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Song, that which is sung",
+    "components": [
+      {
+        "part": "gīta (song)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Geetha",
-    "iast": "geetha",
-    "devanagari": "",
+    "iast": "gītā",
+    "devanagari": "गीता",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Song'; extremely common Indian given name, also referring to the Bhagavad Gita",
+    "components": [
+      {
+        "part": "gītā (song)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Bhagavad Gita - Wikipedia (https://en.wikipedia.org/wiki/Bhagavad_Gita)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -345223,59 +345263,59 @@
   },
   {
     "name": "Geetham",
-    "iast": "geetham",
-    "devanagari": "",
+    "iast": "gīta",
+    "devanagari": "गीत",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular/South Indian form of Geeth/Gita, 'song'",
+    "components": [
+      {
+        "part": "gīta (song)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Geethanjali",
-    "iast": "geethanjali",
-    "devanagari": "",
+    "iast": "gītāñjali",
+    "devanagari": "गीतांजलि",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Offering of songs'; title of Rabindranath Tagore's Nobel Prize-winning poetry collection, widely used as a given name",
+    "components": [
+      {
+        "part": "gīta (song) + añjali (offering)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gitanjali - Wikipedia (https://en.wikipedia.org/wiki/Gitanjali)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -345338,31 +345378,31 @@
   },
   {
     "name": "Geethika",
-    "iast": "geethika",
-    "devanagari": "",
+    "iast": "gītikā",
+    "devanagari": "गीतिका",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'A little song, ditty'; a short lyrical verse form in Sanskrit prosody, also used as a given name",
+    "components": [
+      {
+        "part": "gītikā (little song)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gitika - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gitika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -345392,35 +345432,31 @@
   },
   {
     "name": "Geeti",
-    "iast": "geeti",
-    "devanagari": "",
+    "iast": "gīti",
+    "devanagari": "गीति",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "A song, melody; a term used in Sanskrit poetics for a type of lyrical verse",
+    "components": [
+      {
+        "part": "gīti (song/melody)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "giti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/giti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -345550,27 +345586,31 @@
   },
   {
     "name": "Gehna",
-    "iast": "gehna",
-    "devanagari": "",
+    "iast": "gahanā",
+    "devanagari": "गहना",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Hindi/Urdu word for 'jewelry, ornament' (from Sanskrit gahana, deep/dense); a popular modern Indian given name",
+    "components": [
+      {
+        "part": "gahanā (jewelry, Hindi)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gahana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gahana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -345808,26 +345848,30 @@
   {
     "name": "Geya",
     "iast": "geya",
-    "devanagari": "",
+    "devanagari": "गेय",
     "letter": "G",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "'Fit to be sung, singable, melodious'",
+    "components": [
+      {
+        "part": "geya (singable, from root gai, to sing)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "geya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/geya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -346047,27 +346091,31 @@
   },
   {
     "name": "Ghananand",
-    "iast": "ghananand",
-    "devanagari": "",
+    "iast": "ghanānanda",
+    "devanagari": "घनानन्द",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Name of a celebrated 18th-century Hindi Riti-era poet (Ghananand Das), also a compound meaning 'bliss like a (rain) cloud'",
+    "components": [
+      {
+        "part": "ghana (cloud) + ānanda (bliss)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ghanananda Das - Wikipedia (https://en.wikipedia.org/wiki/Ghanananda_Das)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -346097,64 +346145,60 @@
   },
   {
     "name": "Ghanashyam",
-    "iast": "ghanashyam",
-    "devanagari": "",
+    "iast": "ghanaśyāma",
+    "devanagari": "घनश्याम",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Dark/blue like a rain cloud', a well-known epithet of Krishna",
+    "components": [
+      {
+        "part": "ghana (cloud) + śyāma (dark/blue)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ghanashyam - epithet of Krishna, wisdomlib.org (https://www.wisdomlib.org/definition/ghanashyama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ghanashyamala",
-    "iast": "ghanashyamala",
-    "devanagari": "",
+    "iast": "ghanaśyāmalā",
+    "devanagari": "घनश्यामला",
     "letter": "G",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form of Ghanashyam: 'dark/blue like a rain cloud'",
+    "components": [
+      {
+        "part": "ghana (cloud) + śyāmalā (dark, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ghanashyam - epithet of Krishna, wisdomlib.org (https://www.wisdomlib.org/definition/ghanashyama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -346259,56 +346303,60 @@
   },
   {
     "name": "Ghansham",
-    "iast": "ghansham",
-    "devanagari": "",
+    "iast": "ghanaśyāma",
+    "devanagari": "घनश्याम",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular (Hindi) spelling of Ghanashyam, 'dark/blue like a rain cloud', epithet of Krishna",
+    "components": [
+      {
+        "part": "ghana (cloud) + śyāma (dark/blue)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ghanashyam - epithet of Krishna, wisdomlib.org (https://www.wisdomlib.org/definition/ghanashyama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ghansyam",
-    "iast": "ghansyam",
-    "devanagari": "",
+    "iast": "ghanaśyāma",
+    "devanagari": "घनश्याम",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular (Hindi) spelling of Ghanashyam, epithet of Krishna",
+    "components": [
+      {
+        "part": "ghana (cloud) + śyāma (dark/blue)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ghanashyam - epithet of Krishna, wisdomlib.org (https://www.wisdomlib.org/definition/ghanashyama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
