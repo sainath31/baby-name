@@ -135335,11 +135335,11 @@
   },
   {
     "name": "Aasharya",
-    "iast": "aasharya",
-    "devanagari": "",
+    "iast": "āścarya",
+    "devanagari": "आश्चर्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Wonder, astonishment, something marvellous",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -135347,15 +135347,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashcarya, Āścarya - wisdomlib (https://de.wisdomlib.org/definition/ashcarya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -135389,11 +135388,11 @@
   },
   {
     "name": "Aashcharya",
-    "iast": "aashcharya",
-    "devanagari": "",
+    "iast": "āścarya",
+    "devanagari": "आश्चर्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Wonder, astonishment, something marvellous",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -135401,16 +135400,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashcarya, Āścarya - wisdomlib (https://de.wisdomlib.org/definition/ashcarya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Aashika",
@@ -135489,52 +135487,68 @@
   },
   {
     "name": "Aashirbaad",
-    "iast": "aashirbaad",
-    "devanagari": "",
+    "iast": "āśīrvāda",
+    "devanagari": "आशीर्वाद",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Blessing, benediction",
+    "components": [
+      {
+        "part": "āśis",
+        "gloss": "blessing, wish"
+      },
+      {
+        "part": "vāda",
+        "gloss": "speech, declaration"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashirvada, Āśīrvāda - wisdomlib (https://de.wisdomlib.org/definition/ashirvada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aashirvad",
-    "iast": "aashirvad",
-    "devanagari": "",
+    "iast": "āśīrvāda",
+    "devanagari": "आशीर्वाद",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Blessing, benediction",
+    "components": [
+      {
+        "part": "āśis",
+        "gloss": "blessing, wish"
+      },
+      {
+        "part": "vāda",
+        "gloss": "speech, declaration"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashirvada, Āśīrvāda - wisdomlib (https://de.wisdomlib.org/definition/ashirvada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -135568,11 +135582,11 @@
   },
   {
     "name": "Aashish",
-    "iast": "aashish",
-    "devanagari": "",
+    "iast": "āśis",
+    "devanagari": "आशीष",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Prayer, wish, blessing, benediction",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -135580,32 +135594,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashis, Āśis, Ashish - wisdomlib (https://www.wisdomlib.org/definition/ashish)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aashisha",
-    "iast": "aashisha",
-    "devanagari": "",
+    "iast": "āśis",
+    "devanagari": "आशीष",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 2,
+    "meaning_en": "Variant of Aashish: prayer, wish, blessing",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -135613,15 +135618,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashis, Āśis, Ashish - wisdomlib (https://www.wisdomlib.org/definition/ashish)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -135817,11 +135821,11 @@
   },
   {
     "name": "Aashray",
-    "iast": "aashray",
-    "devanagari": "",
+    "iast": "āśraya",
+    "devanagari": "आश्रय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Shelter, refuge, support, dependence",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -135829,24 +135833,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashraya, Āśraya - wisdomlib (https://www.wisdomlib.org/definition/ashraya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aashraya",
-    "iast": "aashraya",
-    "devanagari": "",
+    "iast": "āśraya",
+    "devanagari": "आश्रय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Shelter, refuge, support, dependence",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -135854,16 +135857,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashraya, Āśraya - wisdomlib (https://www.wisdomlib.org/definition/ashraya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Aashresh",
@@ -135892,11 +135894,11 @@
   },
   {
     "name": "Aashrita",
-    "iast": "aashrita",
-    "devanagari": "",
+    "iast": "āśrita",
+    "devanagari": "आश्रित",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Supported, dependent, one who takes refuge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -135904,28 +135906,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Ashrita, Āśrita - wisdomlib (https://www.wisdomlib.org/definition/ashrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aashrith",
-    "iast": "aashrith",
-    "devanagari": "",
+    "iast": "āśrita",
+    "devanagari": "आश्रित",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Supported, dependent, one who takes refuge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -135933,24 +135930,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashrita, Āśrita - wisdomlib (https://www.wisdomlib.org/definition/ashrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aashritha",
-    "iast": "aashritha",
-    "devanagari": "",
+    "iast": "āśrita",
+    "devanagari": "आश्रित",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Supported, dependent, one who takes refuge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -135958,19 +135954,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashrita, Āśrita - wisdomlib (https://www.wisdomlib.org/definition/ashrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -136025,11 +136016,11 @@
   },
   {
     "name": "Aashtha",
-    "iast": "aashtha",
-    "devanagari": "",
+    "iast": "āsthā",
+    "devanagari": "आस्था",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Faith, belief, trust, devotion",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -136037,15 +136028,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Astha, Āsthā, Asthā - wisdomlib (https://www.wisdomlib.org/definition/astha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -136104,35 +136094,35 @@
   },
   {
     "name": "Aashutosh",
-    "iast": "aashutosh",
-    "devanagari": "",
+    "iast": "āśutoṣa",
+    "devanagari": "आशुतोष",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Easily pleased'; a well-known epithet of Shiva",
+    "components": [
+      {
+        "part": "āśu",
+        "gloss": "quick"
+      },
+      {
+        "part": "toṣa",
+        "gloss": "satisfaction, pleasure"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashutosha, Āśutōṣa - wisdomlib (https://de.wisdomlib.org/definition/ashutosha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -136370,11 +136360,11 @@
   },
   {
     "name": "Aasrita",
-    "iast": "aasrita",
-    "devanagari": "",
+    "iast": "āśrita",
+    "devanagari": "आश्रित",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Aashrita: supported, dependent, one who takes refuge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -136382,24 +136372,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashrita, Āśrita - wisdomlib (https://www.wisdomlib.org/definition/ashrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aasthaa",
-    "iast": "aasthaa",
-    "devanagari": "",
+    "iast": "āsthā",
+    "devanagari": "आस्था",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Faith, belief, trust, devotion",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -136407,15 +136396,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Astha, Āsthā, Asthā - wisdomlib (https://www.wisdomlib.org/definition/astha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -136445,11 +136433,11 @@
   },
   {
     "name": "Aastik",
-    "iast": "aastik",
-    "devanagari": "",
+    "iast": "āstika",
+    "devanagari": "आस्तिक",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Believer, theist, orthodox; also the name of a sage who saved the Nagas from the Sarpa Satra in the Mahabharata",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -136457,23 +136445,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Astika, Āstika, Āstīka - wisdomlib (https://de.wisdomlib.org/definition/astika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -136755,8 +136734,8 @@
     "iast": "aathira",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Tamil/Malayalam form of Sanskrit 'Ardra', the 6th nakshatra (lunar mansion) associated with Rudra and the monsoon; called Thiruvathirai in Tamil",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -136764,19 +136743,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ardra (nakshatra) - Wikipedia (https://en.wikipedia.org/wiki/Ardra_(nakshatra))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
