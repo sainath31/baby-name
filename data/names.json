@@ -367640,114 +367640,118 @@
   },
   {
     "name": "Hasit",
-    "iast": "hasit",
-    "devanagari": "",
+    "iast": "hasita",
+    "devanagari": "हसित",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Smiling, laughing' (past participle of has, to laugh)",
+    "components": [
+      {
+        "part": "hasita (smiling/laughed)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "hasita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hasita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Hasita",
-    "iast": "hasita",
-    "devanagari": "",
+    "iast": "hasitā",
+    "devanagari": "हसिता",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Smiling, laughing' (feminine past participle of has, to laugh)",
+    "components": [
+      {
+        "part": "hasita (smiling/laughed)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "hasita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hasita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Hasith",
-    "iast": "hasith",
-    "devanagari": "",
+    "iast": "hasita",
+    "devanagari": "हसित",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Hasit, 'smiling, laughing'",
+    "components": [
+      {
+        "part": "hasita (smiling)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "hasita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hasita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Hasitha",
-    "iast": "hasitha",
-    "devanagari": "",
+    "iast": "hasitā",
+    "devanagari": "हसिता",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Hasita, 'smiling, laughing'",
+    "components": [
+      {
+        "part": "hasita (smiling)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "hasita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hasita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -367827,35 +367831,31 @@
   },
   {
     "name": "Hasmukh",
-    "iast": "hasmukh",
-    "devanagari": "",
+    "iast": "hasmukha",
+    "devanagari": "हसमुख",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Smiling face', a very common and well-attested Gujarati given name",
+    "components": [
+      {
+        "part": "hasa (smile/laughter) + mukha (face)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Hasmukh - Wikipedia (also a well-known Netflix series named after the common Gujarati given name) (https://en.wikipedia.org/wiki/Hasmukh_(TV_series))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -368011,34 +368011,30 @@
   {
     "name": "Hastin",
     "iast": "hastin",
-    "devanagari": "",
+    "devanagari": "हस्तिन्",
     "letter": "H",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Elephant' (literally 'possessing a hand/trunk'); also the name of a legendary king, founder of the Hastinapura dynasty, after whom the city of Hastinapur is named",
+    "components": [
+      {
+        "part": "hastin (elephant; also a king's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Hastinapura - Wikipedia (founded by King Hastin) (https://en.wikipedia.org/wiki/Hastinapur)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -368197,27 +368193,31 @@
   },
   {
     "name": "Hasya",
-    "iast": "hasya",
-    "devanagari": "",
+    "iast": "hāsya",
+    "devanagari": "हास्य",
     "letter": "H",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Laughter, humor, comedy'; one of the nine classical rasas (aesthetic sentiments) in Indian dramaturgy",
+    "components": [
+      {
+        "part": "hāsya (laughter/comedy)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Hasya - Wikipedia (rasa of comedy) (https://en.wikipedia.org/wiki/Rasa_(aesthetics))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -368301,27 +368301,31 @@
   },
   {
     "name": "Havan",
-    "iast": "havan",
-    "devanagari": "",
+    "iast": "havana",
+    "devanagari": "हवन",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Fire sacrifice/ritual offering'; a central Vedic/Hindu ritual practice",
+    "components": [
+      {
+        "part": "havana (fire sacrifice)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "havan - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/havana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -368451,52 +368455,60 @@
   },
   {
     "name": "Havisha",
-    "iast": "havisha",
-    "devanagari": "",
+    "iast": "haviṣā",
+    "devanagari": "हविषा",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Related to 'havis', the sacrificial oblation offered in Vedic fire rituals",
+    "components": [
+      {
+        "part": "havis (oblation)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "havis - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/havis)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Havishaa",
-    "iast": "havishaa",
-    "devanagari": "",
+    "iast": "haviṣā",
+    "devanagari": "हविषा",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Havisha, related to havis, the sacrificial oblation",
+    "components": [
+      {
+        "part": "havis (oblation)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "havis - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/havis)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -368527,26 +368539,30 @@
   {
     "name": "Havya",
     "iast": "havya",
-    "devanagari": "",
+    "devanagari": "हव्य",
     "letter": "H",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'That which is to be offered/invoked', an oblation offered in sacrificial fire",
+    "components": [
+      {
+        "part": "havya (oblation, to be offered)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "havya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/havya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -368576,31 +368592,31 @@
   },
   {
     "name": "Hayagriv",
-    "iast": "hayagriv",
-    "devanagari": "",
+    "iast": "hayagrīva",
+    "devanagari": "हयग्रीव",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Horse-necked', a horse-headed avatar of Vishnu associated with knowledge and the recovery of the Vedas",
+    "components": [
+      {
+        "part": "haya (horse) + grīva (neck)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Hayagriva - Wikipedia (https://en.wikipedia.org/wiki/Hayagriva)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
