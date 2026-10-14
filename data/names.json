@@ -347861,81 +347861,89 @@
   },
   {
     "name": "Gnaneshwar",
-    "iast": "gnaneshwar",
-    "devanagari": "",
+    "iast": "jñāneśvara",
+    "devanagari": "ज्ञानेश्वर",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of knowledge'; also the name of the revered 13th-century Marathi saint-poet Jnaneshwar (author of the Jnaneshwari commentary on the Bhagavad Gita)",
+    "components": [
+      {
+        "part": "jñāna (knowledge) + īśvara (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jnaneshwar - Wikipedia (https://en.wikipedia.org/wiki/Jnaneshwar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gnaneshwari",
-    "iast": "gnaneshwari",
-    "devanagari": "",
+    "iast": "jñāneśvarī",
+    "devanagari": "ज्ञानेश्वरी",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form 'lady of knowledge'; also the title of saint Jnaneshwar's famous commentary (Jnaneshwari) on the Bhagavad Gita",
+    "components": [
+      {
+        "part": "jñāna (knowledge) + īśvarī (lady, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jnaneshwari - Wikipedia (https://en.wikipedia.org/wiki/Dnyaneshwari)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gnaneswari",
-    "iast": "gnaneswari",
-    "devanagari": "",
+    "iast": "jñāneśvarī",
+    "devanagari": "ज्ञानेश्वरी",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Gnaneshwari, 'lady of knowledge', also the title of the famous Jnaneshwari commentary on the Bhagavad Gita",
+    "components": [
+      {
+        "part": "jñāna (knowledge) + īśvarī (lady)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Jnaneshwari - Wikipedia (https://en.wikipedia.org/wiki/Dnyaneshwari)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -348063,35 +348071,31 @@
   },
   {
     "name": "Gobhil",
-    "iast": "gobhil",
-    "devanagari": "",
+    "iast": "gobhila",
+    "devanagari": "गोभिल",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Name of an ancient Vedic sage/grammarian, author of the Gobhila Grihya Sutra",
+    "components": [
+      {
+        "part": "gobhila (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gobhila Grihya Sutra - Wikipedia (https://en.wikipedia.org/wiki/Gobhila)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -348145,93 +348149,89 @@
   },
   {
     "name": "Gobind",
-    "iast": "gobind",
-    "devanagari": "",
+    "iast": "govinda",
+    "devanagari": "गोविन्द",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Punjabi/Sikh vernacular spelling of Govinda, 'cow-finder/protector', a principal epithet of Krishna; famous as the name of Guru Gobind Singh, tenth Sikh Guru",
+    "components": [
+      {
+        "part": "go (cow) + vinda (finder/protector)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Guru Gobind Singh - Wikipedia (https://en.wikipedia.org/wiki/Guru_Gobind_Singh)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gobinda",
-    "iast": "gobinda",
-    "devanagari": "",
+    "iast": "govinda",
+    "devanagari": "गोविन्द",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Bengali/vernacular spelling of Govinda, epithet of Krishna meaning 'cow-finder/protector'",
+    "components": [
+      {
+        "part": "go (cow) + vinda (finder)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Govinda - Wikipedia (epithet of Krishna) (https://en.wikipedia.org/wiki/Govinda_(Krishna))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Godavri",
-    "iast": "godavri",
-    "devanagari": "",
+    "iast": "godāvarī",
+    "devanagari": "गोदावरी",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Name of the Godavari river, one of the major sacred rivers of India",
+    "components": [
+      {
+        "part": "godāvarī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Godavari River - Wikipedia (https://en.wikipedia.org/wiki/Godavari_River)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -348344,27 +348344,31 @@
   },
   {
     "name": "Gokarna",
-    "iast": "gokarna",
-    "devanagari": "",
+    "iast": "gokarṇa",
+    "devanagari": "गोकर्ण",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Cow-eared'; name of a sacred pilgrimage town on the Karnataka coast with a famous Shiva temple (Mahabaleshwar)",
+    "components": [
+      {
+        "part": "go (cow) + karṇa (ear)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gokarna, Karnataka - Wikipedia (https://en.wikipedia.org/wiki/Gokarna,_Karnataka)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -348420,51 +348424,59 @@
   {
     "name": "Gokula",
     "iast": "gokula",
-    "devanagari": "",
+    "devanagari": "गोकुल",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of the pastoral village where Krishna spent his childhood, raised by Nanda and Yashoda",
+    "components": [
+      {
+        "part": "go (cow) + kula (settlement/herd)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Gokul - Wikipedia (https://en.wikipedia.org/wiki/Gokul)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gokulakrishnan",
-    "iast": "gokulakrishnan",
+    "iast": "gokulakṛṣṇan",
     "devanagari": "",
     "letter": "G",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed compound 'Gokula + Krishna', referencing Krishna's childhood village of Gokul",
+    "components": [
+      {
+        "part": "gokula (Krishna's village) + kṛṣṇa (Krishna) + Tamil suffix",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gokul - Wikipedia (https://en.wikipedia.org/wiki/Gokul)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Gokulan",
@@ -348472,23 +348484,27 @@
     "devanagari": "",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Gokul, Krishna's childhood pastoral village",
+    "components": [
+      {
+        "part": "gokula + Tamil masculine suffix -an",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gokul - Wikipedia (https://en.wikipedia.org/wiki/Gokul)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -348568,85 +348584,89 @@
   },
   {
     "name": "Gomantak",
-    "iast": "gomantak",
-    "devanagari": "",
+    "iast": "gomantaka",
+    "devanagari": "गोमन्तक",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Ancient/traditional Sanskrit name for the Goa region of India",
+    "components": [
+      {
+        "part": "gomantaka (place name, Goa)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Goa - Wikipedia (ancient name Gomantak) (https://en.wikipedia.org/wiki/Goa)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gomathy",
-    "iast": "gomathy",
-    "devanagari": "",
+    "iast": "gomatī",
+    "devanagari": "गोमती",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of the sacred Gomti river, a tributary of the Ganges; also a South Indian spelling variant used as a given name",
+    "components": [
+      {
+        "part": "gomatī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gomti River - Wikipedia (https://en.wikipedia.org/wiki/Gomti_River)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gomati",
-    "iast": "gomati",
-    "devanagari": "",
+    "iast": "gomatī",
+    "devanagari": "गोमती",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of the sacred Gomti river, a tributary of the Ganges",
+    "components": [
+      {
+        "part": "gomatī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gomti River - Wikipedia (https://en.wikipedia.org/wiki/Gomti_River)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -348701,56 +348721,60 @@
   },
   {
     "name": "Gomthi",
-    "iast": "gomthi",
-    "devanagari": "",
+    "iast": "gomatī",
+    "devanagari": "गोमती",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular spelling variant of Gomati, the sacred Gomti river",
+    "components": [
+      {
+        "part": "gomatī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gomti River - Wikipedia (https://en.wikipedia.org/wiki/Gomti_River)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gomti",
-    "iast": "gomti",
-    "devanagari": "",
+    "iast": "gomatī",
+    "devanagari": "गोमती",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular spelling of Gomati, the sacred Gomti river, a tributary of the Ganges",
+    "components": [
+      {
+        "part": "gomatī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Gomti River - Wikipedia (https://en.wikipedia.org/wiki/Gomti_River)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -348858,60 +348882,60 @@
   },
   {
     "name": "Gopa",
-    "iast": "gopa",
-    "devanagari": "",
+    "iast": "gopā",
+    "devanagari": "गोपा",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Protector/cowherd'; also the name of Yashodhara, wife of Siddhartha Gautama (the Buddha), in some Buddhist traditions",
+    "components": [
+      {
+        "part": "gopā (protector/cowherd, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gopa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gopa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Gopaal",
-    "iast": "gopaal",
-    "devanagari": "",
+    "iast": "gopāla",
+    "devanagari": "गोपाल",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Gopal, 'cow-protector', a major epithet/name of Krishna",
+    "components": [
+      {
+        "part": "go (cow) + pāla (protector)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
+        "title": "Gopala (Krishna) - Wikipedia (https://en.wikipedia.org/wiki/Gopala_(Krishna))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -349060,27 +349084,31 @@
   },
   {
     "name": "Gopikaa",
-    "iast": "gopikaa",
-    "devanagari": "",
+    "iast": "gopikā",
+    "devanagari": "गोपिका",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Cowherdess'; refers to Krishna's female companions in Vrindavan, a popular given name",
+    "components": [
+      {
+        "part": "gopikā (cowherdess)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "gopika - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gopika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -349160,56 +349188,60 @@
   },
   {
     "name": "Gopi Nath",
-    "iast": "gopi nath",
-    "devanagari": "",
+    "iast": "gopīnātha",
+    "devanagari": "गोपीनाथ",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of the gopis', a well-known epithet of Krishna",
+    "components": [
+      {
+        "part": "gopī (cowherdess) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gopinath - epithet of Krishna, wisdomlib.org (https://www.wisdomlib.org/definition/gopinatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gopinathan",
-    "iast": "gopinathan",
+    "iast": "gopīnāthan",
     "devanagari": "",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Gopinath, 'lord of the gopis', epithet of Krishna",
+    "components": [
+      {
+        "part": "gopīnātha + Tamil masculine suffix -an",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gopinath - epithet of Krishna, wisdomlib.org (https://www.wisdomlib.org/definition/gopinatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -349268,118 +349300,118 @@
   },
   {
     "name": "Gorakh",
-    "iast": "gorakh",
-    "devanagari": "",
+    "iast": "gorakha",
+    "devanagari": "गोरख",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Contracted vernacular form of Gorakhnath, the legendary medieval yogi and founder of the Nath tradition",
+    "components": [
+      {
+        "part": "gorakha (contracted form of Gorakshanatha)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gorakhnath - Wikipedia (https://en.wikipedia.org/wiki/Gorakhnath)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gorakhanatha",
-    "iast": "gorakhanatha",
-    "devanagari": "",
+    "iast": "gorakṣanātha",
+    "devanagari": "गोरक्षनाथ",
     "letter": "G",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Gorakhnath, legendary medieval yogi, founder of the Nath sampradaya and Hatha Yoga tradition",
+    "components": [
+      {
+        "part": "gorakṣa (cow-protector) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
+        "title": "Gorakhnath - Wikipedia (https://en.wikipedia.org/wiki/Gorakhnath)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gorakh-naath",
-    "iast": "gorakh-naath",
-    "devanagari": "",
+    "iast": "gorakṣanātha",
+    "devanagari": "गोरक्षनाथ",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Variant spelling of Gorakhnath, legendary medieval yogi and founder of the Nath tradition",
+    "components": [
+      {
+        "part": "gorakṣa (cow-protector) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Gorakhnath - Wikipedia (https://en.wikipedia.org/wiki/Gorakhnath)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gorakhnath",
-    "iast": "gorakhnath",
-    "devanagari": "",
+    "iast": "gorakṣanātha",
+    "devanagari": "गोरक्षनाथ",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Legendary medieval yogi and founder of the Nath sampradaya and Hatha Yoga tradition",
+    "components": [
+      {
+        "part": "gorakṣa (cow-protector) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gorakhnath - Wikipedia (https://en.wikipedia.org/wiki/Gorakhnath)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy",
     "alt_spellings": [
       "Gorakh Nath"
@@ -349387,27 +349419,31 @@
   },
   {
     "name": "Goraksh",
-    "iast": "goraksh",
-    "devanagari": "",
+    "iast": "gorakṣa",
+    "devanagari": "गोरक्ष",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Cow-protector'; contracted form of Gorakshanatha (Gorakhnath), the legendary yogi",
+    "components": [
+      {
+        "part": "go (cow) + rakṣa (protector)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Gorakhnath - Wikipedia (https://en.wikipedia.org/wiki/Gorakhnath)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -349491,27 +349527,31 @@
   },
   {
     "name": "Gordhan",
-    "iast": "gordhan",
-    "devanagari": "",
+    "iast": "govardhana",
+    "devanagari": "गोवर्धन",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Contracted vernacular (Gujarati/Rajasthani) spelling of Govardhan, the sacred hill lifted by Krishna; used as a devotional given name",
+    "components": [
+      {
+        "part": "go (cow) + vardhana (increaser/nourisher)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Govardhan Puja - Wikipedia (https://en.wikipedia.org/wiki/Govardhan_Puja)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -349570,35 +349610,31 @@
   },
   {
     "name": "Gorochana",
-    "iast": "gorochana",
-    "devanagari": "",
+    "iast": "gorocanā",
+    "devanagari": "गोरोचना",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "A yellow pigment/bile derived from cows, used in Ayurveda and ritual auspicious markings (tilak); attested Sanskrit term used as a given name",
+    "components": [
+      {
+        "part": "go (cow) + rocanā (shining/pigment)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gorocana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gorocana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -349653,39 +349689,31 @@
   },
   {
     "name": "Goswamee",
-    "iast": "goswamee",
-    "devanagari": "",
+    "iast": "gosvāmī",
+    "devanagari": "गोस्वामी",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Master of cows/senses', a title for a spiritual teacher/ascetic, and a common surname among Vaishnava religious leaders",
+    "components": [
+      {
+        "part": "go (cow/senses) + svāmī (master)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Goswami - Wikipedia (https://en.wikipedia.org/wiki/Goswami)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
