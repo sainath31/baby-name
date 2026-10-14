@@ -363623,30 +363623,30 @@
   {
     "name": "Hariom",
     "iast": "hariom",
-    "devanagari": "",
+    "devanagari": "हरिओम्",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Devotional compound joining 'Hari' (Vishnu) and the sacred syllable 'Om', widely used as a greeting and given name in North India",
+    "components": [
+      {
+        "part": "hari (Vishnu) + oṃ (sacred syllable)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Hari Om - Wikipedia (https://en.wikipedia.org/wiki/Hari_Om)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -363861,52 +363861,60 @@
   },
   {
     "name": "Harisankar",
-    "iast": "harisankar",
-    "devanagari": "",
+    "iast": "hariśaṅkara",
+    "devanagari": "हरिशङ्कर",
     "letter": "H",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Compound 'Hari + Shankar', combining epithets of Vishnu and Shiva, representing the unity of the two deities (Harihara)",
+    "components": [
+      {
+        "part": "hari (Vishnu) + śaṅkara (Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Harihara - Wikipedia (https://en.wikipedia.org/wiki/Harihara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Harisankara",
-    "iast": "harisankara",
-    "devanagari": "",
+    "iast": "hariśaṅkara",
+    "devanagari": "हरिशङ्कर",
     "letter": "H",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Harisankar, combining epithets of Vishnu and Shiva (Harihara unity)",
+    "components": [
+      {
+        "part": "hari (Vishnu) + śaṅkara (Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Harihara - Wikipedia (https://en.wikipedia.org/wiki/Harihara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -363936,35 +363944,31 @@
   },
   {
     "name": "Harishankar",
-    "iast": "harishankar",
-    "devanagari": "",
+    "iast": "hariśaṅkara",
+    "devanagari": "हरिशङ्कर",
     "letter": "H",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Variant spelling of Harisankar, combining epithets of Vishnu and Shiva (Harihara unity)",
+    "components": [
+      {
+        "part": "hari (Vishnu) + śaṅkara (Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Harihara - Wikipedia (https://en.wikipedia.org/wiki/Harihara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -364098,87 +364102,59 @@
   },
   {
     "name": "Harit",
-    "iast": "harit",
-    "devanagari": "",
+    "iast": "harita",
+    "devanagari": "हरित",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Green'; a common Sanskrit/Hindi given name, also the name of a Vedic sage (Harita)",
+    "components": [
+      {
+        "part": "harita (green)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "harita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/harita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Harita",
-    "iast": "harita",
-    "devanagari": "",
+    "iast": "haritā",
+    "devanagari": "हरिता",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Green' (feminine); a common Indian given name",
+    "components": [
+      {
+        "part": "harita (green)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "harita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/harita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -364241,31 +364217,31 @@
   },
   {
     "name": "Harith",
-    "iast": "harith",
-    "devanagari": "",
+    "iast": "harita",
+    "devanagari": "हरित",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Harit, 'green'",
+    "components": [
+      {
+        "part": "harita (green)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "harita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/harita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -364349,27 +364325,31 @@
   },
   {
     "name": "Hariti",
-    "iast": "hariti",
-    "devanagari": "",
+    "iast": "hāritī",
+    "devanagari": "हारीती",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a Buddhist/Hindu goddess (Hariti), originally a child-eating demoness converted by the Buddha into a protector of children",
+    "components": [
+      {
+        "part": "hāritī (goddess name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Hariti - Wikipedia (https://en.wikipedia.org/wiki/Hariti)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -364424,56 +364404,60 @@
   },
   {
     "name": "Harivilaas",
-    "iast": "harivilaas",
-    "devanagari": "",
+    "iast": "harivilāsa",
+    "devanagari": "हरिविलास",
     "letter": "H",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'The divine play/sport of Hari (Vishnu)'; a devotional term also used as a given name",
+    "components": [
+      {
+        "part": "hari (Vishnu) + vilāsa (play/sport)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "harivilasa - wisdomlib.org (https://www.wisdomlib.org/definition/harivilasa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Harivilas",
-    "iast": "harivilas",
-    "devanagari": "",
+    "iast": "harivilāsa",
+    "devanagari": "हरिविलास",
     "letter": "H",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'The divine play/sport of Hari (Vishnu)'",
+    "components": [
+      {
+        "part": "hari (Vishnu) + vilāsa (play/sport)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "harivilasa - wisdomlib.org (https://www.wisdomlib.org/definition/harivilasa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -364506,28 +364490,28 @@
     "iast": "harjeet",
     "devanagari": "",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Sikh/Punjabi compound 'Har (God) + jeet (victory)', meaning 'victory of God'",
+    "components": [
+      {
+        "part": "hari (God) + jit (victor)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Har-prefixed devotional naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -364561,27 +364545,27 @@
     "devanagari": "",
     "letter": "H",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Harjeet, 'victory of God'",
+    "components": [
+      {
+        "part": "hari (God) + jit (victor)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Sikh names - Wikipedia (Har-prefixed devotional naming convention) (https://en.wikipedia.org/wiki/Sikh_names)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
