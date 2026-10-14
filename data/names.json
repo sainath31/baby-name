@@ -150935,11 +150935,11 @@
   },
   {
     "name": "Achoda",
-    "iast": "achoda",
-    "devanagari": "",
+    "iast": "acchodā",
+    "devanagari": "अच्छोदा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a mythological lake and its presiding apsara/Pitr-daughter, connected to Satyavati's mythology, in the Mahabharata",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -150947,15 +150947,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Acchoda, Acchodā - wisdomlib (https://www.wisdomlib.org/definition/acchoda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -150988,11 +150987,11 @@
   },
   {
     "name": "Achudan",
-    "iast": "achudan",
-    "devanagari": "",
+    "iast": "acyuta",
+    "devanagari": "अच्युत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Tamil phonetic form related to Acyuta/Achyutan: infallible, epithet of Vishnu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151000,24 +150999,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Achyuta, Acyuta - wisdomlib (https://www.wisdomlib.org/definition/achyuta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Achuthan",
-    "iast": "achuthan",
-    "devanagari": "",
+    "iast": "acyuta",
+    "devanagari": "अच्युत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Infallible, imperishable; epithet of Vishnu/Krishna",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151025,23 +151023,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Achyuta, Acyuta - wisdomlib (https://www.wisdomlib.org/definition/achyuta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Achyuta",
-    "iast": "achyuta",
-    "devanagari": "",
+    "iast": "acyuta",
+    "devanagari": "अच्युत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Infallible, imperishable; epithet of Vishnu/Krishna",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151049,23 +151047,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Achyuta, Acyuta - wisdomlib (https://www.wisdomlib.org/definition/achyuta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -151074,23 +151063,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Refers to Achyutananda Dasa, a 16th-century Odia poet-saint and one of the Panchasakha who translated Hindu scriptures into Odia",
+    "components": [
+      {
+        "part": "acyuta",
+        "gloss": "infallible, epithet of Vishnu"
+      },
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Achyutananda Dasa - Wikipedia (https://en.wikipedia.org/wiki/Achyutananda_Dasa)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -151120,11 +151117,11 @@
   },
   {
     "name": "Achyuth",
-    "iast": "achyuth",
-    "devanagari": "",
+    "iast": "acyuta",
+    "devanagari": "अच्युत",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Achyuta: infallible, imperishable, epithet of Vishnu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151132,24 +151129,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Achyuta, Acyuta - wisdomlib (https://www.wisdomlib.org/definition/achyuta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Achyutha",
-    "iast": "achyutha",
-    "devanagari": "",
+    "iast": "acyuta",
+    "devanagari": "अच्युत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Achyuta: infallible, imperishable, epithet of Vishnu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151157,15 +151153,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Achyuta, Acyuta - wisdomlib (https://www.wisdomlib.org/definition/achyuta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -151196,10 +151191,10 @@
   {
     "name": "Acintya",
     "iast": "acintya",
-    "devanagari": "",
+    "devanagari": "अचिन्त्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Inconceivable, beyond thought; a Vaishnava theological term",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151207,24 +151202,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Acintya, Acimtya, Ācintya - wisdomlib (https://www.wisdomlib.org/definition/acintya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Acira",
-    "iast": "acira",
-    "devanagari": "",
+    "iast": "acirā",
+    "devanagari": "अचिरा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Transient, quick, swift",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151232,19 +151226,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Acira, Acirā - wisdomlib (https://www.wisdomlib.org/definition/acira)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -151275,10 +151264,10 @@
   {
     "name": "Acyuta",
     "iast": "acyuta",
-    "devanagari": "",
+    "devanagari": "अच्युत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Infallible, imperishable; epithet of Vishnu/Krishna",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151286,23 +151275,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Achyuta, Acyuta - wisdomlib (https://www.wisdomlib.org/definition/achyuta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -151336,27 +151316,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Refers to Achyutananda Dasa, a 16th-century Odia poet-saint and one of the Panchasakha who translated Hindu scriptures into Odia",
+    "components": [
+      {
+        "part": "acyuta",
+        "gloss": "infallible, epithet of Vishnu"
+      },
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Achyutananda Dasa - Wikipedia (https://en.wikipedia.org/wiki/Achyutananda_Dasa)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -151640,11 +151624,11 @@
   },
   {
     "name": "Adamya",
-    "iast": "adamya",
-    "devanagari": "",
+    "iast": "ādamya",
+    "devanagari": "आदम्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Untameable, indomitable",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151652,23 +151636,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adamya, Ādamya - wisdomlib (https://www.wisdomlib.org/definition/adamya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -151747,11 +151722,11 @@
   },
   {
     "name": "Adarsa",
-    "iast": "adarsa",
-    "devanagari": "",
+    "iast": "ādarśa",
+    "devanagari": "आदर्श",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Ideal, model, example; also mirror",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151759,24 +151734,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adarsha, Ādarśa - wisdomlib (https://www.wisdomlib.org/definition/adarsha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "unisex"
+    "gender": "boy"
   },
   {
     "name": "Adarsha",
-    "iast": "adarsha",
-    "devanagari": "",
+    "iast": "ādarśa",
+    "devanagari": "आदर्श",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Ideal, model, example; also mirror",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151784,43 +151758,43 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adarsha, Ādarśa - wisdomlib (https://www.wisdomlib.org/definition/adarsha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Adarshini",
-    "iast": "adarshini",
-    "devanagari": "",
+    "iast": "ādarśinī",
+    "devanagari": "आदर्शिनी",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to ādarśa, 'ideal one'",
+    "components": [
+      {
+        "part": "ādarśa",
+        "gloss": "ideal, model"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adarsha, Ādarśa - wisdomlib (https://www.wisdomlib.org/definition/adarsha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -151908,7 +151882,7 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Tamil word for 'sun' (adavan)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151916,19 +151890,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adavan Tamil name meaning sun (https://www.tamildictionary.org)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -151958,11 +151927,11 @@
   },
   {
     "name": "Adbhut",
-    "iast": "adbhut",
-    "devanagari": "",
+    "iast": "adbhuta",
+    "devanagari": "अद्भुत",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Wonderful, marvellous, astonishing; also 'adbhuta rasa', the sentiment of wonder in Indian dramatic theory",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151970,24 +151939,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adbhutarupa, Adbhutarūpa - wisdomlib (cf. Adbhuta rasa) (https://de.wisdomlib.org/definition/adbhutarupa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Adbhutah",
-    "iast": "adbhutah",
-    "devanagari": "",
+    "iast": "adbhuta",
+    "devanagari": "अद्भुत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Adbhut: wonderful, marvellous, astonishing",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -151995,19 +151963,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Adbhutarupa, Adbhutarūpa - wisdomlib (cf. Adbhuta rasa) (https://de.wisdomlib.org/definition/adbhutarupa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -152195,35 +152158,35 @@
   },
   {
     "name": "Adesh",
-    "iast": "adesh",
-    "devanagari": "",
+    "iast": "ādeśa",
+    "devanagari": "आदेश",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Order, command, instruction, advice",
+    "components": [
+      {
+        "part": "ā-",
+        "gloss": "toward"
+      },
+      {
+        "part": "diś",
+        "gloss": "to show, direct"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adesha - Wikipedia (https://www.Wikipedia.com/wiki/Adesha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -152304,10 +152267,10 @@
   {
     "name": "Adhamya",
     "iast": "adhamya",
-    "devanagari": "",
+    "devanagari": "अधम्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling related to 'ādamya' (untameable, indomitable)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -152315,24 +152278,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adamya, Ādamya - wisdomlib (https://www.wisdomlib.org/definition/adamya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Adhana",
-    "iast": "adhana",
-    "devanagari": "",
+    "iast": "ādhāna",
+    "devanagari": "आधान",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Placing, depositing; receptacle, foundation",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -152340,24 +152302,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adhana, Ādhāna - wisdomlib (https://www.wisdomlib.org/definition/adhana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Adhara",
     "iast": "adhara",
-    "devanagari": "",
+    "devanagari": "अधर",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "The lower lip (one of the six minor limbs in Natyashastra dramatic performance); also 'lower, inferior'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -152365,15 +152326,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adhara - wisdomlib (https://www.wisdomlib.org/definition/adhara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -152403,11 +152363,11 @@
   },
   {
     "name": "Adharsh",
-    "iast": "adharsh",
-    "devanagari": "",
+    "iast": "ādarśa",
+    "devanagari": "आदर्श",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Adarsh: ideal, model, example",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -152415,15 +152375,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adarsha, Ādarśa - wisdomlib (https://www.wisdomlib.org/definition/adarsha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
