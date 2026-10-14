@@ -149483,10 +149483,10 @@
   {
     "name": "Abja",
     "iast": "abja",
-    "devanagari": "",
+    "devanagari": "अब्ज",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "'Born of water'; the lotus, a symbol of enlightenment and purity in Hindu iconology",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -149494,20 +149494,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abja, Abjā - wisdomlib (https://www.wisdomlib.org/definition/abja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Abjabandhav",
@@ -149562,34 +149557,35 @@
   {
     "name": "Abjayoni",
     "iast": "abjayoni",
-    "devanagari": "",
+    "devanagari": "अब्जयोनि",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lotus-born'; an epithet of Brahma, who sprang from the lotus arising from Vishnu's navel",
+    "components": [
+      {
+        "part": "abja",
+        "gloss": "lotus"
+      },
+      {
+        "part": "yoni",
+        "gloss": "source, origin, womb"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Abjayoni, Abja-yoni - wisdomlib (https://www.wisdomlib.org/definition/abjayoni)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Abjini",
@@ -149814,10 +149810,10 @@
   {
     "name": "Acala",
     "iast": "acala",
-    "devanagari": "",
+    "devanagari": "अचल",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Mountain; also 'immovable, still'; one of the 108 names of Krishna ('Still Lord')",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -149825,20 +149821,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Acala, Acalā - wisdomlib (https://www.wisdomlib.org/definition/acala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Acalapati",
@@ -149978,11 +149969,11 @@
   },
   {
     "name": "Acarya",
-    "iast": "acarya",
-    "devanagari": "",
+    "iast": "ācārya",
+    "devanagari": "आचार्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "A preceptor, teacher, expert instructor in religion or other subjects",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -149990,19 +149981,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Acharya - Wikipedia (https://en.wikipedia.org/wiki/Acharya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -150226,11 +150212,11 @@
   },
   {
     "name": "Acchutan",
-    "iast": "acchutan",
-    "devanagari": "",
+    "iast": "acyuta",
+    "devanagari": "अच्युत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Infallible, imperishable; epithet of Vishnu/Krishna",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -150238,24 +150224,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Achyuta, Acyuta - wisdomlib (https://www.wisdomlib.org/definition/achyuta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Acchyuta",
-    "iast": "acchyuta",
-    "devanagari": "",
+    "iast": "acyuta",
+    "devanagari": "अच्युत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Infallible, imperishable; epithet of Vishnu/Krishna",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -150263,15 +150248,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Achyuta, Acyuta - wisdomlib (https://www.wisdomlib.org/definition/achyuta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -150470,11 +150454,11 @@
   },
   {
     "name": "Achamana",
-    "iast": "achamana",
-    "devanagari": "",
+    "iast": "ācamana",
+    "devanagari": "आचमन",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Ritual sipping of water before worship",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -150482,15 +150466,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Achamana, Ācamana - wisdomlib (https://www.wisdomlib.org/definition/achamana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -150570,11 +150553,11 @@
   },
   {
     "name": "Acharya",
-    "iast": "acharya",
-    "devanagari": "",
+    "iast": "ācārya",
+    "devanagari": "आचार्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "A preceptor, teacher, expert instructor in religion or other subjects",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -150582,23 +150565,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Acharya - Wikipedia (https://en.wikipedia.org/wiki/Acharya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -150715,11 +150689,11 @@
   },
   {
     "name": "Achint",
-    "iast": "achint",
-    "devanagari": "",
+    "iast": "acinta",
+    "devanagari": "अचिन्त",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Without anxiety, free from care; also 'inconceivable' depending on context",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -150727,24 +150701,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Achinta - wisdomlib (https://de.wisdomlib.org/definition/achinta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Achinta",
-    "iast": "achinta",
-    "devanagari": "",
+    "iast": "acinta",
+    "devanagari": "अचिन्त",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Without anxiety, free from care; also 'inconceivable' depending on context",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -150752,16 +150725,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Achinta - wisdomlib (https://de.wisdomlib.org/definition/achinta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "boy"
+    "gender": "girl"
   },
   {
     "name": "Achintakumar",
@@ -150840,11 +150812,11 @@
   },
   {
     "name": "Achira",
-    "iast": "achira",
-    "devanagari": "",
+    "iast": "acirā",
+    "devanagari": "अचिरा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Transient, quick, swift (also used in astronomical contexts describing comets)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -150852,15 +150824,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Acira, Acirā - wisdomlib (https://www.wisdomlib.org/definition/acira)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -150890,11 +150861,11 @@
   },
   {
     "name": "Achla",
-    "iast": "achla",
-    "devanagari": "",
+    "iast": "acalā",
+    "devanagari": "अचला",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling related to 'acala': immovable, steady, firm; also 'mountain'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -150902,15 +150873,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Acala, Acalā - wisdomlib (https://www.wisdomlib.org/definition/acala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
