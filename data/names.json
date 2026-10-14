@@ -127849,11 +127849,11 @@
   },
   {
     "name": "Aadithya",
-    "iast": "aadithya",
-    "devanagari": "",
+    "iast": "āditya",
+    "devanagari": "आदित्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Aditya: 'son of Aditi', the sun",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -127861,15 +127861,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aditya - wisdomlib (https://www.wisdomlib.org/definition/aditya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -127949,11 +127948,11 @@
   },
   {
     "name": "Aaditya",
-    "iast": "aaditya",
-    "devanagari": "",
+    "iast": "āditya",
+    "devanagari": "आदित्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "'Son of Aditi'; the sun, or any of the twelve solar deities",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -127961,35 +127960,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aditya - wisdomlib (https://www.wisdomlib.org/definition/aditya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -128152,11 +128130,11 @@
   },
   {
     "name": "Aadrita",
-    "iast": "aadrita",
-    "devanagari": "",
+    "iast": "ādṛta",
+    "devanagari": "आदृत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Honoured, respected; also attentive, careful",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -128164,15 +128142,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Adrita, Ādṛta - wisdomlib (https://www.wisdomlib.org/definition/adrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -128231,11 +128208,11 @@
   },
   {
     "name": "Aadvay",
-    "iast": "aadvay",
-    "devanagari": "",
+    "iast": "advaya",
+    "devanagari": "अद्वय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Non-dual, without a second, unique",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -128243,19 +128220,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Advaya - wisdomlib (https://www.wisdomlib.org/definition/advaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -128364,11 +128336,11 @@
   },
   {
     "name": "Aadya",
-    "iast": "aadya",
-    "devanagari": "",
+    "iast": "ādyā",
+    "devanagari": "आद्या",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "First, primeval; also an epithet of the goddess Durga/Adi Shakti",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -128376,23 +128348,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adya, Ādyā, Ādya - wisdomlib (https://www.wisdomlib.org/definition/adya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Aadyant",
@@ -128603,11 +128567,11 @@
   },
   {
     "name": "Aagman",
-    "iast": "aagman",
-    "devanagari": "",
+    "iast": "āgamana",
+    "devanagari": "आगमन",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Arrival, advent, coming",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -128615,24 +128579,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Agamana, Āgamana - wisdomlib (https://www.wisdomlib.org/definition/agamana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aagney",
-    "iast": "aagney",
-    "devanagari": "",
+    "iast": "āgneya",
+    "devanagari": "आग्नेय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Relating to or belonging to Agni (fire); fiery; also an epithet of Kartikeya as son of Agni",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -128640,36 +128603,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Agneya, Āgneya - wisdomlib (https://www.wisdomlib.org/definition/agneya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aagneya",
-    "iast": "aagneya",
-    "devanagari": "",
+    "iast": "āgneya",
+    "devanagari": "आग्नेय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Relating to or belonging to Agni (fire); fiery; also an epithet of Kartikeya as son of Agni",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -128677,36 +128627,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Agneya, Āgneya - wisdomlib (https://www.wisdomlib.org/definition/agneya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aagraha",
-    "iast": "aagraha",
-    "devanagari": "",
+    "iast": "āgraha",
+    "devanagari": "आग्रह",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Insistence, persistence, eagerness, zeal",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -128714,16 +128651,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Agraha, Āgraha - wisdomlib (https://www.wisdomlib.org/definition/agraha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Aagyey",
@@ -128955,11 +128891,11 @@
   },
   {
     "name": "Aahlaad",
-    "iast": "aahlaad",
-    "devanagari": "",
+    "iast": "āhlāda",
+    "devanagari": "आह्लाद",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Joy, delight, pleasure",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -128967,48 +128903,43 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ahlada, Āhlāda - wisdomlib (https://www.wisdomlib.org/definition/ahlada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aahlaadita",
-    "iast": "aahlaadita",
-    "devanagari": "",
+    "iast": "āhlādita",
+    "devanagari": "आह्लादित",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Delighted, filled with joy",
+    "components": [
+      {
+        "part": "āhlāda",
+        "gloss": "joy, delight"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ahlada, Āhlāda - wisdomlib (https://www.wisdomlib.org/definition/ahlada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -129038,11 +128969,11 @@
   },
   {
     "name": "Aahlad",
-    "iast": "aahlad",
-    "devanagari": "",
+    "iast": "āhlāda",
+    "devanagari": "आह्लाद",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Aahlaad: joy, delight, pleasure",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -129050,40 +128981,43 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ahlada, Āhlāda - wisdomlib (https://www.wisdomlib.org/definition/ahlada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aahladita",
-    "iast": "aahladita",
-    "devanagari": "",
+    "iast": "āhlādita",
+    "devanagari": "आह्लादित",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Delighted, filled with joy",
+    "components": [
+      {
+        "part": "āhlāda",
+        "gloss": "joy, delight"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ahlada, Āhlāda - wisdomlib (https://www.wisdomlib.org/definition/ahlada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -129299,11 +129233,11 @@
   },
   {
     "name": "Aakaanksha",
-    "iast": "aakaanksha",
-    "devanagari": "",
+    "iast": "ākāṅkṣā",
+    "devanagari": "आकांक्षा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Desire, wish, longing, expectation",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -129311,24 +129245,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akanksha, Ākāṅkṣā - wisdomlib (https://www.wisdomlib.org/definition/akamksha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aakaansha",
-    "iast": "aakaansha",
-    "devanagari": "",
+    "iast": "ākāṅkṣā",
+    "devanagari": "आकांक्षा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Aakaanksha: desire, wish, longing",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -129336,15 +129269,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akanksha, Ākāṅkṣā - wisdomlib (https://www.wisdomlib.org/definition/akamksha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -129436,27 +129368,31 @@
   },
   {
     "name": "Aakanksh",
-    "iast": "aakanksh",
-    "devanagari": "",
+    "iast": "ākāṅkṣa",
+    "devanagari": "आकांक्ष",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Masculine form related to Aakaanksha: desirous, one who desires/wishes",
+    "components": [
+      {
+        "part": "ākāṅkṣā",
+        "gloss": "desire, wish"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akanksha, Ākāṅkṣā - wisdomlib (https://www.wisdomlib.org/definition/akamksha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
