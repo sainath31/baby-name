@@ -346348,31 +346348,31 @@
   },
   {
     "name": "Ghantasala",
-    "iast": "ghantasala",
-    "devanagari": "",
+    "iast": "ghaṇṭasālā",
+    "devanagari": "घण्टसाला",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Surname famous as that of Ghantasala Venkateswara Rao, legendary Telugu playback singer; literally relates to 'ghanta' (bell)",
+    "components": [
+      {
+        "part": "ghaṇṭa (bell) + śālā (hall/place)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ghantasala (singer) - Wikipedia (https://en.wikipedia.org/wiki/Ghantasala_(singer))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -346530,52 +346530,60 @@
   },
   {
     "name": "Ghatotkacha",
-    "iast": "ghatotkacha",
-    "devanagari": "",
+    "iast": "ghaṭotkaca",
+    "devanagari": "घटोत्कच",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Son of Bhima and the rakshasi Hidimba in the Mahabharata, a heroic warrior who fought for the Pandavas",
+    "components": [
+      {
+        "part": "ghaṭa (pot/pitcher-shaped head) + utkaca (having bristling/standing-up hair)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ghatotkacha - Wikipedia (https://en.wikipedia.org/wiki/Ghatotkacha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ghatotkatcha",
-    "iast": "ghatotkatcha",
-    "devanagari": "",
+    "iast": "ghaṭotkaca",
+    "devanagari": "घटोत्कच",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Ghatotkacha, son of Bhima in the Mahabharata",
+    "components": [
+      {
+        "part": "ghaṭa + utkaca",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ghatotkacha - Wikipedia (https://en.wikipedia.org/wiki/Ghatotkacha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -346705,27 +346713,31 @@
   },
   {
     "name": "Ghosha",
-    "iast": "ghosha",
-    "devanagari": "",
+    "iast": "ghoṣā",
+    "devanagari": "घोषा",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a Vedic rishika (female sage) who composed hymns in the Rigveda",
+    "components": [
+      {
+        "part": "ghoṣā (proper name; also 'sound/noise')",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ghosha - wisdomlib.org (https://www.wisdomlib.org/definition/ghosha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -347353,31 +347365,31 @@
   },
   {
     "name": "Gira",
-    "iast": "gira",
-    "devanagari": "",
+    "iast": "girā",
+    "devanagari": "गिरा",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Speech, voice, word (poetic Sanskrit term, related to 'gir')",
+    "components": [
+      {
+        "part": "girā/gir (speech/voice)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "gir - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gir)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -347407,85 +347419,89 @@
   },
   {
     "name": "Gireesh",
-    "iast": "gireesh",
-    "devanagari": "",
+    "iast": "gireśa",
+    "devanagari": "गिरीश",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Lord of the mountain(s)', a well-known epithet of Shiva",
+    "components": [
+      {
+        "part": "giri (mountain) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Girisha/Girisa - epithet of Shiva, wisdomlib.org (https://www.wisdomlib.org/definition/girisha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Gireesha",
-    "iast": "gireesha",
-    "devanagari": "",
+    "iast": "gireśā",
+    "devanagari": "गिरीशा",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord/mistress of the mountains', typically a masculine epithet of Shiva; feminine usage is unusual",
+    "components": [
+      {
+        "part": "giri (mountain) + īśā (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Girisha/Girisa - epithet of Shiva, wisdomlib.org (https://www.wisdomlib.org/definition/girisha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Giribala",
-    "iast": "giribala",
-    "devanagari": "",
+    "iast": "giribālā",
+    "devanagari": "गिरिबाला",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Daughter/maiden of the mountain', an epithet of Parvati, who is the daughter of the mountain king Himavat",
+    "components": [
+      {
+        "part": "giri (mountain) + bālā (maiden)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "giribala - wisdomlib.org (https://www.wisdomlib.org/definition/giribala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -347564,159 +347580,175 @@
   },
   {
     "name": "Giridari",
-    "iast": "giridari",
-    "devanagari": "",
+    "iast": "giridhārī",
+    "devanagari": "गिरिधारी",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling of Giridhari, 'one who holds/lifts the mountain', epithet of Krishna who lifted Govardhan hill",
+    "components": [
+      {
+        "part": "giri (mountain) + dhārī (holder)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Govardhan Puja - Wikipedia (Krishna as Giridhari/Giridhara) (https://en.wikipedia.org/wiki/Govardhan_Puja)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Giridhara",
     "iast": "giridhara",
-    "devanagari": "",
+    "devanagari": "गिरिधर",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Mountain-holder', a well-known epithet of Krishna, who lifted Mount Govardhan to protect the villagers of Vraj",
+    "components": [
+      {
+        "part": "giri (mountain) + dhara (holder)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Govardhan Puja - Wikipedia (Krishna as Giridhara) (https://en.wikipedia.org/wiki/Govardhan_Puja)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Giridharan",
     "iast": "giridharan",
-    "devanagari": "",
+    "devanagari": "கிரிதரன்",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Giridhara, epithet of Krishna ('mountain-holder')",
+    "components": [
+      {
+        "part": "giridhara + Tamil masculine suffix -an",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Govardhan Puja - Wikipedia (Krishna as Giridhara) (https://en.wikipedia.org/wiki/Govardhan_Puja)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Giridhari",
-    "iast": "giridhari",
-    "devanagari": "",
+    "iast": "giridhārī",
+    "devanagari": "गिरिधारी",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'One who holds the mountain', epithet of Krishna, who lifted Mount Govardhan",
+    "components": [
+      {
+        "part": "giri (mountain) + dhārī (holder)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Govardhan Puja - Wikipedia (Krishna as Giridhari) (https://en.wikipedia.org/wiki/Govardhan_Puja)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Girijabala",
-    "iast": "girijabala",
-    "devanagari": "",
+    "iast": "girijābālā",
+    "devanagari": "गिरिजाबाला",
     "letter": "G",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Daughter/maiden who is Girija (Parvati)'; devotional compound combining two epithets for the mountain-born goddess",
+    "components": [
+      {
+        "part": "girijā (Parvati, mountain-born) + bālā (maiden)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "girija - wisdomlib.org (https://www.wisdomlib.org/definition/girija)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Girijadevi",
-    "iast": "girijadevi",
-    "devanagari": "",
+    "iast": "girijādevī",
+    "devanagari": "गिरिजादेवी",
     "letter": "G",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Goddess Girija', an epithet of Parvati, who was born to the mountain king Himavat",
+    "components": [
+      {
+        "part": "girijā (Parvati) + devī (goddess)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "girija - wisdomlib.org (https://www.wisdomlib.org/definition/girija)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -347754,77 +347786,89 @@
   },
   {
     "name": "Girijanandini",
-    "iast": "girijanandini",
-    "devanagari": "",
+    "iast": "girijānandinī",
+    "devanagari": "गिरिजानन्दिनी",
     "letter": "G",
     "syllable_count": 6,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Daughter of Girija', or a joyful epithet form of Parvati herself as the mountain's delight",
+    "components": [
+      {
+        "part": "girijā (Parvati/mountain-born) + nandinī (daughter/one who delights, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "girija - wisdomlib.org (https://www.wisdomlib.org/definition/girija)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Girijapathi",
-    "iast": "girijapathi",
-    "devanagari": "",
+    "iast": "girijāpati",
+    "devanagari": "गिरिजापति",
     "letter": "G",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord/husband of Girija (Parvati)', epithet of Shiva",
+    "components": [
+      {
+        "part": "girijā (Parvati) + pati (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "girijapati - wisdomlib.org (https://www.wisdomlib.org/definition/girijapati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Girijapati",
-    "iast": "girijapati",
-    "devanagari": "",
+    "iast": "girijāpati",
+    "devanagari": "गिरिजापति",
     "letter": "G",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord/husband of Girija (Parvati)', epithet of Shiva",
+    "components": [
+      {
+        "part": "girijā (Parvati) + pati (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "girijapati - wisdomlib.org (https://www.wisdomlib.org/definition/girijapati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -347995,168 +348039,176 @@
   },
   {
     "name": "Girinandini",
-    "iast": "girinandini",
-    "devanagari": "",
+    "iast": "girinandinī",
+    "devanagari": "गिरिनन्दिनी",
     "letter": "G",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Daughter of the mountain', an epithet of Parvati (daughter of Himavat)",
+    "components": [
+      {
+        "part": "giri (mountain) + nandinī (daughter)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "girinandini - wisdomlib.org (https://www.wisdomlib.org/definition/girinandini)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Girinath",
-    "iast": "girinath",
-    "devanagari": "",
+    "iast": "girinātha",
+    "devanagari": "गिरिनाथ",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of the mountain(s)', epithet of Shiva/Himavat",
+    "components": [
+      {
+        "part": "giri (mountain) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "girinatha - wisdomlib.org (https://www.wisdomlib.org/definition/girinatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Girindra",
-    "iast": "girindra",
-    "devanagari": "",
+    "iast": "girīndra",
+    "devanagari": "गिरीन्द्र",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'King of mountains', epithet of Himavat (the Himalayas personified, father of Parvati) and also used of the Himalayas generally",
+    "components": [
+      {
+        "part": "giri (mountain) + indra (king/lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "girindra - wisdomlib.org (https://www.wisdomlib.org/definition/girindra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Giripati",
     "iast": "giripati",
-    "devanagari": "",
+    "devanagari": "गिरिपति",
     "letter": "G",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of the mountain(s)', epithet of Shiva/Himavat",
+    "components": [
+      {
+        "part": "giri (mountain) + pati (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "giripati - wisdomlib.org (https://www.wisdomlib.org/definition/giripati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Giriraaj",
-    "iast": "giriraaj",
-    "devanagari": "",
+    "iast": "girirāja",
+    "devanagari": "गिरिराज",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'King of mountains', epithet of Himavat (the Himalayas), and also used for Mount Govardhan worshipped by Krishna devotees",
+    "components": [
+      {
+        "part": "giri (mountain) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Govardhan Puja - Wikipedia (Giriraj as a name for Govardhan hill) (https://en.wikipedia.org/wiki/Govardhan_Puja)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Girisa",
-    "iast": "girisa",
-    "devanagari": "",
+    "iast": "gireśa",
+    "devanagari": "गिरीश",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of the mountain', epithet of Shiva; traditionally masculine, feminine usage here is unusual",
+    "components": [
+      {
+        "part": "giri (mountain) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Girisha/Girisa - epithet of Shiva, wisdomlib.org (https://www.wisdomlib.org/definition/girisha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -348186,39 +348238,31 @@
   },
   {
     "name": "Girisha",
-    "iast": "girisha",
-    "devanagari": "",
+    "iast": "gireśa",
+    "devanagari": "गिरीश",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of the mountain', a well-known epithet of Shiva; traditionally masculine, feminine usage here is unusual",
+    "components": [
+      {
+        "part": "giri (mountain) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Girisha - epithet of Shiva, wisdomlib.org (https://www.wisdomlib.org/definition/girisha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -348298,39 +348342,31 @@
   },
   {
     "name": "Girivar",
-    "iast": "girivar",
-    "devanagari": "",
+    "iast": "girivara",
+    "devanagari": "गिरिवर",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Best/foremost of mountains', an honorific epithet applied to sacred mountains (and Mount Govardhan in Krishna devotional contexts)",
+    "components": [
+      {
+        "part": "giri (mountain) + vara (best/excellent)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "girivara - wisdomlib.org (https://www.wisdomlib.org/definition/girivara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
