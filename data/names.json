@@ -387033,71 +387033,59 @@
   {
     "name": "Indrajit",
     "iast": "indrajit",
-    "devanagari": "",
+    "devanagari": "इन्द्रजित्",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Conqueror of Indra', the epithet of Meghnada, son of Ravana in the Ramayana, who defeated Indra in battle",
+    "components": [
+      {
+        "part": "indra + jit (conqueror)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "Indrajit - Wikipedia (https://en.wikipedia.org/wiki/Indrajit)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Indrajith",
-    "iast": "indrajith",
-    "devanagari": "",
+    "iast": "indrajit",
+    "devanagari": "इन्द्रजित्",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Indrajit, 'conqueror of Indra', epithet of Meghnada in the Ramayana",
+    "components": [
+      {
+        "part": "indra + jit (conqueror)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Indrajit - Wikipedia (https://en.wikipedia.org/wiki/Indrajit)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -387172,27 +387160,27 @@
     "devanagari": "",
     "letter": "I",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Indra, king of the Vedic devas",
+    "components": [
+      {
+        "part": "indra + Tamil masculine suffix -an",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Indra - Wikipedia (https://en.wikipedia.org/wiki/Indra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -387221,39 +387209,31 @@
   },
   {
     "name": "Indraneel",
-    "iast": "indraneel",
-    "devanagari": "",
+    "iast": "indranīla",
+    "devanagari": "इन्द्रनील",
     "letter": "I",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Sapphire' (literally 'blue of Indra'); a classical Sanskrit term for the gemstone, used as a given name especially in Bengal",
+    "components": [
+      {
+        "part": "indra + nīla (blue)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indranila - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/indranila)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -387367,42 +387347,30 @@
   {
     "name": "Indrasena",
     "iast": "indrasena",
-    "devanagari": "",
+    "devanagari": "इन्द्रसेन",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Army of Indra'; also the name of King Nala's father in the Mahabharata",
+    "components": [
+      {
+        "part": "indra + sena (army)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indrasena - wisdomlib.org (https://www.wisdomlib.org/definition/indrasena)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Indrasuta",
@@ -387571,31 +387539,31 @@
   },
   {
     "name": "Indravathi",
-    "iast": "indravathi",
-    "devanagari": "",
+    "iast": "indrāvatī",
+    "devanagari": "इन्द्रावती",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a river in central India, a tributary of the Godavari",
+    "components": [
+      {
+        "part": "indrāvatī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Indravati River - Wikipedia (https://en.wikipedia.org/wiki/Indravati_River)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Indrayan",
@@ -387730,31 +387698,31 @@
   },
   {
     "name": "Indubala",
-    "iast": "indubala",
-    "devanagari": "",
+    "iast": "indubālā",
+    "devanagari": "इन्दुबाला",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Moon maiden'",
+    "components": [
+      {
+        "part": "indu (moon) + bālā (maiden)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indubala - wisdomlib.org (https://www.wisdomlib.org/definition/indubala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -387784,59 +387752,59 @@
   },
   {
     "name": "Indubhusan",
-    "iast": "indubhusan",
-    "devanagari": "",
+    "iast": "indubhūṣaṇa",
+    "devanagari": "इन्दुभूषण",
     "letter": "I",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Moon-adorned/moon-crested', an epithet of Shiva",
+    "components": [
+      {
+        "part": "indu (moon) + bhūṣaṇa (ornament)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indubhushana - wisdomlib.org (https://www.wisdomlib.org/definition/indubhushana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Indubhushan",
-    "iast": "indubhushan",
-    "devanagari": "",
+    "iast": "indubhūṣaṇa",
+    "devanagari": "इन्दुभूषण",
     "letter": "I",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Moon-adorned/moon-crested', an epithet of Shiva",
+    "components": [
+      {
+        "part": "indu (moon) + bhūṣaṇa (ornament)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indubhushana - wisdomlib.org (https://www.wisdomlib.org/definition/indubhushana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -387953,31 +387921,31 @@
   },
   {
     "name": "Indukala",
-    "iast": "indukala",
-    "devanagari": "",
+    "iast": "indukalā",
+    "devanagari": "इन्दुकला",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'A digit/crescent of the moon'",
+    "components": [
+      {
+        "part": "indu (moon) + kalā (digit/phase)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indukala - wisdomlib.org (https://www.wisdomlib.org/definition/indukala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -388015,31 +387983,31 @@
   },
   {
     "name": "Indukanta",
-    "iast": "indukanta",
-    "devanagari": "",
+    "iast": "indukānta",
+    "devanagari": "इन्दुकान्त",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Moonstone', a gem believed to be associated with the moon in Sanskrit texts",
+    "components": [
+      {
+        "part": "indu (moon) + kānta (beloved/beautiful)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indukanta - wisdomlib.org (https://www.wisdomlib.org/definition/indukanta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -388283,27 +388251,31 @@
   },
   {
     "name": "Indumatee",
-    "iast": "indumatee",
-    "devanagari": "",
+    "iast": "indumatī",
+    "devanagari": "इन्दुमती",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Indumati, the queen in Kalidasa's Raghuvamsha",
+    "components": [
+      {
+        "part": "indu (moon) + -matī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indumati - wisdomlib.org (https://www.wisdomlib.org/definition/indumati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -388333,85 +388305,89 @@
   },
   {
     "name": "Indumati",
-    "iast": "indumati",
-    "devanagari": "",
+    "iast": "indumatī",
+    "devanagari": "इन्दुमती",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Possessing the qualities of the moon'; also the name of a queen in Kalidasa's Raghuvamsha",
+    "components": [
+      {
+        "part": "indu (moon) + -matī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indumati - wisdomlib.org (https://www.wisdomlib.org/definition/indumati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Indumatie",
-    "iast": "indumatie",
-    "devanagari": "",
+    "iast": "indumatī",
+    "devanagari": "इन्दुमती",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Indumati, the queen in Kalidasa's Raghuvamsha",
+    "components": [
+      {
+        "part": "indu (moon) + -matī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indumati - wisdomlib.org (https://www.wisdomlib.org/definition/indumati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Indumaty",
-    "iast": "indumaty",
-    "devanagari": "",
+    "iast": "indumatī",
+    "devanagari": "इन्दुमती",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Indumati, the queen in Kalidasa's Raghuvamsha",
+    "components": [
+      {
+        "part": "indu (moon) + -matī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indumati - wisdomlib.org (https://www.wisdomlib.org/definition/indumati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -388448,31 +388424,31 @@
   },
   {
     "name": "Indumukhi",
-    "iast": "indumukhi",
-    "devanagari": "",
+    "iast": "indumukhī",
+    "devanagari": "इन्दुमुखी",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Moon-faced', a classical poetic epithet for a beautiful woman",
+    "components": [
+      {
+        "part": "indu (moon) + mukhī (faced)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indumukhi - wisdomlib.org (https://www.wisdomlib.org/definition/indumukhi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -388634,39 +388610,31 @@
   },
   {
     "name": "Indushekhar",
-    "iast": "indushekhar",
-    "devanagari": "",
+    "iast": "induśekhara",
+    "devanagari": "इन्दुशेखर",
     "letter": "I",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Moon-crested', an epithet of Shiva",
+    "components": [
+      {
+        "part": "indu (moon) + śekhara (crest)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indushekhara - wisdomlib.org (https://www.wisdomlib.org/definition/indushekhara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
