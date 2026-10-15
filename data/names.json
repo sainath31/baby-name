@@ -396640,27 +396640,31 @@
   },
   {
     "name": "Jagdeesh",
-    "iast": "jagdeesh",
-    "devanagari": "",
+    "iast": "jagadīśa",
+    "devanagari": "जगदीश",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Jagadish, 'lord of the world'",
+    "components": [
+      {
+        "part": "jagat (world) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jagadisha - wisdomlib.org (https://www.wisdomlib.org/definition/jagadisha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -396818,60 +396822,60 @@
   },
   {
     "name": "Jagjeet",
-    "iast": "jagjeet",
-    "devanagari": "",
+    "iast": "jagajjit",
+    "devanagari": "जगज्जित्",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Jagajeet, 'conqueror of the world'",
+    "components": [
+      {
+        "part": "jagat (world) + jit (conqueror)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jagajjit - wisdomlib.org (https://www.wisdomlib.org/definition/jagajjit)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagjeevan",
-    "iast": "jagjeevan",
-    "devanagari": "",
+    "iast": "jagjīvana",
+    "devanagari": "जगजीवन",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Life of the world'; also the name of prominent Indian freedom fighter and politician Jagjivan Ram",
+    "components": [
+      {
+        "part": "jagat (world) + jīvana (life)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jagjivan Ram - Wikipedia (https://en.wikipedia.org/wiki/Jagjivan_Ram)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy",
     "alt_spellings": [
       "Jag Jeevan"
@@ -396879,56 +396883,60 @@
   },
   {
     "name": "Jagjit",
-    "iast": "jagjit",
-    "devanagari": "",
+    "iast": "jagajjit",
+    "devanagari": "जगज्जित्",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Conqueror of the world'; also the name of the renowned ghazal singer Jagjit Singh",
+    "components": [
+      {
+        "part": "jagat (world) + jit (conqueror)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Jagjit Singh - Wikipedia (https://en.wikipedia.org/wiki/Jagjit_Singh)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagjivan",
-    "iast": "jagjivan",
-    "devanagari": "",
+    "iast": "jagjīvana",
+    "devanagari": "जगजीवन",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Life of the world'; also the name of prominent Indian freedom fighter and politician Jagjivan Ram",
+    "components": [
+      {
+        "part": "jagat (world) + jīvana (life)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jagjivan Ram - Wikipedia (https://en.wikipedia.org/wiki/Jagjivan_Ram)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -397152,35 +397160,31 @@
   },
   {
     "name": "Jagrati",
-    "iast": "jagrati",
-    "devanagari": "",
+    "iast": "jāgṛti",
+    "devanagari": "जागृति",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Awakening, wakefulness'",
+    "components": [
+      {
+        "part": "jāgṛti (awakening)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jagriti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jagriti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -397296,31 +397300,31 @@
   },
   {
     "name": "Jagriti",
-    "iast": "jagriti",
-    "devanagari": "",
+    "iast": "jāgṛti",
+    "devanagari": "जागृति",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Awakening, wakefulness'; a very common and well-attested modern Hindi given name",
+    "components": [
+      {
+        "part": "jāgṛti (awakening)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jagriti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jagriti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -397350,27 +397354,31 @@
   },
   {
     "name": "Jagruthi",
-    "iast": "jagruthi",
-    "devanagari": "",
+    "iast": "jāgṛti",
+    "devanagari": "जागृति",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jagriti, 'awakening, wakefulness'",
+    "components": [
+      {
+        "part": "jāgṛti (awakening)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jagriti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jagriti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -397590,27 +397598,31 @@
   },
   {
     "name": "Jahanavi",
-    "iast": "jahanavi",
-    "devanagari": "",
+    "iast": "jāhnavī",
+    "devanagari": "जाह्नवी",
     "letter": "J",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Jahnavi, epithet of the river Ganga (daughter of sage Jahnu)",
+    "components": [
+      {
+        "part": "jāhnavī (Ganga)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jahnavi - wisdomlib.org (epithet of Ganga) (https://www.wisdomlib.org/definition/jahnavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -397778,116 +397790,88 @@
   {
     "name": "Jahnu",
     "iast": "jahnu",
-    "devanagari": "",
+    "devanagari": "जह्नु",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a Vedic sage after whom the river Ganga's epithet 'Jahnavi' (daughter of Jahnu) is named",
+    "components": [
+      {
+        "part": "jahnu (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jahnu - wisdomlib.org (https://www.wisdomlib.org/definition/jahnu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jahnvi",
-    "iast": "jahnvi",
-    "devanagari": "",
+    "iast": "jāhnavī",
+    "devanagari": "जाह्नवी",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Jahnavi, epithet of the river Ganga",
+    "components": [
+      {
+        "part": "jāhnavī (Ganga)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jahnavi - wisdomlib.org (epithet of Ganga) (https://www.wisdomlib.org/definition/jahnavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jai",
-    "iast": "jai",
-    "devanagari": "",
+    "iast": "jaya",
+    "devanagari": "जय",
     "letter": "J",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "'Victory, triumph'; an extremely common and well-attested Sanskrit/Hindi given name",
+    "components": [
+      {
+        "part": "jaya (victory)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jaya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -397967,35 +397951,31 @@
   },
   {
     "name": "Jaichand",
-    "iast": "jaichand",
-    "devanagari": "",
+    "iast": "jayacandra",
+    "devanagari": "जयचन्द्र",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Moon of victory'; also the name of Jaichand (Jayachandra), the historical 12th-century Gahadavala king of Kannauj",
+    "components": [
+      {
+        "part": "jaya (victory) + candra (moon)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jayachandra - Wikipedia (https://en.wikipedia.org/wiki/Jayachandra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -398158,35 +398138,31 @@
   },
   {
     "name": "Jaidev",
-    "iast": "jaidev",
-    "devanagari": "",
+    "iast": "jayadeva",
+    "devanagari": "जयदेव",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'God of victory'; also the name of the renowned 12th-century poet Jayadeva, author of the Gita Govinda",
+    "components": [
+      {
+        "part": "jaya (victory) + deva (god)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jayadeva - Wikipedia (https://en.wikipedia.org/wiki/Jayadeva)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -398544,27 +398520,31 @@
   },
   {
     "name": "Jaimala",
-    "iast": "jaimala",
-    "devanagari": "",
+    "iast": "jayamālā",
+    "devanagari": "जयमाला",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Garland of victory'; also refers to the ceremonial garland exchange in a traditional Hindu wedding",
+    "components": [
+      {
+        "part": "jaya (victory) + mālā (garland)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jaimala - wisdomlib.org (https://www.wisdomlib.org/definition/jaimala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
