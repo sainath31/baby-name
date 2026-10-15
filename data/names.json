@@ -185622,11 +185622,11 @@
   },
   {
     "name": "Anjuli",
-    "iast": "anjuli",
-    "devanagari": "",
+    "iast": "añjali",
+    "devanagari": "अञ्जलि",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Anjali: the gesture of folded hands in reverence/offering",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -185634,19 +185634,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Anjali - Wikipedia (https://www.wikipedia.org/wiki/Anjali)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -185853,11 +185848,11 @@
   },
   {
     "name": "Ankana",
-    "iast": "ankana",
-    "devanagari": "",
+    "iast": "aṅkana",
+    "devanagari": "अङ्कन",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Marking, stamping, branding, engraving",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -185865,15 +185860,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ankana, Aṅkana - wisdomlib (https://www.wisdomlib.org/definition/ankana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -185978,11 +185972,11 @@
   },
   {
     "name": "Ankith",
-    "iast": "ankith",
-    "devanagari": "",
+    "iast": "aṅkita",
+    "devanagari": "अंकित",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Ankit: marked, stamped, engraved; also 'one with auspicious signs'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -185990,24 +185984,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ankita - wikipedia.com / wisdomlib root family (https://wikipedia.com/wiki/Ankita)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ankitha",
-    "iast": "ankitha",
-    "devanagari": "",
+    "iast": "aṅkita",
+    "devanagari": "अंकिता",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Marked, stamped, engraved; also 'one with auspicious signs'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -186015,19 +186008,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ankita - wikipedia.com / wisdomlib root family (https://wikipedia.com/wiki/Ankita)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -186157,11 +186145,11 @@
   },
   {
     "name": "Ankura",
-    "iast": "ankura",
-    "devanagari": "",
+    "iast": "aṅkura",
+    "devanagari": "अङ्कुर",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Sprout, bud; also a gesture term in Natyashastra dramaturgy (a hand movement supplementing an idea)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -186169,16 +186157,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ankura, Aṅkura - wisdomlib (https://www.wisdomlib.org/definition/ankura)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Ankushi",
@@ -186386,31 +186373,35 @@
   },
   {
     "name": "Annada",
-    "iast": "annada",
-    "devanagari": "",
+    "iast": "annadā",
+    "devanagari": "अन्नदा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Giver of food'; an epithet of the goddess, related to Annapurna",
+    "components": [
+      {
+        "part": "anna",
+        "gloss": "food, grain"
+      },
+      {
+        "part": "dā",
+        "gloss": "giver"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Annapurna (goddess) - Wikipedia (https://en.wikipedia.org/wiki/Annapurna_(goddess))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -186444,7 +186435,7 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Name of the sacred Annamalai Hill at Tiruvannamalai (Arunachala), site of the Annamalaiyar/Arunachaleswarar Shiva temple, one of the Pancha Bhoota Stalams representing the fire element",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -186452,15 +186443,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arunachalesvara Temple - Wikipedia (https://en.wikipedia.org/wiki/Arunachalesvara_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -186490,11 +186480,11 @@
   },
   {
     "name": "Annanya",
-    "iast": "annanya",
-    "devanagari": "",
+    "iast": "ananya",
+    "devanagari": "अनन्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling related to Ananya: unique, sole, without equal",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -186502,115 +186492,147 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananyata, Ananyatā - wisdomlib (https://www.wisdomlib.org/definition/ananyata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Annapoorani",
-    "iast": "annapoorani",
-    "devanagari": "",
+    "iast": "annapūrṇā",
+    "devanagari": "அன்னபூரணி",
     "letter": "A",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Tamil form of Annapurna, the goddess of food and nourishment, a manifestation of Parvati",
+    "components": [
+      {
+        "part": "anna",
+        "gloss": "food"
+      },
+      {
+        "part": "pūrṇā",
+        "gloss": "full, complete"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Annapurna (goddess) - Wikipedia (https://en.wikipedia.org/wiki/Annapurna_(goddess))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Annapoorna",
-    "iast": "annapoorna",
-    "devanagari": "",
+    "iast": "annapūrṇā",
+    "devanagari": "अन्नपूर्णा",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Full of food'; the goddess of food and nourishment, a manifestation of Parvati",
+    "components": [
+      {
+        "part": "anna",
+        "gloss": "food"
+      },
+      {
+        "part": "pūrṇā",
+        "gloss": "full, complete"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Annapurna (goddess) - Wikipedia (https://en.wikipedia.org/wiki/Annapurna_(goddess))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Annapurni",
-    "iast": "annapurni",
-    "devanagari": "",
+    "iast": "annapūrṇā",
+    "devanagari": "अन्नपूर्णी",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant form of Annapurna: the goddess of food and nourishment, a manifestation of Parvati",
+    "components": [
+      {
+        "part": "anna",
+        "gloss": "food"
+      },
+      {
+        "part": "pūrṇā",
+        "gloss": "full, complete"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Annapurna (goddess) - Wikipedia (https://en.wikipedia.org/wiki/Annapurna_(goddess))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Annasuya",
-    "iast": "annasuya",
-    "devanagari": "",
+    "iast": "anasūyā",
+    "devanagari": "अनसूया",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Anasuya: 'free from envy', wife of sage Atri",
+    "components": [
+      {
+        "part": "an-",
+        "gloss": "not"
+      },
+      {
+        "part": "asūyā",
+        "gloss": "envy, spite"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anasuya, Anasūyā - wisdomlib (https://de.wisdomlib.org/definition/anasuya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Annavaran",
@@ -186743,11 +186765,11 @@
   },
   {
     "name": "Anniruddha",
-    "iast": "anniruddha",
-    "devanagari": "",
+    "iast": "aniruddha",
+    "devanagari": "अनिरुद्ध",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Aniruddha: 'unobstructed, unconquerable', grandson of Krishna",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -186755,19 +186777,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aniruddha - ficino.sourcelibrary.org/encyclopedia (https://ficino.sourcelibrary.org/encyclopedia/Aniruddha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
