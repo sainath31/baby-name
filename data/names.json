@@ -432046,122 +432046,118 @@
   },
   {
     "name": "Kaartik",
-    "iast": "kaartik",
-    "devanagari": "",
+    "iast": "kārtika",
+    "devanagari": "कार्तिक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Name of the Hindu lunar month and a vernacular form of Kartikeya, the god of war, son of Shiva and Parvati",
+    "components": [
+      {
+        "part": "kārtika (month name; Kartikeya)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kaartikey",
-    "iast": "kaartikey",
-    "devanagari": "",
+    "iast": "kārtikeya",
+    "devanagari": "कार्तिकेय",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Kartikeya, the god of war, son of Shiva and Parvati",
+    "components": [
+      {
+        "part": "kārtikeya (deity's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kaartikeya",
-    "iast": "kaartikeya",
-    "devanagari": "",
+    "iast": "kārtikeya",
+    "devanagari": "कार्तिकेय",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Kartikeya, the god of war, son of Shiva and Parvati, also known as Murugan and Skanda",
+    "components": [
+      {
+        "part": "kārtikeya (deity's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kaartiki",
-    "iast": "kaartiki",
-    "devanagari": "",
+    "iast": "kārtikī",
+    "devanagari": "कार्तिकी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to Kartika (the month) or Kartikeya; also a name for the full moon day of the Kartika month",
+    "components": [
+      {
+        "part": "kārtikī (of Kartika)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "kartiki - wisdomlib.org (https://www.wisdomlib.org/definition/kartiki)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -432191,31 +432187,31 @@
   },
   {
     "name": "Kaarunya",
-    "iast": "kaarunya",
-    "devanagari": "",
+    "iast": "kāruṇya",
+    "devanagari": "कारुण्य",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Compassion, mercy, kindness'",
+    "components": [
+      {
+        "part": "kāruṇya (compassion)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "karunya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karunya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -432295,35 +432291,31 @@
   },
   {
     "name": "Kaashi",
-    "iast": "kaashi",
-    "devanagari": "",
+    "iast": "kāśī",
+    "devanagari": "काशी",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of the ancient sacred city of Kashi (Varanasi), one of the holiest pilgrimage sites in Hinduism",
+    "components": [
+      {
+        "part": "kāśī (place name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Varanasi - Wikipedia (also known as Kashi) (https://en.wikipedia.org/wiki/Varanasi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -432382,64 +432374,60 @@
   },
   {
     "name": "Kaashinaath",
-    "iast": "kaashinaath",
-    "devanagari": "",
+    "iast": "kāśīnātha",
+    "devanagari": "काशीनाथ",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of Kashi', epithet of Shiva as the presiding deity of Varanasi (Kashi Vishwanath)",
+    "components": [
+      {
+        "part": "kāśī (Varanasi) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kashi Vishwanath Temple - Wikipedia (https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kaashinath",
-    "iast": "kaashinath",
-    "devanagari": "",
+    "iast": "kāśīnātha",
+    "devanagari": "काशीनाथ",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of Kashi', epithet of Shiva as the presiding deity of Varanasi",
+    "components": [
+      {
+        "part": "kāśī (Varanasi) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kashi Vishwanath Temple - Wikipedia (https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -432535,52 +432523,60 @@
   },
   {
     "name": "Kaashyap",
-    "iast": "kaashyap",
-    "devanagari": "",
+    "iast": "kaśyapa",
+    "devanagari": "कश्यप",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Name of one of the Saptarishis (seven great sages) and a revered Vedic rishi, progenitor of many beings in Hindu mythology",
+    "components": [
+      {
+        "part": "kaśyapa (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kashyapa - Wikipedia (https://en.wikipedia.org/wiki/Kashyapa)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kaasi",
-    "iast": "kaasi",
-    "devanagari": "",
+    "iast": "kāśī",
+    "devanagari": "काशी",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kashi, the sacred city of Varanasi",
+    "components": [
+      {
+        "part": "kāśī (place name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Varanasi - Wikipedia (also known as Kashi) (https://en.wikipedia.org/wiki/Varanasi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -432643,35 +432639,31 @@
   },
   {
     "name": "Kaavya",
-    "iast": "kaavya",
-    "devanagari": "",
+    "iast": "kāvya",
+    "devanagari": "काव्य",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Poetry, poetic composition'; a common Indian given name celebrating literary art",
+    "components": [
+      {
+        "part": "kāvya (poetry)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "kavya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -433321,27 +433313,31 @@
   },
   {
     "name": "Kadanmbari",
-    "iast": "kadanmbari",
-    "devanagari": "",
+    "iast": "kādambarī",
+    "devanagari": "कादम्बरी",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kadambari, the title and heroine of Banabhatta's celebrated 7th-century Sanskrit prose romance",
+    "components": [
+      {
+        "part": "kādambarī (novel's title/heroine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kadambari (novel) - Wikipedia (https://en.wikipedia.org/wiki/Kadambari_(novel))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -433473,31 +433469,31 @@
   },
   {
     "name": "Kaelasa",
-    "iast": "kaelasa",
-    "devanagari": "",
+    "iast": "kailāsa",
+    "devanagari": "कैलास",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kailash (Kailasa), the sacred mountain in the Himalayas regarded as the abode of Shiva",
+    "components": [
+      {
+        "part": "kailāsa (Mount Kailash)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Mount Kailash - Wikipedia (https://en.wikipedia.org/wiki/Mount_Kailash)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -433942,31 +433938,31 @@
   },
   {
     "name": "Kaikeyi",
-    "iast": "kaikeyi",
-    "devanagari": "",
+    "iast": "kaikeyī",
+    "devanagari": "कैकेयी",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "One of King Dasharatha's wives and mother of Bharata in the Ramayana; a real, well-known epic queen whose request led to Rama's exile",
+    "components": [
+      {
+        "part": "kaikeyī (princess of Kekaya)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Kaikeyi - Wikipedia (https://en.wikipedia.org/wiki/Kaikeyi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
