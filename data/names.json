@@ -383039,72 +383039,60 @@
   },
   {
     "name": "Ikshan",
-    "iast": "ikshan",
-    "devanagari": "",
+    "iast": "īkṣaṇa",
+    "devanagari": "ईक्षण",
     "letter": "I",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Sight, vision, the act of seeing'",
+    "components": [
+      {
+        "part": "īkṣaṇa (sight, from root ikṣ, to see)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ikshana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ikshana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ikshana",
-    "iast": "ikshana",
-    "devanagari": "",
+    "iast": "īkṣaṇā",
+    "devanagari": "ईक्षणा",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Sight, vision, the act of seeing'",
+    "components": [
+      {
+        "part": "īkṣaṇā (sight)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ikshana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ikshana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -383142,64 +383130,60 @@
   },
   {
     "name": "Ikshita",
-    "iast": "ikshita",
-    "devanagari": "",
+    "iast": "īkṣitā",
+    "devanagari": "ईक्षिता",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Seen, perceived, beheld' (feminine past participle of ikṣ, to see)",
+    "components": [
+      {
+        "part": "īkṣita (seen)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "ikshita - wisdomlib.org (https://www.wisdomlib.org/definition/ikshita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Ikshitha",
-    "iast": "ikshitha",
-    "devanagari": "",
+    "iast": "īkṣitā",
+    "devanagari": "ईक्षिता",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Ikshita, 'seen, perceived'",
+    "components": [
+      {
+        "part": "īkṣita (seen)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ikshita - wisdomlib.org (https://www.wisdomlib.org/definition/ikshita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -383653,27 +383637,27 @@
     "devanagari": "",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Young prince/lord', a classical Tamil name famous as that of Ilango Adigal, the Jain prince-poet who authored the Tamil epic Silappatikaram",
+    "components": [
+      {
+        "part": "ilam (young, Tamil) + ko (king/lord, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ilango Adigal - Wikipedia (https://en.wikipedia.org/wiki/Ilango_Adigal)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -383864,27 +383848,27 @@
     "devanagari": "",
     "letter": "I",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Young king/prince', a traditional Tamil given name",
+    "components": [
+      {
+        "part": "ilam (young, Tamil) + arasan (king, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ilavarasan - meaning, Tamil name (young prince) (https://en.wikipedia.org/wiki/Ilavarasan)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -383917,24 +383901,28 @@
     "iast": "ilayaraj",
     "devanagari": "",
     "letter": "I",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Young king', famous as the stage name of the renowned Indian film composer Ilaiyaraaja",
+    "components": [
+      {
+        "part": "ilaiya (young, Tamil) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ilaiyaraaja - Wikipedia (https://en.wikipedia.org/wiki/Ilaiyaraaja)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -384410,23 +384398,27 @@
     "devanagari": "",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Ilango, 'young prince/lord', famous as the name of Ilango Adigal, author of the Tamil epic Silappatikaram",
+    "components": [
+      {
+        "part": "ilam (young, Tamil) + ko (king/lord, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ilango Adigal - Wikipedia (https://en.wikipedia.org/wiki/Ilango_Adigal)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Illankumaran",
