@@ -407065,31 +407065,31 @@
   },
   {
     "name": "Jashoda",
-    "iast": "jashoda",
-    "devanagari": "",
+    "iast": "yaśodā",
+    "devanagari": "यशोदा",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling of Yashoda, the foster mother of Krishna in Hindu mythology",
+    "components": [
+      {
+        "part": "yaśas (fame) + dā (giver)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Yashoda - Wikipedia (https://en.wikipedia.org/wiki/Yashoda)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -407169,27 +407169,31 @@
   },
   {
     "name": "Jashwanth",
-    "iast": "jashwanth",
-    "devanagari": "",
+    "iast": "yaśavanta",
+    "devanagari": "यशवंत",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular spelling of Yashavant/Jaswant, 'possessing fame, glorious'",
+    "components": [
+      {
+        "part": "yaśas (fame) + -vanta (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "yashavat - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/yashavat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -407877,89 +407881,89 @@
   },
   {
     "name": "Jasoda",
-    "iast": "jasoda",
-    "devanagari": "",
+    "iast": "yaśodā",
+    "devanagari": "यशोदा",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling of Yashoda, the foster mother of Krishna",
+    "components": [
+      {
+        "part": "yaśas (fame) + dā (giver)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Yashoda - Wikipedia (https://en.wikipedia.org/wiki/Yashoda)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jasodhara",
-    "iast": "jasodhara",
-    "devanagari": "",
+    "iast": "yaśodharā",
+    "devanagari": "यशोधरा",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling of Yashodhara, the wife of Siddhartha Gautama (the Buddha) before his renunciation",
+    "components": [
+      {
+        "part": "yaśas (fame) + dharā (bearer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Yasodhara - Wikipedia (https://en.wikipedia.org/wiki/Yasodhara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jasodhra",
-    "iast": "jasodhra",
-    "devanagari": "",
+    "iast": "yaśodharā",
+    "devanagari": "यशोधरा",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Yashodhara, wife of the Buddha",
+    "components": [
+      {
+        "part": "yaśas (fame) + dharā (bearer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Yasodhara - Wikipedia (https://en.wikipedia.org/wiki/Yasodhara)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Jaspaal",
@@ -408041,35 +408045,31 @@
   },
   {
     "name": "Jasraj",
-    "iast": "jasraj",
-    "devanagari": "",
+    "iast": "yaśarāja",
+    "devanagari": "यशराज",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'King of fame'; also the name of the renowned Hindustani classical vocalist Pandit Jasraj",
+    "components": [
+      {
+        "part": "yaśas (fame) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jasraj - Wikipedia (https://en.wikipedia.org/wiki/Jasraj)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -408475,31 +408475,31 @@
   },
   {
     "name": "Jaswanth",
-    "iast": "jaswanth",
-    "devanagari": "",
+    "iast": "yaśavanta",
+    "devanagari": "यशवंत",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular spelling of Yashavant, 'possessing fame, glorious'",
+    "components": [
+      {
+        "part": "yaśas (fame) + -vanta (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "yashavat - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/yashavat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
