@@ -162146,11 +162146,11 @@
   },
   {
     "name": "Airavata",
-    "iast": "airavata",
-    "devanagari": "",
+    "iast": "airāvata",
+    "devanagari": "ऐरावत",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Name of the white elephant of Indra, born from the churning of the ocean of milk; king of the elephants",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -162158,24 +162158,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Airavata - wisdomlib (https://www.wisdomlib.org/definition/airavata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Airavath",
-    "iast": "airavath",
-    "devanagari": "",
+    "iast": "airāvata",
+    "devanagari": "ऐरावत",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Airavata: Indra's elephant, born from the churning of the ocean of milk",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -162183,24 +162182,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Airavata - wisdomlib (https://www.wisdomlib.org/definition/airavata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Airawat",
-    "iast": "airawat",
-    "devanagari": "",
+    "iast": "airāvata",
+    "devanagari": "ऐरावत",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Airavata: Indra's elephant, born from the churning of the ocean of milk",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -162208,19 +162206,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Airavata - wisdomlib (https://www.wisdomlib.org/definition/airavata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -162504,11 +162497,11 @@
   },
   {
     "name": "Aishwariya",
-    "iast": "aishwariya",
-    "devanagari": "",
+    "iast": "aiśvarya",
+    "devanagari": "ऐश्वर्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Lordship, sovereignty, prosperity, exalted rank; also the greatness of God/Brahman",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -162516,15 +162509,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aisvarya - asivanayoga.com (Sanskrit) / Aishvarya - Wikipedia (https://en.wikipedia.org/wiki/Ai%C5%9Bvarya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -162554,36 +162546,40 @@
   },
   {
     "name": "Aisvari",
-    "iast": "aisvari",
-    "devanagari": "",
+    "iast": "aiśvarī",
+    "devanagari": "ऐश्वरी",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to 'aiśvarya'/'īśvara': 'she who has lordship/sovereignty'",
+    "components": [
+      {
+        "part": "aiśvarya",
+        "gloss": "lordship, sovereignty"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Aishvarya - Wikipedia (https://en.wikipedia.org/wiki/Ai%C5%9Bvarya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aiswarya",
-    "iast": "aiswarya",
-    "devanagari": "",
+    "iast": "aiśvarya",
+    "devanagari": "ऐश्वर्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Lordship, sovereignty, prosperity, exalted rank; also the greatness of God/Brahman",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -162591,19 +162587,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aishvarya - Wikipedia (https://en.wikipedia.org/wiki/Ai%C5%9Bvarya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -162686,8 +162677,8 @@
     "iast": "aiyappa",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Ayyappan, the Hindu deity of truth and righteousness worshipped at Sabarimala Temple, son of Shiva and Mohini",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -162695,19 +162686,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ayyappan - Wikipedia (https://en.wikipedia.org/wiki/Ayyappan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -162715,8 +162701,8 @@
     "iast": "aiyappan",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Name of the Hindu deity of truth and righteousness worshipped at Sabarimala Temple, son of Shiva and Mohini; also known as Dharmasastha and Manikandan",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -162724,15 +162710,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ayyappan - Wikipedia (https://en.wikipedia.org/wiki/Ayyappan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -162740,8 +162725,8 @@
     "iast": "aiyenar",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Name of Aiyanar (Ayyanar), a popular Tamil folk/village deity, sometimes identified with Ayyappan",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -162749,15 +162734,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ayyappan - Wikipedia (notes connection to Tamil deity Ayyanar) (https://en.wikipedia.org/wiki/Ayyappan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -162765,8 +162749,8 @@
     "iast": "aiyyapa",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Ayyappan, the Hindu deity worshipped at Sabarimala Temple",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -162774,15 +162758,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ayyappan - Wikipedia (https://en.wikipedia.org/wiki/Ayyappan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -163077,7 +163060,7 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a Brahmin in the Bhagavata Purana who, despite a sinful life, achieved moksha by uttering the divine name; a story illustrating redemption",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -163085,15 +163068,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ajamila - Wikipedia (https://en.wikipedia.org/wiki/Ajamila)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -163239,7 +163221,7 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of the famous Ajanta Caves, a UNESCO World Heritage rock-cut Buddhist cave complex in Maharashtra",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -163247,23 +163229,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ajanta Caves - Wikipedia (https://en.wikipedia.org/wiki/Ajanta_Caves)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Ajanthan",
@@ -163392,65 +163366,85 @@
   },
   {
     "name": "Ajatasatru",
-    "iast": "ajatasatru",
-    "devanagari": "",
+    "iast": "ajātaśatru",
+    "devanagari": "अजातशत्रु",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'One without enemies'; name of a historical king of Magadha (son of Bimbisara), a major patron of early Buddhism",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "jāta",
+        "gloss": "born, arisen"
+      },
+      {
+        "part": "śatru",
+        "gloss": "enemy"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ajatashatru - World History Encyclopedia (https://www.worldhistory.org/Ajatashatru/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ajatashatru",
-    "iast": "ajatashatru",
-    "devanagari": "",
+    "iast": "ajātaśatru",
+    "devanagari": "अजातशत्रु",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'One without enemies'; name of a historical king of Magadha (son of Bimbisara), a major patron of early Buddhism",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "jāta",
+        "gloss": "born, arisen"
+      },
+      {
+        "part": "śatru",
+        "gloss": "enemy"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ajatashatru - World History Encyclopedia (https://www.worldhistory.org/Ajatashatru/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ajath",
-    "iast": "ajath",
-    "devanagari": "",
+    "iast": "ajātaśatru",
+    "devanagari": "अजातशत्रु",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "Likely truncated/variant form of Ajatashatru: 'one without enemies'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -163458,24 +163452,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ajatashatru - World History Encyclopedia (https://www.worldhistory.org/Ajatashatru/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ajatha",
-    "iast": "ajatha",
-    "devanagari": "",
+    "iast": "ajātaśatru",
+    "devanagari": "अजातशत्रु",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "Likely truncated/variant form of Ajatashatru: 'one without enemies'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -163483,15 +163476,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ajatashatru - World History Encyclopedia (https://www.worldhistory.org/Ajatashatru/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
