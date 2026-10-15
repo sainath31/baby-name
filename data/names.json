@@ -207652,27 +207652,31 @@
   },
   {
     "name": "Ashwina",
-    "iast": "ashwina",
-    "devanagari": "",
+    "iast": "aśvinī",
+    "devanagari": "अश्विना",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling related to the Ashvins/Ashwini nakshatra",
+    "components": [
+      {
+        "part": "aśvin",
+        "gloss": "the Ashvin twin gods"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashvin, Aśvin - wisdomlib (https://www.wisdomlib.org/definition/ashvin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -207984,11 +207988,11 @@
   },
   {
     "name": "Asish",
-    "iast": "asish",
-    "devanagari": "",
+    "iast": "āśis",
+    "devanagari": "आशीष",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Ashish: prayer, wish, blessing",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -207996,28 +208000,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashis, Āśis, Ashish - wisdomlib (https://www.wisdomlib.org/definition/ashis)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Asisha",
-    "iast": "asisha",
-    "devanagari": "",
+    "iast": "āśis",
+    "devanagari": "आशीष",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 2,
+    "meaning_en": "Variant spelling of Ashish: prayer, wish, blessing",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -208025,24 +208024,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashis, Āśis, Ashish - wisdomlib (https://www.wisdomlib.org/definition/ashis)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Asit",
-    "iast": "asit",
-    "devanagari": "",
+    "iast": "asita",
+    "devanagari": "असित",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "'Dark, dark-blue'; name of a renowned sage (Rishi Asita) and of one of Bharata's sons in the Natyashastra",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -208050,32 +208048,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Rishi Asita - Wikipedia (https://en.wikipedia.org/wiki/Rishi_Asita)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Asita",
     "iast": "asita",
-    "devanagari": "",
+    "devanagari": "असित",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "'Dark, dark-blue'; name of a renowned sage (Rishi Asita) and of one of Bharata's sons in the Natyashastra",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -208083,20 +208072,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Rishi Asita - Wikipedia (https://en.wikipedia.org/wiki/Rishi_Asita)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Asitvaran",
@@ -208240,11 +208224,11 @@
   },
   {
     "name": "Aslesha",
-    "iast": "aslesha",
-    "devanagari": "",
+    "iast": "āśleṣā",
+    "devanagari": "आश्लेषा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Ashlesha: 'the embrace', the ninth nakshatra associated with the Nagas",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -208252,23 +208236,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashlesha, Āśleṣā - wisdomlib (https://www.wisdomlib.org/definition/ashlesha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -208552,81 +208527,101 @@
   },
   {
     "name": "Asoka",
-    "iast": "asoka",
-    "devanagari": "",
+    "iast": "aśoka",
+    "devanagari": "अशोक",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Without sorrow'; name of the great Mauryan emperor, and of the Ashoka tree (Saraca asoca)",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "śoka",
+        "gloss": "sorrow, grief"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashoka the Great - New World Encyclopedia (https://www.newworldencyclopedia.org/entry/Ashoka_the_Great)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Asokan",
-    "iast": "asokan",
-    "devanagari": "",
+    "iast": "aśoka",
+    "devanagari": "அசோகன்",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil form of Asoka: 'without sorrow', also the name of the Mauryan emperor",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "śoka",
+        "gloss": "sorrow, grief"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashoka the Great - New World Encyclopedia (https://www.newworldencyclopedia.org/entry/Ashoka_the_Great)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Asoke",
-    "iast": "asoke",
-    "devanagari": "",
+    "iast": "aśoka",
+    "devanagari": "অশোক",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Bengali spelling of Asoka: 'without sorrow', the Mauryan emperor",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "śoka",
+        "gloss": "sorrow, grief"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashoka the Great - New World Encyclopedia (https://www.newworldencyclopedia.org/entry/Ashoka_the_Great)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -208706,11 +208701,11 @@
   },
   {
     "name": "Asrith",
-    "iast": "asrith",
-    "devanagari": "",
+    "iast": "āśrita",
+    "devanagari": "आश्रित",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Ashrith: supported, dependent, one who takes refuge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -208718,24 +208713,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashrita, Āśrita - wisdomlib (https://www.wisdomlib.org/definition/ashrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Asritha",
-    "iast": "asritha",
-    "devanagari": "",
+    "iast": "āśrita",
+    "devanagari": "आश्रित",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Ashritha: supported, dependent, one who takes refuge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -208743,24 +208737,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashrita, Āśrita - wisdomlib (https://www.wisdomlib.org/definition/ashrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Asseem",
-    "iast": "asseem",
-    "devanagari": "",
+    "iast": "asīma",
+    "devanagari": "असीम",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Aseem: limitless, boundless",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -208768,19 +208761,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Asima, Asīma, A-sima - wisdomlib (https://www.wisdomlib.org/definition/asima)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -208810,11 +208798,11 @@
   },
   {
     "name": "Astha",
-    "iast": "astha",
-    "devanagari": "",
+    "iast": "āsthā",
+    "devanagari": "आस्था",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Faith, belief, trust, devotion",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -208822,19 +208810,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Astha, Āsthā, Asthā - wisdomlib (https://www.wisdomlib.org/definition/astha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -208864,52 +208847,64 @@
   },
   {
     "name": "Astheya",
-    "iast": "astheya",
-    "devanagari": "",
+    "iast": "asteya",
+    "devanagari": "अस्तेय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Non-stealing'; the third of the five Yamas (ethical restraints) in Yoga philosophy",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "steya",
+        "gloss": "stealing"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Asteya (Non-stealing) - asivanayoga.com (https://asivanayoga.com/blogs/sanskrit/asteya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Asthik",
-    "iast": "asthik",
-    "devanagari": "",
+    "iast": "āstika",
+    "devanagari": "आस्थिक",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Likely phonetic variant of 'Aastik/Astika' (believer, theist)",
+    "components": [
+      {
+        "part": "āstika",
+        "gloss": "believer, theist"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Astika, Āstika, Āstīka - wisdomlib (https://de.wisdomlib.org/definition/astika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -208939,11 +208934,11 @@
   },
   {
     "name": "Astik",
-    "iast": "astik",
-    "devanagari": "",
+    "iast": "āstika",
+    "devanagari": "आस्तिक",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Believer, theist, orthodox; also the name of a sage who saved the Nagas from the Sarpa Satra in the Mahabharata",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -208951,41 +208946,44 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Astika, Āstika, Āstīka - wisdomlib (https://de.wisdomlib.org/definition/astika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Astika",
-    "iast": "astika",
-    "devanagari": "",
+    "iast": "āstika",
+    "devanagari": "आस्तिका",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form of Astik: believer, theist",
+    "components": [
+      {
+        "part": "āstika",
+        "gloss": "believer, theist"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Astika, Āstika, Āstīka - wisdomlib (https://de.wisdomlib.org/definition/astika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "boy"
+    "gender": "girl"
   },
   {
     "name": "Astikya",
