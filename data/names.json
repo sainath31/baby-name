@@ -198147,23 +198147,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arivu'(knowledge/wisdom)+'selvan'(wealth/prince)",
+    "components": [
+      {
+        "part": "arivu",
+        "gloss": "knowledge, wisdom (Tamil)"
+      },
+      {
+        "part": "selvan",
+        "gloss": "wealth, prince"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arivu - wisdomlib (https://www.wisdomlib.org/definition/arivu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -198407,11 +198415,11 @@
   },
   {
     "name": "Arjav",
-    "iast": "arjav",
-    "devanagari": "",
+    "iast": "ārjava",
+    "devanagari": "आर्जव",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Straightness, sincerity, honesty, rectitude",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -198419,15 +198427,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arjava, Ārjava - wisdomlib (https://www.wisdomlib.org/definition/arjava)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -198531,11 +198538,11 @@
   },
   {
     "name": "Arjun",
-    "iast": "arjun",
-    "devanagari": "",
+    "iast": "arjuna",
+    "devanagari": "अर्जुन",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "'Bright, white, silver'; name of the great hero of the Mahabharata and Bhagavad Gita, third of the five Pandava brothers, son of Indra and Kunti",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -198543,35 +198550,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arjuna - wisdomlib (https://de.wisdomlib.org/definition/arjuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -198680,11 +198666,11 @@
   },
   {
     "name": "Ark",
-    "iast": "ark",
-    "devanagari": "",
+    "iast": "arka",
+    "devanagari": "अर्क",
     "letter": "A",
-    "syllable_count": 1,
-    "meaning_en": null,
+    "syllable_count": 2,
+    "meaning_en": "The sun; also a plant (Calotropis) used in Shiva worship",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -198692,15 +198678,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arka, Ārka, Arkā - wisdomlib (https://www.wisdomlib.org/definition/arka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -199134,27 +199119,31 @@
   },
   {
     "name": "Arnavi",
-    "iast": "arnavi",
-    "devanagari": "",
+    "iast": "arṇavī",
+    "devanagari": "अर्णवी",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to 'arṇava', 'of the ocean'",
+    "components": [
+      {
+        "part": "arṇava",
+        "gloss": "ocean"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arnava, Arṇava - wisdomlib (https://www.wisdomlib.org/definition/arnava)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -199438,36 +199427,44 @@
   },
   {
     "name": "Arogyada",
-    "iast": "arogyada",
-    "devanagari": "",
+    "iast": "ārogyada",
+    "devanagari": "आरोग्यद",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Giver of health', compound of the confirmed 'ārogya'(health)+'da'(giver)",
+    "components": [
+      {
+        "part": "ārogya",
+        "gloss": "health"
+      },
+      {
+        "part": "da",
+        "gloss": "giver"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arogya, Ārogya - wisdomlib (https://www.wisdomlib.org/definition/arogya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Arohan",
-    "iast": "arohan",
-    "devanagari": "",
+    "iast": "āroha",
+    "devanagari": "आरोह",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Ascent, rising; the ascending scale in Indian classical music",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -199475,28 +199472,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aroha, Āroha - wisdomlib (https://www.wisdomlib.org/definition/aroha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Arohi",
-    "iast": "arohi",
-    "devanagari": "",
+    "iast": "āroha",
+    "devanagari": "आरोही",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Ascending; feminine form related to āroha (ascent, the ascending musical scale)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -199504,28 +199496,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Aroha, Āroha - wisdomlib (https://www.wisdomlib.org/definition/aroha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Arokya",
-    "iast": "arokya",
-    "devanagari": "",
+    "iast": "ārogya",
+    "devanagari": "ஆரோக்கிய",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Tamil form of Arogya: health, freedom from disease",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -199533,15 +199520,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arogya, Ārogya - wisdomlib (https://www.wisdomlib.org/definition/arogya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
