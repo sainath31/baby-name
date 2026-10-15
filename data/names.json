@@ -160432,11 +160432,11 @@
   },
   {
     "name": "Ahalad",
-    "iast": "ahalad",
-    "devanagari": "",
+    "iast": "āhlāda",
+    "devanagari": "आह्लाद",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling related to Aahlaad: joy, delight, pleasure",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -160444,40 +160444,43 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ahlada, Āhlāda - wisdomlib (https://www.wisdomlib.org/definition/ahlada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ahaladit",
-    "iast": "ahaladit",
-    "devanagari": "",
+    "iast": "āhlādita",
+    "devanagari": "आह्लादित",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Delighted, filled with joy",
+    "components": [
+      {
+        "part": "āhlāda",
+        "gloss": "joy, delight"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ahlada, Āhlāda - wisdomlib (https://www.wisdomlib.org/definition/ahlada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -160486,23 +160489,35 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 8,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'One who ends/pacifies Ahalya's curse'; an epithet of Rama, referring to his liberation of Ahalya from her stone curse in the Ramayana",
+    "components": [
+      {
+        "part": "ahalyā",
+        "gloss": "wife of sage Gautama"
+      },
+      {
+        "part": "śāpa",
+        "gloss": "curse"
+      },
+      {
+        "part": "śamana",
+        "gloss": "pacifying, ending"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ahalya - Wikipedia (https://en.wikipedia.org/wiki/Ahalya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -160564,52 +160579,68 @@
   },
   {
     "name": "Ahankaara",
-    "iast": "ahankaara",
-    "devanagari": "",
+    "iast": "ahaṅkāra",
+    "devanagari": "अहंकार",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Ego, self-identity, the 'I-maker'; a key term in Sankhya/Vedanta philosophy",
+    "components": [
+      {
+        "part": "aham",
+        "gloss": "I"
+      },
+      {
+        "part": "kāra",
+        "gloss": "maker"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ahamkara, Ahaṅkāra - wisdomlib (https://www.wisdomlib.org/definition/ahankara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Ahankar",
-    "iast": "ahankar",
-    "devanagari": "",
+    "iast": "ahaṅkāra",
+    "devanagari": "अहंकार",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Ahankaara: ego, self-identity",
+    "components": [
+      {
+        "part": "aham",
+        "gloss": "I"
+      },
+      {
+        "part": "kāra",
+        "gloss": "maker"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ahamkara, Ahaṅkāra - wisdomlib (https://www.wisdomlib.org/definition/ahankara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -161146,7 +161177,7 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Name of a serene morning raga in Hindustani classical music, blending the Bhairav family with the pastoral 'Ahir' tradition",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -161154,15 +161185,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Raag Ahir Bhairav - ragajunglism.org (https://ragajunglism.org/ragas/ahir-bhairav/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Ahiri",
@@ -161266,11 +161297,11 @@
   },
   {
     "name": "Ahlad",
-    "iast": "ahlad",
-    "devanagari": "",
+    "iast": "āhlāda",
+    "devanagari": "आह्लाद",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Aahlaad: joy, delight, pleasure",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -161278,15 +161309,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ahlada, Āhlāda - wisdomlib (https://www.wisdomlib.org/definition/ahlada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -161340,114 +161370,118 @@
   },
   {
     "name": "Ahladit",
-    "iast": "ahladit",
-    "devanagari": "",
+    "iast": "āhlādita",
+    "devanagari": "आह्लादित",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Delighted, filled with joy",
+    "components": [
+      {
+        "part": "āhlāda",
+        "gloss": "joy, delight"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ahlada, Āhlāda - wisdomlib (https://www.wisdomlib.org/definition/ahlada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ahladita",
-    "iast": "ahladita",
-    "devanagari": "",
+    "iast": "āhlādita",
+    "devanagari": "आह्लादित",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Delighted, filled with joy",
+    "components": [
+      {
+        "part": "āhlāda",
+        "gloss": "joy, delight"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ahlada, Āhlāda - wisdomlib (https://www.wisdomlib.org/definition/ahlada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Ahladith",
-    "iast": "ahladith",
-    "devanagari": "",
+    "iast": "āhlādita",
+    "devanagari": "आह्लादित",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Ahladit: delighted, filled with joy",
+    "components": [
+      {
+        "part": "āhlāda",
+        "gloss": "joy, delight"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ahlada, Āhlāda - wisdomlib (https://www.wisdomlib.org/definition/ahlada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ahladitha",
-    "iast": "ahladitha",
-    "devanagari": "",
+    "iast": "āhlādita",
+    "devanagari": "आह्लादित",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Ahladita: delighted, filled with joy",
+    "components": [
+      {
+        "part": "āhlāda",
+        "gloss": "joy, delight"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ahlada, Āhlāda - wisdomlib (https://www.wisdomlib.org/definition/ahlada)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -161529,7 +161563,7 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant related to 'Ahobilam', a sacred hill and group of Narasimha (Vishnu) temples in Andhra Pradesh, home to the Ahobila Matha",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -161537,15 +161571,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ahobila Matha - Wikipedia (https://en.wikipedia.org/wiki/Ahobila_Matha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
