@@ -202881,11 +202881,11 @@
   },
   {
     "name": "Arunthathy",
-    "iast": "arunthathy",
-    "devanagari": "",
+    "iast": "arundhatī",
+    "devanagari": "அருந்ததி",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Tamil spelling of Arundhati: wife of sage Vasishtha, identified with the star Alcor",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -202893,15 +202893,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arundhati (Hinduism) - Wikipedia (https://en.wikipedia.org/wiki/Arundhati_(Hinduism))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Arunthavan",
@@ -203087,11 +203087,11 @@
   },
   {
     "name": "Arushi",
-    "iast": "arushi",
-    "devanagari": "",
+    "iast": "āruṣī",
+    "devanagari": "आरुषी",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "'The dawn'; also the name of the mare/horses of Agni, Indra and Soma; and of a daughter of Manu in the Puranas",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -203099,27 +203099,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arushi, Āruṣī - wisdomlib (https://www.wisdomlib.org/definition/arushi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -203149,11 +203136,11 @@
   },
   {
     "name": "Arusi",
-    "iast": "arusi",
-    "devanagari": "",
+    "iast": "āruṣī",
+    "devanagari": "आरुषी",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Arushi: 'the dawn'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -203161,15 +203148,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arushi, Āruṣī - wisdomlib (https://www.wisdomlib.org/definition/arushi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -203178,23 +203164,32 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arul/arut'(grace)+'chelvi'(wealth/lady)",
+    "components": [
+      {
+        "part": "arul",
+        "gloss": "grace, blessing (Tamil)"
+      },
+      {
+        "part": "chelvi",
+        "gloss": "wealth, lady"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (Tamil naming conventions reference) (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Aruth",
@@ -203427,11 +203422,11 @@
   },
   {
     "name": "Arvinda",
-    "iast": "arvinda",
-    "devanagari": "",
+    "iast": "aravinda",
+    "devanagari": "अरविन्द",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Aravind: lotus",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -203439,44 +203434,44 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aravinda, Aravimda - wisdomlib (https://www.wisdomlib.org/definition/aravimda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Arvindaa",
-    "iast": "arvindaa",
-    "devanagari": "",
+    "iast": "aravindā",
+    "devanagari": "अरविन्दा",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Feminine variant of Aravind: lotus",
+    "components": [
+      {
+        "part": "aravinda",
+        "gloss": "lotus"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Aravinda, Aravimda - wisdomlib (https://www.wisdomlib.org/definition/aravimda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Arvindra",
@@ -203605,11 +203600,11 @@
   },
   {
     "name": "Arya",
-    "iast": "arya",
-    "devanagari": "",
+    "iast": "ārya",
+    "devanagari": "आर्य",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Noble, honourable, precious; also a name of the goddess Sarasvati",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -203617,47 +203612,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arya, Ārya, Āryā - wisdomlib (https://www.wisdomlib.org/definition/arya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Aryaa",
-    "iast": "aryaa",
-    "devanagari": "",
+    "iast": "āryā",
+    "devanagari": "आर्या",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "'Noble lady'; also a name of the goddess Sarasvati, and a Sanskrit poetic metre",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -203665,28 +203636,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arya, Ārya, Āryā - wisdomlib (https://www.wisdomlib.org/definition/arya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aryaan",
-    "iast": "aryaan",
-    "devanagari": "",
+    "iast": "ārya",
+    "devanagari": "आर्यन्",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Arya: noble, honourable",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -203694,15 +203660,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arya, Ārya, Āryā - wisdomlib (https://www.wisdomlib.org/definition/arya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -203814,11 +203779,11 @@
   },
   {
     "name": "Aryah",
-    "iast": "aryah",
-    "devanagari": "",
+    "iast": "āryā",
+    "devanagari": "आर्या",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Aryaa: 'noble lady'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -203826,15 +203791,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arya, Ārya, Āryā - wisdomlib (https://www.wisdomlib.org/definition/arya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Aryahi",
@@ -203925,11 +203890,11 @@
   },
   {
     "name": "Aryama",
-    "iast": "aryama",
-    "devanagari": "",
+    "iast": "aryaman",
+    "devanagari": "अर्यमन्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a Vedic solar deity, one of the twelve Adityas; also foremost among the Pitris (ancestors)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -203937,28 +203902,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Aryaman, Aryamā, Aryama - wisdomlib (https://www.wisdomlib.org/definition/aryaman)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Aryamaan",
-    "iast": "aryamaan",
-    "devanagari": "",
+    "iast": "aryaman",
+    "devanagari": "अर्यमन्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a Vedic solar deity, one of the twelve Adityas; also foremost among the Pitris (ancestors)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -203966,28 +203926,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aryaman, Aryamā, Aryama - wisdomlib (https://www.wisdomlib.org/definition/aryaman)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aryaman",
     "iast": "aryaman",
-    "devanagari": "",
+    "devanagari": "अर्यमन्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a Vedic solar deity, one of the twelve Adityas; also foremost among the Pitris (ancestors)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -203995,19 +203950,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aryaman, Aryamā, Aryama - wisdomlib (https://www.wisdomlib.org/definition/aryaman)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -204324,27 +204274,35 @@
   },
   {
     "name": "Asadharan",
-    "iast": "asadharan",
-    "devanagari": "",
+    "iast": "asādhāraṇa",
+    "devanagari": "असाधारण",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Special, uncommon, extraordinary, unique in its kind'",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "sādhāraṇa",
+        "gloss": "common, ordinary"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Asadharana, Asādhāraṇa - wisdomlib (https://de.wisdomlib.org/definition/asadharana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
