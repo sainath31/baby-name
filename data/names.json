@@ -194941,11 +194941,11 @@
   },
   {
     "name": "Aradhy",
-    "iast": "aradhy",
-    "devanagari": "",
+    "iast": "ārādhya",
+    "devanagari": "आराध्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Worthy of worship, venerable",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -194953,24 +194953,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aradhya, Ārādhya - wisdomlib (https://www.wisdomlib.org/definition/aradhya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aradhyaa",
-    "iast": "aradhyaa",
-    "devanagari": "",
+    "iast": "ārādhya",
+    "devanagari": "आराध्या",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Worthy of worship, venerable",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -194978,15 +194977,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aradhya, Ārādhya - wisdomlib (https://www.wisdomlib.org/definition/aradhya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -195016,11 +195014,11 @@
   },
   {
     "name": "Aradya",
-    "iast": "aradya",
-    "devanagari": "",
+    "iast": "ārādhya",
+    "devanagari": "आराध्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Aradhya: worthy of worship, venerable",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195028,15 +195026,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aradhya, Ārādhya - wisdomlib (https://www.wisdomlib.org/definition/aradhya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -195274,11 +195271,11 @@
   },
   {
     "name": "Aranav",
-    "iast": "aranav",
-    "devanagari": "",
+    "iast": "arṇava",
+    "devanagari": "अर्णव",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling related to Arnav: ocean, sea",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195286,15 +195283,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arnava, Arṇava - wisdomlib (https://www.wisdomlib.org/definition/arnava)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -195349,11 +195345,11 @@
   },
   {
     "name": "Aranya",
-    "iast": "aranya",
-    "devanagari": "",
+    "iast": "araṇya",
+    "devanagari": "अरण्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Forest, wilderness",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195361,72 +195357,73 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aranya, Araṇya - wisdomlib (https://www.wisdomlib.org/definition/aranya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Aranyak",
-    "iast": "aranyak",
-    "devanagari": "",
+    "iast": "āraṇyaka",
+    "devanagari": "आरण्यक",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Of the forest'; the Aranyakas, the third section of Vedic literature dealing with ritual meaning",
+    "components": [
+      {
+        "part": "araṇya",
+        "gloss": "forest"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aranyaka, Āraṇyaka, Araṇyaka - wisdomlib (https://www.wisdomlib.org/definition/aranyaka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aranyaka",
-    "iast": "aranyaka",
-    "devanagari": "",
+    "iast": "āraṇyaka",
+    "devanagari": "आरण्यक",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "The Aranyakas, the third section of Vedic literature, concerned with the meaning of ritual sacrifice",
+    "components": [
+      {
+        "part": "araṇya",
+        "gloss": "forest"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aranyaka, Āraṇyaka, Araṇyaka - wisdomlib (https://www.wisdomlib.org/definition/aranyaka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Araon",
@@ -195479,11 +195476,11 @@
   },
   {
     "name": "Arathi",
-    "iast": "arathi",
-    "devanagari": "",
+    "iast": "āratī",
+    "devanagari": "आरती",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Ritual of worship with lamps, waved before a deity",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195491,28 +195488,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arati, Arāti, Ārati - wisdomlib (https://de.wisdomlib.org/definition/arati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Arathy",
-    "iast": "arathy",
-    "devanagari": "",
+    "iast": "āratī",
+    "devanagari": "आरती",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Arati: ritual of worship with lamps",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195520,24 +195512,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arati, Arāti, Ārati - wisdomlib (https://de.wisdomlib.org/definition/arati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Arati",
-    "iast": "arati",
-    "devanagari": "",
+    "iast": "āratī",
+    "devanagari": "आरती",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Ritual of worship with lamps, waved before a deity",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195545,28 +195536,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arati, Arāti, Ārati - wisdomlib (https://de.wisdomlib.org/definition/arati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aratrika",
-    "iast": "aratrika",
-    "devanagari": "",
+    "iast": "ārātrika",
+    "devanagari": "आरात्रिक",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "The lamp or vessel waved before an idol in worship; the aarti ceremony itself",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195574,15 +195560,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aratrika, Ārātrika - wisdomlib (https://de.wisdomlib.org/definition/aratrika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -195652,7 +195637,7 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of Iravan/Aravan, son of Arjuna and the Naga princess Ulupi in the Mahabharata, celebrated for his heroic self-sacrifice before the Kurukshetra War; subject of the Koovagam festival tradition",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195660,19 +195645,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Iravan - Wikipedia (https://en.wikipedia.org/wiki/Iravan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -195702,11 +195682,11 @@
   },
   {
     "name": "Aravind",
-    "iast": "aravind",
-    "devanagari": "",
+    "iast": "aravinda",
+    "devanagari": "अरविन्द",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Lotus; also the name of a Sanskrit metre",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195714,36 +195694,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aravinda, Aravimda - wisdomlib (https://www.wisdomlib.org/definition/aravimda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aravindan",
-    "iast": "aravindan",
-    "devanagari": "",
+    "iast": "aravinda",
+    "devanagari": "அரவிந்தன்",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Tamil form of Aravind: lotus",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195751,19 +195718,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aravinda, Aravimda - wisdomlib (https://www.wisdomlib.org/definition/aravimda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -195793,11 +195755,11 @@
   },
   {
     "name": "Aravindh",
-    "iast": "aravindh",
-    "devanagari": "",
+    "iast": "aravinda",
+    "devanagari": "अरविन्द",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Aravind: lotus",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195805,24 +195767,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aravinda, Aravimda - wisdomlib (https://www.wisdomlib.org/definition/aravimda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aravindhan",
-    "iast": "aravindhan",
-    "devanagari": "",
+    "iast": "aravinda",
+    "devanagari": "அரவிந்தன்",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Tamil form of Aravind: lotus",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195830,24 +195791,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aravinda, Aravimda - wisdomlib (https://www.wisdomlib.org/definition/aravimda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aravinth",
-    "iast": "aravinth",
-    "devanagari": "",
+    "iast": "aravinda",
+    "devanagari": "அரவிந்த்",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Aravind: lotus",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195855,24 +195815,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aravinda, Aravimda - wisdomlib (https://www.wisdomlib.org/definition/aravimda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Arawinda",
-    "iast": "arawinda",
-    "devanagari": "",
+    "iast": "aravinda",
+    "devanagari": "अरविन्द",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Aravind: lotus",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -195880,15 +195839,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aravinda, Aravimda - wisdomlib (https://www.wisdomlib.org/definition/aravimda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -195996,11 +195954,11 @@
   },
   {
     "name": "Archan",
-    "iast": "archan",
-    "devanagari": "",
+    "iast": "arcana",
+    "devanagari": "अर्चन",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Worship, the procedures for worshipping a deity in a temple",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -196008,32 +195966,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arcana, Arcanā - wisdomlib (https://www.wisdomlib.org/definition/arcana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Archanaa",
-    "iast": "archanaa",
-    "devanagari": "",
+    "iast": "arcanā",
+    "devanagari": "अर्चना",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Worship, adoration, prayerful offering",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -196041,15 +195990,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arcana, Arcanā - wisdomlib (https://www.wisdomlib.org/definition/arcana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Archat",
@@ -196182,11 +196131,11 @@
   },
   {
     "name": "Archish",
-    "iast": "archish",
-    "devanagari": "",
+    "iast": "arcis",
+    "devanagari": "अर्चिस्",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Ray of light, flame; lustre",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -196194,148 +196143,159 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arcis, Arci, Arcin - wisdomlib (https://www.wisdomlib.org/definition/arcis)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Archisha",
-    "iast": "archisha",
-    "devanagari": "",
+    "iast": "arciṣā",
+    "devanagari": "अर्चिषा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant related to Archish: ray of light, flame, lustre",
+    "components": [
+      {
+        "part": "arcis",
+        "gloss": "flame, ray of light"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arcis, Arci, Arcin - wisdomlib (https://www.wisdomlib.org/definition/arcis)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Archishaa",
-    "iast": "archishaa",
-    "devanagari": "",
+    "iast": "arciṣā",
+    "devanagari": "अर्चिषा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Archisha: ray of light, flame, lustre",
+    "components": [
+      {
+        "part": "arcis",
+        "gloss": "flame, ray of light"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arcis, Arci, Arcin - wisdomlib (https://www.wisdomlib.org/definition/arcis)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Archishman",
-    "iast": "archishman",
-    "devanagari": "",
+    "iast": "arciṣmat",
+    "devanagari": "अर्चिष्मत्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Radiant, flaming, full of light'",
+    "components": [
+      {
+        "part": "arcis",
+        "gloss": "flame, ray of light"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arcishmat, Arciṣmat - wisdomlib (https://de.wisdomlib.org/definition/arcishmat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Archishmathi",
-    "iast": "archishmathi",
-    "devanagari": "",
+    "iast": "arciṣmatī",
+    "devanagari": "अर्चिष्मती",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form of Archishman: 'radiant, flaming, full of light'",
+    "components": [
+      {
+        "part": "arcis",
+        "gloss": "flame, ray of light"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arcishmat, Arciṣmat - wisdomlib (https://de.wisdomlib.org/definition/arcishmat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Archisman",
-    "iast": "archisman",
-    "devanagari": "",
+    "iast": "arciṣmat",
+    "devanagari": "अर्चिष्मत्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Radiant, flaming, full of light'",
+    "components": [
+      {
+        "part": "arcis",
+        "gloss": "flame, ray of light"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arcishmat, Arciṣmat - wisdomlib (https://de.wisdomlib.org/definition/arcishmat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -196390,11 +196350,11 @@
   },
   {
     "name": "Archna",
-    "iast": "archna",
-    "devanagari": "",
+    "iast": "arcanā",
+    "devanagari": "अर्चना",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Archana: worship, adoration, prayerful offering",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -196402,19 +196362,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arcana, Arcanā - wisdomlib (https://www.wisdomlib.org/definition/arcana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -196477,11 +196432,11 @@
   },
   {
     "name": "Ardra",
-    "iast": "ardra",
-    "devanagari": "",
+    "iast": "ārdrā",
+    "devanagari": "आर्द्रा",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "'Moist, green'; name of a nakshatra (lunar asterism) associated with Rudra",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -196489,19 +196444,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Ardra, Ārdrā, Ārdra - wisdomlib (https://www.wisdomlib.org/definition/ardra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
