@@ -418479,27 +418479,31 @@
   },
   {
     "name": "Jeyanthi",
-    "iast": "jeyanthi",
-    "devanagari": "",
+    "iast": "jayantī",
+    "devanagari": "जयन्ती",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Tamil-transliterated variant of Jayanti, 'victorious one', also a term for anniversary/birth celebration",
+    "components": [
+      {
+        "part": "jayantī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jayanti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jayanti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -418578,52 +418582,60 @@
   },
   {
     "name": "Jeyaraj",
-    "iast": "jeyaraj",
-    "devanagari": "",
+    "iast": "jayarāja",
+    "devanagari": "जयराज",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'King of victory'; a traditional devotional given name",
+    "components": [
+      {
+        "part": "jaya (victory) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jairaja - wisdomlib.org (https://www.wisdomlib.org/definition/jayaraja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jeyaram",
-    "iast": "jeyaram",
-    "devanagari": "",
+    "iast": "jayarāma",
+    "devanagari": "जयराम",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Compound 'jai (victory) + Ram', a common devotional given name",
+    "components": [
+      {
+        "part": "jaya (victory) + rāma",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jairam - wisdomlib.org (https://www.wisdomlib.org/definition/jayarama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -418831,52 +418843,60 @@
   },
   {
     "name": "Jhanak",
-    "iast": "jhanak",
-    "devanagari": "",
+    "iast": "jhanaka",
+    "devanagari": "झनक",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Jingling/tinkling sound' (as of anklets or bells); an onomatopoeic Hindi word used as a given name",
+    "components": [
+      {
+        "part": "jhanaka (jingling sound)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jhanaka - wisdomlib.org (https://www.wisdomlib.org/definition/jhanak)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jhanavi",
-    "iast": "jhanavi",
-    "devanagari": "",
+    "iast": "jāhnavī",
+    "devanagari": "जाह्नवी",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant spelling of Jahnavi, epithet of the river Ganga",
+    "components": [
+      {
+        "part": "jāhnavī (Ganga)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jahnavi - wisdomlib.org (epithet of Ganga) (https://www.wisdomlib.org/definition/jahnavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -419035,31 +419055,31 @@
   },
   {
     "name": "Jheel",
-    "iast": "jheel",
-    "devanagari": "",
+    "iast": "jhīla",
+    "devanagari": "झील",
     "letter": "J",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Hindi word meaning 'lake'",
+    "components": [
+      {
+        "part": "jhīla (lake)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jhil - wisdomlib.org (https://www.wisdomlib.org/definition/jhil)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -419114,27 +419134,31 @@
   },
   {
     "name": "Jhil",
-    "iast": "jhil",
-    "devanagari": "",
+    "iast": "jhīla",
+    "devanagari": "झील",
     "letter": "J",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Hindi word meaning 'lake'",
+    "components": [
+      {
+        "part": "jhīla (lake)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "jhil - wisdomlib.org (https://www.wisdomlib.org/definition/jhil)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -419639,27 +419663,31 @@
   },
   {
     "name": "Jigeesha",
-    "iast": "jigeesha",
-    "devanagari": "",
+    "iast": "jigīṣā",
+    "devanagari": "जिगीषा",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Desire to conquer/win', a real Sanskrit term denoting ambition for victory",
+    "components": [
+      {
+        "part": "jigīṣā (desire to conquer, from jaya)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jigishu/jigisha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jigishu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -419789,31 +419817,31 @@
   },
   {
     "name": "Jigisha",
-    "iast": "jigisha",
-    "devanagari": "",
+    "iast": "jigīṣā",
+    "devanagari": "जिगीषा",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Desire to conquer/win', a real Sanskrit term denoting ambition for victory",
+    "components": [
+      {
+        "part": "jigīṣā (desire to conquer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "jigishu/jigisha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jigishu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -419843,56 +419871,60 @@
   },
   {
     "name": "Jignasa",
-    "iast": "jignasa",
-    "devanagari": "",
+    "iast": "jijñāsā",
+    "devanagari": "जिज्ञासा",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Curiosity, desire to know, inquiry'; a term used philosophically for the inquiry into truth (e.g. Brahma Jijnasa)",
+    "components": [
+      {
+        "part": "jijñāsā (curiosity/inquiry)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "jijnasa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jijnasa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jignasha",
-    "iast": "jignasha",
-    "devanagari": "",
+    "iast": "jijñāsā",
+    "devanagari": "जिज्ञासा",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jignasa, 'curiosity, desire to know'",
+    "components": [
+      {
+        "part": "jijñāsā (curiosity)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jijnasa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jijnasa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -420001,60 +420033,60 @@
   },
   {
     "name": "Jigyasa",
-    "iast": "jigyasa",
-    "devanagari": "",
+    "iast": "jijñāsā",
+    "devanagari": "जिज्ञासा",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Curiosity, desire to know, inquiry'",
+    "components": [
+      {
+        "part": "jijñāsā (curiosity/inquiry)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jijnasa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jijnasa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jigyasha",
-    "iast": "jigyasha",
-    "devanagari": "",
+    "iast": "jijñāsā",
+    "devanagari": "जिज्ञासा",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jigyasa, 'curiosity, desire to know'",
+    "components": [
+      {
+        "part": "jijñāsā (curiosity)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jijnasa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jijnasa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
