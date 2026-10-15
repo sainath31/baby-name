@@ -199685,11 +199685,11 @@
   },
   {
     "name": "Arpana",
-    "iast": "arpana",
-    "devanagari": "",
+    "iast": "arpaṇa",
+    "devanagari": "अर्पण",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Offering, presentation, dedication",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -199697,23 +199697,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Brahmarpana, Brahmārpaṇa - wisdomlib (https://de.wisdomlib.org/definition/brahmarpana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -199830,23 +199821,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arputham'(miracle)+'nathan'(lord), referring to the 'miraculous lord' epithet used for deities like Narayana",
+    "components": [
+      {
+        "part": "arputham",
+        "gloss": "miracle (Tamil)"
+      },
+      {
+        "part": "nāthan",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Arputakamam - wisdomlib (confirms arputham/miracle root in Tamil religious usage) (https://de.wisdomlib.org/definition/arputakamam)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -200003,11 +200002,11 @@
   },
   {
     "name": "Arsha",
-    "iast": "arsha",
-    "devanagari": "",
+    "iast": "ārṣa",
+    "devanagari": "आर्ष",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Relating to or derived from the Rishis (Vedic sages); archaic, sage-like",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -200015,20 +200014,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arshas, Arśa, Ārṣa - wisdomlib (https://de.wisdomlib.org/definition/arshas)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Arshad",
@@ -200161,32 +200155,32 @@
   },
   {
     "name": "Arsheya",
-    "iast": "arsheya",
-    "devanagari": "",
+    "iast": "ārṣeya",
+    "devanagari": "आर्षेय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Relating to the Rishis (Vedic sages); descended from a particular sage/lineage",
+    "components": [
+      {
+        "part": "ārṣa",
+        "gloss": "relating to the rishis"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Arshas, Arśa, Ārṣa - wisdomlib (https://de.wisdomlib.org/definition/arshas)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Arshi",
@@ -200527,11 +200521,11 @@
   },
   {
     "name": "Arth",
-    "iast": "arth",
-    "devanagari": "",
+    "iast": "artha",
+    "devanagari": "अर्थ",
     "letter": "A",
-    "syllable_count": 1,
-    "meaning_en": null,
+    "syllable_count": 2,
+    "meaning_en": "Meaning, purpose, wealth; one of the four purusharthas (aims of human life) along with dharma, kama, and moksha",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -200539,24 +200533,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Artha - asivanayoga.com (https://asivanayoga.com/blogs/sanskrit/artha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Artha",
     "iast": "artha",
-    "devanagari": "",
+    "devanagari": "अर्थ",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Meaning, purpose, wealth; one of the four purusharthas (aims of human life) along with dharma, kama, and moksha",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -200564,28 +200557,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Artha - asivanayoga.com (https://asivanayoga.com/blogs/sanskrit/artha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Artham",
-    "iast": "artham",
-    "devanagari": "",
+    "iast": "artha",
+    "devanagari": "अर्थम्",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Artha: meaning, purpose, wealth",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -200593,15 +200581,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Artha - asivanayoga.com (https://asivanayoga.com/blogs/sanskrit/artha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -200917,11 +200904,11 @@
   },
   {
     "name": "Arti",
-    "iast": "arti",
-    "devanagari": "",
+    "iast": "āratī",
+    "devanagari": "आरती",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Ritual of worship with lamps, waved before a deity",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -200929,15 +200916,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arati, Arāti, Ārati - wisdomlib (https://de.wisdomlib.org/definition/arati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -201017,11 +201003,11 @@
   },
   {
     "name": "Arudhra",
-    "iast": "arudhra",
-    "devanagari": "",
+    "iast": "ārdrā",
+    "devanagari": "आर्द्रा",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 2,
+    "meaning_en": "Variant spelling of Ardra: 'moist, green', the nakshatra associated with Rudra",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -201029,16 +201015,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ardra, Ārdrā, Ārdra - wisdomlib (https://www.wisdomlib.org/definition/ardra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "boy"
+    "gender": "girl"
   },
   {
     "name": "Aruj",
@@ -201125,11 +201110,11 @@
   },
   {
     "name": "Arujun",
-    "iast": "arujun",
-    "devanagari": "",
+    "iast": "arjuna",
+    "devanagari": "अर्जुन",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Arjuna: 'bright, white', the Mahabharata hero",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -201137,15 +201122,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arjuna - wisdomlib (https://de.wisdomlib.org/definition/arjuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -201179,24 +201163,28 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil word 'arul' (grace, divine blessing) with masculine suffix",
+    "components": [
+      {
+        "part": "arul",
+        "gloss": "grace, blessing (Tamil)"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (Tamil naming conventions reference) (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Arulappan",
