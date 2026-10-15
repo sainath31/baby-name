@@ -174814,10 +174814,10 @@
   {
     "name": "Amla",
     "iast": "amla",
-    "devanagari": "",
+    "devanagari": "अम्ल",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Sour-tasting; also 'amla rasa', the sour taste in Ayurveda",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -174825,28 +174825,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amla, Amlā, Āmlā - wisdomlib (https://www.wisdomlib.org/definition/amla)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Amlan",
-    "iast": "amlan",
-    "devanagari": "",
+    "iast": "amlāna",
+    "devanagari": "अम्लान",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Unfaded, unwithered, fresh, bright",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -174854,23 +174849,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amlana, Amlāna - wisdomlib (https://www.wisdomlib.org/definition/amlana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -174928,31 +174914,31 @@
   },
   {
     "name": "Amlika",
-    "iast": "amlika",
-    "devanagari": "",
+    "iast": "āmlikā",
+    "devanagari": "आम्लिका",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Tamarind'; a sour-tasting fruit (related to 'amla')",
+    "components": [
+      {
+        "part": "amla",
+        "gloss": "sour"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amlika, Amlikā, Āmlikā - wisdomlib (https://www.wisdomlib.org/definition/amlika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -175010,11 +174996,11 @@
   },
   {
     "name": "Amod",
-    "iast": "amod",
-    "devanagari": "",
+    "iast": "āmoda",
+    "devanagari": "आमोद",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Fragrance (of a flower); joy, delight",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -175022,36 +175008,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amoda, Āmoda - wisdomlib (https://www.wisdomlib.org/definition/amoda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Amoda",
-    "iast": "amoda",
-    "devanagari": "",
+    "iast": "āmoda",
+    "devanagari": "आमोद",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Fragrance (of a flower); joy, delight",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -175059,28 +175032,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amoda, Āmoda - wisdomlib (https://www.wisdomlib.org/definition/amoda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Amodh",
-    "iast": "amodh",
-    "devanagari": "",
+    "iast": "āmoda",
+    "devanagari": "आमोद",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Amod: fragrance, joy, delight",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -175088,15 +175056,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Amoda, Āmoda - wisdomlib (https://www.wisdomlib.org/definition/amoda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -175184,11 +175151,11 @@
   },
   {
     "name": "Amogh",
-    "iast": "amogh",
-    "devanagari": "",
+    "iast": "amogha",
+    "devanagari": "अमोघ",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Not erring, not failing, unfailing, infallible, fruitful",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -175196,40 +175163,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amogha, Amoghā - wisdomlib (https://de.wisdomlib.org/definition/amogha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Amoghah",
-    "iast": "amoghah",
-    "devanagari": "",
+    "iast": "amogha",
+    "devanagari": "अमोघ",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Amogh: unfailing, infallible, fruitful",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -175237,15 +175187,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Amogha, Amoghā - wisdomlib (https://de.wisdomlib.org/definition/amogha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -175631,11 +175580,11 @@
   },
   {
     "name": "Amrapali",
-    "iast": "amrapali",
-    "devanagari": "",
+    "iast": "āmrapālī",
+    "devanagari": "आम्रपाली",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Name of a historical courtesan of Vaishali who became a disciple of the Buddha, mentioned in the Buddhacarita",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -175643,19 +175592,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amrapali, Āmrapāli, Āmrapālī - wisdomlib (https://de.wisdomlib.org/definition/amrapali)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -175758,11 +175702,11 @@
   },
   {
     "name": "Amreeta",
-    "iast": "amreeta",
-    "devanagari": "",
+    "iast": "amṛtā",
+    "devanagari": "अमृता",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Amrita: nectar of immortality",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -175770,15 +175714,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amrita - wisdomlib (https://www.wisdomlib.org/definition/amrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Amreetah",
@@ -176027,11 +175971,11 @@
   },
   {
     "name": "Amrita",
-    "iast": "amrita",
-    "devanagari": "",
+    "iast": "amṛta",
+    "devanagari": "अमृत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Nectar of immortality, ambrosia; associated with the highest bliss and the drink of the devas",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -176039,36 +175983,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Amrita - wisdomlib (https://www.wisdomlib.org/definition/amrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Amritah",
-    "iast": "amritah",
-    "devanagari": "",
+    "iast": "amṛta",
+    "devanagari": "अमृत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Amrita: nectar of immortality",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -176076,15 +176007,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amrita - wisdomlib (https://www.wisdomlib.org/definition/amrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Amritalal",
