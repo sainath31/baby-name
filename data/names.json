@@ -422295,35 +422295,31 @@
   },
   {
     "name": "Jiva",
-    "iast": "jiva",
-    "devanagari": "",
+    "iast": "jīva",
+    "devanagari": "जीव",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Living being, soul, life'; a significant philosophical term in Hindu and Jain thought",
+    "components": [
+      {
+        "part": "jīva (living being/soul)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jiva - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jiva)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -422439,68 +422435,60 @@
   },
   {
     "name": "Jivan",
-    "iast": "jivan",
-    "devanagari": "",
+    "iast": "jīvana",
+    "devanagari": "जीवन",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Life, livelihood, vitality'",
+    "components": [
+      {
+        "part": "jīvana (life)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jivana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jivana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jivana",
-    "iast": "jivana",
-    "devanagari": "",
+    "iast": "jīvana",
+    "devanagari": "जीवन",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Life, livelihood, vitality'",
+    "components": [
+      {
+        "part": "jīvana (life)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jivana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jivana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -422779,39 +422767,31 @@
   },
   {
     "name": "Jivika",
-    "iast": "jivika",
-    "devanagari": "",
+    "iast": "jīvikā",
+    "devanagari": "जीविका",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Livelihood, means of living, sustenance'",
+    "components": [
+      {
+        "part": "jīvikā (livelihood)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jivika - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jivika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -422899,52 +422879,60 @@
   },
   {
     "name": "Jivisha",
-    "iast": "jivisha",
-    "devanagari": "",
+    "iast": "jīviṣā",
+    "devanagari": "जीविषा",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Desire to live, will to live'; a real Sanskrit term (desiderative of jiv, to live)",
+    "components": [
+      {
+        "part": "jīviṣā (desire to live)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "jivisha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jivisha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jivita",
-    "iast": "jivita",
-    "devanagari": "",
+    "iast": "jīvitā",
+    "devanagari": "जीविता",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Living, alive; life' (feminine past participle of jiv, to live)",
+    "components": [
+      {
+        "part": "jīvita (living/life)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jivita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jivita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -423094,27 +423082,31 @@
   },
   {
     "name": "Jiwan",
-    "iast": "jiwan",
-    "devanagari": "",
+    "iast": "jīvana",
+    "devanagari": "जीवन",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular (Punjabi) spelling of Jivan, 'life'",
+    "components": [
+      {
+        "part": "jīvana (life)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jivana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jivana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -423294,52 +423286,60 @@
   },
   {
     "name": "Jnaandeva",
-    "iast": "jnaandeva",
-    "devanagari": "",
+    "iast": "jñānadeva",
+    "devanagari": "ज्ञानदेव",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Jnanadeva/Jnaneshwar, the revered 13th-century Marathi saint-poet (also known as Dnyandev)",
+    "components": [
+      {
+        "part": "jñāna (knowledge) + deva (divine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jnaneshwar - Wikipedia (also known as Dnyandev) (https://en.wikipedia.org/wiki/Jnaneshwar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jnana",
-    "iast": "jnana",
-    "devanagari": "",
+    "iast": "jñāna",
+    "devanagari": "ज्ञान",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Knowledge, wisdom, spiritual insight'; a foundational concept in Hindu philosophy (jnana yoga, the path of knowledge)",
+    "components": [
+      {
+        "part": "jñāna (knowledge)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jnana - Wikipedia (https://en.wikipedia.org/wiki/Jnana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -423527,35 +423527,31 @@
   },
   {
     "name": "Jnyaneshwar",
-    "iast": "jnyaneshwar",
-    "devanagari": "",
+    "iast": "jñāneśvara",
+    "devanagari": "ज्ञानेश्वर",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of knowledge'; the revered 13th-century Marathi saint-poet Jnaneshwar",
+    "components": [
+      {
+        "part": "jñāna (knowledge) + īśvara (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jnaneshwar - Wikipedia (https://en.wikipedia.org/wiki/Jnaneshwar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -423659,27 +423655,31 @@
   },
   {
     "name": "Jodha",
-    "iast": "jodha",
+    "iast": "jodhā",
     "devanagari": "",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name associated with Rao Jodha, founder of Jodhpur, and the legendary Rajput queen Jodhaa (popularized by the film 'Jodhaa Akbar'); related to 'yodha' (warrior)",
+    "components": [
+      {
+        "part": "yodha (warrior)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jodhpur - Wikipedia (founded by Rao Jodha) (https://en.wikipedia.org/wiki/Jodhpur)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -423862,147 +423862,147 @@
   },
   {
     "name": "Jogendra",
-    "iast": "jogendra",
-    "devanagari": "",
+    "iast": "yogendra",
+    "devanagari": "योगेन्द्र",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of yoga/yogis'",
+    "components": [
+      {
+        "part": "yoga (union/discipline) + indra (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "yogendra - wisdomlib.org (https://www.wisdomlib.org/definition/yogendra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jogesh",
-    "iast": "jogesh",
-    "devanagari": "",
+    "iast": "yogeśa",
+    "devanagari": "योगेश",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Lord of yoga', an epithet of Shiva/Krishna as the supreme master of yoga",
+    "components": [
+      {
+        "part": "yoga + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "yogesha - wisdomlib.org (https://www.wisdomlib.org/definition/yogesha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jogesha",
-    "iast": "jogesha",
-    "devanagari": "",
+    "iast": "yogeśa",
+    "devanagari": "योगेश",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of yoga', an epithet of Shiva/Krishna",
+    "components": [
+      {
+        "part": "yoga + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "yogesha - wisdomlib.org (https://www.wisdomlib.org/definition/yogesha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Joginder",
-    "iast": "joginder",
-    "devanagari": "",
+    "iast": "yogendra",
+    "devanagari": "योगेन्द्र",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling of Yogendra, 'lord of yoga/yogis'",
+    "components": [
+      {
+        "part": "yoga + indra (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "yogendra - wisdomlib.org (https://www.wisdomlib.org/definition/yogendra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jogindra",
-    "iast": "jogindra",
-    "devanagari": "",
+    "iast": "yogendra",
+    "devanagari": "योगेन्द्र",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Yogendra, 'lord of yoga/yogis'",
+    "components": [
+      {
+        "part": "yoga + indra (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "yogendra - wisdomlib.org (https://www.wisdomlib.org/definition/yogendra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
