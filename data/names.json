@@ -426749,27 +426749,31 @@
   },
   {
     "name": "Joydev",
-    "iast": "joydev",
-    "devanagari": "",
+    "iast": "jayadeva",
+    "devanagari": "जयदेव",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Bengali phonetic spelling of Jayadeva, the renowned 12th-century poet, author of the Gita Govinda",
+    "components": [
+      {
+        "part": "jaya (victory) + deva (god)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jayadeva - Wikipedia (https://en.wikipedia.org/wiki/Jayadeva)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Joye",
@@ -426823,52 +426827,60 @@
   },
   {
     "name": "Joyjeet",
-    "iast": "joyjeet",
-    "devanagari": "",
+    "iast": "jayajit",
+    "devanagari": "जयजित्",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Bengali phonetic spelling of Jayajit/Jagajeet, 'conqueror of victory/world'",
+    "components": [
+      {
+        "part": "jaya (victory) + jit (conqueror)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jagajjit - wisdomlib.org (https://www.wisdomlib.org/definition/jagajjit)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Joyshree",
-    "iast": "joyshree",
-    "devanagari": "",
+    "iast": "jayaśrī",
+    "devanagari": "जयश्री",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Bengali phonetic spelling of Jayashree, 'glory of victory'",
+    "components": [
+      {
+        "part": "jaya (victory) + śrī (glory)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jayashri - wisdomlib.org (https://www.wisdomlib.org/definition/jayashri)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -427131,60 +427143,60 @@
   },
   {
     "name": "Jugal",
-    "iast": "jugal",
-    "devanagari": "",
+    "iast": "jugala",
+    "devanagari": "जुगल",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Pair, couple', especially referring to the divine pair Radha-Krishna (Jugal Jodi) in devotional contexts",
+    "components": [
+      {
+        "part": "jugala (pair/couple)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jugala - wisdomlib.org (https://www.wisdomlib.org/definition/jugala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jugala",
     "iast": "jugala",
-    "devanagari": "",
+    "devanagari": "जुगल",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Pair, couple', referring to the divine pair Radha-Krishna in devotional contexts",
+    "components": [
+      {
+        "part": "jugala (pair/couple)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jugala - wisdomlib.org (https://www.wisdomlib.org/definition/jugala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
