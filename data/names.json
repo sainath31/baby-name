@@ -206243,32 +206243,36 @@
   },
   {
     "name": "Ashoka",
-    "iast": "ashoka",
-    "devanagari": "",
+    "iast": "aśoka",
+    "devanagari": "अशोक",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Without sorrow'; name of the great Mauryan emperor, and of the Ashoka tree (Saraca asoca)",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "śoka",
+        "gloss": "sorrow, grief"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashoka the Great - New World Encyclopedia (https://www.newworldencyclopedia.org/entry/Ashoka_the_Great)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Ashoka Lakshmi",
@@ -206297,31 +206301,35 @@
   },
   {
     "name": "Ashokan",
-    "iast": "ashokan",
-    "devanagari": "",
+    "iast": "aśoka",
+    "devanagari": "அசோகன்",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil form of Ashoka: 'without sorrow', also the name of the Mauryan emperor",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "śoka",
+        "gloss": "sorrow, grief"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashoka the Great - New World Encyclopedia (https://www.newworldencyclopedia.org/entry/Ashoka_the_Great)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -206451,11 +206459,11 @@
   },
   {
     "name": "Ashray",
-    "iast": "ashray",
-    "devanagari": "",
+    "iast": "āśraya",
+    "devanagari": "आश्रय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Shelter, refuge, support, dependence",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -206463,23 +206471,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashraya, Āśraya - wisdomlib (https://www.wisdomlib.org/definition/ashraya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -206559,11 +206558,11 @@
   },
   {
     "name": "Ashrit",
-    "iast": "ashrit",
-    "devanagari": "",
+    "iast": "āśrita",
+    "devanagari": "आश्रित",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Supported, dependent, one who takes refuge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -206571,24 +206570,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashrita, Āśrita - wisdomlib (https://www.wisdomlib.org/definition/ashrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ashrita",
-    "iast": "ashrita",
-    "devanagari": "",
+    "iast": "āśrita",
+    "devanagari": "आश्रित",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Supported, dependent, one who takes refuge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -206596,24 +206594,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashrita, Āśrita - wisdomlib (https://www.wisdomlib.org/definition/ashrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Ashrith",
-    "iast": "ashrith",
-    "devanagari": "",
+    "iast": "āśrita",
+    "devanagari": "आश्रित",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Supported, dependent, one who takes refuge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -206621,32 +206618,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashrita, Āśrita - wisdomlib (https://www.wisdomlib.org/definition/ashrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ashritha",
-    "iast": "ashritha",
-    "devanagari": "",
+    "iast": "āśrita",
+    "devanagari": "आश्रित",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Supported, dependent, one who takes refuge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -206654,19 +206642,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashrita, Āśrita - wisdomlib (https://www.wisdomlib.org/definition/ashrita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -206721,11 +206704,11 @@
   },
   {
     "name": "Ashslesha",
-    "iast": "ashslesha",
-    "devanagari": "",
+    "iast": "āśleṣā",
+    "devanagari": "आश्लेषा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Ashlesha: 'the embrace', the ninth nakshatra associated with the Nagas",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -206733,15 +206716,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashlesha, Āśleṣā - wisdomlib (https://www.wisdomlib.org/definition/ashlesha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -206821,27 +206803,35 @@
   },
   {
     "name": "Ashuthosh",
-    "iast": "ashuthosh",
-    "devanagari": "",
+    "iast": "āśutoṣa",
+    "devanagari": "आशुतोष",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Aashutosh: 'easily pleased', a well-known epithet of Shiva",
+    "components": [
+      {
+        "part": "āśu",
+        "gloss": "quick"
+      },
+      {
+        "part": "toṣa",
+        "gloss": "satisfaction, pleasure"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashutosha, Āśutōṣa - wisdomlib (https://de.wisdomlib.org/definition/ashutosha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -206896,31 +206886,36 @@
   },
   {
     "name": "Ashvaghosha",
-    "iast": "ashvaghosha",
-    "devanagari": "",
+    "iast": "aśvaghoṣa",
+    "devanagari": "अश्वघोष",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Having a horse-voice'; name of a renowned Buddhist philosopher, dramatist, and poet, considered the greatest Indian poet prior to Kalidasa",
+    "components": [
+      {
+        "part": "aśva",
+        "gloss": "horse"
+      },
+      {
+        "part": "ghoṣa",
+        "gloss": "sound, voice"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashvaghosha, Aśvaghoṣa - wisdomlib (https://de.wisdomlib.org/definition/ashvaghosha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Ashvanth",
@@ -206949,11 +206944,11 @@
   },
   {
     "name": "Ashvarya",
-    "iast": "ashvarya",
-    "devanagari": "",
+    "iast": "aiśvarya",
+    "devanagari": "ऐश्वर्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling related to Aishwarya: lordship, sovereignty, prosperity",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -206961,16 +206956,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aishvarya - Wikipedia (https://en.wikipedia.org/wiki/Ai%C5%9Bvarya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
-    "gender": "boy"
+    "gender": "girl"
   },
   {
     "name": "Ashvat",
@@ -207090,11 +207084,11 @@
   },
   {
     "name": "Ashvin",
-    "iast": "ashvin",
-    "devanagari": "",
+    "iast": "aśvin",
+    "devanagari": "अश्विन्",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Name of the Ashvins, twin Vedic gods associated with medicine, health, dawn, and the sciences, who ride a chariot drawn by horses; also a month in the Hindu calendar",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -207102,19 +207096,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashvin, Aśvin - wisdomlib (https://www.wisdomlib.org/definition/ashvin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -207144,31 +207133,31 @@
   },
   {
     "name": "Ashvini",
-    "iast": "ashvini",
-    "devanagari": "",
+    "iast": "aśvinī",
+    "devanagari": "अश्विनी",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to the Ashvins; also the name of the first nakshatra (lunar mansion)",
+    "components": [
+      {
+        "part": "aśvin",
+        "gloss": "the Ashvin twin gods"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashvin, Aśvin - wisdomlib (https://www.wisdomlib.org/definition/ashvin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -207298,31 +207287,31 @@
   },
   {
     "name": "Ashwani",
-    "iast": "ashwani",
-    "devanagari": "",
+    "iast": "aśvinī",
+    "devanagari": "अश्विनी",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling related to the Ashvins/Ashwini nakshatra",
+    "components": [
+      {
+        "part": "aśvin",
+        "gloss": "the Ashvin twin gods"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashvin, Aśvin - wisdomlib (https://www.wisdomlib.org/definition/ashvin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -207514,93 +207503,93 @@
   },
   {
     "name": "Ashwathama",
-    "iast": "ashwathama",
-    "devanagari": "",
+    "iast": "aśvatthāmā",
+    "devanagari": "अश्वत्थामा",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Having the strength of a horse'; son of Dronacharya, a warrior on the Kaurava side in the Mahabharata, traditionally considered one of the Chiranjivis (immortals)",
+    "components": [
+      {
+        "part": "aśva",
+        "gloss": "horse"
+      },
+      {
+        "part": "sthāman",
+        "gloss": "strength, power"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashvatthama - Wikipedia (https://en.wikipedia.org/wiki/Ashvatthama)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ashwathi",
-    "iast": "ashwathi",
-    "devanagari": "",
+    "iast": "aśvinī",
+    "devanagari": "അശ്വതി",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Malayalam form of Ashwini, the first nakshatra, associated with the Ashvin twin gods",
+    "components": [
+      {
+        "part": "aśvin",
+        "gloss": "the Ashvin twin gods"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashvin, Aśvin - wisdomlib (https://www.wisdomlib.org/definition/ashvin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Ashwathy",
-    "iast": "ashwathy",
-    "devanagari": "",
+    "iast": "aśvinī",
+    "devanagari": "അശ്വതി",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Ashwathi: Malayalam form of Ashwini nakshatra",
+    "components": [
+      {
+        "part": "aśvin",
+        "gloss": "the Ashvin twin gods"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashvin, Aśvin - wisdomlib (https://www.wisdomlib.org/definition/ashvin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
