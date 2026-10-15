@@ -170195,11 +170195,11 @@
   },
   {
     "name": "Aloka",
-    "iast": "aloka",
-    "devanagari": "",
+    "iast": "āloka",
+    "devanagari": "आलोक",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Light, splendour, lustre",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -170207,24 +170207,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aloka, Āloka - wisdomlib (https://www.wisdomlib.org/definition/aloka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aloke",
-    "iast": "aloke",
-    "devanagari": "",
+    "iast": "āloka",
+    "devanagari": "आलोक",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Light, splendour, lustre",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -170232,19 +170231,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aloka, Āloka - wisdomlib (https://www.wisdomlib.org/definition/aloka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -170394,10 +170388,10 @@
   {
     "name": "Alpa",
     "iast": "alpa",
-    "devanagari": "",
+    "devanagari": "अल्प",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Small, little, few; also a philosophical term for the finite/mortal state contrasted with the infinite",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -170405,19 +170399,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Alpa - wisdomlib (https://www.wisdomlib.org/definition/alpa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -170426,31 +170415,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound of the confirmed 'alpa'(small)+'isha'(lord); a common Gujarati given name",
+    "components": [
+      {
+        "part": "alpa",
+        "gloss": "small, little"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Alpa - wisdomlib (https://www.wisdomlib.org/definition/alpa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -170978,23 +170967,32 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound of 'amala'(pure)+'raj'(king)",
+    "components": [
+      {
+        "part": "amala",
+        "gloss": "pure, spotless"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amala, Amalā - wisdomlib (https://www.wisdomlib.org/definition/amala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Aman",
