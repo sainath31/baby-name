@@ -187906,48 +187906,44 @@
   },
   {
     "name": "Anshuman",
-    "iast": "anshuman",
-    "devanagari": "",
+    "iast": "aṃśumān",
+    "devanagari": "अंशुमान्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Radiant, possessing rays'; name of a king of the Solar dynasty, grandson of Sagara, in the Ramayana/Bhagavata Purana",
+    "components": [
+      {
+        "part": "aṃśu",
+        "gloss": "ray of light"
+      },
+      {
+        "part": "mān",
+        "gloss": "possessing"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amshuman, Aṃśumān - wisdomlib (https://www.wisdomlib.org/definition/amshuman)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anshumanth",
-    "iast": "anshumanth",
-    "devanagari": "",
+    "iast": "aṃśumān",
+    "devanagari": "అంశుమాన్",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Anshuman: 'radiant, possessing rays', Solar-dynasty king",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -187955,24 +187951,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Amshuman, Aṃśumān - wisdomlib (https://www.wisdomlib.org/definition/amshuman)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anshumat",
-    "iast": "anshumat",
-    "devanagari": "",
+    "iast": "aṃśumat",
+    "devanagari": "अंशुमत्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Anshuman: 'radiant, possessing rays', Solar-dynasty king",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -187980,27 +187975,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amshuman, Aṃśumān - wisdomlib (https://www.wisdomlib.org/definition/amshuman)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -188159,11 +188141,11 @@
   },
   {
     "name": "Ansuman",
-    "iast": "ansuman",
-    "devanagari": "",
+    "iast": "aṃśumān",
+    "devanagari": "अंशुमान्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Anshuman: 'radiant, possessing rays', Solar-dynasty king",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -188171,19 +188153,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amshuman, Aṃśumān - wisdomlib (https://www.wisdomlib.org/definition/amshuman)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -188213,27 +188190,35 @@
   },
   {
     "name": "Ansuya",
-    "iast": "ansuya",
-    "devanagari": "",
+    "iast": "anasūyā",
+    "devanagari": "अनसूया",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Anasuya: 'free from envy', wife of sage Atri",
+    "components": [
+      {
+        "part": "an-",
+        "gloss": "not"
+      },
+      {
+        "part": "asūyā",
+        "gloss": "envy, spite"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anasuya, Anasūyā - wisdomlib (https://de.wisdomlib.org/definition/anasuya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -188288,11 +188273,11 @@
   },
   {
     "name": "Antar",
-    "iast": "antar",
-    "devanagari": "",
+    "iast": "antara",
+    "devanagari": "अन्तर",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Within, between, interior, intermediate",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -188300,24 +188285,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Antara, Antarā - wisdomlib (https://www.wisdomlib.org/definition/antara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Antara",
-    "iast": "antara",
-    "devanagari": "",
+    "iast": "antarā",
+    "devanagari": "अन्तरा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Within, between, interior; also 'songs for filling the gap' in Natyashastra dramaturgy, and a term in Indian classical music composition",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -188325,27 +188309,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Antara, Antarā - wisdomlib (https://www.wisdomlib.org/definition/antara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Antarang",
@@ -188374,11 +188346,11 @@
   },
   {
     "name": "Antareeksh",
-    "iast": "antareeksh",
-    "devanagari": "",
+    "iast": "antarikṣa",
+    "devanagari": "अन्तरिक्ष",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Sky, atmosphere, the space between heaven and earth",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -188386,15 +188358,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Antariksha, Antarīkṣa - wisdomlib (https://de.wisdomlib.org/definition/antariksha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -188424,11 +188395,11 @@
   },
   {
     "name": "Antariksha",
-    "iast": "antariksha",
-    "devanagari": "",
+    "iast": "antarikṣa",
+    "devanagari": "अन्तरिक्ष",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Sky, atmosphere, the space between heaven and earth",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -188436,40 +188407,47 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Antariksha, Antarīkṣa - wisdomlib (https://de.wisdomlib.org/definition/antariksha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Anthahkaran",
-    "iast": "anthahkaran",
-    "devanagari": "",
+    "iast": "antaḥkaraṇa",
+    "devanagari": "अन्तःकरण",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Inner organ/instrument'; the totality of the mind in Hindu philosophy, comprising manas, buddhi, chitta, and ahamkara",
+    "components": [
+      {
+        "part": "antaḥ",
+        "gloss": "inner"
+      },
+      {
+        "part": "karaṇa",
+        "gloss": "instrument, organ"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Antahkarana - Wikipedia (https://en.wikipedia.org/wiki/Antahkarana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -188712,11 +188690,11 @@
   },
   {
     "name": "Antriksa",
-    "iast": "antriksa",
-    "devanagari": "",
+    "iast": "antarikṣa",
+    "devanagari": "अन्तरिक्ष",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Antariksha: sky, atmosphere, space between heaven and earth",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -188724,15 +188702,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Antariksha, Antarīkṣa - wisdomlib (https://de.wisdomlib.org/definition/antariksha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
