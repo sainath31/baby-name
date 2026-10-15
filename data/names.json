@@ -389276,31 +389276,31 @@
   },
   {
     "name": "Ipsa",
-    "iast": "ipsa",
-    "devanagari": "",
+    "iast": "īpsā",
+    "devanagari": "ईप्सा",
     "letter": "I",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Desire, wish to obtain' (from root ap, to attain)",
+    "components": [
+      {
+        "part": "īpsā (desire)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ipsa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ipsa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -389330,64 +389330,60 @@
   },
   {
     "name": "Ipshita",
-    "iast": "ipshita",
-    "devanagari": "",
+    "iast": "īpsitā",
+    "devanagari": "ईप्सिता",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Desired, longed for' (feminine past participle related to ipsa, desire)",
+    "components": [
+      {
+        "part": "īpsita (desired)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ipsita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ipsita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Ipsit",
-    "iast": "ipsit",
-    "devanagari": "",
+    "iast": "īpsita",
+    "devanagari": "ईप्सित",
     "letter": "I",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Desired, wished for' (past participle related to ipsa, desire)",
+    "components": [
+      {
+        "part": "īpsita (desired)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ipsita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ipsita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -389803,92 +389799,88 @@
   },
   {
     "name": "Iravat",
-    "iast": "iravat",
-    "devanagari": "",
+    "iast": "airāvata",
+    "devanagari": "ऐरावत",
     "letter": "I",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Related to Airavata, the divine white elephant that serves as the mount of Indra",
+    "components": [
+      {
+        "part": "airāvata (Indra's elephant)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Airavata - Wikipedia (https://en.wikipedia.org/wiki/Airavata)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Iravath",
-    "iast": "iravath",
-    "devanagari": "",
+    "iast": "airāvata",
+    "devanagari": "ऐरावत",
     "letter": "I",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling related to Airavata, Indra's divine elephant",
+    "components": [
+      {
+        "part": "airāvata (Indra's elephant)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Airavata - Wikipedia (https://en.wikipedia.org/wiki/Airavata)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Iravati",
-    "iast": "iravati",
-    "devanagari": "",
+    "iast": "irāvatī",
+    "devanagari": "इरावती",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of the Ravi River (one of the five rivers of Punjab), also an alternate name of Airavati (Indra's elephant realm) and used as a given name",
+    "components": [
+      {
+        "part": "irāvatī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ravi River - Wikipedia (also known as Iravati) (https://en.wikipedia.org/wiki/Ravi_River)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -390628,35 +390620,31 @@
   },
   {
     "name": "Ish",
-    "iast": "ish",
-    "devanagari": "",
+    "iast": "īśa",
+    "devanagari": "ईश",
     "letter": "I",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "'Lord, master, ruler'; a very common epithet applied to Shiva and other deities, widely used as a standalone given name",
+    "components": [
+      {
+        "part": "īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Isha (concept) - Wikipedia (Isha/Isa as a name for Shiva/the Supreme) (https://en.wikipedia.org/wiki/Isha_Upanishad)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -390686,56 +390674,60 @@
   },
   {
     "name": "Ishaana",
-    "iast": "ishaana",
-    "devanagari": "",
+    "iast": "īśānā",
+    "devanagari": "ईशाना",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form of Ishana, 'ruler/lord', an epithet of Shiva as the guardian of the northeast direction",
+    "components": [
+      {
+        "part": "īśāna (ruler, epithet of Shiva) + feminine ending",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ishana - Wikipedia (epithet of Shiva) (https://en.wikipedia.org/wiki/Ishana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Ishaani",
-    "iast": "ishaani",
-    "devanagari": "",
+    "iast": "īśānī",
+    "devanagari": "ईशानी",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form of Ishana, epithet of Shiva/Parvati as ruler of the northeast direction",
+    "components": [
+      {
+        "part": "īśāna (ruler) + -ī (feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Ishana - Wikipedia (epithet of Shiva) (https://en.wikipedia.org/wiki/Ishana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
