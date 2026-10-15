@@ -385488,27 +385488,31 @@
   },
   {
     "name": "Indar",
-    "iast": "indar",
-    "devanagari": "",
+    "iast": "indra",
+    "devanagari": "इन्द्र",
     "letter": "I",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular (Punjabi/Hindi) spelling of Indra, king of the devas and god of thunder/rain in Hindu mythology",
+    "components": [
+      {
+        "part": "indra (king of gods)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Indra - Wikipedia (https://en.wikipedia.org/wiki/Indra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -385791,31 +385795,31 @@
   },
   {
     "name": "Indeevar",
-    "iast": "indeevar",
-    "devanagari": "",
+    "iast": "indīvara",
+    "devanagari": "इन्दीवर",
     "letter": "I",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Blue lotus'; a poetic Sanskrit term for the blue water-lily",
+    "components": [
+      {
+        "part": "indīvara (blue lotus)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indivara - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/indivara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -385870,35 +385874,31 @@
   },
   {
     "name": "Indeever",
-    "iast": "indeever",
-    "devanagari": "",
+    "iast": "indīvara",
+    "devanagari": "इन्दीवर",
     "letter": "I",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Indeevar, 'blue lotus'",
+    "components": [
+      {
+        "part": "indīvara (blue lotus)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indivara - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/indivara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -385953,31 +385953,31 @@
   },
   {
     "name": "Inder",
-    "iast": "inder",
-    "devanagari": "",
+    "iast": "indra",
+    "devanagari": "इन्द्र",
     "letter": "I",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling of Indra, king of the Vedic devas and god of thunder/rain",
+    "components": [
+      {
+        "part": "indra (king of gods)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Indra - Wikipedia (https://en.wikipedia.org/wiki/Indra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -386160,31 +386160,31 @@
   },
   {
     "name": "Indhu",
-    "iast": "indhu",
-    "devanagari": "",
+    "iast": "indu",
+    "devanagari": "इन्दु",
     "letter": "I",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Moon, a drop'; a popular Sanskrit/Hindi/Tamil given name",
+    "components": [
+      {
+        "part": "indu (moon)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indu - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/indu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -386214,31 +386214,31 @@
   },
   {
     "name": "Indhumathi",
-    "iast": "indhumathi",
-    "devanagari": "",
+    "iast": "indumatī",
+    "devanagari": "इन्दुमती",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Possessing the qualities of the moon'; also the name of a queen in Kalidasa's Raghuvamsha",
+    "components": [
+      {
+        "part": "indu (moon) + -matī (possessive, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indumati - wisdomlib.org (https://www.wisdomlib.org/definition/indumati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -386342,27 +386342,31 @@
   },
   {
     "name": "Indirah",
-    "iast": "indirah",
-    "devanagari": "",
+    "iast": "indirā",
+    "devanagari": "इन्दिरा",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Indira, 'beauty, splendor', an epithet of goddess Lakshmi; also famously the name of Indira Gandhi",
+    "components": [
+      {
+        "part": "indirā (Lakshmi; beauty)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Indira Gandhi - Wikipedia (https://en.wikipedia.org/wiki/Indira_Gandhi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -386371,23 +386375,27 @@
     "devanagari": "",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Indra, king of the Vedic devas",
+    "components": [
+      {
+        "part": "indra + Tamil masculine suffix -an",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Indra - Wikipedia (https://en.wikipedia.org/wiki/Indra)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Indiravel",
@@ -386544,27 +386552,31 @@
   },
   {
     "name": "Indrabhuti",
-    "iast": "indrabhuti",
-    "devanagari": "",
+    "iast": "indrabhūti",
+    "devanagari": "इन्द्रभूति",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a Gandhara king and also of Indrabhuti Gautama, the first disciple of Mahavira in Jain tradition",
+    "components": [
+      {
+        "part": "indra + bhūti (prosperity/being)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Indrabhuti Gautama - Wikipedia (https://en.wikipedia.org/wiki/Indrabhuti_Gautama)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -386628,55 +386640,59 @@
   {
     "name": "Indradhanu",
     "iast": "indradhanu",
-    "devanagari": "",
+    "devanagari": "इन्द्रधनु",
     "letter": "I",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Indra's bow', the classical Sanskrit term for the rainbow",
+    "components": [
+      {
+        "part": "indra + dhanu (bow)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "indradhanu - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/indradhanu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Indradhanush",
-    "iast": "indradhanush",
-    "devanagari": "",
+    "iast": "indradhanuṣa",
+    "devanagari": "इन्द्रधनुष",
     "letter": "I",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Indra's bow', the common Hindi term for the rainbow",
+    "components": [
+      {
+        "part": "indra + dhanuṣa (bow)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "indradhanu - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/indradhanu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
