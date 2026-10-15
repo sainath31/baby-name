@@ -188818,11 +188818,11 @@
   },
   {
     "name": "Anubhab",
-    "iast": "anubhab",
-    "devanagari": "",
+    "iast": "anubhava",
+    "devanagari": "অনুভব",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Bengali spelling of Anubhav: experience, direct perception, understanding",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -188830,15 +188830,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anubhava - asivanayoga.com / advaita-vision.org (https://asivanayoga.com/blogs/sanskrit/anubhava)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -188868,11 +188867,11 @@
   },
   {
     "name": "Anubhav",
-    "iast": "anubhav",
-    "devanagari": "",
+    "iast": "anubhava",
+    "devanagari": "अनुभव",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Experience, direct perception, understanding gained through personal observation",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -188880,48 +188879,43 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anubhava - asivanayoga.com / advaita-vision.org (https://asivanayoga.com/blogs/sanskrit/anubhava)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anubhavi",
-    "iast": "anubhavi",
-    "devanagari": "",
+    "iast": "anubhāvī",
+    "devanagari": "अनुभावी",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to 'anubhava': experienced, perceiving",
+    "components": [
+      {
+        "part": "anubhava",
+        "gloss": "experience"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anubhava - asivanayoga.com / advaita-vision.org (https://asivanayoga.com/blogs/sanskrit/anubhava)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -188951,27 +188945,31 @@
   },
   {
     "name": "Anubhuti",
-    "iast": "anubhuti",
-    "devanagari": "",
+    "iast": "anubhūti",
+    "devanagari": "अनुभूति",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Experience, perception, realization (related to anubhava)",
+    "components": [
+      {
+        "part": "anubhava",
+        "gloss": "experience"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anubhava - asivanayoga.com / advaita-vision.org (https://asivanayoga.com/blogs/sanskrit/anubhava)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -189330,11 +189328,11 @@
   },
   {
     "name": "Anugrah",
-    "iast": "anugrah",
-    "devanagari": "",
+    "iast": "anugraha",
+    "devanagari": "अनुग्रह",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Grace, favour, kindness, beneficial assistance from a deity, guru, or Ishvara",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -189342,24 +189340,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anugraha - asivanayoga.com (https://asivanayoga.com/blogs/sanskrit/anugraha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anugraha",
     "iast": "anugraha",
-    "devanagari": "",
+    "devanagari": "अनुग्रह",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Grace, favour, kindness, beneficial assistance from a deity, guru, or Ishvara",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -189367,44 +189364,47 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Anugraha - asivanayoga.com (https://asivanayoga.com/blogs/sanskrit/anugraha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Anugrahaprada",
     "iast": "anugrahaprada",
-    "devanagari": "",
+    "devanagari": "अनुग्रहप्रद",
     "letter": "A",
     "syllable_count": 6,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Bestower of grace', compound of the confirmed 'anugraha'(grace)+'prada'(giver)",
+    "components": [
+      {
+        "part": "anugraha",
+        "gloss": "grace, favour"
+      },
+      {
+        "part": "prada",
+        "gloss": "giving, bestowing"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Anugraha - asivanayoga.com (https://asivanayoga.com/blogs/sanskrit/anugraha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -189728,11 +189728,11 @@
   },
   {
     "name": "Anukampa",
-    "iast": "anukampa",
-    "devanagari": "",
+    "iast": "anukampā",
+    "devanagari": "अनुकम्पा",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Compassion, sympathy; the desire to eliminate suffering of all living beings",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -189740,15 +189740,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anukampa, Anukampā - wisdomlib (https://www.wisdomlib.org/definition/anukampa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -189778,11 +189777,11 @@
   },
   {
     "name": "Anukaran",
-    "iast": "anukaran",
-    "devanagari": "",
+    "iast": "anukāra",
+    "devanagari": "अनुकार",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Imitation, resemblance (related to anukriti/anukara)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -189790,15 +189789,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anukara, Anukāra - wisdomlib (https://www.wisdomlib.org/definition/anukara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -189928,27 +189926,31 @@
   },
   {
     "name": "Anukriti",
-    "iast": "anukriti",
-    "devanagari": "",
+    "iast": "anukṛti",
+    "devanagari": "अनुकृति",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Imitation, copy, resemblance",
+    "components": [
+      {
+        "part": "anukāra",
+        "gloss": "imitation"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anukara, Anukāra - wisdomlib (https://www.wisdomlib.org/definition/anukara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -190139,28 +190141,36 @@
   },
   {
     "name": "Anumana",
-    "iast": "anumana",
-    "devanagari": "",
+    "iast": "anumāna",
+    "devanagari": "अनुमान",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Inference; one of the four pramanas (means of valid knowledge) in Nyaya philosophy",
+    "components": [
+      {
+        "part": "anu",
+        "gloss": "after"
+      },
+      {
+        "part": "māna",
+        "gloss": "knowledge, measure"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anumana, Anumāna - wisdomlib (https://www.wisdomlib.org/definition/anumana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Anumatea",
