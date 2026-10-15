@@ -165258,11 +165258,11 @@
   },
   {
     "name": "Akarshak",
-    "iast": "akarshak",
-    "devanagari": "",
+    "iast": "ākarṣaka",
+    "devanagari": "आकर्षक",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Attracting, attractive, charming",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -165270,15 +165270,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akarshaka, Ākarṣaka - wisdomlib (https://de.wisdomlib.org/definition/akarshaka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -165608,27 +165607,35 @@
   },
   {
     "name": "Akhalesh",
-    "iast": "akhalesh",
-    "devanagari": "",
+    "iast": "akhileśa",
+    "devanagari": "अखिलेश",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Likely phonetic variant of 'Akhilesh': 'lord of all/the universe'",
+    "components": [
+      {
+        "part": "akhila",
+        "gloss": "whole, entire"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akhilesh - wisdomlib (https://www.wisdomlib.org/definition/akhilesh)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -165662,23 +165669,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Refers to Swami Akhandananda, a direct monastic disciple of Ramakrishna and later president of the Ramakrishna Mission; also plausibly 'unbroken bliss' (akhanda+ananda)",
+    "components": [
+      {
+        "part": "akhaṇḍa",
+        "gloss": "unbroken, whole"
+      },
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -165708,27 +165723,39 @@
   },
   {
     "name": "Akhilandeshwar",
-    "iast": "akhilandeshwar",
-    "devanagari": "",
+    "iast": "akhilāṇḍeśvara",
+    "devanagari": "अखिलाण्डेश्वर",
     "letter": "A",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 6,
+    "meaning_en": "'Lord of the whole universe/egg of the cosmos'; related to the confirmed 'akhila'(whole) root, and the goddess epithet Akhilandeshwari at Jambukeswaram temple",
+    "components": [
+      {
+        "part": "akhila",
+        "gloss": "whole, entire"
+      },
+      {
+        "part": "aṇḍa",
+        "gloss": "egg, cosmos"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akhila, Akhilā, Akhīla - wisdomlib (https://www.wisdomlib.org/definition/akhila)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -165837,77 +165864,101 @@
   },
   {
     "name": "Akhilesha",
-    "iast": "akhilesha",
-    "devanagari": "",
+    "iast": "akhileśa",
+    "devanagari": "अखिलेश",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of all/the universe'",
+    "components": [
+      {
+        "part": "akhila",
+        "gloss": "whole, entire"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akhilesh - wisdomlib (https://www.wisdomlib.org/definition/akhilesh)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Akhileshwar",
-    "iast": "akhileshwar",
-    "devanagari": "",
+    "iast": "akhileśvara",
+    "devanagari": "अखिलेश्वर",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Lord of all/the universe'; identified with Shiva",
+    "components": [
+      {
+        "part": "akhila",
+        "gloss": "whole, entire"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akhilesh - wisdomlib (https://www.wisdomlib.org/definition/akhilesh)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Akhileswar",
-    "iast": "akhileswar",
-    "devanagari": "",
+    "iast": "akhileśvara",
+    "devanagari": "अखिलेश्वर",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Lord of all/the universe'; identified with Shiva",
+    "components": [
+      {
+        "part": "akhila",
+        "gloss": "whole, entire"
+      },
+      {
+        "part": "īśvara",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akhilesh - wisdomlib (https://www.wisdomlib.org/definition/akhilesh)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -166041,11 +166092,11 @@
   },
   {
     "name": "Akil",
-    "iast": "akil",
-    "devanagari": "",
+    "iast": "akhila",
+    "devanagari": "अखिल",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Likely phonetic variant of 'Akhil': whole, entire, all",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -166053,24 +166104,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akhila, Akhilā, Akhīla - wisdomlib (https://www.wisdomlib.org/definition/akhila)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Akila",
-    "iast": "akila",
-    "devanagari": "",
+    "iast": "akhila",
+    "devanagari": "अखिल",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Whole, entire, all, complete",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -166078,24 +166128,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akhila, Akhilā, Akhīla - wisdomlib (https://www.wisdomlib.org/definition/akhila)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Akilan",
-    "iast": "akilan",
-    "devanagari": "",
+    "iast": "akhila",
+    "devanagari": "அகிலன்",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Tamil form related to 'akhila': whole, entire, all",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -166103,19 +166152,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Akhila, Akhilā, Akhīla - wisdomlib (https://www.wisdomlib.org/definition/akhila)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -166519,11 +166563,11 @@
   },
   {
     "name": "Akriti",
-    "iast": "akriti",
-    "devanagari": "",
+    "iast": "ākṛti",
+    "devanagari": "आकृति",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Form, shape, figure, appearance",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -166531,28 +166575,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Akriti, Ākṛtī, Ākṛti - wisdomlib (https://de.wisdomlib.org/definition/akriti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Akrodh",
-    "iast": "akrodh",
-    "devanagari": "",
+    "iast": "akrodha",
+    "devanagari": "अक्रोध",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Freedom from anger; one of the ten duties of an ascetic",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -166560,69 +166599,76 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akrodha - wisdomlib (https://www.wisdomlib.org/definition/akrodha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Akrodhana",
     "iast": "akrodhana",
-    "devanagari": "",
+    "devanagari": "अक्रोधन",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant related to Akrodh: free from anger",
+    "components": [
+      {
+        "part": "akrodha",
+        "gloss": "absence of anger"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akrodha - wisdomlib (https://www.wisdomlib.org/definition/akrodha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Akroor",
-    "iast": "akroor",
-    "devanagari": "",
+    "iast": "akrūra",
+    "devanagari": "अक्रूर",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Gentle, not cruel'; name of Krishna's paternal uncle and friend in the Mahabharata/Bhagavata",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "krūra",
+        "gloss": "cruel"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Akrura - wisdomlib (https://www.wisdomlib.org/definition/akrura)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
