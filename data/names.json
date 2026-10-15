@@ -434006,174 +434006,174 @@
   },
   {
     "name": "Kailas",
-    "iast": "kailas",
-    "devanagari": "",
+    "iast": "kailāsa",
+    "devanagari": "कैलास",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kailash, the sacred mountain in the Himalayas regarded as the abode of Shiva",
+    "components": [
+      {
+        "part": "kailāsa (Mount Kailash)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Mount Kailash - Wikipedia (https://en.wikipedia.org/wiki/Mount_Kailash)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kailasa",
-    "iast": "kailasa",
-    "devanagari": "",
+    "iast": "kailāsa",
+    "devanagari": "कैलास",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Kailash, the sacred mountain regarded as Shiva's abode",
+    "components": [
+      {
+        "part": "kailāsa (Mount Kailash)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Mount Kailash - Wikipedia (https://en.wikipedia.org/wiki/Mount_Kailash)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Kailasah",
-    "iast": "kailasah",
-    "devanagari": "",
+    "iast": "kailāsa",
+    "devanagari": "कैलास",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kailash, Shiva's sacred mountain abode",
+    "components": [
+      {
+        "part": "kailāsa (Mount Kailash)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Mount Kailash - Wikipedia (https://en.wikipedia.org/wiki/Mount_Kailash)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kailasapathy",
-    "iast": "kailasapathy",
-    "devanagari": "",
+    "iast": "kailāsapati",
+    "devanagari": "कैलासपति",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of Kailash', epithet of Shiva",
+    "components": [
+      {
+        "part": "kailāsa (Mount Kailash) + pati (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kailasapati - wisdomlib.org (https://www.wisdomlib.org/definition/kailasapati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Kailase",
-    "iast": "kailase",
-    "devanagari": "",
+    "iast": "kailāse",
+    "devanagari": "कैलासे",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Inflected vernacular form of Kailasa, Shiva's sacred mountain abode",
+    "components": [
+      {
+        "part": "kailāsa (Mount Kailash)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Mount Kailash - Wikipedia (https://en.wikipedia.org/wiki/Mount_Kailash)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kailashadhipati",
-    "iast": "kailashadhipati",
-    "devanagari": "",
+    "iast": "kailāśādhipati",
+    "devanagari": "कैलाशाधिपति",
     "letter": "K",
     "syllable_count": 6,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord/sovereign of Kailash', epithet of Shiva",
+    "components": [
+      {
+        "part": "kailāśa (Mount Kailash) + adhipati (sovereign)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kailasapati - wisdomlib.org (https://www.wisdomlib.org/definition/kailasapati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -434211,56 +434211,60 @@
   },
   {
     "name": "Kailasnath",
-    "iast": "kailasnath",
-    "devanagari": "",
+    "iast": "kailāsanātha",
+    "devanagari": "कैलासनाथ",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Lord of Kailash', epithet of Shiva; also the name of the famous Kailasanatha rock-cut temple at Ellora",
+    "components": [
+      {
+        "part": "kailāsa (Mount Kailash) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kailasa Temple - Wikipedia (https://en.wikipedia.org/wiki/Kailasa_Temple,_Ellora)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kailassa",
-    "iast": "kailassa",
-    "devanagari": "",
+    "iast": "kailāsa",
+    "devanagari": "कैलास",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kailash, Shiva's sacred mountain abode",
+    "components": [
+      {
+        "part": "kailāsa (Mount Kailash)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Mount Kailash - Wikipedia (https://en.wikipedia.org/wiki/Mount_Kailash)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -434441,26 +434445,30 @@
   {
     "name": "Kairava",
     "iast": "kairava",
-    "devanagari": "",
+    "devanagari": "कैरव",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'White water-lily/lotus'; a real Sanskrit term also used as a name for the moon's beloved flower",
+    "components": [
+      {
+        "part": "kairava (white lotus)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kairava - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kairava)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -434877,27 +434885,31 @@
   },
   {
     "name": "Kaivalyanath",
-    "iast": "kaivalyanath",
-    "devanagari": "",
+    "iast": "kaivalyanātha",
+    "devanagari": "कैवल्यनाथ",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Lord of absolute liberation (kaivalya)', a devotional epithet",
+    "components": [
+      {
+        "part": "kaivalya (liberation) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kaivalya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kaivalya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -435179,126 +435191,118 @@
   },
   {
     "name": "Kajjali",
-    "iast": "kajjali",
-    "devanagari": "",
+    "iast": "kajjalī",
+    "devanagari": "कज्जली",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Related to 'kajjala' (kohl/lampblack); also an Ayurvedic pharmaceutical preparation term",
+    "components": [
+      {
+        "part": "kajjala (kohl)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kajjala - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kajjala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kajol",
-    "iast": "kajol",
-    "devanagari": "",
+    "iast": "kajjala",
+    "devanagari": "काजल",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Hindi vernacular spelling of 'kajal' (kohl/eyeliner); famous as the stage name of veteran Bollywood actress Kajol",
+    "components": [
+      {
+        "part": "kajjala (lampblack/kohl)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Kajol - Wikipedia (https://en.wikipedia.org/wiki/Kajol)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kajri",
-    "iast": "kajri",
-    "devanagari": "",
+    "iast": "kajrī",
+    "devanagari": "कजरी",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a folk musical genre (Kajri) sung during the monsoon season in North India, also related to 'kajal' (kohl)",
+    "components": [
+      {
+        "part": "kajrī (folk song genre; also kohl-related)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kajari - Wikipedia (https://en.wikipedia.org/wiki/Kajari)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kakali",
-    "iast": "kakali",
-    "devanagari": "",
+    "iast": "kākalī",
+    "devanagari": "काकली",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Sweet/warbling sound' (as of a cuckoo or soft musical note)",
+    "components": [
+      {
+        "part": "kākalī (sweet sound)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kakali - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kakali)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -435403,31 +435407,31 @@
   },
   {
     "name": "Kakoli",
-    "iast": "kakoli",
-    "devanagari": "",
+    "iast": "kākolī",
+    "devanagari": "काकोली",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kakali, 'sweet/warbling sound'; also the name of a medicinal herb in Ayurveda",
+    "components": [
+      {
+        "part": "kākolī/kākalī (sweet sound)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "kakali - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kakali)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -435611,60 +435615,60 @@
   },
   {
     "name": "Kakudman",
-    "iast": "kakudman",
-    "devanagari": "",
+    "iast": "kakudmān",
+    "devanagari": "ककुद्मान्",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of Revati's father, the king of Kushasthali, mentioned in the Mahabharata and Puranas",
+    "components": [
+      {
+        "part": "kakudmān (king's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kakudmi - wisdomlib.org (https://www.wisdomlib.org/definition/kakudmi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kala",
-    "iast": "kala",
-    "devanagari": "",
+    "iast": "kalā",
+    "devanagari": "कला",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Art, skill, a part/portion'; a common Indian given name celebrating artistic skill",
+    "components": [
+      {
+        "part": "kalā (art/skill)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "kala - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -435694,27 +435698,31 @@
   },
   {
     "name": "Kalabhairav",
-    "iast": "kalabhairav",
-    "devanagari": "",
+    "iast": "kālabhairava",
+    "devanagari": "कालभैरव",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'The terrible form of time', a fierce manifestation of Shiva associated with the destruction of time/death itself, widely worshipped especially in Varanasi",
+    "components": [
+      {
+        "part": "kāla (time) + bhairava (terrible form of Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kaal Bhairav - Wikipedia (https://en.wikipedia.org/wiki/Kaal_Bhairav)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
