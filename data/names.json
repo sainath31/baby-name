@@ -157179,11 +157179,11 @@
   },
   {
     "name": "Advay",
-    "iast": "advay",
-    "devanagari": "",
+    "iast": "advaya",
+    "devanagari": "अद्वय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Non-dual, without a second, unique",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -157191,36 +157191,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Advaya - wisdomlib (https://www.wisdomlib.org/definition/advaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Advaya",
     "iast": "advaya",
-    "devanagari": "",
+    "devanagari": "अद्वय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Non-dual, without a second, unique",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -157228,27 +157215,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Advaya - wisdomlib (https://www.wisdomlib.org/definition/advaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Adveka",
@@ -157356,102 +157331,134 @@
   },
   {
     "name": "Adviteeya",
-    "iast": "adviteeya",
-    "devanagari": "",
+    "iast": "advitīya",
+    "devanagari": "अद्वितीय",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Without a second'; unique, sole, matchless",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "dvitīya",
+        "gloss": "second"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Advitiya - kosha.sanskrit.today / Advaita-l discussion (https://kosha.sanskrit.today/word/en/unique)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Advith",
-    "iast": "advith",
-    "devanagari": "",
+    "iast": "advitīya",
+    "devanagari": "अद्वितीय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Likely short/variant form of 'Advitiya': unique, matchless",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "dvitīya",
+        "gloss": "second"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Advitiya - kosha.sanskrit.today / Advaita-l discussion (https://kosha.sanskrit.today/word/en/unique)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Advitha",
-    "iast": "advitha",
-    "devanagari": "",
+    "iast": "advitīya",
+    "devanagari": "अद्वितीय",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Likely short/variant form of 'Advitiya': unique, matchless",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "dvitīya",
+        "gloss": "second"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Advitiya - kosha.sanskrit.today / Advaita-l discussion (https://kosha.sanskrit.today/word/en/unique)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Advitya",
-    "iast": "advitya",
-    "devanagari": "",
+    "iast": "advitīya",
+    "devanagari": "अद्वितीय",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Likely short/variant form of 'Advitiya': unique, matchless",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "dvitīya",
+        "gloss": "second"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Advitiya - kosha.sanskrit.today / Advaita-l discussion (https://kosha.sanskrit.today/word/en/unique)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -157481,11 +157488,11 @@
   },
   {
     "name": "Adwait",
-    "iast": "adwait",
-    "devanagari": "",
+    "iast": "advaita",
+    "devanagari": "अद्वैत",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Advaita: 'non-dualism', the Vedanta doctrine",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -157493,32 +157500,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Advaita Vedanta - meaning of Advaita (https://www.advaita-vision.org/meaning-of-advaita-q-306/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Adwaita",
-    "iast": "adwaita",
-    "devanagari": "",
+    "iast": "advaita",
+    "devanagari": "अद्वैत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "'Non-dualism'; the Vedanta doctrine that the seeming multiplicity of things is illusory, the only true reality being Brahman",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -157526,32 +157524,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Advaita Vedanta - meaning of Advaita (https://www.advaita-vision.org/meaning-of-advaita-q-306/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Adwaith",
-    "iast": "adwaith",
-    "devanagari": "",
+    "iast": "advaita",
+    "devanagari": "अद्वैत",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Advaita: 'non-dualism', the Vedanta doctrine",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -157559,28 +157548,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Advaita Vedanta - meaning of Advaita (https://www.advaita-vision.org/meaning-of-advaita-q-306/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Adwaitha",
-    "iast": "adwaitha",
-    "devanagari": "",
+    "iast": "advaita",
+    "devanagari": "अद्वैत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Advaita: 'non-dualism', the Vedanta doctrine",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -157588,16 +157572,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Advaita Vedanta - meaning of Advaita (https://www.advaita-vision.org/meaning-of-advaita-q-306/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Adwaithi",
@@ -157651,11 +157634,11 @@
   },
   {
     "name": "Adway",
-    "iast": "adway",
-    "devanagari": "",
+    "iast": "advaya",
+    "devanagari": "अद्वय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Advay: non-dual, without a second, unique",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -157663,28 +157646,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Advaya - wisdomlib (https://www.wisdomlib.org/definition/advaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Adwaya",
-    "iast": "adwaya",
-    "devanagari": "",
+    "iast": "advaya",
+    "devanagari": "अद्वय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Non-dual, without a second, unique",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -157692,19 +157670,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Advaya - wisdomlib (https://www.wisdomlib.org/definition/advaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -157734,93 +157707,110 @@
   },
   {
     "name": "Adwiteya",
-    "iast": "adwiteya",
-    "devanagari": "",
+    "iast": "advitīya",
+    "devanagari": "अद्वितीय",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Advitiya: 'without a second', unique, matchless",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "dvitīya",
+        "gloss": "second"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Advitiya - kosha.sanskrit.today / Advaita-l discussion (https://kosha.sanskrit.today/word/en/unique)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Adwithiya",
-    "iast": "adwithiya",
-    "devanagari": "",
+    "iast": "advitīya",
+    "devanagari": "अद्वितीय",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Advitiya: 'without a second', unique, matchless",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "dvitīya",
+        "gloss": "second"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Advitiya - kosha.sanskrit.today / Advaita-l discussion (https://kosha.sanskrit.today/word/en/unique)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Adwitiya",
-    "iast": "adwitiya",
-    "devanagari": "",
+    "iast": "advitīya",
+    "devanagari": "अद्वितीय",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Without a second'; unique, sole, matchless",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "dvitīya",
+        "gloss": "second"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Advitiya - kosha.sanskrit.today / Advaita-l discussion (https://kosha.sanskrit.today/word/en/unique)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Adya",
-    "iast": "adya",
-    "devanagari": "",
+    "iast": "ādyā",
+    "devanagari": "आद्या",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "First, primeval; also an epithet of the goddess Durga/Adi Shakti",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -157828,23 +157818,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adya, Ādyā, Ādya - wisdomlib (https://www.wisdomlib.org/definition/adya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -157874,11 +157855,11 @@
   },
   {
     "name": "Adyah",
-    "iast": "adyah",
-    "devanagari": "",
+    "iast": "ādyā",
+    "devanagari": "आद्या",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Adya: first, primeval; epithet of Durga",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -157886,15 +157867,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Adya, Ādyā, Ādya - wisdomlib (https://www.wisdomlib.org/definition/adya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -158222,11 +158202,11 @@
   },
   {
     "name": "Aeindri",
-    "iast": "aeindri",
-    "devanagari": "",
+    "iast": "aindrī",
+    "devanagari": "ऐन्द्री",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Epithet of the Shakti/power of Indra; name of Indrani, one of the Sapta Matrikas (seven divine mothers)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -158234,19 +158214,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Aindri, Aimdri, Aindrī - wisdomlib (https://www.wisdomlib.org/definition/aindri)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -158584,11 +158559,11 @@
   },
   {
     "name": "Agalya",
-    "iast": "agalya",
-    "devanagari": "",
+    "iast": "ahalyā",
+    "devanagari": "அகல்யா",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Tamil form of 'Ahalya', wife of the sage Gautama in the Ramayana, known for being cursed by her husband and later liberated by Rama; her name is said to mean 'one of impeccable beauty'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -158596,24 +158571,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ahalya - wisdomlib (https://www.wisdomlib.org/definition/ahalya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Agam",
-    "iast": "agam",
-    "devanagari": "",
+    "iast": "āgama",
+    "devanagari": "आगम",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Scripture, sacred tradition; a class of Hindu scriptures (Shaiva/Shakta Agamas) concerned with ritual, yoga, and temple worship",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -158621,28 +158595,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Agama, Āgama - wisdomlib (https://www.wisdomlib.org/definition/agama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Agama",
-    "iast": "agama",
-    "devanagari": "",
+    "iast": "āgama",
+    "devanagari": "आगम",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Scripture, sacred tradition; a class of Hindu scriptures (Shaiva/Shakta Agamas) concerned with ritual, yoga, and temple worship",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -158650,40 +158619,43 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Agama, Āgama - wisdomlib (https://www.wisdomlib.org/definition/agama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Agamik",
-    "iast": "agamik",
-    "devanagari": "",
+    "iast": "āgamika",
+    "devanagari": "आगमिक",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Relating to the Agamas (scriptures/tradition)",
+    "components": [
+      {
+        "part": "āgama",
+        "gloss": "scripture, tradition"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Agama, Āgama - wisdomlib (https://www.wisdomlib.org/definition/agama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
