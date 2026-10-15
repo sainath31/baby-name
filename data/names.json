@@ -371456,56 +371456,60 @@
   },
   {
     "name": "Hemavathi",
-    "iast": "hemavathi",
-    "devanagari": "",
+    "iast": "hemavatī",
+    "devanagari": "हेमवती",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Possessing gold', an epithet of goddess Parvati (daughter of Himavat, often associated with gold imagery); also a river name in some traditions",
+    "components": [
+      {
+        "part": "hema (gold) + -vatī (possessive, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "hemavati - wisdomlib.org (https://www.wisdomlib.org/definition/hemavati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Hemavathy",
-    "iast": "hemavathy",
-    "devanagari": "",
+    "iast": "hemavatī",
+    "devanagari": "हेमवती",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Hemavathi, 'possessing gold', epithet associated with Parvati",
+    "components": [
+      {
+        "part": "hema (gold) + -vatī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "hemavati - wisdomlib.org (https://www.wisdomlib.org/definition/hemavati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -371568,35 +371572,31 @@
   },
   {
     "name": "Hemchander",
-    "iast": "hemchander",
-    "devanagari": "",
+    "iast": "hemacandra",
+    "devanagari": "हेमचन्द्र",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular spelling of Hemachandra, 'golden moon'; also the name of the renowned 12th-century Jain scholar-monk",
+    "components": [
+      {
+        "part": "hema (gold) + candra (moon)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Hemachandra - Wikipedia (https://en.wikipedia.org/wiki/Hemachandra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -371962,31 +371962,31 @@
   },
   {
     "name": "Hemlata",
-    "iast": "hemlata",
-    "devanagari": "",
+    "iast": "hemalatā",
+    "devanagari": "हेमलता",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular spelling of Hemalata, 'golden creeper/vine'",
+    "components": [
+      {
+        "part": "hema (gold) + latā (creeper)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "hemalata - wisdomlib.org (https://www.wisdomlib.org/definition/hemalata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -372146,26 +372146,30 @@
   {
     "name": "Hemu",
     "iast": "hemu",
-    "devanagari": "",
+    "devanagari": "हेमू",
     "letter": "H",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Contracted name of Hemu (Hemchandra Vikramaditya), a 16th-century Hindu general and emperor of North India who briefly ruled Delhi",
+    "components": [
+      {
+        "part": "hemu (contracted proper name, from hema/hemachandra)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Hemu - Wikipedia (https://en.wikipedia.org/wiki/Hemu)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -372496,34 +372500,30 @@
   {
     "name": "Heramba",
     "iast": "heramba",
-    "devanagari": "",
+    "devanagari": "हेरम्ब",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Protector of the weak/timid', a well-known epithet of Ganesha",
+    "components": [
+      {
+        "part": "heramba (epithet of Ganesha)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Heramba - epithet of Ganesha, wisdomlib.org (https://www.wisdomlib.org/definition/heramba)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -372557,23 +372557,27 @@
     "devanagari": "",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Heramba, epithet of Ganesha ('protector of the weak')",
+    "components": [
+      {
+        "part": "heramba + Tamil masculine suffix -an",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Heramba - epithet of Ganesha, wisdomlib.org (https://www.wisdomlib.org/definition/heramba)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
