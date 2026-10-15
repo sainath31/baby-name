@@ -420143,27 +420143,31 @@
   },
   {
     "name": "Jiivitha",
-    "iast": "jiivitha",
-    "devanagari": "",
+    "iast": "jīvitā",
+    "devanagari": "जीविता",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jeevita, 'living, alive; life'",
+    "components": [
+      {
+        "part": "jīvita (living/life)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jivita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jivita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -420503,35 +420507,31 @@
   },
   {
     "name": "Jimuta",
-    "iast": "jimuta",
-    "devanagari": "",
+    "iast": "jīmūta",
+    "devanagari": "जीमूत",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Cloud' (poetic Sanskrit term); also short for Jimutavahana, the legendary self-sacrificing prince of the Katha Sarit Sagara",
+    "components": [
+      {
+        "part": "jīmūta (cloud)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jimutavahana - Wikipedia (https://en.wikipedia.org/wiki/Jimutavahana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -420562,66 +420562,58 @@
   {
     "name": "Jina",
     "iast": "jina",
-    "devanagari": "",
+    "devanagari": "जिन",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Spiritual victor, conqueror (of the passions)', the title given to the enlightened Tirthankaras in Jainism",
+    "components": [
+      {
+        "part": "jina (spiritual victor, from ji, to conquer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jina - Wikipedia (Jainism) (https://en.wikipedia.org/wiki/Jina_(Jainism))",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Jinabhadra",
     "iast": "jinabhadra",
-    "devanagari": "",
+    "devanagari": "जिनभद्र",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of several notable Jain acharyas/scholars (e.g. Jinabhadra Gani), meaning 'auspicious one of the Jina'",
+    "components": [
+      {
+        "part": "jina (spiritual victor) + bhadra (auspicious)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jinabhadra - Wikipedia (https://en.wikipedia.org/wiki/Jinabhadra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -420938,96 +420930,88 @@
   {
     "name": "Jinendra",
     "iast": "jinendra",
-    "devanagari": "",
+    "devanagari": "जिनेन्द्र",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of the Jinas', a title for the Tirthankaras/the Buddha in some usages, widely used as a Jain given name",
+    "components": [
+      {
+        "part": "jina (spiritual victor) + indra (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jinendra - wisdomlib.org (https://www.wisdomlib.org/definition/jinendra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jinesh",
-    "iast": "jinesh",
-    "devanagari": "",
+    "iast": "jineśa",
+    "devanagari": "जिनेश",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Lord of the Jinas', a common Jain given name",
+    "components": [
+      {
+        "part": "jina (spiritual victor) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jinesha - wisdomlib.org (https://www.wisdomlib.org/definition/jinesha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jineshwar",
-    "iast": "jineshwar",
-    "devanagari": "",
+    "iast": "jineśvara",
+    "devanagari": "जिनेश्वर",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of the Jinas', a Jain devotional epithet; also the name of noted Jain acharyas (e.g. Jineshwar Suri)",
+    "components": [
+      {
+        "part": "jina (spiritual victor) + īśvara (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "jineshvara - wisdomlib.org (https://www.wisdomlib.org/definition/jineshvara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -421473,26 +421457,30 @@
   {
     "name": "Jita",
     "iast": "jita",
-    "devanagari": "",
+    "devanagari": "जित",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Conquered, won' (past participle of ji, to conquer)",
+    "components": [
+      {
+        "part": "jita (conquered)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -421523,26 +421511,30 @@
   {
     "name": "Jitakrodha",
     "iast": "jitakrodha",
-    "devanagari": "",
+    "devanagari": "जितक्रोध",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'One who has conquered anger', a Bhagavad Gita term describing a self-controlled person",
+    "components": [
+      {
+        "part": "jita (conquered) + krodha (anger)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jitakrodha - wisdomlib.org (https://www.wisdomlib.org/definition/jitakrodha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -421680,31 +421672,31 @@
   },
   {
     "name": "Jitender",
-    "iast": "jitender",
-    "devanagari": "",
+    "iast": "jitendra",
+    "devanagari": "जितेन्द्र",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Conqueror of the senses'; also the stage name of veteran Bollywood actor Jeetendra",
+    "components": [
+      {
+        "part": "jita (conquered) + indriya (senses)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jeetendra - Wikipedia (https://en.wikipedia.org/wiki/Jeetendra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -421713,48 +421705,56 @@
     "devanagari": "",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Jitendra, 'conqueror of the senses'",
+    "components": [
+      {
+        "part": "jita (conquered) + indriya (senses) + Tamil suffix",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Jeetendra - Wikipedia (https://en.wikipedia.org/wiki/Jeetendra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jitendriya",
     "iast": "jitendriya",
-    "devanagari": "",
+    "devanagari": "जितेन्द्रिय",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'One who has conquered the senses', a Bhagavad Gita term for a self-disciplined person",
+    "components": [
+      {
+        "part": "jita (conquered) + indriya (senses)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jitendriya - wisdomlib.org (https://www.wisdomlib.org/definition/jitendriya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -421884,52 +421884,60 @@
   },
   {
     "name": "Jithendra",
-    "iast": "jithendra",
-    "devanagari": "",
+    "iast": "jitendra",
+    "devanagari": "जितेन्द्र",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jitendra, 'conqueror of the senses', also the stage name of actor Jeetendra",
+    "components": [
+      {
+        "part": "jita (conquered) + indriya (senses)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jeetendra - Wikipedia (https://en.wikipedia.org/wiki/Jeetendra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jithendriyan",
-    "iast": "jithendriyan",
+    "iast": "jitendriyan",
     "devanagari": "",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Tamil-suffixed form of Jitendriya, 'one who has conquered the senses'",
+    "components": [
+      {
+        "part": "jita (conquered) + indriya (senses) + Tamil suffix",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jitendriya - wisdomlib.org (https://www.wisdomlib.org/definition/jitendriya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
