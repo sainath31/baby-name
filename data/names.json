@@ -179404,11 +179404,11 @@
   },
   {
     "name": "Anannya",
-    "iast": "anannya",
-    "devanagari": "",
+    "iast": "ananya",
+    "devanagari": "अनन्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Unique, sole, without equal, having no other",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -179416,15 +179416,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananyata, Ananyatā - wisdomlib (https://www.wisdomlib.org/definition/ananyata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -179454,11 +179453,11 @@
   },
   {
     "name": "Anant",
-    "iast": "anant",
-    "devanagari": "",
+    "iast": "ananta",
+    "devanagari": "अनन्त",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Endless, infinite, boundless; also a name of Shesha, the cosmic serpent of Vishnu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -179466,31 +179465,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Shesha, Sesa, Śeṣa - wisdomlib (https://www.wisdomlib.org/definition/sesa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -179698,23 +179680,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'ananta'(infinite)+'murti'(embodiment/form)",
+    "components": [
+      {
+        "part": "ananta",
+        "gloss": "infinite"
+      },
+      {
+        "part": "mūrti",
+        "gloss": "embodiment, form"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Shesha, Sesa, Śeṣa - wisdomlib (https://www.wisdomlib.org/definition/sesa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -179773,23 +179763,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'ananta'(infinite)+'shakti'(power)",
+    "components": [
+      {
+        "part": "ananta",
+        "gloss": "infinite"
+      },
+      {
+        "part": "śakti",
+        "gloss": "power, energy"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Shesha, Sesa, Śeṣa - wisdomlib (https://www.wisdomlib.org/definition/sesa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -179823,32 +179821,40 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'anant'(infinite)+'dev'(god)",
+    "components": [
+      {
+        "part": "ananta",
+        "gloss": "infinite"
+      },
+      {
+        "part": "deva",
+        "gloss": "god"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Shesha, Sesa, Śeṣa - wisdomlib (https://www.wisdomlib.org/definition/sesa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ananth",
-    "iast": "ananth",
-    "devanagari": "",
+    "iast": "ananta",
+    "devanagari": "अनन्त",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Endless, infinite, boundless; also a name of Shesha, the cosmic serpent of Vishnu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -179856,24 +179862,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Shesha, Sesa, Śeṣa - wisdomlib (https://www.wisdomlib.org/definition/sesa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anantha",
-    "iast": "anantha",
-    "devanagari": "",
+    "iast": "ananta",
+    "devanagari": "अनन्त",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Endless, infinite, boundless; also a name of Shesha, the cosmic serpent of Vishnu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -179881,28 +179886,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Shesha, Sesa, Śeṣa - wisdomlib (https://www.wisdomlib.org/definition/sesa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Ananthaa",
-    "iast": "ananthaa",
-    "devanagari": "",
+    "iast": "anantā",
+    "devanagari": "अनन्ता",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Feminine form related to Ananta: endless, infinite, boundless",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -179910,23 +179910,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Shesha, Sesa, Śeṣa - wisdomlib (https://www.wisdomlib.org/definition/sesa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Ananthan",
-    "iast": "ananthan",
-    "devanagari": "",
+    "iast": "ananta",
+    "devanagari": "அனந்தன்",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Tamil form of Ananta: 'endless', a name of Shesha/Vishnu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -179934,15 +179934,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Shesha, Sesa, Śeṣa - wisdomlib (https://www.wisdomlib.org/definition/sesa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -179951,23 +179950,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'anantha'(infinite)+'raj'(king)",
+    "components": [
+      {
+        "part": "ananta",
+        "gloss": "infinite"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Shesha, Sesa, Śeṣa - wisdomlib (https://www.wisdomlib.org/definition/sesa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -179976,23 +179983,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'anantha'(infinite)+'Raman'(Rama)",
+    "components": [
+      {
+        "part": "ananta",
+        "gloss": "infinite"
+      },
+      {
+        "part": "rāma",
+        "gloss": "Rama"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Shesha, Sesa, Śeṣa - wisdomlib (https://www.wisdomlib.org/definition/sesa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -180183,11 +180198,11 @@
   },
   {
     "name": "Anany",
-    "iast": "anany",
-    "devanagari": "",
+    "iast": "ananya",
+    "devanagari": "अनन्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Unique, sole, without equal, having no other",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -180195,15 +180210,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananyata, Ananyatā - wisdomlib (https://www.wisdomlib.org/definition/ananyata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -180233,11 +180247,11 @@
   },
   {
     "name": "Ananye",
-    "iast": "ananye",
-    "devanagari": "",
+    "iast": "ananya",
+    "devanagari": "अनन्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Unique, sole, without equal, having no other",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -180245,24 +180259,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananyata, Ananyatā - wisdomlib (https://www.wisdomlib.org/definition/ananyata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ananyo",
-    "iast": "ananyo",
-    "devanagari": "",
+    "iast": "ananya",
+    "devanagari": "অনন্য",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Bengali spelling of Ananya: unique, sole, without equal",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -180270,23 +180283,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananyata, Ananyatā - wisdomlib (https://www.wisdomlib.org/definition/ananyata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -180316,11 +180320,11 @@
   },
   {
     "name": "Anargh",
-    "iast": "anargh",
-    "devanagari": "",
+    "iast": "anargha",
+    "devanagari": "अनर्घ",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Invaluable, priceless, inestimable",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -180328,24 +180332,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anargha - wisdomlib (https://www.wisdomlib.org/definition/anargha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anargha",
     "iast": "anargha",
-    "devanagari": "",
+    "devanagari": "अनर्घ",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Invaluable, priceless, inestimable",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -180353,45 +180356,48 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anargha - wisdomlib (https://www.wisdomlib.org/definition/anargha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Anarghya",
     "iast": "anarghya",
-    "devanagari": "",
+    "devanagari": "अनर्घ्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Without price'; priceless, invaluable, that which cannot be bought",
+    "components": [
+      {
+        "part": "an-",
+        "gloss": "not"
+      },
+      {
+        "part": "arghya",
+        "gloss": "price, worth"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anarghya - wisdomlib (https://www.wisdomlib.org/definition/anarghya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Anarthanan",
@@ -180470,11 +180476,11 @@
   },
   {
     "name": "Anashin",
-    "iast": "anashin",
-    "devanagari": "",
+    "iast": "anāśin",
+    "devanagari": "अनाशिन्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Indestructible, imperishable",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -180482,24 +180488,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anashi, Anāśī, Anāśin - wisdomlib (https://www.wisdomlib.org/definition/anashi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anashwar",
-    "iast": "anashwar",
-    "devanagari": "",
+    "iast": "anaśvara",
+    "devanagari": "अनश्वर",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Imperishable, immortal, undying",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -180507,24 +180512,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anashya, Anāśya - wisdomlib (confirms related 'indestructible/imperishable' root family) (https://www.wisdomlib.org/definition/anashya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anashwara",
-    "iast": "anashwara",
-    "devanagari": "",
+    "iast": "anaśvara",
+    "devanagari": "अनश्वर",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Imperishable, immortal, undying",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -180532,24 +180536,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anashya, Anāśya - wisdomlib (confirms related 'indestructible/imperishable' root family) (https://www.wisdomlib.org/definition/anashya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Anashya",
-    "iast": "anashya",
-    "devanagari": "",
+    "iast": "anāśya",
+    "devanagari": "अनाश्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Indestructible, imperishable, eternal",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -180557,94 +180560,113 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anashya, Anāśya - wisdomlib (https://www.wisdomlib.org/definition/anashya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anasooya",
-    "iast": "anasooya",
-    "devanagari": "",
+    "iast": "anasūyā",
+    "devanagari": "अनसूया",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Free from envy/spite'; wife of sage Atri and mother of Dattatreya, celebrated as a model of wifely virtue",
+    "components": [
+      {
+        "part": "an-",
+        "gloss": "not"
+      },
+      {
+        "part": "asūyā",
+        "gloss": "envy, spite"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anasuya, Anasūyā - wisdomlib (https://de.wisdomlib.org/definition/anasuya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Anasua",
-    "iast": "anasua",
-    "devanagari": "",
+    "iast": "anasūyā",
+    "devanagari": "अनसूया",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Anasuya: 'free from envy', wife of sage Atri",
+    "components": [
+      {
+        "part": "an-",
+        "gloss": "not"
+      },
+      {
+        "part": "asūyā",
+        "gloss": "envy, spite"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anasuya, Anasūyā - wisdomlib (https://de.wisdomlib.org/definition/anasuya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Anasuyah",
-    "iast": "anasuyah",
-    "devanagari": "",
+    "iast": "anasūyā",
+    "devanagari": "अनसूया",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Anasuya: 'free from envy', wife of sage Atri",
+    "components": [
+      {
+        "part": "an-",
+        "gloss": "not"
+      },
+      {
+        "part": "asūyā",
+        "gloss": "envy, spite"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anasuya, Anasūyā - wisdomlib (https://de.wisdomlib.org/definition/anasuya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
