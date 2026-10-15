@@ -173086,34 +173086,34 @@
   {
     "name": "Ambuja",
     "iast": "ambuja",
-    "devanagari": "",
+    "devanagari": "अम्बुज",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Born of water'; the lotus",
+    "components": [
+      {
+        "part": "ambu",
+        "gloss": "water"
+      },
+      {
+        "part": "ja",
+        "gloss": "born"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ambuja, Ambu-ja - wisdomlib (https://www.wisdomlib.org/definition/ambuja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -173551,10 +173551,10 @@
   {
     "name": "Ameya",
     "iast": "ameya",
-    "devanagari": "",
+    "devanagari": "अमेय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Immeasurable, boundless; also 'unknowable'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -173562,31 +173562,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ameya - wisdomlib (https://www.wisdomlib.org/definition/ameya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Ameyaa",
-    "iast": "ameyaa",
-    "devanagari": "",
+    "iast": "ameyā",
+    "devanagari": "अमेया",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Immeasurable, boundless (feminine form)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -173594,15 +173586,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ameya - wisdomlib (https://www.wisdomlib.org/definition/ameya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -173989,11 +173980,11 @@
   },
   {
     "name": "Amirtha",
-    "iast": "amirtha",
-    "devanagari": "",
+    "iast": "amṛta",
+    "devanagari": "அமிர்த",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Tamil form of 'Amrita': the nectar of immortality",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -174001,15 +173992,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Amrita - Wikipedia (https://en.wikipedia.org/wiki/Amrita)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -174231,81 +174221,102 @@
   },
   {
     "name": "Amitaabh",
-    "iast": "amitaabh",
-    "devanagari": "",
+    "iast": "amitābha",
+    "devanagari": "अमिताभ",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Boundless/infinite light'; name of the principal Buddha in Pure Land Buddhism, also famous as the name of actor Amitabh Bachchan",
+    "components": [
+      {
+        "part": "amita",
+        "gloss": "unbounded, infinite"
+      },
+      {
+        "part": "ābhā",
+        "gloss": "light, splendour"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amitabha - Wikipedia/dictionary.com citation (https://dictionary.com/browse/amitabha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Amitab",
-    "iast": "amitab",
-    "devanagari": "",
+    "iast": "amitābha",
+    "devanagari": "अमिताभ",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Boundless/infinite light'; name of the principal Buddha in Pure Land Buddhism, also famous as the name of actor Amitabh Bachchan",
+    "components": [
+      {
+        "part": "amita",
+        "gloss": "unbounded, infinite"
+      },
+      {
+        "part": "ābhā",
+        "gloss": "light, splendour"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Amitabha - Wikipedia/dictionary.com citation (https://dictionary.com/browse/amitabha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Amitabha",
-    "iast": "amitabha",
-    "devanagari": "",
+    "iast": "amitābha",
+    "devanagari": "अमिताभ",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Boundless/infinite light'; name of the principal Buddha in Pure Land Buddhism",
+    "components": [
+      {
+        "part": "amita",
+        "gloss": "unbounded, infinite"
+      },
+      {
+        "part": "ābhā",
+        "gloss": "light, splendour"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Amitabha - dictionary.com (https://dictionary.com/browse/amitabha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Amitah",
