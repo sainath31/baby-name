@@ -177714,11 +177714,11 @@
   },
   {
     "name": "Anahata",
-    "iast": "anahata",
-    "devanagari": "",
+    "iast": "anāhata",
+    "devanagari": "अनाहत",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "'Unstruck, unhurt'; the heart chakra in Hindu yogic/tantric tradition, seat of love",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -177726,24 +177726,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anahata, Anāhata - wisdomlib (https://www.wisdomlib.org/definition/anahata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Anahath",
-    "iast": "anahath",
-    "devanagari": "",
+    "iast": "anāhata",
+    "devanagari": "अनाहत",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Anahata: 'unstruck, unhurt', the heart chakra",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -177751,15 +177750,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anahata, Anāhata - wisdomlib (https://www.wisdomlib.org/definition/anahata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -177968,10 +177966,10 @@
   {
     "name": "Anala",
     "iast": "anala",
-    "devanagari": "",
+    "devanagari": "अनल",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Fire; name of one of the eight Vasus, associated with Agni",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -177979,24 +177977,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Anala, Analā - wisdomlib (https://www.wisdomlib.org/definition/anala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Analadi",
@@ -178331,11 +178320,11 @@
   },
   {
     "name": "Ananda",
-    "iast": "ananda",
-    "devanagari": "",
+    "iast": "ānanda",
+    "devanagari": "आनन्द",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Bliss, happiness, joy; key term in Vedanta describing the nature of Brahman/the self",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -178343,23 +178332,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Anandabalan",
@@ -178438,11 +178419,11 @@
   },
   {
     "name": "Anandah",
-    "iast": "anandah",
-    "devanagari": "",
+    "iast": "ānanda",
+    "devanagari": "आनन्द",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Ananda: bliss, happiness, joy",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -178450,15 +178431,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -178488,131 +178468,147 @@
   },
   {
     "name": "Anandamay",
-    "iast": "anandamay",
-    "devanagari": "",
+    "iast": "ānandamaya",
+    "devanagari": "आनन्दमय",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Full of bliss'",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anandamaya",
-    "iast": "anandamaya",
-    "devanagari": "",
+    "iast": "ānandamaya",
+    "devanagari": "आनन्दमय",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Full of bliss'",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anandamaye",
-    "iast": "anandamaye",
-    "devanagari": "",
+    "iast": "ānandamaya",
+    "devanagari": "आनन्दमय",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Variant spelling of Anandamaya: 'full of bliss'",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Anandan",
-    "iast": "anandan",
-    "devanagari": "",
+    "iast": "ānandan",
+    "devanagari": "ஆனந்தன்",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil form related to Ananda: bliss, happiness",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anandani",
-    "iast": "anandani",
-    "devanagari": "",
+    "iast": "ānandinī",
+    "devanagari": "आनन्दिनी",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant related to Aanandini: 'joyful one', feminine form related to ananda",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -178646,23 +178642,32 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'ananda'(bliss)+'raj'(king)",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Anandashankar",
@@ -178670,23 +178675,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'ananda'(bliss)+'shankar'(Shiva)",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      },
+      {
+        "part": "śaṅkara",
+        "gloss": "Shiva"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -178720,48 +178733,60 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'ananda'(bliss)+'Krishnan'(Krishna)",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      },
+      {
+        "part": "kṛṣṇa",
+        "gloss": "Krishna"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anandhan",
-    "iast": "anandhan",
-    "devanagari": "",
+    "iast": "ānandan",
+    "devanagari": "ஆனந்தன்",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil form related to Ananda: bliss, happiness",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -178770,51 +178795,60 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'ananda'(bliss)+'raj'(king)",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Anandhi",
-    "iast": "anandhi",
-    "devanagari": "",
+    "iast": "ānandī",
+    "devanagari": "आनन्दी",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil/South Indian feminine form related to 'ananda', 'joyful one'",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -178844,97 +178878,89 @@
   },
   {
     "name": "Anandini",
-    "iast": "anandini",
-    "devanagari": "",
+    "iast": "ānandinī",
+    "devanagari": "आनन्दिनी",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to 'ananda', 'joyful one'",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Anandita",
-    "iast": "anandita",
-    "devanagari": "",
+    "iast": "ānandita",
+    "devanagari": "आनन्दित",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Delighted, made happy, filled with bliss",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Ananditha",
-    "iast": "ananditha",
-    "devanagari": "",
+    "iast": "ānandita",
+    "devanagari": "आनन्दित",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Anandita: delighted, filled with bliss",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -178964,31 +178990,35 @@
   },
   {
     "name": "Anandmayee",
-    "iast": "anandmayee",
-    "devanagari": "",
+    "iast": "ānandamayī",
+    "devanagari": "आनन्दमयी",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Full of bliss'; famously the name/title of the 20th-century saint Anandamayi Ma",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      },
+      {
+        "part": "mayī",
+        "gloss": "full of, consisting of"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anandamayi Ma - Wikipedia (https://en.wikipedia.org/wiki/Anandamayi_Ma)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -178997,23 +179027,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'ananda'(bliss)+'mohan'(charming, epithet of Krishna)",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      },
+      {
+        "part": "mohana",
+        "gloss": "charming, enchanting"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -179021,33 +179059,41 @@
     "iast": "anandmoorti",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Compound 'ananda'(bliss)+'moorti'(embodiment)",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      },
+      {
+        "part": "mūrti",
+        "gloss": "embodiment, form"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anando",
-    "iast": "anando",
-    "devanagari": "",
+    "iast": "ānanda",
+    "devanagari": "আনন্দ",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Bengali spelling of Ananda: bliss, happiness, joy",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -179055,23 +179101,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -179080,27 +179117,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'ananda'(bliss)+'sagar'(ocean)",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      },
+      {
+        "part": "sāgara",
+        "gloss": "ocean"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -179134,32 +179175,40 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'ananda'(bliss)+'vardhan'(increasing); also the name of Anandavardhana, the 9th-century Kashmiri aesthetician who formulated the theory of dhvani",
+    "components": [
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      },
+      {
+        "part": "vardhana",
+        "gloss": "increasing, prospering"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananda, Ānanda - wisdomlib (https://www.wisdomlib.org/definition/ananda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anang",
-    "iast": "anang",
-    "devanagari": "",
+    "iast": "anaṅga",
+    "devanagari": "अनङ्ग",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Ananga: 'the Bodiless', an epithet of Kamadeva, the god of love",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -179167,40 +179216,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananga, Anaṅga, Anaṅgā - wisdomlib (https://www.wisdomlib.org/definition/ananga)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ananga",
-    "iast": "ananga",
-    "devanagari": "",
+    "iast": "anaṅga",
+    "devanagari": "अनङ्ग",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "'The Bodiless'; an epithet of Kamadeva, the god of love, who was burnt to incorporeality by Shiva's third eye",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -179208,28 +179240,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ananga, Anaṅga, Anaṅgā - wisdomlib (https://www.wisdomlib.org/definition/ananga)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anangee",
-    "iast": "anangee",
-    "devanagari": "",
+    "iast": "anaṅgā",
+    "devanagari": "अनङ्गा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant/feminine form related to Ananga: 'the Bodiless', epithet associated with Kama",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -179237,15 +179264,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ananga, Anaṅga, Anaṅgā - wisdomlib (https://www.wisdomlib.org/definition/ananga)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
