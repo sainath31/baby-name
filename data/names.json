@@ -394596,31 +394596,31 @@
   },
   {
     "name": "Jag",
-    "iast": "jag",
-    "devanagari": "",
+    "iast": "jaga",
+    "devanagari": "जग",
     "letter": "J",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Contracted vernacular (Hindi/Punjabi) form of 'jagat' (world); used as a given name element",
+    "components": [
+      {
+        "part": "jagat (world)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jagat - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jagat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -394662,68 +394662,60 @@
   },
   {
     "name": "Jagad",
-    "iast": "jagad",
-    "devanagari": "",
+    "iast": "jagat",
+    "devanagari": "जगत्",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'World, universe'",
+    "components": [
+      {
+        "part": "jagat (world)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jagat - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jagat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagadambika",
-    "iast": "jagadambika",
-    "devanagari": "",
+    "iast": "jagadambikā",
+    "devanagari": "जगदम्बिका",
     "letter": "J",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Mother of the world/universe', an epithet of the Divine Mother (Durga/Parvati)",
+    "components": [
+      {
+        "part": "jagat (world) + ambikā (mother)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jagadambika - wisdomlib.org (https://www.wisdomlib.org/definition/jagadambika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -394783,84 +394775,88 @@
   {
     "name": "Jagadbandhu",
     "iast": "jagadbandhu",
-    "devanagari": "",
+    "devanagari": "जगद्बन्धु",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Friend/brother of the world', a devotional epithet of God; also the name of 19th-century Bengali saint Jagadbandhu Sundar",
+    "components": [
+      {
+        "part": "jagat (world) + bandhu (friend/kin)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Jagadbandhu Sundar - Wikipedia (https://en.wikipedia.org/wiki/Jagadbandhu_Sundar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagadbandu",
-    "iast": "jagadbandu",
-    "devanagari": "",
+    "iast": "jagadbandhu",
+    "devanagari": "जगद्बन्धु",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jagadbandhu, 'friend of the world'; also the name of the Bengali saint Jagadbandhu Sundar",
+    "components": [
+      {
+        "part": "jagat (world) + bandhu (friend)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jagadbandhu Sundar - Wikipedia (https://en.wikipedia.org/wiki/Jagadbandhu_Sundar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagaddhatri",
-    "iast": "jagaddhatri",
-    "devanagari": "",
+    "iast": "jagaddhātrī",
+    "devanagari": "जगद्धात्री",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Sustainer/nurturer of the world', an epithet and form of the goddess Durga especially worshipped in Bengal",
+    "components": [
+      {
+        "part": "jagat (world) + dhātrī (sustainer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Jagaddhatri - Wikipedia (https://en.wikipedia.org/wiki/Jagaddhatri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -394902,152 +394898,176 @@
   },
   {
     "name": "Jagadees",
-    "iast": "jagadees",
-    "devanagari": "",
+    "iast": "jagadīśa",
+    "devanagari": "जगदीश",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Jagadish, 'lord of the world/universe', epithet of Vishnu",
+    "components": [
+      {
+        "part": "jagat (world) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jagadisha - wisdomlib.org (https://www.wisdomlib.org/definition/jagadisha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagadeesan",
-    "iast": "jagadeesan",
+    "iast": "jagadīśan",
     "devanagari": "",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Jagadish, 'lord of the world', epithet of Vishnu",
+    "components": [
+      {
+        "part": "jagat (world) + īśa (lord) + Tamil suffix",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jagadisha - wisdomlib.org (https://www.wisdomlib.org/definition/jagadisha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagadeeshwar",
-    "iast": "jagadeeshwar",
-    "devanagari": "",
+    "iast": "jagadīśvara",
+    "devanagari": "जगदीश्वर",
     "letter": "J",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Lord of the world/universe', epithet of Vishnu/the Supreme Being",
+    "components": [
+      {
+        "part": "jagat (world) + īśvara (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jagadishvara - wisdomlib.org (https://www.wisdomlib.org/definition/jagadishvara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagadeeswaran",
-    "iast": "jagadeeswaran",
+    "iast": "jagadīśvaran",
     "devanagari": "",
     "letter": "J",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Jagadishwar, 'lord of the world'",
+    "components": [
+      {
+        "part": "jagat (world) + īśvara (lord) + Tamil suffix",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jagadishvara - wisdomlib.org (https://www.wisdomlib.org/definition/jagadishvara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagadesh",
-    "iast": "jagadesh",
-    "devanagari": "",
+    "iast": "jagadīśa",
+    "devanagari": "जगदीश",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular spelling of Jagadish, 'lord of the world'",
+    "components": [
+      {
+        "part": "jagat (world) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jagadisha - wisdomlib.org (https://www.wisdomlib.org/definition/jagadisha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagadesha",
-    "iast": "jagadesha",
-    "devanagari": "",
+    "iast": "jagadīśa",
+    "devanagari": "जगदीश",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jagadish, 'lord of the world'",
+    "components": [
+      {
+        "part": "jagat (world) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jagadisha - wisdomlib.org (https://www.wisdomlib.org/definition/jagadisha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -395086,30 +395106,30 @@
   {
     "name": "Jagadguru",
     "iast": "jagadguru",
-    "devanagari": "",
+    "devanagari": "जगद्गुरु",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'World teacher', a title given to revered spiritual masters such as Adi Shankaracharya",
+    "components": [
+      {
+        "part": "jagat (world) + guru (teacher)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Jagadguru - Wikipedia (https://en.wikipedia.org/wiki/Jagadguru)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -395168,35 +395188,31 @@
   },
   {
     "name": "Jagadhish",
-    "iast": "jagadhish",
-    "devanagari": "",
+    "iast": "jagadīśa",
+    "devanagari": "जगदीश",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Jagadish, 'lord of the world', epithet of Vishnu",
+    "components": [
+      {
+        "part": "jagat (world) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jagadisha - wisdomlib.org (https://www.wisdomlib.org/definition/jagadisha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -395230,153 +395246,145 @@
   },
   {
     "name": "Jagadis",
-    "iast": "jagadis",
-    "devanagari": "",
+    "iast": "jagadīśa",
+    "devanagari": "जगदीश",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Jagadish, 'lord of the world'; also the name of renowned scientist Jagadish Chandra Bose",
+    "components": [
+      {
+        "part": "jagat (world) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Jagadish Chandra Bose - Wikipedia (https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Jagadish",
-    "iast": "jagadish",
-    "devanagari": "",
+    "iast": "jagadīśa",
+    "devanagari": "जगदीश",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of the world/universe', epithet of Vishnu; also the name of the renowned scientist Jagadish Chandra Bose",
+    "components": [
+      {
+        "part": "jagat (world) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jagadish Chandra Bose - Wikipedia (https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagadisha",
-    "iast": "jagadisha",
-    "devanagari": "",
+    "iast": "jagadīśa",
+    "devanagari": "जगदीश",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jagadish, 'lord of the world'",
+    "components": [
+      {
+        "part": "jagat (world) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "jagadisha - wisdomlib.org (https://www.wisdomlib.org/definition/jagadisha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Jagadishwari",
-    "iast": "jagadishwari",
-    "devanagari": "",
+    "iast": "jagadīśvarī",
+    "devanagari": "जगदीश्वरी",
     "letter": "J",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form of Jagadishwar, 'goddess/mistress of the world', epithet of Durga/Parvati",
+    "components": [
+      {
+        "part": "jagat (world) + īśvarī (goddess)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "jagadishvari - wisdomlib.org (https://www.wisdomlib.org/definition/jagadishvari)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jagajeet",
-    "iast": "jagajeet",
-    "devanagari": "",
+    "iast": "jagajjit",
+    "devanagari": "जगज्जित्",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Conqueror of the world'",
+    "components": [
+      {
+        "part": "jagat (world) + jit (conqueror)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jagajjit - wisdomlib.org (https://www.wisdomlib.org/definition/jagajjit)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -395410,35 +395418,31 @@
   },
   {
     "name": "Jagamata",
-    "iast": "jagamata",
-    "devanagari": "",
+    "iast": "jagamātā",
+    "devanagari": "जगमाता",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Mother of the world', epithet of the Divine Mother",
+    "components": [
+      {
+        "part": "jagat (world) + mātā (mother)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jaganmata - wisdomlib.org (https://www.wisdomlib.org/definition/jaganmata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -395547,27 +395551,31 @@
   },
   {
     "name": "Jaganathan",
-    "iast": "jaganathan",
+    "iast": "jagannāthan",
     "devanagari": "",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Jagannatha, 'lord of the world/universe', epithet of Vishnu/Krishna, famous for the Jagannath Temple at Puri",
+    "components": [
+      {
+        "part": "jagat (world) + nātha (lord) + Tamil suffix",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jagannath - Wikipedia (https://en.wikipedia.org/wiki/Jagannath)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -395597,39 +395605,31 @@
   },
   {
     "name": "Jaganmata",
-    "iast": "jaganmata",
-    "devanagari": "",
+    "iast": "jaganmātā",
+    "devanagari": "जगन्माता",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Mother of the world/universe', epithet of the Divine Mother (Durga/Parvati)",
+    "components": [
+      {
+        "part": "jagat (world) + mātā (mother)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jaganmata - wisdomlib.org (https://www.wisdomlib.org/definition/jaganmata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -395692,31 +395692,31 @@
   },
   {
     "name": "Jaganmatri",
-    "iast": "jaganmatri",
-    "devanagari": "",
+    "iast": "jaganmātrī",
+    "devanagari": "जगन्मात्री",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant of Jaganmata, 'mother of the world', epithet of the Divine Mother",
+    "components": [
+      {
+        "part": "jagat (world) + mātrī (mother)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jaganmata - wisdomlib.org (https://www.wisdomlib.org/definition/jaganmata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -395812,68 +395812,60 @@
   },
   {
     "name": "Jaganmayee",
-    "iast": "jaganmayee",
-    "devanagari": "",
+    "iast": "jaganmayī",
+    "devanagari": "जगन्मयी",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'She who permeates/fills the world', an epithet of the Divine Mother",
+    "components": [
+      {
+        "part": "jagat (world) + mayī (filled with, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jaganmayi - wisdomlib.org (https://www.wisdomlib.org/definition/jaganmayi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jaganmayi",
-    "iast": "jaganmayi",
-    "devanagari": "",
+    "iast": "jaganmayī",
+    "devanagari": "जगन्मयी",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'She who permeates/fills the world', an epithet of the Divine Mother",
+    "components": [
+      {
+        "part": "jagat (world) + mayī (filled with)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "jaganmayi - wisdomlib.org (https://www.wisdomlib.org/definition/jaganmayi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -395986,56 +395978,60 @@
   },
   {
     "name": "Jagannatha",
-    "iast": "jagannatha",
-    "devanagari": "",
+    "iast": "jagannātha",
+    "devanagari": "जगन्नाथ",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of the universe/world', a major epithet and iconographic form of Vishnu/Krishna, famous for the Jagannath Temple at Puri",
+    "components": [
+      {
+        "part": "jagat (world) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Jagannath - Wikipedia (https://en.wikipedia.org/wiki/Jagannath)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagannathan",
-    "iast": "jagannathan",
+    "iast": "jagannāthan",
     "devanagari": "",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Jagannatha, 'lord of the universe', epithet of Vishnu/Krishna",
+    "components": [
+      {
+        "part": "jagat (world) + nātha (lord) + Tamil suffix",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jagannath - Wikipedia (https://en.wikipedia.org/wiki/Jagannath)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -396148,85 +396144,89 @@
   },
   {
     "name": "Jagatguru",
-    "iast": "jagatguru",
-    "devanagari": "",
+    "iast": "jagadguru",
+    "devanagari": "जगद्गुरु",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jagadguru, 'world teacher', a title for revered spiritual masters",
+    "components": [
+      {
+        "part": "jagat (world) + guru (teacher)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jagadguru - Wikipedia (https://en.wikipedia.org/wiki/Jagadguru)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagath",
-    "iast": "jagath",
-    "devanagari": "",
+    "iast": "jagat",
+    "devanagari": "जगत्",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling of Jagat, 'world, universe'",
+    "components": [
+      {
+        "part": "jagat (world)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jagat - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jagat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jagatheesh",
-    "iast": "jagatheesh",
-    "devanagari": "",
+    "iast": "jagadīśa",
+    "devanagari": "जगदीश",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Jagadish, 'lord of the world'",
+    "components": [
+      {
+        "part": "jagat (world) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jagadisha - wisdomlib.org (https://www.wisdomlib.org/definition/jagadisha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
