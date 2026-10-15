@@ -158893,11 +158893,11 @@
   },
   {
     "name": "Agasthya",
-    "iast": "agasthya",
-    "devanagari": "",
+    "iast": "agastya",
+    "devanagari": "अगस्त्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a prominent Vedic sage (Rishi)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -158905,36 +158905,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Agastya, Āgastya - wisdomlib (https://de.wisdomlib.org/definition/agastya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Agasti",
     "iast": "agasti",
-    "devanagari": "",
+    "devanagari": "अगस्ति",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Agastya: name of a prominent Vedic sage",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -158942,19 +158929,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Agastya, Āgastya - wisdomlib (https://de.wisdomlib.org/definition/agastya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -158984,11 +158966,11 @@
   },
   {
     "name": "Agathiyan",
-    "iast": "agathiyan",
-    "devanagari": "",
+    "iast": "agastya",
+    "devanagari": "அகத்தியன்",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Tamil form of Agastya, the Vedic sage revered in Tamil tradition as the father of Tamil grammar",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -158996,15 +158978,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Agastya, Āgastya - wisdomlib (https://de.wisdomlib.org/definition/agastya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -159311,10 +159292,10 @@
   {
     "name": "Aghora",
     "iast": "aghora",
-    "devanagari": "",
+    "devanagari": "अघोर",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "'Non-terrifying'; one of the five aspects (Panchabrahma) of Shiva, personifying the power of dissolution/reabsorption",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -159322,44 +159303,47 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aghora - wisdomlib (https://www.wisdomlib.org/definition/aghora)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aghoranath",
-    "iast": "aghoranath",
-    "devanagari": "",
+    "iast": "aghoranātha",
+    "devanagari": "अघोरनाथ",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Lord Aghora'; compound of the confirmed 'aghora' (Shiva aspect) with 'nātha' (lord)",
+    "components": [
+      {
+        "part": "aghora",
+        "gloss": "non-terrifying, Shiva aspect"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aghora - wisdomlib (https://www.wisdomlib.org/definition/aghora)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -159389,27 +159373,35 @@
   },
   {
     "name": "Aghornath",
-    "iast": "aghornath",
-    "devanagari": "",
+    "iast": "aghoranātha",
+    "devanagari": "अघोरनाथ",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Variant spelling of Aghoranath: 'Lord Aghora'",
+    "components": [
+      {
+        "part": "aghora",
+        "gloss": "non-terrifying, Shiva aspect"
+      },
+      {
+        "part": "nātha",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aghora - wisdomlib (https://www.wisdomlib.org/definition/aghora)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -159526,11 +159518,11 @@
   },
   {
     "name": "Agneya",
-    "iast": "agneya",
-    "devanagari": "",
+    "iast": "āgneya",
+    "devanagari": "आग्नेय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Relating to or belonging to Agni (fire); fiery; also an epithet of Kartikeya as son of Agni",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -159538,23 +159530,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Agneya, Āgneya - wisdomlib (https://www.wisdomlib.org/definition/agneya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -159609,31 +159592,35 @@
   },
   {
     "name": "Agnidev",
-    "iast": "agnidev",
-    "devanagari": "",
+    "iast": "agnideva",
+    "devanagari": "अग्निदेव",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Fire god'; the Vedic god Agni",
+    "components": [
+      {
+        "part": "agni",
+        "gloss": "fire"
+      },
+      {
+        "part": "deva",
+        "gloss": "god"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Agni - Wikipedia (https://en.wikipedia.org/wiki/Agni)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -159664,26 +159651,34 @@
   {
     "name": "Agnihotra",
     "iast": "agnihotra",
-    "devanagari": "",
+    "devanagari": "अग्निहोत्र",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "A fire sacrifice; the daily Vedic ritual of offerings into sacred fire",
+    "components": [
+      {
+        "part": "agni",
+        "gloss": "fire"
+      },
+      {
+        "part": "hotra",
+        "gloss": "oblation, offering"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Agnihotra, Agni-hotra - wisdomlib (https://de.wisdomlib.org/definition/agnihotra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -160156,11 +160151,11 @@
   },
   {
     "name": "Agraj",
-    "iast": "agraj",
-    "devanagari": "",
+    "iast": "agraja",
+    "devanagari": "अग्रज",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "The firstborn, elder brother",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -160168,32 +160163,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Significance of Eldest son - wisdomlib (https://www.wisdomlib.org/concept/eldest-son)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Agraja",
     "iast": "agraja",
-    "devanagari": "",
+    "devanagari": "अग्रज",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "The firstborn, elder brother",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -160201,24 +160187,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Significance of Eldest son - wisdomlib (https://www.wisdomlib.org/concept/eldest-son)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Agrani",
-    "iast": "agrani",
-    "devanagari": "",
+    "iast": "agraṇī",
+    "devanagari": "अग्रणी",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Leader, one who leads/goes first",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -160226,27 +160211,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Agrani, Agraṇī - wisdomlib (https://www.wisdomlib.org/definition/agrani)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Agrata",
-    "iast": "agrata",
-    "devanagari": "",
+    "iast": "agratā",
+    "devanagari": "अग्रता",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Precedence, priority, the state of being foremost",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -160254,27 +160235,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Agrata, Agratā - wisdomlib (https://www.wisdomlib.org/definition/agrata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Agrima",
@@ -160308,10 +160277,10 @@
   {
     "name": "Agriya",
     "iast": "agriya",
-    "devanagari": "",
+    "devanagari": "अग्रिय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Foremost, principal, best; the oldest/firstborn",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -160319,27 +160288,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Agriya, Agrīya - wisdomlib (https://www.wisdomlib.org/definition/agriya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Agustya",
-    "iast": "agustya",
-    "devanagari": "",
+    "iast": "agastya",
+    "devanagari": "अगस्त्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Agastya: name of a prominent Vedic sage",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -160347,15 +160312,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Agastya, Āgastya - wisdomlib (https://de.wisdomlib.org/definition/agastya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
