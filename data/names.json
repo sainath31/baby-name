@@ -412582,52 +412582,60 @@
   },
   {
     "name": "Jaychand",
-    "iast": "jaychand",
-    "devanagari": "",
+    "iast": "jayacandra",
+    "devanagari": "जयचन्द्र",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Moon of victory'; also the historical 12th-century king Jayachandra of Kannauj",
+    "components": [
+      {
+        "part": "jaya (victory) + candra (moon)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jayachandra - Wikipedia (https://en.wikipedia.org/wiki/Jayachandra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jaychandra",
-    "iast": "jaychandra",
-    "devanagari": "",
+    "iast": "jayacandra",
+    "devanagari": "जयचन्द्र",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Moon of victory'; also the historical king Jayachandra of Kannauj",
+    "components": [
+      {
+        "part": "jaya (victory) + candra (moon)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jayachandra - Wikipedia (https://en.wikipedia.org/wiki/Jayachandra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -412711,27 +412719,31 @@
   },
   {
     "name": "Jaydev",
-    "iast": "jaydev",
-    "devanagari": "",
+    "iast": "jayadeva",
+    "devanagari": "जयदेव",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'God of victory'; also the name of the renowned 12th-century poet Jayadeva, author of the Gita Govinda",
+    "components": [
+      {
+        "part": "jaya (victory) + deva (god)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jayadeva - Wikipedia (https://en.wikipedia.org/wiki/Jayadeva)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -412786,27 +412798,31 @@
   },
   {
     "name": "Jayeeta",
-    "iast": "jayeeta",
-    "devanagari": "",
+    "iast": "jayitā",
+    "devanagari": "जयिता",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Jayita, 'victorious' (feminine)",
+    "components": [
+      {
+        "part": "jayitā (victorious, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jayita - wisdomlib.org (https://www.wisdomlib.org/definition/jayita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -412837,34 +412853,30 @@
   {
     "name": "Jayendra",
     "iast": "jayendra",
-    "devanagari": "",
+    "devanagari": "जयेन्द्र",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Lord of victory'",
+    "components": [
+      {
+        "part": "jaya (victory) + indra (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jayendra - wisdomlib.org (https://www.wisdomlib.org/definition/jayendra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -412974,34 +412986,30 @@
   {
     "name": "Jayin",
     "iast": "jayin",
-    "devanagari": "",
+    "devanagari": "जयिन्",
     "letter": "J",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "'Victorious, conquering' (possessive of jaya)",
+    "components": [
+      {
+        "part": "jayin (victorious)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jayin - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jayin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -413056,35 +413064,31 @@
   },
   {
     "name": "Jayita",
-    "iast": "jayita",
-    "devanagari": "",
+    "iast": "jayitā",
+    "devanagari": "जयिता",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Victorious' (feminine, from jayin)",
+    "components": [
+      {
+        "part": "jayitā (victorious, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jayita - wisdomlib.org (https://www.wisdomlib.org/definition/jayita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -413220,27 +413224,31 @@
   },
   {
     "name": "Jaymala",
-    "iast": "jaymala",
-    "devanagari": "",
+    "iast": "jayamālā",
+    "devanagari": "जयमाला",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Garland of victory'; also refers to the ceremonial garland exchange in a traditional Hindu wedding",
+    "components": [
+      {
+        "part": "jaya (victory) + mālā (garland)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jaimala - wisdomlib.org (https://www.wisdomlib.org/definition/jaimala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -413270,27 +413278,31 @@
   },
   {
     "name": "Jaymini",
-    "iast": "jaymini",
-    "devanagari": "",
+    "iast": "jaimini",
+    "devanagari": "जैमिनि",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jaimini, the renowned Vedic sage and founder of the Mimamsa school of Hindu philosophy; traditionally masculine",
+    "components": [
+      {
+        "part": "jaimini (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jaimini - Wikipedia (https://en.wikipedia.org/wiki/Jaimini)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -413428,27 +413440,31 @@
   },
   {
     "name": "Jaypal",
-    "iast": "jaypal",
-    "devanagari": "",
+    "iast": "jayapāla",
+    "devanagari": "जयपाल",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Protector of victory'; also the name of the historical Hindu Shahi king Jayapala who fought against Mahmud of Ghazni",
+    "components": [
+      {
+        "part": "jaya (victory) + pāla (protector)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jayapala - Wikipedia (https://en.wikipedia.org/wiki/Jayapala)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -413480,56 +413496,60 @@
   },
   {
     "name": "Jayraj",
-    "iast": "jayraj",
-    "devanagari": "",
+    "iast": "jayarāja",
+    "devanagari": "जयराज",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'King of victory'; a traditional devotional given name",
+    "components": [
+      {
+        "part": "jaya (victory) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jairaja - wisdomlib.org (https://www.wisdomlib.org/definition/jayaraja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jayram",
-    "iast": "jayram",
-    "devanagari": "",
+    "iast": "jayarāma",
+    "devanagari": "जयराम",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Compound 'jai (victory) + Ram', a common devotional given name",
+    "components": [
+      {
+        "part": "jaya (victory) + rāma",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Jairam - wisdomlib.org (https://www.wisdomlib.org/definition/jayarama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -413609,89 +413629,89 @@
   },
   {
     "name": "Jayshree",
-    "iast": "jayshree",
-    "devanagari": "",
+    "iast": "jayaśrī",
+    "devanagari": "जयश्री",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Glory of victory'; a common Indian given name",
+    "components": [
+      {
+        "part": "jaya (victory) + śrī (glory)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jayashri - wisdomlib.org (https://www.wisdomlib.org/definition/jayashri)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jayshri",
-    "iast": "jayshri",
-    "devanagari": "",
+    "iast": "jayaśrī",
+    "devanagari": "जयश्री",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Jayashree, 'glory of victory'",
+    "components": [
+      {
+        "part": "jaya (victory) + śrī (glory)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jayashri - wisdomlib.org (https://www.wisdomlib.org/definition/jayashri)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jaysree",
-    "iast": "jaysree",
-    "devanagari": "",
+    "iast": "jayaśrī",
+    "devanagari": "जयश्री",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Jayashree, 'glory of victory'",
+    "components": [
+      {
+        "part": "jaya (victory) + śrī (glory)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jayashri - wisdomlib.org (https://www.wisdomlib.org/definition/jayashri)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -414003,31 +414023,31 @@
   },
   {
     "name": "Jeemutbahan",
-    "iast": "jeemutbahan",
-    "devanagari": "",
+    "iast": "jīmūtavāhana",
+    "devanagari": "जीमूतवाहन",
     "letter": "J",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 6,
+    "meaning_en": "Legendary prince renowned for his compassion and self-sacrifice in the Katha Sarit Sagara (and the Jaina Jimutavahana story), who offered himself to save a serpent (naga) from being devoured by Garuda",
+    "components": [
+      {
+        "part": "jīmūta (cloud) + vāhana (vehicle/rider)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jimutavahana - Wikipedia (https://en.wikipedia.org/wiki/Jimutavahana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -414157,27 +414177,31 @@
   },
   {
     "name": "Jeetendra",
-    "iast": "jeetendra",
-    "devanagari": "",
+    "iast": "jitendra",
+    "devanagari": "जितेन्द्र",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Conqueror of the senses'; also the stage name of veteran Bollywood actor Jeetendra",
+    "components": [
+      {
+        "part": "jita (conquered) + indriya (senses)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Jeetendra - Wikipedia (https://en.wikipedia.org/wiki/Jeetendra)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Jeetesh",
@@ -414285,60 +414309,60 @@
   },
   {
     "name": "Jeev",
-    "iast": "jeev",
-    "devanagari": "",
+    "iast": "jīva",
+    "devanagari": "जीव",
     "letter": "J",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "'Living being, soul, life'; a significant philosophical term in Hindu and Jain thought",
+    "components": [
+      {
+        "part": "jīva (living being/soul)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jiva - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jiva)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jeeva",
-    "iast": "jeeva",
-    "devanagari": "",
+    "iast": "jīva",
+    "devanagari": "जीव",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Living being, soul, life'; a significant philosophical term",
+    "components": [
+      {
+        "part": "jīva (living being/soul)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jiva - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jiva)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Jeevaa",
