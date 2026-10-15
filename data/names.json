@@ -417346,31 +417346,31 @@
   },
   {
     "name": "Jeshwanth",
-    "iast": "jeshwanth",
-    "devanagari": "",
+    "iast": "yaśavanta",
+    "devanagari": "यशवंत",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular spelling of Yashavant/Jaswant, 'possessing fame, glorious'",
+    "components": [
+      {
+        "part": "yaśas (fame) + -vanta (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "yashavat - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/yashavat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -417950,27 +417950,31 @@
   },
   {
     "name": "Jeswanth",
-    "iast": "jeswanth",
-    "devanagari": "",
+    "iast": "yaśavanta",
+    "devanagari": "यशवंत",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular spelling of Yashavant, 'possessing fame, glorious'",
+    "components": [
+      {
+        "part": "yaśas (fame) + -vanta (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "yashavat - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/yashavat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
