@@ -201217,23 +201217,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arul'(grace)+'arasan'(king)",
+    "components": [
+      {
+        "part": "arul",
+        "gloss": "grace, blessing (Tamil)"
+      },
+      {
+        "part": "arasan",
+        "gloss": "king"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (Tamil naming conventions reference) (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -201242,47 +201250,64 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arul'(grace)+'arasi'(queen)",
+    "components": [
+      {
+        "part": "arul",
+        "gloss": "grace, blessing (Tamil)"
+      },
+      {
+        "part": "arasi",
+        "gloss": "queen"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (Tamil naming conventions reference) (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Arularasy",
     "iast": "arularasy",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Arularasi: Tamil compound 'arul'(grace)+'arasi'(queen)",
+    "components": [
+      {
+        "part": "arul",
+        "gloss": "grace, blessing (Tamil)"
+      },
+      {
+        "part": "arasi",
+        "gloss": "queen"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (Tamil naming conventions reference) (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -201291,23 +201316,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arul'(grace)+'chelvan'(wealth/prince)",
+    "components": [
+      {
+        "part": "arul",
+        "gloss": "grace, blessing (Tamil)"
+      },
+      {
+        "part": "chelvan",
+        "gloss": "wealth, prince"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (Tamil naming conventions reference) (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -201316,23 +201349,32 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arul'(grace)+'chelvi'(wealth/lady)",
+    "components": [
+      {
+        "part": "arul",
+        "gloss": "grace, blessing (Tamil)"
+      },
+      {
+        "part": "chelvi",
+        "gloss": "wealth, lady"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (Tamil naming conventions reference) (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Aruldasan",
@@ -201439,23 +201481,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arul'(grace)+'kumar'(boy/prince)",
+    "components": [
+      {
+        "part": "arul",
+        "gloss": "grace, blessing (Tamil)"
+      },
+      {
+        "part": "kumāra",
+        "gloss": "boy, prince"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (Tamil naming conventions reference) (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -201464,23 +201514,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arul'(grace)+'mani'(gem)",
+    "components": [
+      {
+        "part": "arul",
+        "gloss": "grace, blessing (Tamil)"
+      },
+      {
+        "part": "maṇi",
+        "gloss": "gem, jewel"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (Tamil naming conventions reference) (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -201489,23 +201547,27 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arul'(grace)+'Murugan'(deity)",
+    "components": [
+      {
+        "part": "arul",
+        "gloss": "grace, blessing (Tamil)"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (Tamil naming conventions reference) (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -201539,23 +201601,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arul'(grace)+'oli'(light), 'light of grace'",
+    "components": [
+      {
+        "part": "arul",
+        "gloss": "grace, blessing (Tamil)"
+      },
+      {
+        "part": "oli",
+        "gloss": "light"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (Tamil naming conventions reference) (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -201639,27 +201709,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arul'(grace)+'vel'(Murugan's spear)",
+    "components": [
+      {
+        "part": "arul",
+        "gloss": "grace, blessing (Tamil)"
+      },
+      {
+        "part": "vēl",
+        "gloss": "spear (Murugan's weapon)"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (Tamil naming conventions reference) (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -201766,27 +201840,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Six-faced'; Tamil epithet of the god Murugan (equivalent to Sanskrit Shanmukha)",
+    "components": [
+      {
+        "part": "āru",
+        "gloss": "six"
+      },
+      {
+        "part": "mugam",
+        "gloss": "face"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -201795,23 +201873,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 6,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'Arumugam'(Murugan, six-faced)+'swami'(lord)",
+    "components": [
+      {
+        "part": "arumugam",
+        "gloss": "six-faced, epithet of Murugan"
+      },
+      {
+        "part": "swami",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -201845,23 +201931,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'Arumugam'(Murugan, six-faced)+'vel'(his spear)",
+    "components": [
+      {
+        "part": "arumugam",
+        "gloss": "six-faced, epithet of Murugan"
+      },
+      {
+        "part": "vēl",
+        "gloss": "spear"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -201870,23 +201964,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Six-faced'; Tamil epithet of the god Murugan (equivalent to Sanskrit Shanmukha)",
+    "components": [
+      {
+        "part": "āru",
+        "gloss": "six"
+      },
+      {
+        "part": "mugam",
+        "gloss": "face"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -201895,57 +201997,73 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Six-faced'; Tamil epithet of the god Murugan (equivalent to Sanskrit Shanmukha)",
+    "components": [
+      {
+        "part": "āru",
+        "gloss": "six"
+      },
+      {
+        "part": "mugam",
+        "gloss": "face"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arumugam - Wikipedia (https://en.wikipedia.org/wiki/Arumugam)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Arunabha",
-    "iast": "arunabha",
-    "devanagari": "",
+    "iast": "aruṇābha",
+    "devanagari": "अरुणाभ",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Having a reddish glow/lustre' (aruna+abha), related to the confirmed 'aruna'(reddish, dawn) root",
+    "components": [
+      {
+        "part": "aruṇa",
+        "gloss": "reddish, dawn-colored"
+      },
+      {
+        "part": "ābhā",
+        "gloss": "glow, lustre"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aruna, Aruṇa, Aruṇā - wisdomlib (https://de.wisdomlib.org/definition/aruna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Arunah",
-    "iast": "arunah",
-    "devanagari": "",
+    "iast": "aruṇa",
+    "devanagari": "अरुण",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Aruna: reddish, dawn-colored; the sun's charioteer",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -201953,15 +202071,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aruna, Aruṇa, Aruṇā - wisdomlib (https://de.wisdomlib.org/definition/aruna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -202049,11 +202166,11 @@
   },
   {
     "name": "Arunan",
-    "iast": "arunan",
-    "devanagari": "",
+    "iast": "aruṇa",
+    "devanagari": "அருணன்",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Tamil form of Aruna: reddish, dawn-colored; the sun's charioteer",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -202061,19 +202178,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aruna, Aruṇa, Aruṇā - wisdomlib (https://de.wisdomlib.org/definition/aruna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -202153,11 +202265,11 @@
   },
   {
     "name": "Arundathi",
-    "iast": "arundathi",
-    "devanagari": "",
+    "iast": "arundhatī",
+    "devanagari": "अरुन्धती",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Wife of the sage Vasishtha, regarded as the highest pattern of conjugal devotion; identified with the star Alcor in Ursa Major",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -202165,24 +202277,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arundhati (Hinduism) - Wikipedia (https://en.wikipedia.org/wiki/Arundhati_(Hinduism))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Arundati",
-    "iast": "arundati",
-    "devanagari": "",
+    "iast": "arundhatī",
+    "devanagari": "अरुन्धती",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Wife of the sage Vasishtha, regarded as the highest pattern of conjugal devotion; identified with the star Alcor in Ursa Major",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -202190,15 +202301,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arundhati (Hinduism) - Wikipedia (https://en.wikipedia.org/wiki/Arundhati_(Hinduism))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -202253,11 +202363,11 @@
   },
   {
     "name": "Arundhathi",
-    "iast": "arundhathi",
-    "devanagari": "",
+    "iast": "arundhatī",
+    "devanagari": "अरुन्धती",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Wife of the sage Vasishtha, regarded as the highest pattern of conjugal devotion; identified with the star Alcor in Ursa Major",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -202265,28 +202375,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arundhati (Hinduism) - Wikipedia (https://en.wikipedia.org/wiki/Arundhati_(Hinduism))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Arundhoti",
-    "iast": "arundhoti",
-    "devanagari": "",
+    "iast": "arundhatī",
+    "devanagari": "অরুন্ধতী",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Bengali spelling of Arundhati: wife of sage Vasishtha, identified with the star Alcor",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -202294,15 +202399,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arundhati (Hinduism) - Wikipedia (https://en.wikipedia.org/wiki/Arundhati_(Hinduism))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -202360,27 +202464,31 @@
   },
   {
     "name": "Arunita",
-    "iast": "arunita",
-    "devanagari": "",
+    "iast": "aruṇitā",
+    "devanagari": "अरुणिता",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to Aruna: reddish, dawn-colored",
+    "components": [
+      {
+        "part": "aruṇa",
+        "gloss": "reddish, dawn-colored"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aruna, Aruṇa, Aruṇā - wisdomlib (https://de.wisdomlib.org/definition/aruna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -202517,23 +202625,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'arun'(dawn)+'kumar'(boy/prince)",
+    "components": [
+      {
+        "part": "aruṇa",
+        "gloss": "reddish, dawn-colored"
+      },
+      {
+        "part": "kumāra",
+        "gloss": "boy, prince"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aruna, Aruṇa, Aruṇā - wisdomlib (https://de.wisdomlib.org/definition/aruna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -202542,23 +202658,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil form of Arunkumar: compound 'arun'(dawn)+'kumaran'(boy/prince)",
+    "components": [
+      {
+        "part": "aruṇa",
+        "gloss": "reddish, dawn-colored"
+      },
+      {
+        "part": "kumāra",
+        "gloss": "boy, prince"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Aruna, Aruṇa, Aruṇā - wisdomlib (https://de.wisdomlib.org/definition/aruna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -202588,27 +202712,35 @@
   },
   {
     "name": "Arunoday",
-    "iast": "arunoday",
-    "devanagari": "",
+    "iast": "aruṇodaya",
+    "devanagari": "अरुणोदय",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Rising of the dawn-red colour'; sunrise, daybreak",
+    "components": [
+      {
+        "part": "aruṇa",
+        "gloss": "reddish, dawn-colored"
+      },
+      {
+        "part": "udaya",
+        "gloss": "rising"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arunoday - wisdomlib (https://www.wisdomlib.org/definition/arunoday)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -202667,27 +202799,36 @@
   },
   {
     "name": "Arunothayan",
-    "iast": "arunothayan",
-    "devanagari": "",
+    "iast": "aruṇodaya",
+    "devanagari": "அருணோதயன்",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Tamil form of Arunoday: 'rising of the dawn', sunrise",
+    "components": [
+      {
+        "part": "aruṇa",
+        "gloss": "reddish, dawn-colored"
+      },
+      {
+        "part": "udaya",
+        "gloss": "rising"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arunoday - wisdomlib (https://www.wisdomlib.org/definition/arunoday)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Arunraj",
@@ -202716,11 +202857,11 @@
   },
   {
     "name": "Arunthathi",
-    "iast": "arunthathi",
-    "devanagari": "",
+    "iast": "arundhatī",
+    "devanagari": "அருந்ததி",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Tamil spelling of Arundhati: wife of sage Vasishtha, identified with the star Alcor",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -202728,15 +202869,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arundhati (Hinduism) - Wikipedia (https://en.wikipedia.org/wiki/Arundhati_(Hinduism))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
