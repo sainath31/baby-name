@@ -166673,36 +166673,44 @@
   },
   {
     "name": "Akrura",
-    "iast": "akrura",
-    "devanagari": "",
+    "iast": "akrūra",
+    "devanagari": "अक्रूर",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Gentle, not cruel'; name of Krishna's paternal uncle and friend in the Mahabharata/Bhagavata",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "krūra",
+        "gloss": "cruel"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Akrura - wisdomlib (https://www.wisdomlib.org/definition/akrura)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Akruthi",
-    "iast": "akruthi",
-    "devanagari": "",
+    "iast": "ākṛti",
+    "devanagari": "आकृति",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Akriti: form, shape, figure, appearance",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -166710,24 +166718,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akriti, Ākṛtī, Ākṛti - wisdomlib (https://de.wisdomlib.org/definition/akriti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Akruti",
-    "iast": "akruti",
-    "devanagari": "",
+    "iast": "ākṛti",
+    "devanagari": "आकृति",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Akriti: form, shape, figure, appearance",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -166735,16 +166742,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akriti, Ākṛtī, Ākṛti - wisdomlib (https://de.wisdomlib.org/definition/akriti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "boy"
+    "gender": "girl"
   },
   {
     "name": "Aksa",
@@ -166773,11 +166779,11 @@
   },
   {
     "name": "Aksar",
-    "iast": "aksar",
-    "devanagari": "",
+    "iast": "akṣara",
+    "devanagari": "अक्षर",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "'Imperishable, indestructible'; a letter/syllable of the alphabet; also a key Vedanta metaphysical term for the Immutable",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -166785,24 +166791,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akshara - Wikipedia (https://en.wikipedia.org/wiki/Akshara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aksara",
-    "iast": "aksara",
-    "devanagari": "",
+    "iast": "akṣara",
+    "devanagari": "अक्षर",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "'Imperishable, indestructible'; a letter/syllable of the alphabet; also a key Vedanta metaphysical term for the Immutable",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -166810,24 +166815,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akshara - Wikipedia (https://en.wikipedia.org/wiki/Akshara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Aksat",
-    "iast": "aksat",
-    "devanagari": "",
+    "iast": "akṣata",
+    "devanagari": "अक्षत",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Unbroken, unhurt, whole; also unbroken rice grains used ritually",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -166835,15 +166839,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akshata, Akṣata, Ākṣata - wisdomlib (https://www.wisdomlib.org/definition/akshata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -166873,11 +166876,11 @@
   },
   {
     "name": "Akshad",
-    "iast": "akshad",
-    "devanagari": "",
+    "iast": "akṣata",
+    "devanagari": "अक्षत",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Akshat: unbroken, whole; unbroken rice grains used ritually",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -166885,24 +166888,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akshata, Akṣata, Ākṣata - wisdomlib (https://www.wisdomlib.org/definition/akshata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Akshada",
-    "iast": "akshada",
-    "devanagari": "",
+    "iast": "akṣata",
+    "devanagari": "अक्षत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Akshat: unbroken, whole; unbroken rice grains used ritually",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -166910,19 +166912,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Akshata, Akṣata, Ākṣata - wisdomlib (https://www.wisdomlib.org/definition/akshata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -167027,11 +167024,11 @@
   },
   {
     "name": "Akshai",
-    "iast": "akshai",
-    "devanagari": "",
+    "iast": "akṣaya",
+    "devanagari": "अक्षय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Akshaya: imperishable, indestructible",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -167039,16 +167036,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akshaya, Akṣayā, Akṣaya - wisdomlib (https://www.wisdomlib.org/definition/akshaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Akshainie",
@@ -167114,7 +167110,7 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Refers to Akshay Kumar, the well-known Bollywood actor (birth name Rajiv Hari Om Bhatia)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -167122,15 +167118,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akshay Kumar - Britannica (https://www.britannica.com/EBchecked/topic/1537589)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -167309,11 +167304,11 @@
   },
   {
     "name": "Akshar",
-    "iast": "akshar",
-    "devanagari": "",
+    "iast": "akṣara",
+    "devanagari": "अक्षर",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "'Imperishable, indestructible'; a letter/syllable of the alphabet; also a key Vedanta metaphysical term for the Immutable",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -167321,40 +167316,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Akshara - Wikipedia (https://en.wikipedia.org/wiki/Akshara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Akshata",
-    "iast": "akshata",
-    "devanagari": "",
+    "iast": "akṣata",
+    "devanagari": "अक्षत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Unbroken, unhurt, whole; also unbroken rice grains used ritually",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -167362,32 +167340,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Akshata, Akṣata, Ākṣata - wisdomlib (https://www.wisdomlib.org/definition/akshata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Akshath",
-    "iast": "akshath",
-    "devanagari": "",
+    "iast": "akṣata",
+    "devanagari": "अक्षत",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Akshat: unbroken, whole; unbroken rice grains used ritually",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -167395,28 +167364,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Akshata, Akṣata, Ākṣata - wisdomlib (https://www.wisdomlib.org/definition/akshata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Akshatha",
-    "iast": "akshatha",
-    "devanagari": "",
+    "iast": "akṣata",
+    "devanagari": "अक्षत",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Akshata: unbroken, whole; unbroken rice grains used ritually",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -167424,28 +167388,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Akshata, Akṣata, Ākṣata - wisdomlib (https://www.wisdomlib.org/definition/akshata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Akshaya",
-    "iast": "akshaya",
-    "devanagari": "",
+    "iast": "akṣaya",
+    "devanagari": "अक्षय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Imperishable, indestructible, undecaying, inexhaustible",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -167453,24 +167412,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Akshaya, Akṣayā, Akṣaya - wisdomlib (https://www.wisdomlib.org/definition/akshaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Akshayabalan",
@@ -167535,11 +167485,11 @@
   },
   {
     "name": "Akshayah",
-    "iast": "akshayah",
-    "devanagari": "",
+    "iast": "akṣaya",
+    "devanagari": "अक्षय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Akshaya: imperishable, indestructible",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -167547,15 +167497,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akshaya, Akṣayā, Akṣaya - wisdomlib (https://www.wisdomlib.org/definition/akshaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -167592,8 +167541,8 @@
     "iast": "akshayakumar",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "Refers to Akshay Kumar, the well-known Bollywood actor",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -167601,24 +167550,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akshay Kumar - Britannica (https://www.britannica.com/EBchecked/topic/1537589)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Akshayan",
-    "iast": "akshayan",
-    "devanagari": "",
+    "iast": "akṣaya",
+    "devanagari": "अक्षय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Akshaya: imperishable, indestructible",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -167626,19 +167574,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Akshaya, Akṣayā, Akṣaya - wisdomlib (https://www.wisdomlib.org/definition/akshaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Akshay Keerti",
@@ -167803,11 +167747,11 @@
   },
   {
     "name": "Akshey",
-    "iast": "akshey",
-    "devanagari": "",
+    "iast": "akṣaya",
+    "devanagari": "अक्षय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Akshaya: imperishable, indestructible",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -167815,15 +167759,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akshaya, Akṣayā, Akṣaya - wisdomlib (https://www.wisdomlib.org/definition/akshaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -167998,11 +167941,11 @@
   },
   {
     "name": "Akshra",
-    "iast": "akshra",
-    "devanagari": "",
+    "iast": "akṣara",
+    "devanagari": "अक्षर",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Akshar: imperishable, letter/syllable, Vedanta term for the Immutable",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -168010,16 +167953,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akshara - Wikipedia (https://en.wikipedia.org/wiki/Akshara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Akshraj",
@@ -168098,11 +168040,11 @@
   },
   {
     "name": "Akshya",
-    "iast": "akshya",
-    "devanagari": "",
+    "iast": "akṣaya",
+    "devanagari": "अक्षय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Akshaya: imperishable, indestructible",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -168110,24 +168052,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Akshaya, Akṣayā, Akṣaya - wisdomlib (https://www.wisdomlib.org/definition/akshaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Akshyan",
-    "iast": "akshyan",
-    "devanagari": "",
+    "iast": "akṣaya",
+    "devanagari": "अक्षय",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Akshaya: imperishable, indestructible",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -168135,15 +168076,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Akshaya, Akṣayā, Akṣaya - wisdomlib (https://www.wisdomlib.org/definition/akshaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Akshyat",
