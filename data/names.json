@@ -402765,27 +402765,31 @@
   },
   {
     "name": "Janahvi",
-    "iast": "janahvi",
-    "devanagari": "",
+    "iast": "jāhnavī",
+    "devanagari": "जाह्नवी",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant spelling of Jahnavi, epithet of the river Ganga",
+    "components": [
+      {
+        "part": "jāhnavī (Ganga)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jahnavi - wisdomlib.org (epithet of Ganga) (https://www.wisdomlib.org/definition/jahnavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -402841,26 +402845,30 @@
   {
     "name": "Janaka",
     "iast": "janaka",
-    "devanagari": "",
+    "devanagari": "जनक",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of the legendary king of Mithila, father of Sita, in the Ramayana; also means 'father, progenitor'",
+    "components": [
+      {
+        "part": "janaka (father/producer; king's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Janaka - Wikipedia (https://en.wikipedia.org/wiki/Janaka)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -402869,23 +402877,27 @@
     "devanagari": "",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Janaka, king of Mithila and father of Sita",
+    "components": [
+      {
+        "part": "janaka + Tamil masculine suffix -an",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Janaka - Wikipedia (https://en.wikipedia.org/wiki/Janaka)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Janakibhushan",
@@ -402980,60 +402992,60 @@
   },
   {
     "name": "Janakinath",
-    "iast": "janakinath",
-    "devanagari": "",
+    "iast": "jānakīnātha",
+    "devanagari": "जानकीनाथ",
     "letter": "J",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Lord/husband of Janaki (Sita)', epithet of Rama",
+    "components": [
+      {
+        "part": "jānakī (Sita) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "janakinatha - wisdomlib.org (https://www.wisdomlib.org/definition/janakinatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Janakinatha",
-    "iast": "janakinatha",
-    "devanagari": "",
+    "iast": "jānakīnātha",
+    "devanagari": "जानकीनाथ",
     "letter": "J",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord/husband of Janaki (Sita)', epithet of Rama",
+    "components": [
+      {
+        "part": "jānakī (Sita) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "janakinatha - wisdomlib.org (https://www.wisdomlib.org/definition/janakinatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -403063,35 +403075,31 @@
   },
   {
     "name": "Janakiraman",
-    "iast": "janakiraman",
+    "iast": "jānakīrāmaṇ",
     "devanagari": "",
     "letter": "J",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'Janaki (Sita) + Raman (Rama)', denoting Rama as Janaki's husband; a common South Indian given name/surname",
+    "components": [
+      {
+        "part": "jānakī (Sita) + rāma + Tamil suffix",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "janakiramana - wisdomlib.org (https://www.wisdomlib.org/definition/janakiramana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -403179,64 +403187,60 @@
   },
   {
     "name": "Janam",
-    "iast": "janam",
-    "devanagari": "",
+    "iast": "janma",
+    "devanagari": "जन्म",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Birth'; a common Hindi/Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "janma (birth)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "janma - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/janma)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Janamejay",
-    "iast": "janamejay",
-    "devanagari": "",
+    "iast": "janamejaya",
+    "devanagari": "जनमेजय",
     "letter": "J",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Name of a renowned king of the Kuru dynasty, great-grandson of Arjuna, who performed the snake sacrifice and commissioned the recitation of the Mahabharata",
+    "components": [
+      {
+        "part": "janamejaya (king's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Janamejaya - Wikipedia (https://en.wikipedia.org/wiki/Janamejaya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -403370,114 +403374,118 @@
   },
   {
     "name": "Janardana",
-    "iast": "janardana",
-    "devanagari": "",
+    "iast": "janārdana",
+    "devanagari": "जनार्दन",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'One who agitates/liberates the people', a well-known epithet of Vishnu/Krishna",
+    "components": [
+      {
+        "part": "jana (people) + ardana (agitating/liberating)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Janardana - Wikipedia (https://en.wikipedia.org/wiki/Janardana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Janardanan",
-    "iast": "janardanan",
+    "iast": "janārdanan",
     "devanagari": "",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-suffixed form of Janardana, epithet of Vishnu/Krishna",
+    "components": [
+      {
+        "part": "janārdana + Tamil suffix",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Janardana - Wikipedia (https://en.wikipedia.org/wiki/Janardana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Janardhan",
-    "iast": "janardhan",
-    "devanagari": "",
+    "iast": "janārdana",
+    "devanagari": "जनार्दन",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular spelling of Janardana, epithet of Vishnu/Krishna",
+    "components": [
+      {
+        "part": "jana (people) + ardana (agitating/liberating)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Janardana - Wikipedia (https://en.wikipedia.org/wiki/Janardana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Janardhana",
-    "iast": "janardhana",
-    "devanagari": "",
+    "iast": "janārdana",
+    "devanagari": "जनार्दन",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Janardana, epithet of Vishnu/Krishna",
+    "components": [
+      {
+        "part": "jana (people) + ardana (agitating/liberating)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Janardana - Wikipedia (https://en.wikipedia.org/wiki/Janardana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -403611,27 +403619,31 @@
   },
   {
     "name": "Janavi",
-    "iast": "janavi",
-    "devanagari": "",
+    "iast": "jāhnavī",
+    "devanagari": "जाह्नवी",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant spelling of Jahnavi, epithet of the river Ganga",
+    "components": [
+      {
+        "part": "jāhnavī (Ganga)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jahnavi - wisdomlib.org (epithet of Ganga) (https://www.wisdomlib.org/definition/jahnavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -404025,35 +404037,31 @@
   },
   {
     "name": "Janhavi",
-    "iast": "janhavi",
-    "devanagari": "",
+    "iast": "jāhnavī",
+    "devanagari": "जाह्नवी",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant spelling of Jahnavi, epithet of the river Ganga",
+    "components": [
+      {
+        "part": "jāhnavī (Ganga)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jahnavi - wisdomlib.org (epithet of Ganga) (https://www.wisdomlib.org/definition/jahnavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -404112,35 +404120,31 @@
   },
   {
     "name": "Janhvi",
-    "iast": "janhvi",
-    "devanagari": "",
+    "iast": "jāhnavī",
+    "devanagari": "जाह्नवी",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Phonetic variant spelling of Jahnavi, epithet of the river Ganga",
+    "components": [
+      {
+        "part": "jāhnavī (Ganga)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Jahnavi - wisdomlib.org (epithet of Ganga) (https://www.wisdomlib.org/definition/jahnavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -404514,35 +404518,31 @@
   },
   {
     "name": "Janki",
-    "iast": "janki",
-    "devanagari": "",
+    "iast": "jānakī",
+    "devanagari": "जानकी",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular spelling of Janaki, 'daughter of King Janaka', epithet of Sita",
+    "components": [
+      {
+        "part": "jānakī (daughter of Janaka)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Sita - Wikipedia (also known as Janaki) (https://en.wikipedia.org/wiki/Sita)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
