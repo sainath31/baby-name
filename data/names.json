@@ -398645,27 +398645,31 @@
   },
   {
     "name": "Jaimuni",
-    "iast": "jaimuni",
-    "devanagari": "",
+    "iast": "jaimini",
+    "devanagari": "जैमिनि",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of the renowned Vedic sage Jaimini, founder of the Mimamsa school of Hindu philosophy and author of the Jaimini Sutras; traditionally masculine",
+    "components": [
+      {
+        "part": "jaimini (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jaimini - Wikipedia (https://en.wikipedia.org/wiki/Jaimini)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -399052,64 +399056,60 @@
   },
   {
     "name": "Jaipal",
-    "iast": "jaipal",
-    "devanagari": "",
+    "iast": "jayapāla",
+    "devanagari": "जयपाल",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Protector of victory'; also the name of the historical Hindu Shahi king Jayapala who fought against Mahmud of Ghazni",
+    "components": [
+      {
+        "part": "jaya (victory) + pāla (protector)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jayapala - Wikipedia (https://en.wikipedia.org/wiki/Jayapala)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jaiprakash",
-    "iast": "jaiprakash",
-    "devanagari": "",
+    "iast": "jayaprakāśa",
+    "devanagari": "जयप्रकाश",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Light of victory'; also the name of the renowned freedom fighter and socialist leader Jayaprakash Narayan",
+    "components": [
+      {
+        "part": "jaya (victory) + prakāśa (light)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jayaprakash Narayan - Wikipedia (https://en.wikipedia.org/wiki/Jayaprakash_Narayan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -399171,68 +399171,60 @@
   },
   {
     "name": "Jairaj",
-    "iast": "jairaj",
-    "devanagari": "",
+    "iast": "jayarāja",
+    "devanagari": "जयराज",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'King of victory'; a traditional devotional given name",
+    "components": [
+      {
+        "part": "jaya (victory) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "jairaja - wisdomlib.org (https://www.wisdomlib.org/definition/jayaraja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jairam",
-    "iast": "jairam",
-    "devanagari": "",
+    "iast": "jayarāma",
+    "devanagari": "जयराम",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Compound 'jai (victory) + Ram', doubling a victory invocation with the name of Rama; a common devotional given name",
+    "components": [
+      {
+        "part": "jaya (victory) + rāma",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jairam - wisdomlib.org (https://www.wisdomlib.org/definition/jayarama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -399385,35 +399377,31 @@
   },
   {
     "name": "Jaisal",
-    "iast": "jaisal",
+    "iast": "jaisala",
     "devanagari": "",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Name of Rawal Jaisal, the Rajput ruler who founded the city of Jaisalmer in Rajasthan",
+    "components": [
+      {
+        "part": "jaisala (proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jaisalmer - Wikipedia (founded by Rawal Jaisal) (https://en.wikipedia.org/wiki/Jaisalmer)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -399443,27 +399431,31 @@
   },
   {
     "name": "Jaisankar",
-    "iast": "jaisankar",
-    "devanagari": "",
+    "iast": "jayaśaṅkara",
+    "devanagari": "जयशङ्कर",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Compound 'jai (victory) + Shankar (Shiva)'; also the name of noted Indian diplomat and politician S. Jaishankar",
+    "components": [
+      {
+        "part": "jaya (victory) + śaṅkara (Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "S. Jaishankar - Wikipedia (https://en.wikipedia.org/wiki/S._Jaishankar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -399518,56 +399510,60 @@
   },
   {
     "name": "Jaishankar",
-    "iast": "jaishankar",
-    "devanagari": "",
+    "iast": "jayaśaṅkara",
+    "devanagari": "जयशङ्कर",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Compound 'jai (victory) + Shankar (Shiva)'; also the real name of noted Indian diplomat and External Affairs Minister S. Jaishankar, as well as poet Jaishankar Prasad",
+    "components": [
+      {
+        "part": "jaya (victory) + śaṅkara (Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "S. Jaishankar - Wikipedia (https://en.wikipedia.org/wiki/S._Jaishankar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jaishankara",
-    "iast": "jaishankara",
-    "devanagari": "",
+    "iast": "jayaśaṅkara",
+    "devanagari": "जयशङ्कर",
     "letter": "J",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Variant spelling of Jaishankar, compound 'victory + Shankar (Shiva)'",
+    "components": [
+      {
+        "part": "jaya (victory) + śaṅkara (Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "S. Jaishankar - Wikipedia (https://en.wikipedia.org/wiki/S._Jaishankar)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -399696,31 +399692,31 @@
   },
   {
     "name": "Jaishree",
-    "iast": "jaishree",
-    "devanagari": "",
+    "iast": "jayaśrī",
+    "devanagari": "जयश्री",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Glory of victory'; a common Indian given name",
+    "components": [
+      {
+        "part": "jaya (victory) + śrī (glory)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jayashri - wisdomlib.org (https://www.wisdomlib.org/definition/jayashri)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -399800,27 +399796,31 @@
   },
   {
     "name": "Jaisri",
-    "iast": "jaisri",
-    "devanagari": "",
+    "iast": "jayaśrī",
+    "devanagari": "जयश्री",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Jaishree, 'glory of victory'",
+    "components": [
+      {
+        "part": "jaya (victory) + śrī (glory)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jayashri - wisdomlib.org (https://www.wisdomlib.org/definition/jayashri)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -400158,30 +400158,30 @@
   {
     "name": "Jaitra",
     "iast": "jaitra",
-    "devanagari": "",
+    "devanagari": "जैत्र",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Victorious, conducive to victory'",
+    "components": [
+      {
+        "part": "jaitra (victorious, from jaya, victory)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jaitra - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jaitra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
