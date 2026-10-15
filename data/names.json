@@ -375148,52 +375148,60 @@
   },
   {
     "name": "Himavana",
-    "iast": "himavana",
-    "devanagari": "",
+    "iast": "himavāna",
+    "devanagari": "हिमवान",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Himavan, the personified Himalayas, father of Parvati and Ganga",
+    "components": [
+      {
+        "part": "himavān (possessing snow)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Himavat - Wikipedia (https://en.wikipedia.org/wiki/Himavat)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Himavanth",
-    "iast": "himavanth",
-    "devanagari": "",
+    "iast": "himavān",
+    "devanagari": "हिमवान्",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Himavan, the personified Himalayas",
+    "components": [
+      {
+        "part": "himavān (possessing snow)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Himavat - Wikipedia (https://en.wikipedia.org/wiki/Himavat)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -375274,51 +375282,59 @@
   {
     "name": "Himavata",
     "iast": "himavata",
-    "devanagari": "",
+    "devanagari": "हिमवत",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant form of Himavan/Himavat, the personified Himalayas",
+    "components": [
+      {
+        "part": "himavat (possessing snow)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Himavat - Wikipedia (https://en.wikipedia.org/wiki/Himavat)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Himavath",
-    "iast": "himavath",
-    "devanagari": "",
+    "iast": "himavat",
+    "devanagari": "हिमवत्",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Himavat, the personified Himalayas",
+    "components": [
+      {
+        "part": "himavat (possessing snow)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Himavat - Wikipedia (https://en.wikipedia.org/wiki/Himavat)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -375448,35 +375464,31 @@
   },
   {
     "name": "Himesh",
-    "iast": "himesh",
-    "devanagari": "",
+    "iast": "himeśa",
+    "devanagari": "हिमेश",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Lord of snow', an epithet for the Himalayas; also a common modern Indian given name (e.g. singer Himesh Reshammiya)",
+    "components": [
+      {
+        "part": "hima (snow) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Himesh Reshammiya - Wikipedia (https://en.wikipedia.org/wiki/Himesh_Reshammiya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -375963,34 +375975,30 @@
   {
     "name": "Hindola",
     "iast": "hindola",
-    "devanagari": "",
+    "devanagari": "हिन्दोल",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a classical raga (Hindola) in Indian music, also referring to a swing/cradle used in festival contexts (e.g. Krishna's swing)",
+    "components": [
+      {
+        "part": "hindola (swing; raga name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Hindol (raga) - Wikipedia (https://en.wikipedia.org/wiki/Hindol_(raga))",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Hinesh",
@@ -376073,27 +376081,31 @@
   },
   {
     "name": "Hirak",
-    "iast": "hirak",
-    "devanagari": "",
+    "iast": "hīraka",
+    "devanagari": "हीरक",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Diamond'; a real Sanskrit word for the gemstone, also the name of a sage in Hindu mythology",
+    "components": [
+      {
+        "part": "hīraka (diamond)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "hiraka - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hiraka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -376123,35 +376135,31 @@
   },
   {
     "name": "Hiran",
-    "iast": "hiran",
-    "devanagari": "",
+    "iast": "hiraṇa",
+    "devanagari": "हिरण",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Related to 'hiranya' (gold); also used colloquially for 'deer' (a variant of harina) in some regions",
+    "components": [
+      {
+        "part": "hiraṇya (gold) or hariṇa (deer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "hiranya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hiranya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Hiraniya",
@@ -376255,134 +376263,118 @@
   },
   {
     "name": "Hiranmay",
-    "iast": "hiranmay",
-    "devanagari": "",
+    "iast": "hiraṇmaya",
+    "devanagari": "हिरण्मय",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Made of gold, golden'; a classical Sanskrit epithet applied in the Upanishads (e.g. the 'golden vessel' covering truth)",
+    "components": [
+      {
+        "part": "hiraṇya (gold) + maya (made of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "hiranmaya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hiranmaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Hiranmaya",
-    "iast": "hiranmaya",
-    "devanagari": "",
+    "iast": "hiraṇmaya",
+    "devanagari": "हिरण्मय",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Made of gold, golden'; classical Sanskrit term used in the Upanishads",
+    "components": [
+      {
+        "part": "hiraṇya (gold) + maya (made of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "hiranmaya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hiranmaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Hiranmayee",
-    "iast": "hiranmayee",
-    "devanagari": "",
+    "iast": "hiraṇmayī",
+    "devanagari": "हिरण्मयी",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Feminine form of Hiranmaya, 'made of gold, golden'",
+    "components": [
+      {
+        "part": "hiraṇya (gold) + mayī (made of, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "hiranmaya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hiranmaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Hiranmayi",
-    "iast": "hiranmayi",
-    "devanagari": "",
+    "iast": "hiraṇmayī",
+    "devanagari": "हिरण्मयी",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Feminine form of Hiranmaya, 'made of gold, golden'",
+    "components": [
+      {
+        "part": "hiraṇya (gold) + mayī (made of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "hiranmaya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hiranmaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -376603,52 +376595,60 @@
   },
   {
     "name": "Hirdaya",
-    "iast": "hirdaya",
-    "devanagari": "",
+    "iast": "hṛdaya",
+    "devanagari": "हृदय",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Heart'; a common Sanskrit/Hindi word used as a given name",
+    "components": [
+      {
+        "part": "hṛdaya (heart)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "hridaya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hridaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Hirdey",
-    "iast": "hirdey",
-    "devanagari": "",
+    "iast": "hṛdaya",
+    "devanagari": "हृदय",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular spelling of Hirdaya, 'heart'",
+    "components": [
+      {
+        "part": "hṛdaya (heart)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "hridaya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hridaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
