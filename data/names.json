@@ -191881,11 +191881,11 @@
   },
   {
     "name": "Anushtubhi",
-    "iast": "anushtubhi",
-    "devanagari": "",
+    "iast": "anuṣṭubh",
+    "devanagari": "अनुष्टुभ्",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant related to Anushtubh, the classic Sanskrit poetic metre (a quatrain of four eight-syllable lines) from which the shloka derives",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -191893,15 +191893,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Anushtubh, Anuṣṭubh - wisdomlib (https://www.wisdomlib.org/definition/anushtubh)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -192211,44 +192210,44 @@
   },
   {
     "name": "Anusuya",
-    "iast": "anusuya",
-    "devanagari": "",
+    "iast": "anasūyā",
+    "devanagari": "अनसूया",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Anasuya: 'free from envy', wife of sage Atri",
+    "components": [
+      {
+        "part": "an-",
+        "gloss": "not"
+      },
+      {
+        "part": "asūyā",
+        "gloss": "envy, spite"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anasuya, Anasūyā - wisdomlib (https://de.wisdomlib.org/definition/anasuya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Anuthama",
-    "iast": "anuthama",
-    "devanagari": "",
+    "iast": "anuttama",
+    "devanagari": "अनुत्तमा",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "'Most excellent, supreme, unsurpassed'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -192256,24 +192255,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anuttama - wisdomlib (https://www.wisdomlib.org/definition/anuttama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Anuthaman",
-    "iast": "anuthaman",
-    "devanagari": "",
+    "iast": "anuttama",
+    "devanagari": "अनुत्तम",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "'Most excellent, supreme, unsurpassed'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -192281,15 +192279,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anuttama - wisdomlib (https://www.wisdomlib.org/definition/anuttama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -192343,11 +192340,11 @@
   },
   {
     "name": "Anuttam",
-    "iast": "anuttam",
-    "devanagari": "",
+    "iast": "anuttama",
+    "devanagari": "अनुत्तम",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "'Most excellent, supreme, unsurpassed'; formal superlative of anuttara",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -192355,32 +192352,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anuttama - wisdomlib (https://www.wisdomlib.org/definition/anuttama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anuttara",
     "iast": "anuttara",
-    "devanagari": "",
+    "devanagari": "अनुत्तर",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "'Unsurpassed, supreme'; a term used in Shaiva and Buddhist philosophy for the highest reality",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -192388,16 +192376,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anuttara, Anuttarā - wisdomlib (https://de.wisdomlib.org/definition/anuttara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Anuva",
@@ -192507,11 +192494,11 @@
   },
   {
     "name": "Anuvrat",
-    "iast": "anuvrat",
-    "devanagari": "",
+    "iast": "anuvrata",
+    "devanagari": "अनुव्रत",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Devoted, faithful follower; 'subject to the will of another, following'; also 'minor vow' in Jain terminology (anuvrata)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -192519,15 +192506,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anuvrata, Aṇuvrata - wisdomlib (https://www.wisdomlib.org/definition/anuvrata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -192707,11 +192693,11 @@
   },
   {
     "name": "Anvesh",
-    "iast": "anvesh",
-    "devanagari": "",
+    "iast": "anveṣa",
+    "devanagari": "अन्वेष",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Search, seeking, inquiry",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -192719,28 +192705,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anvesa, Anvesha, Anveṣa - wisdomlib (https://www.wisdomlib.org/definition/anvesha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anvesha",
-    "iast": "anvesha",
-    "devanagari": "",
+    "iast": "anveṣaṇā",
+    "devanagari": "अन्वेषणा",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Search, investigation, inquiry",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -192748,49 +192729,52 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anvesana, Anveshana, Anveṣaṇā - wisdomlib (https://www.wisdomlib.org/definition/anvesana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Anveshak",
-    "iast": "anveshak",
-    "devanagari": "",
+    "iast": "anveṣaka",
+    "devanagari": "अन्वेषक",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Seeker, investigator' (related to anveshana)",
+    "components": [
+      {
+        "part": "anveṣaṇā",
+        "gloss": "search, investigation"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anvesaka, Anveshaka, Anveṣaka - wisdomlib (https://www.wisdomlib.org/definition/anvesaka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anveshan",
-    "iast": "anveshan",
-    "devanagari": "",
+    "iast": "anveṣaṇa",
+    "devanagari": "अन्वेषण",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Search, investigation, inquiry",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -192798,15 +192782,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anvesana, Anveshana, Anveṣaṇā - wisdomlib (https://www.wisdomlib.org/definition/anvesana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -192961,11 +192944,11 @@
   },
   {
     "name": "Anwesh",
-    "iast": "anwesh",
-    "devanagari": "",
+    "iast": "anveṣa",
+    "devanagari": "अन्वेष",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Anvesh: search, seeking, inquiry",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -192973,15 +192956,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anvesa, Anvesha, Anveṣa - wisdomlib (https://www.wisdomlib.org/definition/anvesha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -193291,11 +193273,11 @@
   },
   {
     "name": "Apaar",
-    "iast": "apaar",
-    "devanagari": "",
+    "iast": "apāra",
+    "devanagari": "अपार",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Boundless, shoreless, immense",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -193303,15 +193285,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Apara, Apāra, Aparā - wisdomlib (https://www.wisdomlib.org/definition/apara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -193341,11 +193322,11 @@
   },
   {
     "name": "Apar",
-    "iast": "apar",
-    "devanagari": "",
+    "iast": "apāra",
+    "devanagari": "अपार",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Boundless, shoreless, immense",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -193353,24 +193334,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Apara, Apāra, Aparā - wisdomlib (https://www.wisdomlib.org/definition/apara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Apara",
-    "iast": "apara",
-    "devanagari": "",
+    "iast": "aparā",
+    "devanagari": "अपरा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "'Boundless'; also 'second, latter' in some contexts, and 'placenta' in Ayurveda",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -193378,19 +193358,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Apara, Apāra, Aparā - wisdomlib (https://www.wisdomlib.org/definition/apara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
