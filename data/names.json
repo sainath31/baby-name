@@ -404588,31 +404588,31 @@
   },
   {
     "name": "Jankinath",
-    "iast": "jankinath",
-    "devanagari": "",
+    "iast": "jānakīnātha",
+    "devanagari": "जानकीनाथ",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Variant spelling of Janakinath, 'lord/husband of Janaki (Sita)', epithet of Rama",
+    "components": [
+      {
+        "part": "jānakī (Sita) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "janakinatha - wisdomlib.org (https://www.wisdomlib.org/definition/janakinatha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -404643,26 +404643,30 @@
   {
     "name": "Janma",
     "iast": "janma",
-    "devanagari": "",
+    "devanagari": "जन्म",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Birth'",
+    "components": [
+      {
+        "part": "janma (birth)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "janma - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/janma)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -404783,31 +404787,31 @@
   },
   {
     "name": "Jannavi",
-    "iast": "jannavi",
-    "devanagari": "",
+    "iast": "jāhnavī",
+    "devanagari": "जाह्नवी",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant spelling of Jahnavi, epithet of the river Ganga",
+    "components": [
+      {
+        "part": "jāhnavī (Ganga)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jahnavi - wisdomlib.org (epithet of Ganga) (https://www.wisdomlib.org/definition/jahnavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Janpal",
@@ -405007,31 +405011,31 @@
   },
   {
     "name": "Janvi",
-    "iast": "janvi",
-    "devanagari": "",
+    "iast": "jāhnavī",
+    "devanagari": "जाह्नवी",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Phonetic variant spelling of Jahnavi, epithet of the river Ganga",
+    "components": [
+      {
+        "part": "jāhnavī (Ganga)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jahnavi - wisdomlib.org (epithet of Ganga) (https://www.wisdomlib.org/definition/jahnavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -405087,30 +405091,30 @@
   {
     "name": "Janya",
     "iast": "janya",
-    "devanagari": "",
+    "devanagari": "जन्य",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Born of, produced, kinsman'; also a musical term in Carnatic music for a derived raga",
+    "components": [
+      {
+        "part": "janya (born of/produced)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "janya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/janya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Janyuh",
@@ -405143,64 +405147,60 @@
   },
   {
     "name": "Jap",
-    "iast": "jap",
-    "devanagari": "",
+    "iast": "japa",
+    "devanagari": "जप",
     "letter": "J",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "'Repetition of a mantra/prayer', a central devotional practice in Hinduism and Sikhism; also the name of the Sikh scripture 'Japji Sahib'",
+    "components": [
+      {
+        "part": "japa (repeated prayer/chant)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "japa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/japa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Japa",
     "iast": "japa",
-    "devanagari": "",
+    "devanagari": "जप",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Repetition of a mantra/prayer'; a central devotional practice in Hinduism",
+    "components": [
+      {
+        "part": "japa (repeated prayer/chant)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "japa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/japa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -405527,27 +405527,31 @@
   },
   {
     "name": "Jaraasandha",
-    "iast": "jaraasandha",
-    "devanagari": "",
+    "iast": "jarāsandha",
+    "devanagari": "जरासन्ध",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of the powerful king of Magadha in the Mahabharata, a formidable antagonist of Krishna who was eventually slain by Bhima in a wrestling match",
+    "components": [
+      {
+        "part": "jarāsandha (king's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jarasandha - Wikipedia (https://en.wikipedia.org/wiki/Jarasandha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -405627,27 +405631,31 @@
   },
   {
     "name": "Jarita",
-    "iast": "jarita",
-    "devanagari": "",
+    "iast": "jaritā",
+    "devanagari": "जरिता",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a female bird (a sarngika/osprey) in the Mahabharata's Mahabharata (Adi Parva) who is the mother of sage Mandapala's sons",
+    "components": [
+      {
+        "part": "jaritā (proper name of a bird)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "jarita - wisdomlib.org (https://www.wisdomlib.org/definition/jarita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Jariti",
@@ -406205,31 +406213,31 @@
   },
   {
     "name": "Jarul",
-    "iast": "jarul",
+    "iast": "jarula",
     "devanagari": "",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Bengali/Hindi name for the Lagerstroemia (Pride of India / Queen's flower) tree, a common flowering tree in South Asia",
+    "components": [
+      {
+        "part": "jarul (flowering tree, Bengali)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Lagerstroemia speciosa - Wikipedia (called jarul in Bengali/Hindi) (https://en.wikipedia.org/wiki/Lagerstroemia_speciosa)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
