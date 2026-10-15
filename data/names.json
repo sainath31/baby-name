@@ -196773,10 +196773,10 @@
   {
     "name": "Arhant",
     "iast": "arhant",
-    "devanagari": "",
+    "devanagari": "अर्हन्त",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "'Worthy one'; a Buddha, or the supreme deity/perfected soul in Jainism",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -196784,32 +196784,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arhant - wisdomlib (https://de.wisdomlib.org/definition/arhant)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Arhat",
-    "iast": "arhat",
-    "devanagari": "",
+    "iast": "arhant",
+    "devanagari": "अर्हत्",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Arhant: 'worthy one', a Buddha or perfected soul in Jainism",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -196817,23 +196808,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arhant - wisdomlib (https://de.wisdomlib.org/definition/arhant)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -196992,27 +196974,35 @@
   },
   {
     "name": "Aridam",
-    "iast": "aridam",
-    "devanagari": "",
+    "iast": "arindama",
+    "devanagari": "अरिन्दम",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Subduer of enemies'; an epithet of Krishna and other heroes in the Mahabharata",
+    "components": [
+      {
+        "part": "ari",
+        "gloss": "enemy"
+      },
+      {
+        "part": "dama",
+        "gloss": "subduing, taming"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arindama, Arimdama - wisdomlib (https://de.wisdomlib.org/definition/arindama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -197312,27 +197302,35 @@
   },
   {
     "name": "Arindham",
-    "iast": "arindham",
-    "devanagari": "",
+    "iast": "arindama",
+    "devanagari": "अरिन्दम",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Subduer of enemies'; an epithet of Krishna and other heroes in the Mahabharata",
+    "components": [
+      {
+        "part": "ari",
+        "gloss": "enemy"
+      },
+      {
+        "part": "dama",
+        "gloss": "subduing, taming"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arindama, Arimdama - wisdomlib (https://de.wisdomlib.org/definition/arindama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -197723,27 +197721,27 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arivu'(knowledge/wisdom)+'alagan'(beautiful one)",
+    "components": [
+      {
+        "part": "arivu",
+        "gloss": "knowledge, wisdom (Tamil)"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arivu - wisdomlib (https://www.wisdomlib.org/definition/arivu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -197806,23 +197804,32 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arivu'(knowledge/wisdom)+'arasan'(king), 'king of wisdom'",
+    "components": [
+      {
+        "part": "arivu",
+        "gloss": "knowledge, wisdom (Tamil)"
+      },
+      {
+        "part": "arasan",
+        "gloss": "king"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arivu - wisdomlib (https://www.wisdomlib.org/definition/arivu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Arivarasu",
@@ -197830,77 +197837,90 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arivu'(knowledge/wisdom)+'arasu'(king)",
+    "components": [
+      {
+        "part": "arivu",
+        "gloss": "knowledge, wisdom (Tamil)"
+      },
+      {
+        "part": "arasu",
+        "gloss": "king"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arivarasu - ask-oracle.com (https://www.ask-oracle.com/baby-name/arivarasu/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Arivazhagan",
-    "iast": "arivazhagan",
+    "iast": "arivu",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Tamil compound 'arivu'(knowledge/wisdom)+'azhagan'(beautiful one)",
+    "components": [
+      {
+        "part": "arivu",
+        "gloss": "knowledge, wisdom (Tamil)"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arivu - wisdomlib (https://www.wisdomlib.org/definition/arivu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Arivazhagi",
-    "iast": "arivazhagi",
+    "iast": "arivu",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Tamil compound 'arivu'(knowledge/wisdom)+'azhagi'(beautiful one, feminine)",
+    "components": [
+      {
+        "part": "arivu",
+        "gloss": "knowledge, wisdom (Tamil)"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Arivu - wisdomlib (https://www.wisdomlib.org/definition/arivu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "girl"
   },
   {
     "name": "Arivoli",
@@ -197908,27 +197928,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arivu'(knowledge/wisdom)+'oli'(light), 'light of wisdom'",
+    "components": [
+      {
+        "part": "arivu",
+        "gloss": "knowledge, wisdom (Tamil)"
+      },
+      {
+        "part": "oli",
+        "gloss": "light"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Arivu - wisdomlib (https://www.wisdomlib.org/definition/arivu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -197937,23 +197961,32 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Arivoli: 'light of wisdom'",
+    "components": [
+      {
+        "part": "arivu",
+        "gloss": "knowledge, wisdom (Tamil)"
+      },
+      {
+        "part": "oli",
+        "gloss": "light"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arivu - wisdomlib (https://www.wisdomlib.org/definition/arivu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Arivuchelvan",
@@ -197961,23 +197994,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arivu'(knowledge/wisdom)+'chelvan'(wealth/prince)",
+    "components": [
+      {
+        "part": "arivu",
+        "gloss": "knowledge, wisdom (Tamil)"
+      },
+      {
+        "part": "chelvan",
+        "gloss": "wealth, prince"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arivu - wisdomlib (https://www.wisdomlib.org/definition/arivu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -197986,23 +198027,32 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 6,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arivu'(knowledge/wisdom)+'kumaran'(prince/boy)",
+    "components": [
+      {
+        "part": "arivu",
+        "gloss": "knowledge, wisdom (Tamil)"
+      },
+      {
+        "part": "kumāra",
+        "gloss": "boy, prince"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Arivu - wisdomlib (https://www.wisdomlib.org/definition/arivu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Arivumadhi",
@@ -198039,23 +198089,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'arivu'(knowledge/wisdom)+'mani'(gem)",
+    "components": [
+      {
+        "part": "arivu",
+        "gloss": "knowledge, wisdom (Tamil)"
+      },
+      {
+        "part": "maṇi",
+        "gloss": "gem, jewel"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arivu - wisdomlib (https://www.wisdomlib.org/definition/arivu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
