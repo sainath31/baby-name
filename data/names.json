@@ -209224,27 +209224,35 @@
   },
   {
     "name": "Asvathama",
-    "iast": "asvathama",
-    "devanagari": "",
+    "iast": "aśvatthāmā",
+    "devanagari": "अश्वत्थामा",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Ashwatthama: son of Dronacharya, one of the Chiranjivis (immortals) in the Mahabharata",
+    "components": [
+      {
+        "part": "aśva",
+        "gloss": "horse"
+      },
+      {
+        "part": "sthāman",
+        "gloss": "strength, power"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashvatthama - Wikipedia (https://en.wikipedia.org/wiki/Ashvatthama)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -209278,11 +209286,11 @@
   },
   {
     "name": "Asvin",
-    "iast": "asvin",
-    "devanagari": "",
+    "iast": "aśvin",
+    "devanagari": "अश्विन्",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Name of the Ashvins, twin Vedic gods associated with medicine, health, dawn, and the sciences",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -209290,19 +209298,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashvin, Aśvin - wisdomlib (https://www.wisdomlib.org/definition/ashvin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -209357,27 +209360,35 @@
   },
   {
     "name": "Aswaghosh",
-    "iast": "aswaghosh",
-    "devanagari": "",
+    "iast": "aśvaghoṣa",
+    "devanagari": "अश्वघोष",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Ashvaghosha: the renowned Buddhist philosopher-poet",
+    "components": [
+      {
+        "part": "aśva",
+        "gloss": "horse"
+      },
+      {
+        "part": "ghoṣa",
+        "gloss": "sound, voice"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashvaghosha, Aśvaghoṣa - wisdomlib (https://de.wisdomlib.org/definition/ashvaghosha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -209407,28 +209418,32 @@
   },
   {
     "name": "Aswani",
-    "iast": "aswani",
-    "devanagari": "",
+    "iast": "aśvinī",
+    "devanagari": "अश्विनी",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling related to the Ashvins/Ashwini nakshatra",
+    "components": [
+      {
+        "part": "aśvin",
+        "gloss": "the Ashvin twin gods"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashvin, Aśvin - wisdomlib (https://www.wisdomlib.org/definition/ashvin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Aswanth",
@@ -209565,90 +209580,106 @@
   },
   {
     "name": "Aswathaama",
-    "iast": "aswathaama",
-    "devanagari": "",
+    "iast": "aśvatthāmā",
+    "devanagari": "अश्वत्थामा",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Ashwatthama: son of Dronacharya, one of the Chiranjivis (immortals) in the Mahabharata",
+    "components": [
+      {
+        "part": "aśva",
+        "gloss": "horse"
+      },
+      {
+        "part": "sthāman",
+        "gloss": "strength, power"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashvatthama - Wikipedia (https://en.wikipedia.org/wiki/Ashvatthama)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aswathi",
-    "iast": "aswathi",
-    "devanagari": "",
+    "iast": "aśvinī",
+    "devanagari": "അശ്വതി",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Malayalam form of Ashwini, the first nakshatra, associated with the Ashvin twin gods",
+    "components": [
+      {
+        "part": "aśvin",
+        "gloss": "the Ashvin twin gods"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashvin, Aśvin - wisdomlib (https://www.wisdomlib.org/definition/ashvin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aswattama",
-    "iast": "aswattama",
-    "devanagari": "",
+    "iast": "aśvatthāmā",
+    "devanagari": "అశ్వత్తామ",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Ashwatthama: son of Dronacharya, one of the Chiranjivis in the Mahabharata",
+    "components": [
+      {
+        "part": "aśva",
+        "gloss": "horse"
+      },
+      {
+        "part": "sthāman",
+        "gloss": "strength, power"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashvatthama - Wikipedia (https://en.wikipedia.org/wiki/Ashvatthama)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aswin",
-    "iast": "aswin",
-    "devanagari": "",
+    "iast": "aśvin",
+    "devanagari": "अश्विन्",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Name of the Ashvins, twin Vedic gods associated with medicine, health, dawn, and the sciences; also a month in the Hindu calendar",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -209656,69 +209687,76 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashvin, Aśvin - wisdomlib (https://www.wisdomlib.org/definition/ashvin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aswini",
-    "iast": "aswini",
-    "devanagari": "",
+    "iast": "aśvinī",
+    "devanagari": "अश्विनी",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to the Ashvins; also the name of the first nakshatra",
+    "components": [
+      {
+        "part": "aśvin",
+        "gloss": "the Ashvin twin gods"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ashvin, Aśvin - wisdomlib (https://www.wisdomlib.org/definition/ashvin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aswinikumar",
-    "iast": "aswinikumar",
+    "iast": "ashvinikumara",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 6,
+    "meaning_en": "Compound related to the Ashvini Kumaras, the twin Ashvin gods",
+    "components": [
+      {
+        "part": "aśvin",
+        "gloss": "the Ashvin twin gods"
+      },
+      {
+        "part": "kumāra",
+        "gloss": "boy, prince"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Ashvin, Aśvin - wisdomlib (https://www.wisdomlib.org/definition/ashvin)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -209798,11 +209836,11 @@
   },
   {
     "name": "Atal",
-    "iast": "atal",
-    "devanagari": "",
+    "iast": "aṭala",
+    "devanagari": "अटल",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Firm, determined, unshakeable, steadfast, immovable; famously part of the name of former Indian Prime Minister Atal Bihari Vajpayee",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -209810,23 +209848,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Meaning of 'Atal' - rekhtadictionary.com (https://rekhtadictionary.com/meaning-of-atal-2)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -209960,11 +209989,11 @@
   },
   {
     "name": "Atchut",
-    "iast": "atchut",
-    "devanagari": "",
+    "iast": "acyuta",
+    "devanagari": "అచ్యుత",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Telugu spelling related to Acyuta: infallible, imperishable, epithet of Vishnu/Krishna",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -209972,15 +210001,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Achyuta, Acyuta - wisdomlib (https://www.wisdomlib.org/definition/achyuta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -210144,10 +210172,10 @@
   {
     "name": "Atharvan",
     "iast": "atharvan",
-    "devanagari": "",
+    "devanagari": "अथर्वन्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a legendary Vedic sage, co-author (with Angiras) of the Atharvaveda; sometimes counted among the Saptarishi",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -210155,52 +210183,43 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Atharvan - wisdomlib (https://de.wisdomlib.org/definition/atharvan)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Atharvani",
-    "iast": "atharvani",
-    "devanagari": "",
+    "iast": "ātharvaṇī",
+    "devanagari": "आथर्वणी",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to Atharvan, the Vedic sage of the Atharvaveda",
+    "components": [
+      {
+        "part": "atharvan",
+        "gloss": "Vedic sage"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Atharvana, Atharvaṇa - wisdomlib (https://de.wisdomlib.org/definition/atharvana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -210336,11 +210355,11 @@
   },
   {
     "name": "Athervan",
-    "iast": "athervan",
-    "devanagari": "",
+    "iast": "atharvan",
+    "devanagari": "अथर्वन्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Atharvan: the Vedic sage, co-author of the Atharvaveda",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -210348,15 +210367,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Atharvan - wisdomlib (https://de.wisdomlib.org/definition/atharvan)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -210411,11 +210429,11 @@
   },
   {
     "name": "Athidhi",
-    "iast": "athidhi",
-    "devanagari": "",
+    "iast": "atithi",
+    "devanagari": "अतिथि",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Guest; from the phrase 'Atithi Devo Bhava' ('a guest is akin to God')",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -210423,16 +210441,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Atithi Devo Bhava - Wikipedia (https://en.wikipedia.org/wiki/Atithi_Devo_Bhava)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Athikaya",
@@ -210610,11 +210627,11 @@
   },
   {
     "name": "Athitha",
-    "iast": "athitha",
-    "devanagari": "",
+    "iast": "atithi",
+    "devanagari": "अतिथि",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Athithi: guest ('Atithi Devo Bhava')",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -210622,24 +210639,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Atithi Devo Bhava - Wikipedia (https://en.wikipedia.org/wiki/Atithi_Devo_Bhava)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Athithi",
-    "iast": "athithi",
-    "devanagari": "",
+    "iast": "atithi",
+    "devanagari": "अतिथि",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Guest; from the phrase 'Atithi Devo Bhava' ('a guest is akin to God')",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -210647,40 +210663,43 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Atithi Devo Bhava - Wikipedia (https://en.wikipedia.org/wiki/Atithi_Devo_Bhava)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Athithya",
-    "iast": "athithya",
-    "devanagari": "",
+    "iast": "ātithya",
+    "devanagari": "आतिथ्य",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Hospitality (related to atithi, guest)",
+    "components": [
+      {
+        "part": "atithi",
+        "gloss": "guest"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Atithya - wisdomlib (https://www.wisdomlib.org/definition/atithya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
