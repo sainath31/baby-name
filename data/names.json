@@ -373808,26 +373808,30 @@
   {
     "name": "Hetu",
     "iast": "hetu",
-    "devanagari": "",
+    "devanagari": "हेतु",
     "letter": "H",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Cause, reason, motive'; a significant term in Indian logic (Nyaya) denoting the 'reason' or middle term in a syllogism",
+    "components": [
+      {
+        "part": "hetu (cause/reason)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "hetu - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hetu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -374215,39 +374219,31 @@
   },
   {
     "name": "Hima",
-    "iast": "hima",
-    "devanagari": "",
+    "iast": "himā",
+    "devanagari": "हिमा",
     "letter": "H",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Snow, frost, cold'; the root word of 'Himalaya' (abode of snow), used as a popular given name",
+    "components": [
+      {
+        "part": "hima (snow)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "hima - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hima)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -374284,31 +374280,31 @@
   },
   {
     "name": "Himaanshu",
-    "iast": "himaanshu",
-    "devanagari": "",
+    "iast": "himāṃśu",
+    "devanagari": "हिमांशु",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Cool-rayed one', a poetic epithet for the moon",
+    "components": [
+      {
+        "part": "hima (snow/cold) + aṃśu (ray)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "himamshu - wisdomlib.org (https://www.wisdomlib.org/definition/himamshu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -374370,35 +374366,31 @@
   },
   {
     "name": "Himachal",
-    "iast": "himachal",
-    "devanagari": "",
+    "iast": "himācala",
+    "devanagari": "हिमाचल",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Snow mountain', the traditional Sanskrit name for the Himalayas, and the namesake of the Indian state Himachal Pradesh",
+    "components": [
+      {
+        "part": "hima (snow) + acala (mountain)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Himachal Pradesh - Wikipedia (https://en.wikipedia.org/wiki/Himachal_Pradesh)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -374453,27 +374445,31 @@
   },
   {
     "name": "Himadrija",
-    "iast": "himadrija",
-    "devanagari": "",
+    "iast": "himādrijā",
+    "devanagari": "हिमाद्रिजा",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Born of the snow mountain (Himalaya)', an epithet of goddess Parvati, daughter of Himavat",
+    "components": [
+      {
+        "part": "himādri (Himalaya) + jā (born)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Himadrija - wisdomlib.org (https://www.wisdomlib.org/definition/himadrija)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -374690,27 +374686,31 @@
   },
   {
     "name": "Himal",
-    "iast": "himal",
-    "devanagari": "",
+    "iast": "himāl",
+    "devanagari": "हिमाल",
     "letter": "H",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Related to 'hima' (snow); also used as a short form referencing the Himalayas, common in Nepali usage",
+    "components": [
+      {
+        "part": "hima (snow)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "hima - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hima)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -374985,31 +374985,31 @@
   },
   {
     "name": "Himansu",
-    "iast": "himansu",
-    "devanagari": "",
+    "iast": "himāṃśu",
+    "devanagari": "हिमांशु",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Himaanshu/Himanshu, 'cool-rayed one', a poetic epithet for the moon",
+    "components": [
+      {
+        "part": "hima (snow/cold) + aṃśu (ray)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "himamshu - wisdomlib.org (https://www.wisdomlib.org/definition/himamshu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -375164,27 +375164,31 @@
   },
   {
     "name": "Himavan",
-    "iast": "himavan",
-    "devanagari": "",
+    "iast": "himavān",
+    "devanagari": "हिमवान्",
     "letter": "H",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Personification of the Himalayas as a deity/king in Hindu mythology, father of goddesses Parvati and Ganga",
+    "components": [
+      {
+        "part": "himavān (possessing snow, i.e. the Himalayas)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Himavat - Wikipedia (https://en.wikipedia.org/wiki/Himavat)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
