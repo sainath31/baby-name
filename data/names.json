@@ -425429,31 +425429,31 @@
   },
   {
     "name": "Joshna",
-    "iast": "joshna",
-    "devanagari": "",
+    "iast": "jyotsnā",
+    "devanagari": "ज्योत्स्ना",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling of Jyotsna, 'moonlight'",
+    "components": [
+      {
+        "part": "jyotsnā (moonlight)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyotsna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyotsna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -425662,27 +425662,31 @@
   },
   {
     "name": "Josthna",
-    "iast": "josthna",
-    "devanagari": "",
+    "iast": "jyotsnā",
+    "devanagari": "ज्योत्स्ना",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jyotsna, 'moonlight'",
+    "components": [
+      {
+        "part": "jyotsnā (moonlight)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jyotsna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyotsna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -425737,56 +425741,60 @@
   },
   {
     "name": "Jothi",
-    "iast": "jothi",
-    "devanagari": "",
+    "iast": "jyoti",
+    "devanagari": "ज्योति",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil-transliterated form of Jyoti, 'light, flame, radiance'",
+    "components": [
+      {
+        "part": "jyoti (light)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyoti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyoti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jothika",
-    "iast": "jothika",
-    "devanagari": "",
+    "iast": "jyotikā",
+    "devanagari": "ज्योतिका",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Diminutive form of Jyoti, 'light'; also the stage name of Indian actress Jyothika",
+    "components": [
+      {
+        "part": "jyoti (light) + -ikā",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jyothika - Wikipedia (https://en.wikipedia.org/wiki/Jyothika)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -425894,27 +425902,31 @@
   },
   {
     "name": "Jotshna",
-    "iast": "jotshna",
-    "devanagari": "",
+    "iast": "jyotsnā",
+    "devanagari": "ज्योत्स्ना",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jyotsna, 'moonlight'",
+    "components": [
+      {
+        "part": "jyotsnā (moonlight)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jyotsna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyotsna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
