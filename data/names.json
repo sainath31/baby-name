@@ -400616,38 +400616,30 @@
   {
     "name": "Jaladhi",
     "iast": "jaladhi",
-    "devanagari": "",
+    "devanagari": "जलधि",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Ocean, sea' (literally 'receptacle of water')",
+    "components": [
+      {
+        "part": "jala (water) + dhi (receptacle)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jaladhi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jaladhi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Jaladhij",
@@ -400676,84 +400668,88 @@
   },
   {
     "name": "Jaladhija",
-    "iast": "jaladhija",
-    "devanagari": "",
+    "iast": "jaladhijā",
+    "devanagari": "जलधिजा",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Born of the ocean', an epithet of goddess Lakshmi, who emerged from the churning of the ocean",
+    "components": [
+      {
+        "part": "jaladhi (ocean) + jā (born)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jaladhija - wisdomlib.org (https://www.wisdomlib.org/definition/jaladhija)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jaladi",
-    "iast": "jaladi",
-    "devanagari": "",
+    "iast": "jaladhi",
+    "devanagari": "जलधि",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jaladhi, 'ocean'",
+    "components": [
+      {
+        "part": "jala (water) + dhi (receptacle)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "jaladhi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jaladhi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Jaladija",
-    "iast": "jaladija",
-    "devanagari": "",
+    "iast": "jaladhijā",
+    "devanagari": "जलधिजा",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jaladhija, 'born of the ocean', epithet of Lakshmi",
+    "components": [
+      {
+        "part": "jaladhi (ocean) + jā (born)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "jaladhija - wisdomlib.org (https://www.wisdomlib.org/definition/jaladhija)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -400812,52 +400808,60 @@
   },
   {
     "name": "Jalaj",
-    "iast": "jalaj",
-    "devanagari": "",
+    "iast": "jalaja",
+    "devanagari": "जलज",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Born of water', a classical Sanskrit term for the lotus (and for pearls)",
+    "components": [
+      {
+        "part": "jala (water) + ja (born)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jalaja - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jalaja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jalajaa",
-    "iast": "jalajaa",
-    "devanagari": "",
+    "iast": "jalajā",
+    "devanagari": "जलजा",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form of Jalaja, 'born of water' (lotus)",
+    "components": [
+      {
+        "part": "jala (water) + jā (born)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "jalaja - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jalaja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Jalal",
@@ -401217,35 +401221,31 @@
   },
   {
     "name": "Jaldhar",
-    "iast": "jaldhar",
-    "devanagari": "",
+    "iast": "jaladhara",
+    "devanagari": "जलधर",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Water-bearer', a classical Sanskrit term for a rain cloud",
+    "components": [
+      {
+        "part": "jala (water) + dhara (bearer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jaladhara - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jaladhara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -401520,31 +401520,31 @@
   },
   {
     "name": "Jalpa",
-    "iast": "jalpa",
-    "devanagari": "",
+    "iast": "jalpā",
+    "devanagari": "जल्पा",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a form of the goddess (Jalpa Mata), worshipped particularly in Gujarat as a form of Durga",
+    "components": [
+      {
+        "part": "jalpā (goddess name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Jalpa Mata - Wikipedia (https://en.wikipedia.org/wiki/Jalpa_Mata_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -401777,27 +401777,31 @@
   },
   {
     "name": "Jambavathy",
-    "iast": "jambavathy",
-    "devanagari": "",
+    "iast": "jāmbavatī",
+    "devanagari": "जाम्बवती",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Daughter of Jambavan (the bear king) and wife of Krishna, mentioned in the Bhagavata Purana and Mahabharata",
+    "components": [
+      {
+        "part": "jāmbavatī (daughter of Jambavan)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jambavati - Wikipedia (https://en.wikipedia.org/wiki/Jambavati)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -401878,101 +401882,117 @@
   {
     "name": "Jambu",
     "iast": "jambu",
-    "devanagari": "",
+    "devanagari": "जम्बु",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Rose apple tree' (Syzygium jambos/jambolan); the tree that gives its name to the classical continent 'Jambudvipa' in Hindu/Buddhist cosmology",
+    "components": [
+      {
+        "part": "jambu (rose apple tree)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jambudvipa - Wikipedia (https://en.wikipedia.org/wiki/Jambudvipa)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jambukeshwar",
-    "iast": "jambukeshwar",
-    "devanagari": "",
+    "iast": "jambukeśvara",
+    "devanagari": "जम्बुकेश्वर",
     "letter": "J",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Name of a famous Shiva temple (Jambukeshwarar Temple) in Thiruvanaikaval, Tamil Nadu, where Shiva is worshipped as lord beneath a jambu (rose apple) tree",
+    "components": [
+      {
+        "part": "jambu (rose apple tree) + īśvara (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jambukeswarar Temple, Thiruvanaikaval - Wikipedia (https://en.wikipedia.org/wiki/Jambukeswarar_Temple,_Thiruvanaikaval)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jambukeswara",
-    "iast": "jambukeswara",
-    "devanagari": "",
+    "iast": "jambukeśvara",
+    "devanagari": "जम्बुकेश्वर",
     "letter": "J",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jambukeshwar, name of the Shiva temple/epithet at Thiruvanaikaval",
+    "components": [
+      {
+        "part": "jambu (rose apple tree) + īśvara (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jambukeswarar Temple, Thiruvanaikaval - Wikipedia (https://en.wikipedia.org/wiki/Jambukeswarar_Temple,_Thiruvanaikaval)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jambuvan",
-    "iast": "jambuvan",
-    "devanagari": "",
+    "iast": "jāmbavān",
+    "devanagari": "जाम्बवान्",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "The wise king of the bears (Riksharaja) in the Ramayana and Mahabharata, a devoted ally of Rama and Krishna",
+    "components": [
+      {
+        "part": "jāmbavān (bear-king's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jambavan - Wikipedia (https://en.wikipedia.org/wiki/Jambavan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -402355,27 +402375,31 @@
   },
   {
     "name": "Jamini",
-    "iast": "jamini",
-    "devanagari": "",
+    "iast": "yāminī",
+    "devanagari": "यामिनी",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling of Yamini, 'night'",
+    "components": [
+      {
+        "part": "yāminī (night)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "yamini - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/yamini)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -402405,56 +402429,60 @@
   },
   {
     "name": "Jamna",
-    "iast": "jamna",
-    "devanagari": "",
+    "iast": "yamunā",
+    "devanagari": "यमुना",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular (Hindi) spelling of Yamuna, the sacred river associated with Krishna",
+    "components": [
+      {
+        "part": "yamunā (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Yamuna - Wikipedia (https://en.wikipedia.org/wiki/Yamuna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jamuna",
-    "iast": "jamuna",
-    "devanagari": "",
+    "iast": "yamunā",
+    "devanagari": "यमुना",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling of Yamuna, the sacred river of North India closely associated with Krishna",
+    "components": [
+      {
+        "part": "yamunā (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Yamuna - Wikipedia (https://en.wikipedia.org/wiki/Yamuna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
