@@ -182539,11 +182539,11 @@
   },
   {
     "name": "Angira",
-    "iast": "angira",
-    "devanagari": "",
+    "iast": "aṅgiras",
+    "devanagari": "अंगिरस्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant related to Angiras, one of the great Vedic sages, associated with the Atharvaveda",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -182551,24 +182551,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Angiras, Aṅgiras - wisdomlib (https://www.wisdomlib.org/definition/angiras)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Angiras",
-    "iast": "angiras",
-    "devanagari": "",
+    "iast": "aṅgiras",
+    "devanagari": "अंगिरस्",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a great Vedic sage, one of the sons of Brahma, teacher of divine knowledge and mediator between gods and men, associated with the Atharvaveda",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -182576,15 +182575,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Angiras, Aṅgiras - wisdomlib (https://www.wisdomlib.org/definition/angiras)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -183288,10 +183286,10 @@
   {
     "name": "Anila",
     "iast": "anila",
-    "devanagari": "",
+    "devanagari": "अनिल",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Wind, air; name of one of the eight Vasus associated with Vayu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -183299,28 +183297,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anala, Analā - wisdomlib (https://www.wisdomlib.org/definition/anala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Anilaabh",
@@ -183390,11 +183375,11 @@
   },
   {
     "name": "Anilah",
-    "iast": "anilah",
-    "devanagari": "",
+    "iast": "anila",
+    "devanagari": "अनिल",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Anil: wind, air, one of the eight Vasus associated with Vayu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -183402,16 +183387,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anala, Analā - wisdomlib (https://www.wisdomlib.org/definition/anala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Anilaja",
@@ -183498,23 +183482,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'anil'(wind)+'kumar'(boy/prince)",
+    "components": [
+      {
+        "part": "anila",
+        "gloss": "wind"
+      },
+      {
+        "part": "kumāra",
+        "gloss": "boy, prince"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anala, Analā - wisdomlib (https://www.wisdomlib.org/definition/anala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -183643,11 +183635,11 @@
   },
   {
     "name": "Animish",
-    "iast": "animish",
-    "devanagari": "",
+    "iast": "animiṣa",
+    "devanagari": "अनिमिष",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "'Unblinking, winkless eyes'; denotes attentiveness and watchfulness",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -183655,28 +183647,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Animisa, Animisha, Animiṣa - wisdomlib (https://www.wisdomlib.org/definition/animisa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aninda",
     "iast": "aninda",
-    "devanagari": "",
+    "devanagari": "अनिंद",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Blameless, faultless (related to anindita)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -183684,16 +183671,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aninda, Anindā - wisdomlib (https://www.wisdomlib.org/definition/aninda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Anindini",
@@ -183722,11 +183708,11 @@
   },
   {
     "name": "Anindit",
-    "iast": "anindit",
-    "devanagari": "",
+    "iast": "anindita",
+    "devanagari": "अनिंदित",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Blameless, faultless",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -183734,24 +183720,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anindita - wisdomlib (https://www.wisdomlib.org/definition/anindita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anindith",
-    "iast": "anindith",
-    "devanagari": "",
+    "iast": "anindita",
+    "devanagari": "अनिंदित",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Anindit: blameless, faultless",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -183759,28 +183744,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anindita - wisdomlib (https://www.wisdomlib.org/definition/anindita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aninditha",
-    "iast": "aninditha",
-    "devanagari": "",
+    "iast": "anindita",
+    "devanagari": "अनिंदिता",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Blameless, faultless",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -183788,28 +183768,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anindita - wisdomlib (https://www.wisdomlib.org/definition/anindita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Anindo",
-    "iast": "anindo",
-    "devanagari": "",
+    "iast": "aninda",
+    "devanagari": "অনিন্দ",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Bengali spelling related to Aninda: blameless, faultless",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -183817,15 +183792,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aninda, Anindā - wisdomlib (https://www.wisdomlib.org/definition/aninda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -183880,11 +183854,11 @@
   },
   {
     "name": "Aniroodh",
-    "iast": "aniroodh",
-    "devanagari": "",
+    "iast": "aniruddha",
+    "devanagari": "अनिरुद्ध",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "'Unobstructed, unconquerable'; grandson of Krishna (son of Pradyumna), and one of the four Vyuhas in Vaishnava theology",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -183892,24 +183866,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aniruddha - ficino.sourcelibrary.org/encyclopedia (https://ficino.sourcelibrary.org/encyclopedia/Aniruddha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aniruddh",
-    "iast": "aniruddh",
-    "devanagari": "",
+    "iast": "aniruddha",
+    "devanagari": "अनिरुद्ध",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "'Unobstructed, unconquerable'; grandson of Krishna (son of Pradyumna), and one of the four Vyuhas in Vaishnava theology",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -183917,32 +183890,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aniruddha - ficino.sourcelibrary.org/encyclopedia (https://ficino.sourcelibrary.org/encyclopedia/Aniruddha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aniruddha",
     "iast": "aniruddha",
-    "devanagari": "",
+    "devanagari": "अनिरुद्ध",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "'Unobstructed, unconquerable'; grandson of Krishna (son of Pradyumna), and one of the four Vyuhas in Vaishnava theology",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -183950,40 +183914,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aniruddha - ficino.sourcelibrary.org/encyclopedia (https://ficino.sourcelibrary.org/encyclopedia/Aniruddha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aniruddhan",
-    "iast": "aniruddhan",
-    "devanagari": "",
+    "iast": "aniruddha",
+    "devanagari": "அனிருத்தன்",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Tamil form of Aniruddha: 'unobstructed, unconquerable', grandson of Krishna",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -183991,24 +183938,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aniruddha - ficino.sourcelibrary.org/encyclopedia (https://ficino.sourcelibrary.org/encyclopedia/Aniruddha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anirudha",
-    "iast": "anirudha",
-    "devanagari": "",
+    "iast": "aniruddha",
+    "devanagari": "अनिरुद्ध",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Aniruddha: 'unobstructed, unconquerable', grandson of Krishna",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -184016,28 +183962,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aniruddha - ficino.sourcelibrary.org/encyclopedia (https://ficino.sourcelibrary.org/encyclopedia/Aniruddha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anirudhha",
-    "iast": "anirudhha",
-    "devanagari": "",
+    "iast": "aniruddha",
+    "devanagari": "अनिरुद्ध",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Aniruddha: 'unobstructed, unconquerable', grandson of Krishna",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -184045,19 +183986,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aniruddha - ficino.sourcelibrary.org/encyclopedia (https://ficino.sourcelibrary.org/encyclopedia/Aniruddha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -184087,11 +184023,11 @@
   },
   {
     "name": "Anirudu",
-    "iast": "anirudu",
-    "devanagari": "",
+    "iast": "aniruddha",
+    "devanagari": "అనిరుద్ధ",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Telugu spelling of Aniruddha: 'unobstructed, unconquerable', grandson of Krishna",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -184099,15 +184035,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aniruddha - ficino.sourcelibrary.org/encyclopedia (https://ficino.sourcelibrary.org/encyclopedia/Aniruddha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
