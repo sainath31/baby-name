@@ -408540,131 +408540,147 @@
   },
   {
     "name": "Jata",
-    "iast": "jata",
-    "devanagari": "",
+    "iast": "jaṭā",
+    "devanagari": "जटा",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Matted/braided hair', especially referring to the matted locks worn by Shiva and ascetics",
+    "components": [
+      {
+        "part": "jaṭā (matted hair)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jata - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jataa",
-    "iast": "jataa",
-    "devanagari": "",
+    "iast": "jaṭā",
+    "devanagari": "जटा",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Matted/braided hair', associated with Shiva and ascetics",
+    "components": [
+      {
+        "part": "jaṭā (matted hair)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jata - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jataadhar",
-    "iast": "jataadhar",
-    "devanagari": "",
+    "iast": "jaṭādhara",
+    "devanagari": "जटाधर",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Bearer of matted hair', a well-known epithet of Shiva",
+    "components": [
+      {
+        "part": "jaṭā (matted hair) + dhara (bearer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jatadhara - wisdomlib.org (https://www.wisdomlib.org/definition/jatadhara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jataadhara",
-    "iast": "jataadhara",
-    "devanagari": "",
+    "iast": "jaṭādhara",
+    "devanagari": "जटाधर",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Bearer of matted hair', epithet of Shiva",
+    "components": [
+      {
+        "part": "jaṭā (matted hair) + dhara (bearer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jatadhara - wisdomlib.org (https://www.wisdomlib.org/definition/jatadhara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jataayu",
-    "iast": "jataayu",
-    "devanagari": "",
+    "iast": "jaṭāyu",
+    "devanagari": "जटायु",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "The noble vulture-demigod in the Ramayana who sacrificed his life trying to save Sita from Ravana",
+    "components": [
+      {
+        "part": "jaṭāyu (proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jatayu - Wikipedia (https://en.wikipedia.org/wiki/Jatayu)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -408748,35 +408764,31 @@
   },
   {
     "name": "Jatan",
-    "iast": "jatan",
-    "devanagari": "",
+    "iast": "yatna",
+    "devanagari": "यत्न",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular (Hindi/Punjabi) spelling of Yatna, 'effort, care, diligence'",
+    "components": [
+      {
+        "part": "yatna (effort/care)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "yatna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/yatna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -408831,31 +408843,31 @@
   },
   {
     "name": "Jatashankar",
-    "iast": "jatashankar",
-    "devanagari": "",
+    "iast": "jaṭāśaṅkara",
+    "devanagari": "जटाशङ्कर",
     "letter": "J",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Compound 'jata (matted hair) + Shankar (Shiva)', emphasizing Shiva's matted locks",
+    "components": [
+      {
+        "part": "jaṭā (matted hair) + śaṅkara (Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jatadhara/jatashankara - wisdomlib.org (https://www.wisdomlib.org/definition/jatadhara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy",
     "alt_spellings": [
       "Jata Shankar"
@@ -409000,27 +409012,31 @@
   },
   {
     "name": "Jatila",
-    "iast": "jatila",
-    "devanagari": "",
+    "iast": "jaṭila",
+    "devanagari": "जटिल",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Having matted hair', an epithet applied to Shiva and ascetics; also means 'complicated, intricate' in modern Hindi",
+    "components": [
+      {
+        "part": "jaṭila (having matted hair)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jatila - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jatila)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -409589,36 +409605,33 @@
   },
   {
     "name": "Jawahar",
-    "iast": "jawahar",
+    "iast": "javāhar",
     "devanagari": "",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Hindi/Urdu word meaning 'jewel' (from Persian/Arabic 'jawahir'); famous via India's first Prime Minister Jawaharlal Nehru",
+    "components": [
+      {
+        "part": "Persian: jawāhir (jewel)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "low",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jawaharlal Nehru - Wikipedia (https://en.wikipedia.org/wiki/Jawaharlal_Nehru)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
-    "gender": "boy"
+    "gender": "boy",
+    "review_status": "pending"
   },
   {
     "name": "Jawahara",
@@ -409651,20 +409664,25 @@
     "devanagari": "",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Ruby jewel', the full given name of India's first Prime Minister Jawaharlal Nehru",
+    "components": [
+      {
+        "part": "Persian: jawāhir (jewel) + lāl (ruby/dear one)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "low",
     "sources": [
       {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Jawaharlal Nehru - Wikipedia (https://en.wikipedia.org/wiki/Jawaharlal_Nehru)",
+        "license": "CC BY-SA 4.0"
       }
     ],
     "review_status": "pending"
@@ -409746,89 +409764,89 @@
   },
   {
     "name": "Jayachand",
-    "iast": "jayachand",
-    "devanagari": "",
+    "iast": "jayacandra",
+    "devanagari": "जयचन्द्र",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Moon of victory'; also the historical 12th-century Gahadavala king Jayachandra of Kannauj",
+    "components": [
+      {
+        "part": "jaya (victory) + candra (moon)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jayachandra - Wikipedia (https://en.wikipedia.org/wiki/Jayachandra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jayachandra",
-    "iast": "jayachandra",
-    "devanagari": "",
+    "iast": "jayacandra",
+    "devanagari": "जयचन्द्र",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Moon of victory'; also the historical 12th-century king Jayachandra of Kannauj",
+    "components": [
+      {
+        "part": "jaya (victory) + candra (moon)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jayachandra - Wikipedia (https://en.wikipedia.org/wiki/Jayachandra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jayachandran",
-    "iast": "jayachandran",
+    "iast": "jayacandran",
     "devanagari": "",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Tamil-suffixed form of Jayachandra, 'moon of victory'",
+    "components": [
+      {
+        "part": "jaya (victory) + candra (moon) + Tamil suffix",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jayachandra - Wikipedia (https://en.wikipedia.org/wiki/Jayachandra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -409916,26 +409934,30 @@
   {
     "name": "Jayadeva",
     "iast": "jayadeva",
-    "devanagari": "",
+    "devanagari": "जयदेव",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'God of victory'; also the name of the renowned 12th-century poet Jayadeva, author of the Gita Govinda",
+    "components": [
+      {
+        "part": "jaya (victory) + deva (god)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jayadeva - Wikipedia (https://en.wikipedia.org/wiki/Jayadeva)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -409974,59 +409996,59 @@
   {
     "name": "Jayadratha",
     "iast": "jayadratha",
-    "devanagari": "",
+    "devanagari": "जयद्रथ",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Name of the king of Sindhu in the Mahabharata, an ally of the Kauravas who was responsible for Abhimanyu's death and was later slain by Arjuna; a real historical/epic royal figure",
+    "components": [
+      {
+        "part": "jaya (victory) + ratha (chariot)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jayadratha - Wikipedia (https://en.wikipedia.org/wiki/Jayadratha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jayadurga",
-    "iast": "jayadurga",
-    "devanagari": "",
+    "iast": "jayadurgā",
+    "devanagari": "जयदुर्गा",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Victorious Durga', an epithet of the goddess Durga",
+    "components": [
+      {
+        "part": "jaya (victory) + durgā (the goddess)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jayadurga - wisdomlib.org (https://www.wisdomlib.org/definition/jayadurga)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
