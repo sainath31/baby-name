@@ -428189,27 +428189,31 @@
   },
   {
     "name": "Jvala",
-    "iast": "jvala",
-    "devanagari": "",
+    "iast": "jvālā",
+    "devanagari": "ज्वाला",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Flame, blaze'; also the name of the goddess Jwalamukhi, worshipped as a manifestation of the Devi in the form of flames",
+    "components": [
+      {
+        "part": "jvālā (flame)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jwalamukhi Temple - Wikipedia (https://en.wikipedia.org/wiki/Jawalamukhi_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -428264,59 +428268,59 @@
   },
   {
     "name": "Jwala",
-    "iast": "jwala",
-    "devanagari": "",
+    "iast": "jvālā",
+    "devanagari": "ज्वाला",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Flame, blaze'; also the name of the goddess Jwalamukhi, a major Shakti Peetha manifesting as eternal flames in Himachal Pradesh",
+    "components": [
+      {
+        "part": "jvālā (flame)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jwalamukhi Temple - Wikipedia (https://en.wikipedia.org/wiki/Jawalamukhi_Temple)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Jwalamukhi",
-    "iast": "jwalamukhi",
-    "devanagari": "",
+    "iast": "jvālāmukhī",
+    "devanagari": "ज्वालामुखी",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Flame-faced', the name of a major Shakti Peetha goddess manifesting as eternal natural flames in Himachal Pradesh (also means 'volcano' in modern Hindi)",
+    "components": [
+      {
+        "part": "jvālā (flame) + mukhī (faced)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Jwalamukhi Temple - Wikipedia (https://en.wikipedia.org/wiki/Jawalamukhi_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -428703,60 +428707,60 @@
   },
   {
     "name": "Jyestha",
-    "iast": "jyestha",
-    "devanagari": "",
+    "iast": "jyeṣṭha",
+    "devanagari": "ज्येष्ठ",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Eldest, chief, most excellent'; also a lunar month and a nakshatra (lunar mansion) name in Vedic astrology",
+    "components": [
+      {
+        "part": "jyeṣṭha (eldest)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyeshtha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyeshtha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jyoshna",
-    "iast": "jyoshna",
-    "devanagari": "",
+    "iast": "jyotsnā",
+    "devanagari": "ज्योत्स्ना",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jyotsna, 'moonlight'",
+    "components": [
+      {
+        "part": "jyotsnā (moonlight)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyotsna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyotsna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -428811,106 +428815,118 @@
   },
   {
     "name": "Jyosna",
-    "iast": "jyosna",
-    "devanagari": "",
+    "iast": "jyotsnā",
+    "devanagari": "ज्योत्स्ना",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jyotsna, 'moonlight'",
+    "components": [
+      {
+        "part": "jyotsnā (moonlight)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jyotsna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyotsna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jyostna",
-    "iast": "jyostna",
-    "devanagari": "",
+    "iast": "jyotsnā",
+    "devanagari": "ज्योत्स्ना",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jyotsna, 'moonlight'",
+    "components": [
+      {
+        "part": "jyotsnā (moonlight)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyotsna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyotsna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jyot",
-    "iast": "jyot",
-    "devanagari": "",
+    "iast": "jyoti",
+    "devanagari": "ज्योति",
     "letter": "J",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Contracted vernacular spelling of Jyoti, 'light, flame, radiance'",
+    "components": [
+      {
+        "part": "jyoti (light)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jyoti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyoti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jyota",
-    "iast": "jyota",
+    "iast": "jyotā",
     "devanagari": "",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jyoti, 'light'",
+    "components": [
+      {
+        "part": "jyoti (light)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jyoti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyoti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -428940,27 +428956,31 @@
   },
   {
     "name": "Jyotee",
-    "iast": "jyotee",
-    "devanagari": "",
+    "iast": "jyoti",
+    "devanagari": "ज्योति",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jyoti, 'light'",
+    "components": [
+      {
+        "part": "jyoti (light)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyoti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyoti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -428990,27 +429010,31 @@
   },
   {
     "name": "Jyotey",
-    "iast": "jyotey",
-    "devanagari": "",
+    "iast": "jyoti",
+    "devanagari": "ज्योति",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jyoti, 'light'",
+    "components": [
+      {
+        "part": "jyoti (light)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyoti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyoti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -429065,60 +429089,60 @@
   },
   {
     "name": "Jyothi",
-    "iast": "jyothi",
-    "devanagari": "",
+    "iast": "jyoti",
+    "devanagari": "ज्योति",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Light, flame, radiance'; a very common and well-attested Indian given name",
+    "components": [
+      {
+        "part": "jyoti (light)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyoti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyoti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jyothika",
-    "iast": "jyothika",
-    "devanagari": "",
+    "iast": "jyotikā",
+    "devanagari": "ज्योतिका",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Diminutive form of Jyoti, 'light'; also the stage name of Indian actress Jyothika",
+    "components": [
+      {
+        "part": "jyoti (light) + -ikā",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jyothika - Wikipedia (https://en.wikipedia.org/wiki/Jyothika)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -429222,31 +429246,31 @@
   },
   {
     "name": "Jyothirmai",
-    "iast": "jyothirmai",
-    "devanagari": "",
+    "iast": "jyotirmayī",
+    "devanagari": "ज्योतिर्मयी",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Full of light, radiant' (feminine)",
+    "components": [
+      {
+        "part": "jyoti (light) + mayī (full of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyotirmayi - wisdomlib.org (https://www.wisdomlib.org/definition/jyotirmayi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -429334,27 +429358,31 @@
   },
   {
     "name": "Jyothishmati",
-    "iast": "jyothishmati",
-    "devanagari": "",
+    "iast": "jyotiṣmatī",
+    "devanagari": "ज्योतिष्मती",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Luminous, radiant, full of light'; also the name of a medicinal plant and used in Yoga Sutras to describe a meditative state of luminosity",
+    "components": [
+      {
+        "part": "jyotiṣmatī (luminous)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jyotishmati - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyotishmati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -429409,31 +429437,31 @@
   },
   {
     "name": "Jyothsna",
-    "iast": "jyothsna",
-    "devanagari": "",
+    "iast": "jyotsnā",
+    "devanagari": "ज्योत्स्ना",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jyotsna, 'moonlight'",
+    "components": [
+      {
+        "part": "jyotsnā (moonlight)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyotsna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyotsna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -429550,27 +429578,31 @@
   },
   {
     "name": "Jyotie",
-    "iast": "jyotie",
-    "devanagari": "",
+    "iast": "jyoti",
+    "devanagari": "ज्योति",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Jyoti, 'light'",
+    "components": [
+      {
+        "part": "jyoti (light)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyoti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/jyoti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Jyotik",
@@ -429599,35 +429631,31 @@
   },
   {
     "name": "Jyotika",
-    "iast": "jyotika",
-    "devanagari": "",
+    "iast": "jyotikā",
+    "devanagari": "ज्योतिका",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Diminutive form of Jyoti, 'light'; also the stage name of actress Jyothika",
+    "components": [
+      {
+        "part": "jyoti (light) + -ikā",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Jyothika - Wikipedia (https://en.wikipedia.org/wiki/Jyothika)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -429657,35 +429685,31 @@
   },
   {
     "name": "Jyotindra",
-    "iast": "jyotindra",
-    "devanagari": "",
+    "iast": "jyotīndra",
+    "devanagari": "ज्योतीन्द्र",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of light'",
+    "components": [
+      {
+        "part": "jyoti (light) + indra (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyotindra - wisdomlib.org (https://www.wisdomlib.org/definition/jyotindra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -429723,56 +429747,60 @@
   },
   {
     "name": "Jyotiraaditya",
-    "iast": "jyotiraaditya",
-    "devanagari": "",
+    "iast": "jyotirāditya",
+    "devanagari": "ज्योतिरादित्य",
     "letter": "J",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Radiance of the sun'; also the full given name of Indian politician Jyotiraditya Scindia",
+    "components": [
+      {
+        "part": "jyoti (light) + āditya (sun)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Jyotiraditya Scindia - Wikipedia (https://en.wikipedia.org/wiki/Jyotiraditya_Scindia)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jyotiraditya",
-    "iast": "jyotiraditya",
-    "devanagari": "",
+    "iast": "jyotirāditya",
+    "devanagari": "ज्योतिरादित्य",
     "letter": "J",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Radiance of the sun'; the given name of Indian politician Jyotiraditya Scindia",
+    "components": [
+      {
+        "part": "jyoti (light) + āditya (sun)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Jyotiraditya Scindia - Wikipedia (https://en.wikipedia.org/wiki/Jyotiraditya_Scindia)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -429894,142 +429922,146 @@
   {
     "name": "Jyotirmaya",
     "iast": "jyotirmaya",
-    "devanagari": "",
+    "devanagari": "ज्योतिर्मय",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Full of light, radiant'",
+    "components": [
+      {
+        "part": "jyoti (light) + maya (full of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyotirmaya - wisdomlib.org (https://www.wisdomlib.org/definition/jyotirmaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jyotirmayee",
-    "iast": "jyotirmayee",
-    "devanagari": "",
+    "iast": "jyotirmayī",
+    "devanagari": "ज्योतिर्मयी",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Full of light, radiant' (feminine)",
+    "components": [
+      {
+        "part": "jyoti (light) + mayī (full of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyotirmayi - wisdomlib.org (https://www.wisdomlib.org/definition/jyotirmayi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jyotirmayi",
-    "iast": "jyotirmayi",
-    "devanagari": "",
+    "iast": "jyotirmayī",
+    "devanagari": "ज्योतिर्मयी",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Full of light, radiant' (feminine)",
+    "components": [
+      {
+        "part": "jyoti (light) + mayī (full of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "jyotirmayi - wisdomlib.org (https://www.wisdomlib.org/definition/jyotirmayi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Jyotirmoy",
-    "iast": "jyotirmoy",
-    "devanagari": "",
+    "iast": "jyotirmaya",
+    "devanagari": "ज्योतिर्मय",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Bengali vernacular spelling of Jyotirmaya, 'full of light, radiant'",
+    "components": [
+      {
+        "part": "jyoti (light) + maya (full of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyotirmaya - wisdomlib.org (https://www.wisdomlib.org/definition/jyotirmaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Jyotirmoyee",
-    "iast": "jyotirmoyee",
-    "devanagari": "",
+    "iast": "jyotirmayī",
+    "devanagari": "ज्योतिर्मयी",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Bengali vernacular spelling of Jyotirmayi, 'full of light, radiant' (feminine)",
+    "components": [
+      {
+        "part": "jyoti (light) + mayī (full of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "jyotirmayi - wisdomlib.org (https://www.wisdomlib.org/definition/jyotirmayi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
