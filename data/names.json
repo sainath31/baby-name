@@ -181014,7 +181014,7 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Tamil word 'anbu' meaning love, affection, kindness",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -181022,15 +181022,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "50 Shades of Love and Obsession In The Tamil Language - homegrown.co.in (https://homegrown.co.in/article/804162/50-shades-of-love-and-obsession-in-the-tamil-language)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -181064,52 +181063,65 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'anbu'(love)+'arasu'(king), 'king of love'",
+    "components": [
+      {
+        "part": "anbu",
+        "gloss": "love, affection (Tamil)"
+      },
+      {
+        "part": "arasu",
+        "gloss": "king"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "50 Shades of Love and Obsession In The Tamil Language - homegrown.co.in (https://homegrown.co.in/article/804162/50-shades-of-love-and-obsession-in-the-tamil-language)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anbazhagan",
-    "iast": "anbazhagan",
+    "iast": "anbu",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Tamil compound 'anbu'(love)+'azhagan'(beautiful one)",
+    "components": [
+      {
+        "part": "anbu",
+        "gloss": "love, affection (Tamil)"
+      },
+      {
+        "part": "azhagan",
+        "gloss": "beautiful one"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "50 Shades of Love and Obsession In The Tamil Language - homegrown.co.in (https://homegrown.co.in/article/804162/50-shades-of-love-and-obsession-in-the-tamil-language)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Anbesha",
@@ -181216,23 +181228,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'anbu'(love)+'mani'(gem)",
+    "components": [
+      {
+        "part": "anbu",
+        "gloss": "love, affection (Tamil)"
+      },
+      {
+        "part": "maṇi",
+        "gloss": "gem, jewel"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "50 Shades of Love and Obsession In The Tamil Language - homegrown.co.in (https://homegrown.co.in/article/804162/50-shades-of-love-and-obsession-in-the-tamil-language)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -181290,23 +181310,32 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'anbu'(love)+'raj'(king)",
+    "components": [
+      {
+        "part": "anbu",
+        "gloss": "love, affection (Tamil)"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "50 Shades of Love and Obsession In The Tamil Language - homegrown.co.in (https://homegrown.co.in/article/804162/50-shades-of-love-and-obsession-in-the-tamil-language)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Anbuselvan",
@@ -181314,23 +181343,31 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'anbu'(love)+'selvan'(wealth/prince)",
+    "components": [
+      {
+        "part": "anbu",
+        "gloss": "love, affection (Tamil)"
+      },
+      {
+        "part": "selvan",
+        "gloss": "wealth, prince"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anbuselvam - ask-oracle.com (https://www.ask-oracle.com/baby-name/anbuselvam/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -181339,23 +181376,32 @@
     "devanagari": "",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Anbuselvan: Tamil compound 'anbu'(love)+'selvan'(wealth/prince)",
+    "components": [
+      {
+        "part": "anbu",
+        "gloss": "love, affection (Tamil)"
+      },
+      {
+        "part": "selvan",
+        "gloss": "wealth, prince"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Anbuselvam - ask-oracle.com (https://www.ask-oracle.com/baby-name/anbuselvam/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Anchala",
@@ -181542,11 +181588,11 @@
   },
   {
     "name": "Aneel",
-    "iast": "aneel",
-    "devanagari": "",
+    "iast": "anila",
+    "devanagari": "अनिल",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Wind, air; name of one of the eight Vasus associated with Vayu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -181554,15 +181600,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Anala, Analā - wisdomlib (https://www.wisdomlib.org/definition/anala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -181958,11 +182003,11 @@
   },
   {
     "name": "Angaar",
-    "iast": "angaar",
-    "devanagari": "",
+    "iast": "aṅgāra",
+    "devanagari": "अंगार",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Burning coal, ember, cinder",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -181970,28 +182015,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Angara, Aṅgāra - wisdomlib (https://www.wisdomlib.org/definition/angara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Angada",
-    "iast": "angada",
-    "devanagari": "",
+    "iast": "aṅgada",
+    "devanagari": "अंगद",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of the son of Vali and Tara, vanara prince of Kishkindha who helped Rama in the Ramayana",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -181999,32 +182039,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Angada - Wikipedia (https://en.wikipedia.org/wiki/Angada)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Angadan",
-    "iast": "angadan",
-    "devanagari": "",
+    "iast": "aṅgada",
+    "devanagari": "அங்கதன்",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Tamil form of Angada, the vanara prince in the Ramayana",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -182032,24 +182063,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Angada - Wikipedia (https://en.wikipedia.org/wiki/Angada)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Angaj",
-    "iast": "angaj",
-    "devanagari": "",
+    "iast": "aṅgaja",
+    "devanagari": "अङ्गज",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "'Born of the body'; son",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -182057,32 +182087,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Angaja, Aṅgajā - wisdomlib (https://www.wisdomlib.org/definition/angaja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Angaja",
-    "iast": "angaja",
-    "devanagari": "",
+    "iast": "aṅgaja",
+    "devanagari": "अङ्गज",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "'Born of the body'; son",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -182090,16 +182111,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Angaja, Aṅgajā - wisdomlib (https://www.wisdomlib.org/definition/angaja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Angak",
@@ -182185,11 +182205,11 @@
   },
   {
     "name": "Angara",
-    "iast": "angara",
-    "devanagari": "",
+    "iast": "aṅgāra",
+    "devanagari": "अंगार",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Burning coal, ember, cinder; also the name of an ancient Indian king defeated by Mandhata",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -182197,24 +182217,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Angara, Aṅgāra - wisdomlib (https://www.wisdomlib.org/definition/angara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Angaran",
-    "iast": "angaran",
-    "devanagari": "",
+    "iast": "aṅgāra",
+    "devanagari": "அங்காரன்",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Tamil form related to Angara: burning coal/ember",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -182222,15 +182241,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Angara, Aṅgāra - wisdomlib (https://www.wisdomlib.org/definition/angara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Angarika",
