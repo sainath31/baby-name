@@ -390784,76 +390784,60 @@
   },
   {
     "name": "Ishan",
-    "iast": "ishan",
-    "devanagari": "",
+    "iast": "īśāna",
+    "devanagari": "ईशान",
     "letter": "I",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Ruler, lord', a well-known epithet of Shiva as guardian of the northeast direction; also refers to the rising sun",
+    "components": [
+      {
+        "part": "īśāna (ruler, epithet of Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Ishana - Wikipedia (https://en.wikipedia.org/wiki/Ishana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ishana",
-    "iast": "ishana",
-    "devanagari": "",
+    "iast": "īśāna",
+    "devanagari": "ईशान",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Ruler, lord', epithet of Shiva as guardian of the northeast direction",
+    "components": [
+      {
+        "part": "īśāna (ruler, epithet of Shiva)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Ishana - Wikipedia (https://en.wikipedia.org/wiki/Ishana)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Ishanika",
@@ -391250,31 +391234,31 @@
   },
   {
     "name": "Ishitha",
-    "iast": "ishitha",
-    "devanagari": "",
+    "iast": "īśitā",
+    "devanagari": "ईशिता",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lordship, sovereignty, mastery', one of the eight classical siddhis (supernatural powers) in yoga",
+    "components": [
+      {
+        "part": "īśitā (sovereignty)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ishitva/ishita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ishitva)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -391552,56 +391536,60 @@
   },
   {
     "name": "Ishta",
-    "iast": "ishta",
-    "devanagari": "",
+    "iast": "iṣṭā",
+    "devanagari": "इष्टा",
     "letter": "I",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Desired, cherished, beloved'; also used in the term 'Ishta Devata' (one's chosen/preferred deity)",
+    "components": [
+      {
+        "part": "iṣṭā (desired/beloved)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ishta - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ishta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Ishtaa",
-    "iast": "ishtaa",
-    "devanagari": "",
+    "iast": "iṣṭā",
+    "devanagari": "इष्टा",
     "letter": "I",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Ishta, 'desired, cherished, beloved'",
+    "components": [
+      {
+        "part": "iṣṭā (desired/beloved)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "ishta - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ishta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -391731,27 +391719,31 @@
   },
   {
     "name": "Ishvari",
-    "iast": "ishvari",
-    "devanagari": "",
+    "iast": "īśvarī",
+    "devanagari": "ईश्वरी",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Goddess, supreme female ruler', feminine form of Ishvara (Lord/God)",
+    "components": [
+      {
+        "part": "īśvarī (goddess)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "ishvari - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ishvari)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -391806,35 +391798,31 @@
   },
   {
     "name": "Ishwar",
-    "iast": "ishwar",
-    "devanagari": "",
+    "iast": "īśvara",
+    "devanagari": "ईश्वर",
     "letter": "I",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'God, Lord, Supreme Being'; one of the most common and significant Sanskrit/Hindi terms for the divine",
+    "components": [
+      {
+        "part": "īśvara (lord/God)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Ishvara - Wikipedia (https://en.wikipedia.org/wiki/Ishvara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -391864,56 +391852,60 @@
   },
   {
     "name": "Ishwariya",
-    "iast": "ishwariya",
-    "devanagari": "",
+    "iast": "aiśvaryā",
+    "devanagari": "ऐश्वर्या",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Aishwarya/Ishwarya, 'prosperity, wealth, divine glory'",
+    "components": [
+      {
+        "part": "aiśvarya (sovereignty/prosperity)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "aishwarya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/aishvarya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Ishwarya",
-    "iast": "ishwarya",
-    "devanagari": "",
+    "iast": "aiśvaryā",
+    "devanagari": "ऐश्वर्या",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Prosperity, wealth, divine glory, sovereignty' (from ishvara, lord)",
+    "components": [
+      {
+        "part": "aiśvarya (sovereignty/prosperity)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "aishwarya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/aishvarya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -392145,31 +392137,31 @@
   },
   {
     "name": "Iswarya",
-    "iast": "iswarya",
-    "devanagari": "",
+    "iast": "aiśvaryā",
+    "devanagari": "ऐश्वर्या",
     "letter": "I",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Aishwarya/Ishwarya, 'prosperity, wealth, divine glory'",
+    "components": [
+      {
+        "part": "aiśvarya (sovereignty/prosperity)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "aishwarya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/aishvarya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
