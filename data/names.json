@@ -193370,11 +193370,11 @@
   },
   {
     "name": "Aparaa",
-    "iast": "aparaa",
-    "devanagari": "",
+    "iast": "aparā",
+    "devanagari": "अपरा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Variant spelling of Apara: 'boundless'; also 'second, latter', and 'placenta' in Ayurveda",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -193382,90 +193382,114 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Apara, Apāra, Aparā - wisdomlib (https://www.wisdomlib.org/definition/apara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aparajeet",
-    "iast": "aparajeet",
-    "devanagari": "",
+    "iast": "aparājita",
+    "devanagari": "अपराजित",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Unconquered, unconquerable'; a name of the goddess Durga, and one of the Eleven Rudras",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "parājita",
+        "gloss": "conquered, overcome"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aparajita, Aparājitā, Aparājita - wisdomlib (https://www.wisdomlib.org/definition/aparajita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aparajitha",
-    "iast": "aparajitha",
-    "devanagari": "",
+    "iast": "aparājitā",
+    "devanagari": "अपराजिता",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Unconquered, unconquerable'; a name of the goddess Durga; also a flowering plant (Clitoria ternatea)",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "parājita",
+        "gloss": "conquered, overcome"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aparajita, Aparājitā, Aparājita - wisdomlib (https://www.wisdomlib.org/definition/aparajita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aparajito",
-    "iast": "aparajito",
-    "devanagari": "",
+    "iast": "aparājita",
+    "devanagari": "অপরাজিত",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Bengali spelling of Aparajita: 'unconquered, unconquerable', epithet of Durga",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "parājita",
+        "gloss": "conquered"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aparajita, Aparājitā, Aparājita - wisdomlib (https://www.wisdomlib.org/definition/aparajita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Aparamit",
@@ -193598,31 +193622,35 @@
   },
   {
     "name": "Aparijita",
-    "iast": "aparijita",
-    "devanagari": "",
+    "iast": "aparājitā",
+    "devanagari": "अपराजिता",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Aparajita: 'unconquered, unconquerable', epithet of Durga",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "parājita",
+        "gloss": "conquered"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aparajita, Aparājitā, Aparājita - wisdomlib (https://www.wisdomlib.org/definition/aparajita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -193652,27 +193680,35 @@
   },
   {
     "name": "Aparjith",
-    "iast": "aparjith",
-    "devanagari": "",
+    "iast": "aparājita",
+    "devanagari": "अपराजित",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Variant spelling of Aparajita: 'unconquered, unconquerable'",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "parājita",
+        "gloss": "conquered"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aparajita, Aparājitā, Aparājita - wisdomlib (https://www.wisdomlib.org/definition/aparajita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -193777,11 +193813,11 @@
   },
   {
     "name": "Apatihat",
-    "iast": "apatihat",
-    "devanagari": "",
+    "iast": "apratihata",
+    "devanagari": "अप्रतिहत",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "'Unobstructed, unhindered, irresistible'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -193789,24 +193825,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Apratihata - wisdomlib (https://de.wisdomlib.org/definition/apratihata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Apekshaa",
-    "iast": "apekshaa",
-    "devanagari": "",
+    "iast": "apekṣā",
+    "devanagari": "अपेक्षा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Expectation, regard, consideration, need",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -193814,15 +193849,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Apeksh, Apekṣ - wisdomlib (https://www.wisdomlib.org/definition/apeksh)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -193977,11 +194011,11 @@
   },
   {
     "name": "Apoorve",
-    "iast": "apoorve",
-    "devanagari": "",
+    "iast": "apūrva",
+    "devanagari": "अपूर्व",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "'Not existing before'; unprecedented, novel, unique",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -193989,15 +194023,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Apurva, Apūrva - wisdomlib (https://www.wisdomlib.org/definition/apurva)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -194080,31 +194113,35 @@
   },
   {
     "name": "Apparajito",
-    "iast": "apparajito",
-    "devanagari": "",
+    "iast": "aparājita",
+    "devanagari": "অপরাজিত",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Aparajito/Aparajita: 'unconquered, unconquerable', epithet of Durga",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "parājita",
+        "gloss": "conquered"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aparajita, Aparājitā, Aparājita - wisdomlib (https://www.wisdomlib.org/definition/aparajita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -194159,36 +194196,44 @@
   },
   {
     "name": "Aprajita",
-    "iast": "aprajita",
-    "devanagari": "",
+    "iast": "aparājitā",
+    "devanagari": "अपराजिता",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Variant spelling of Aparajita: 'unconquered, unconquerable', epithet of Durga",
+    "components": [
+      {
+        "part": "a-",
+        "gloss": "not"
+      },
+      {
+        "part": "parājita",
+        "gloss": "conquered"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aparajita, Aparājitā, Aparājita - wisdomlib (https://www.wisdomlib.org/definition/aparajita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Apratihat",
-    "iast": "apratihat",
-    "devanagari": "",
+    "iast": "apratihata",
+    "devanagari": "अप्रतिहत",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "'Unobstructed, unhindered, irresistible'",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -194196,40 +194241,43 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Apratihata - wisdomlib (https://de.wisdomlib.org/definition/apratihata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Apratim",
-    "iast": "apratim",
-    "devanagari": "",
+    "iast": "apratima",
+    "devanagari": "अप्रतिम",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Unparalleled, matchless, incomparable (related to confirmed 'aprati')",
+    "components": [
+      {
+        "part": "aprati",
+        "gloss": "not equalled, unmatched"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Apratima - wisdomlib (https://de.wisdomlib.org/definition/apratima)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -194309,11 +194357,11 @@
   },
   {
     "name": "Apsara",
-    "iast": "apsara",
-    "devanagari": "",
+    "iast": "apsaras",
+    "devanagari": "अप्सरा",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Celestial nymph, born at the churning of the ocean of milk; associated with music, dance, and beauty",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -194321,27 +194369,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Apsaras, Apsarā, Apsara - wisdomlib (https://www.wisdomlib.org/definition/apsaras)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -194371,11 +194406,11 @@
   },
   {
     "name": "Aptha",
-    "iast": "aptha",
-    "devanagari": "",
+    "iast": "āpta",
+    "devanagari": "आप्त",
     "letter": "A",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Trustworthy, reliable, authoritative; also 'an Arhat' in Jainism",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -194383,24 +194418,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Apta, Āpta, Aptā - wisdomlib (https://de.wisdomlib.org/definition/apta)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Apurba",
-    "iast": "apurba",
-    "devanagari": "",
+    "iast": "apūrva",
+    "devanagari": "অপূর্ব",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Bengali spelling of Apurva: unprecedented, novel, unique",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -194408,16 +194442,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Apurva, Apūrva - wisdomlib (https://www.wisdomlib.org/definition/apurva)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Apure",
@@ -194525,11 +194558,11 @@
   },
   {
     "name": "Apurv",
-    "iast": "apurv",
-    "devanagari": "",
+    "iast": "apūrva",
+    "devanagari": "अपूर्व",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "'Not existing before'; unprecedented, novel, unique",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -194537,24 +194570,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Apurva, Apūrva - wisdomlib (https://www.wisdomlib.org/definition/apurva)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Apurva",
-    "iast": "apurva",
-    "devanagari": "",
+    "iast": "apūrva",
+    "devanagari": "अपूर्व",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "'Not existing before'; unprecedented, novel, unique",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -194562,43 +194594,43 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Apurva, Apūrva - wisdomlib (https://www.wisdomlib.org/definition/apurva)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Apurvi",
-    "iast": "apurvi",
-    "devanagari": "",
+    "iast": "apūrvī",
+    "devanagari": "अपूर्वी",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form of Apurva: unprecedented, novel, unique",
+    "components": [
+      {
+        "part": "apūrva",
+        "gloss": "unprecedented, novel"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Apurva, Apūrva - wisdomlib (https://www.wisdomlib.org/definition/apurva)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -194628,27 +194660,31 @@
   },
   {
     "name": "Araadhak",
-    "iast": "araadhak",
-    "devanagari": "",
+    "iast": "ārādhaka",
+    "devanagari": "आराधक",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Worshipper, one who propitiates/venerates",
+    "components": [
+      {
+        "part": "ārādhana",
+        "gloss": "worship, propitiation"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aradhana, Ārādhanā - wisdomlib (https://www.wisdomlib.org/definition/aradhana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -194678,11 +194714,11 @@
   },
   {
     "name": "Arabhi",
-    "iast": "arabhi",
-    "devanagari": "",
+    "iast": "ārabhi",
+    "devanagari": "आरभी",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a raga (musical mode) derived from Dhira Shankarabharanam in Carnatic music",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -194690,15 +194726,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Arabhi, Ārabhi - wisdomlib (https://www.wisdomlib.org/definition/arabhi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -194781,36 +194816,40 @@
   },
   {
     "name": "Aradhak",
-    "iast": "aradhak",
-    "devanagari": "",
+    "iast": "ārādhaka",
+    "devanagari": "आराधक",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Worshipper, one who propitiates/venerates",
+    "components": [
+      {
+        "part": "ārādhana",
+        "gloss": "worship, propitiation"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aradhana, Ārādhanā - wisdomlib (https://www.wisdomlib.org/definition/aradhana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Aradhan",
-    "iast": "aradhan",
-    "devanagari": "",
+    "iast": "ārādhana",
+    "devanagari": "आराधन",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Worship, propitiation, veneration",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -194818,24 +194857,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aradhana, Ārādhanā - wisdomlib (https://www.wisdomlib.org/definition/aradhana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "girl"
+    "gender": "boy"
   },
   {
     "name": "Aradhana",
-    "iast": "aradhana",
-    "devanagari": "",
+    "iast": "ārādhanā",
+    "devanagari": "आराधना",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Worship, propitiation, veneration",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -194843,36 +194881,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Aradhana, Ārādhanā - wisdomlib (https://www.wisdomlib.org/definition/aradhana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aradhita",
-    "iast": "aradhita",
-    "devanagari": "",
+    "iast": "ārādhita",
+    "devanagari": "आराधित",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Worshipped, propitiated, venerated",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -194880,24 +194905,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Aradhita, Ārādhita - wisdomlib (https://www.wisdomlib.org/definition/aradhita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Aradhna",
-    "iast": "aradhna",
-    "devanagari": "",
+    "iast": "ārādhanā",
+    "devanagari": "आराधना",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Aradhana: worship, propitiation, veneration",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -194905,15 +194929,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Aradhana, Ārādhanā - wisdomlib (https://www.wisdomlib.org/definition/aradhana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
