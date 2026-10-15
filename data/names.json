@@ -379005,31 +379005,31 @@
   },
   {
     "name": "Hridya",
-    "iast": "hridya",
-    "devanagari": "",
+    "iast": "hṛdya",
+    "devanagari": "हृद्य",
     "letter": "H",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Pleasing to the heart, agreeable, dear'",
+    "components": [
+      {
+        "part": "hṛdya (heart-pleasing)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "hridya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hridya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -379466,39 +379466,31 @@
   },
   {
     "name": "Hrishikesh",
-    "iast": "hrishikesh",
-    "devanagari": "",
+    "iast": "hṛṣīkeśa",
+    "devanagari": "हृषीकेश",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of the senses', a well-known epithet of Vishnu/Krishna",
+    "components": [
+      {
+        "part": "hṛṣīka (senses) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Hrishikesh - epithet of Vishnu/Krishna, Wikipedia (Rishikesh) (https://en.wikipedia.org/wiki/Rishikesh)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -380127,52 +380119,60 @@
   },
   {
     "name": "Hruday",
-    "iast": "hruday",
-    "devanagari": "",
+    "iast": "hṛdaya",
+    "devanagari": "हृदय",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular spelling of Hridaya, 'heart'",
+    "components": [
+      {
+        "part": "hṛdaya (heart)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "hridaya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hridaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Hrudaya",
-    "iast": "hrudaya",
-    "devanagari": "",
+    "iast": "hṛdaya",
+    "devanagari": "हृदय",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular spelling of Hridaya, 'heart'",
+    "components": [
+      {
+        "part": "hṛdaya (heart)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "hridaya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hridaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -380227,27 +380227,31 @@
   },
   {
     "name": "Hrudya",
-    "iast": "hrudya",
-    "devanagari": "",
+    "iast": "hṛdya",
+    "devanagari": "हृद्य",
     "letter": "H",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Vernacular spelling of Hridya, 'pleasing to the heart, agreeable'",
+    "components": [
+      {
+        "part": "hṛdya (heart-pleasing)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "hridya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hridya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -380277,77 +380281,89 @@
   },
   {
     "name": "Hrushikesh",
-    "iast": "hrushikesh",
-    "devanagari": "",
+    "iast": "hṛṣīkeśa",
+    "devanagari": "हृषीकेश",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Vernacular (Marathi/Odia) spelling of Hrishikesh, 'lord of the senses', epithet of Vishnu/Krishna",
+    "components": [
+      {
+        "part": "hṛṣīka (senses) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Rishikesh - Wikipedia (named for the epithet Hrishikesh) (https://en.wikipedia.org/wiki/Rishikesh)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Hrushikesha",
-    "iast": "hrushikesha",
-    "devanagari": "",
+    "iast": "hṛṣīkeśa",
+    "devanagari": "हृषीकेश",
     "letter": "H",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Hrushikesh/Hrishikesh, 'lord of the senses'",
+    "components": [
+      {
+        "part": "hṛṣīka (senses) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Rishikesh - Wikipedia (named for the epithet Hrishikesh) (https://en.wikipedia.org/wiki/Rishikesh)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Hrusikesh",
-    "iast": "hrusikesh",
-    "devanagari": "",
+    "iast": "hṛṣīkeśa",
+    "devanagari": "हृषीकेश",
     "letter": "H",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Hrishikesh, 'lord of the senses'",
+    "components": [
+      {
+        "part": "hṛṣīka (senses) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Rishikesh - Wikipedia (named for the epithet Hrishikesh) (https://en.wikipedia.org/wiki/Rishikesh)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -380452,27 +380468,31 @@
   },
   {
     "name": "Hryday",
-    "iast": "hryday",
-    "devanagari": "",
+    "iast": "hṛdaya",
+    "devanagari": "हृदय",
     "letter": "H",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Vernacular spelling of Hridaya, 'heart'",
+    "components": [
+      {
+        "part": "hṛdaya (heart)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "hridaya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/hridaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
