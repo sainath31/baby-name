@@ -473947,135 +473947,147 @@
   },
   {
     "name": "Komalee",
-    "iast": "komalee",
-    "devanagari": "",
+    "iast": "komalī",
+    "devanagari": "कोमली",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Komala, 'soft, tender, delicate'",
+    "components": [
+      {
+        "part": "komala (soft/tender)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "komala - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/komala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Komaleigh",
-    "iast": "komaleigh",
-    "devanagari": "",
+    "iast": "komalī",
+    "devanagari": "कोमली",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant spelling of Komala, 'soft, tender, delicate'",
+    "components": [
+      {
+        "part": "komala (soft/tender)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "komala - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/komala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Komali",
-    "iast": "komali",
-    "devanagari": "",
+    "iast": "komalī",
+    "devanagari": "कोमली",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Komala, 'soft, tender, delicate'",
+    "components": [
+      {
+        "part": "komala (soft/tender)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "komala - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/komala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Komalie",
-    "iast": "komalie",
-    "devanagari": "",
+    "iast": "komalī",
+    "devanagari": "कोमली",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Komala, 'soft, tender, delicate'",
+    "components": [
+      {
+        "part": "komala (soft/tender)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "komala - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/komala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Komalla",
-    "iast": "komalla",
-    "devanagari": "",
+    "iast": "komalā",
+    "devanagari": "कोमला",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Komala, 'soft, tender, delicate'",
+    "components": [
+      {
+        "part": "komala (soft/tender)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "komala - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/komala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -474180,27 +474192,31 @@
   },
   {
     "name": "Konark",
-    "iast": "konark",
-    "devanagari": "",
+    "iast": "koṇārka",
+    "devanagari": "कोणार्क",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Name of the Konark Sun Temple, a UNESCO World Heritage Site in Odisha dedicated to the sun-god Surya",
+    "components": [
+      {
+        "part": "koṇa (corner) + arka (sun)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Konark Sun Temple - Wikipedia (https://en.wikipedia.org/wiki/Konark_Sun_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -474413,27 +474429,31 @@
   },
   {
     "name": "Kosal",
-    "iast": "kosal",
-    "devanagari": "",
+    "iast": "kosala",
+    "devanagari": "कोसल",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Name of the ancient kingdom of Kosala, ruled by King Dasharatha and birthplace of Lord Rama",
+    "components": [
+      {
+        "part": "kosala (kingdom's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kosala - Wikipedia (https://en.wikipedia.org/wiki/Kosala)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -474462,77 +474482,89 @@
   },
   {
     "name": "Kosalram",
-    "iast": "kosalram",
-    "devanagari": "",
+    "iast": "kosalarāma",
+    "devanagari": "कोसलराम",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Compound 'Kosala (kingdom) + Ram', an epithet of Rama as the king of Kosala",
+    "components": [
+      {
+        "part": "kosala (kingdom's name) + rāma (deity's name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kosala - Wikipedia (https://en.wikipedia.org/wiki/Kosala)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kosha",
-    "iast": "kosha",
-    "devanagari": "",
+    "iast": "kośa",
+    "devanagari": "कोश",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Sheath, treasury, dictionary'; real and versatile Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "kośa (sheath/treasury)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kosha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kosha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Koshal",
-    "iast": "koshal",
-    "devanagari": "",
+    "iast": "kosala",
+    "devanagari": "कोसल",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant of Kosala, the ancient kingdom ruled by King Dasharatha and birthplace of Rama",
+    "components": [
+      {
+        "part": "kosala (kingdom's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kosala - Wikipedia (https://en.wikipedia.org/wiki/Kosala)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -474682,27 +474714,31 @@
   },
   {
     "name": "Kostubh",
-    "iast": "kostubh",
-    "devanagari": "",
+    "iast": "kaustubha",
+    "devanagari": "कौस्तुभ",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kaustubha, the celestial jewel worn by Vishnu",
+    "components": [
+      {
+        "part": "kaustubha (celestial jewel's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kaustubha - Wikipedia (https://en.wikipedia.org/wiki/Kaustubha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -474732,77 +474768,89 @@
   },
   {
     "name": "Koteshwari",
-    "iast": "koteshwari",
-    "devanagari": "",
+    "iast": "koṭeśvarī",
+    "devanagari": "कोटेश्वरी",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Goddess of countless forms/crores', or related to the Koteshwar Shiva temple epithet, applied in feminine form",
+    "components": [
+      {
+        "part": "koṭi (crore/countless) + īśvarī (goddess)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "koti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/koti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kothandapani",
-    "iast": "kothandapani",
-    "devanagari": "",
+    "iast": "kodaṇḍapāṇi",
+    "devanagari": "कोदण्डपाणि",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'One who holds the Kodanda bow in hand', an epithet of Rama",
+    "components": [
+      {
+        "part": "kodaṇḍa (Rama's bow) + pāṇi (hand)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kodanda - wisdomlib.org (https://www.wisdomlib.org/definition/kodanda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kothandaraman",
-    "iast": "kothandaraman",
-    "devanagari": "",
+    "iast": "kodaṇḍarāman",
+    "devanagari": "कोदण्डरामन्",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Rama who wields the Kodanda bow', a Tamil devotional epithet of Rama",
+    "components": [
+      {
+        "part": "kodaṇḍa (Rama's bow) + rāman (Rama, Tamil form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kodanda - wisdomlib.org (https://www.wisdomlib.org/definition/kodanda)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -474911,27 +474959,31 @@
   },
   {
     "name": "Koumudi",
-    "iast": "koumudi",
-    "devanagari": "",
+    "iast": "kaumudī",
+    "devanagari": "कौमुदी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Moonlight'; real and poetic Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "kaumudī (moonlight)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kaumudi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kaumudi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -474960,56 +475012,60 @@
   },
   {
     "name": "Koushik",
-    "iast": "koushik",
-    "devanagari": "",
+    "iast": "kauśika",
+    "devanagari": "कौशिक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kaushik, an epithet of the sage Vishwamitra",
+    "components": [
+      {
+        "part": "kauśika (sage's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Vishvamitra - Wikipedia (https://en.wikipedia.org/wiki/Vishvamitra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Koushika",
-    "iast": "koushika",
-    "devanagari": "",
+    "iast": "kauśikā",
+    "devanagari": "कौशिका",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine variant of Kaushik, related to sage Vishwamitra",
+    "components": [
+      {
+        "part": "kauśika (sage's epithet) + -ā",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Vishvamitra - Wikipedia (https://en.wikipedia.org/wiki/Vishvamitra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -475038,27 +475094,31 @@
   },
   {
     "name": "Koushiki",
-    "iast": "koushiki",
-    "devanagari": "",
+    "iast": "kauśikī",
+    "devanagari": "कौशिकी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Kaushiki', an epithet of the goddess Durga said to have emerged from Parvati's sheath",
+    "components": [
+      {
+        "part": "kauśikī (goddess's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kaushiki - Wikipedia (https://en.wikipedia.org/wiki/Kaushiki)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -475112,52 +475172,60 @@
   },
   {
     "name": "Kousik",
-    "iast": "kousik",
-    "devanagari": "",
+    "iast": "kauśika",
+    "devanagari": "कौशिक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kaushik, an epithet of the sage Vishwamitra",
+    "components": [
+      {
+        "part": "kauśika (sage's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Vishvamitra - Wikipedia (https://en.wikipedia.org/wiki/Vishvamitra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kousika",
-    "iast": "kousika",
-    "devanagari": "",
+    "iast": "kauśikā",
+    "devanagari": "कौशिका",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine variant of Kaushik, related to sage Vishwamitra",
+    "components": [
+      {
+        "part": "kauśika (sage's epithet) + -ā",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Vishvamitra - Wikipedia (https://en.wikipedia.org/wiki/Vishvamitra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -475187,56 +475255,60 @@
   },
   {
     "name": "Koustab",
-    "iast": "koustab",
-    "devanagari": "",
+    "iast": "kaustubha",
+    "devanagari": "कौस्तुभ",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kaustubha, the celestial jewel worn by Vishnu",
+    "components": [
+      {
+        "part": "kaustubha (celestial jewel's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kaustubha - Wikipedia (https://en.wikipedia.org/wiki/Kaustubha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Koustubh",
-    "iast": "koustubh",
-    "devanagari": "",
+    "iast": "kaustubha",
+    "devanagari": "कौस्तुभ",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kaustubha, the celestial jewel worn by Vishnu",
+    "components": [
+      {
+        "part": "kaustubha (celestial jewel's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaustubha - Wikipedia (https://en.wikipedia.org/wiki/Kaustubha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -475366,113 +475438,117 @@
   {
     "name": "Kovida",
     "iast": "kovida",
-    "devanagari": "",
+    "devanagari": "कोविद",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Learned, skillful, expert'; real Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "kovida (learned/expert)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kovida - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kovida)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Koviddh",
-    "iast": "koviddh",
-    "devanagari": "",
+    "iast": "kovida",
+    "devanagari": "कोविद",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kovida, 'learned, skillful, expert'",
+    "components": [
+      {
+        "part": "kovida (learned/expert)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kovida - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kovida)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kovidh",
-    "iast": "kovidh",
-    "devanagari": "",
+    "iast": "kovida",
+    "devanagari": "कोविद",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kovida, 'learned, skillful, expert'",
+    "components": [
+      {
+        "part": "kovida (learned/expert)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kovida - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kovida)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kovidha",
-    "iast": "kovidha",
-    "devanagari": "",
+    "iast": "kovida",
+    "devanagari": "कोविद",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kovida, 'learned, skillful, expert'",
+    "components": [
+      {
+        "part": "kovida (learned/expert)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kovida - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kovida)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -475502,177 +475578,205 @@
   },
   {
     "name": "Kowmari",
-    "iast": "kowmari",
-    "devanagari": "",
+    "iast": "kaumārī",
+    "devanagari": "कौमारी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kaumari, one of the Saptamatrikas (seven divine mothers), the Shakti form associated with Kartikeya",
+    "components": [
+      {
+        "part": "kaumārī (goddess's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Matrikas - Wikipedia (https://en.wikipedia.org/wiki/Matrikas)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kowsalya",
-    "iast": "kowsalya",
-    "devanagari": "",
+    "iast": "kausalyā",
+    "devanagari": "कौसल्या",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kausalya/Kaushalya, mother of Lord Rama and chief queen of King Dasharatha in the Ramayana",
+    "components": [
+      {
+        "part": "kausalyā (queen's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaushalya - Wikipedia (https://en.wikipedia.org/wiki/Kaushalya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kowshik",
-    "iast": "kowshik",
-    "devanagari": "",
+    "iast": "kauśika",
+    "devanagari": "कौशिक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kaushik, an epithet of the sage Vishwamitra",
+    "components": [
+      {
+        "part": "kauśika (sage's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Vishvamitra - Wikipedia (https://en.wikipedia.org/wiki/Vishvamitra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kowshika",
-    "iast": "kowshika",
-    "devanagari": "",
+    "iast": "kauśika",
+    "devanagari": "कौशिक",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kaushik, an epithet of the sage Vishwamitra",
+    "components": [
+      {
+        "part": "kauśika (sage's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Vishvamitra - Wikipedia (https://en.wikipedia.org/wiki/Vishvamitra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kowshikaa",
-    "iast": "kowshikaa",
-    "devanagari": "",
+    "iast": "kauśikā",
+    "devanagari": "कौशिका",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine variant of Kaushik, related to sage Vishwamitra",
+    "components": [
+      {
+        "part": "kauśika (sage's epithet) + -ā",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Vishvamitra - Wikipedia (https://en.wikipedia.org/wiki/Vishvamitra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kowsik",
-    "iast": "kowsik",
-    "devanagari": "",
+    "iast": "kauśika",
+    "devanagari": "कौशिक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kaushik, an epithet of the sage Vishwamitra",
+    "components": [
+      {
+        "part": "kauśika (sage's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Vishvamitra - Wikipedia (https://en.wikipedia.org/wiki/Vishvamitra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kowsika",
-    "iast": "kowsika",
-    "devanagari": "",
+    "iast": "kauśikā",
+    "devanagari": "कौशिका",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine variant of Kaushik, related to sage Vishwamitra",
+    "components": [
+      {
+        "part": "kauśika (sage's epithet) + -ā",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Vishvamitra - Wikipedia (https://en.wikipedia.org/wiki/Vishvamitra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -475727,60 +475831,60 @@
   },
   {
     "name": "Koyal",
-    "iast": "koyal",
-    "devanagari": "",
+    "iast": "kokila",
+    "devanagari": "कोकिल",
     "letter": "K",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Hindi word for the Indian cuckoo bird, celebrated in classical poetry for its sweet song",
+    "components": [
+      {
+        "part": "kokila (cuckoo)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kokila - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kokila)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Koyel",
-    "iast": "koyel",
-    "devanagari": "",
+    "iast": "kokila",
+    "devanagari": "कोकिल",
     "letter": "K",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Bengali word for the Indian cuckoo bird, celebrated in classical poetry for its sweet song",
+    "components": [
+      {
+        "part": "kokila (cuckoo)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kokila - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kokila)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -475835,35 +475939,31 @@
   },
   {
     "name": "Kraanti",
-    "iast": "kraanti",
-    "devanagari": "",
+    "iast": "krānti",
+    "devanagari": "क्रान्ति",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Revolution, radical change'; a significant and widely used modern Hindi/Sanskrit given name, often evoking the Indian independence movement",
+    "components": [
+      {
+        "part": "krānti (revolution)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kranti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kranti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
