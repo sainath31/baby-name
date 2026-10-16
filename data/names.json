@@ -458079,24 +458079,28 @@
     "iast": "kathavarayan",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Name of a popular Tamil folk guardian deity, Kathavarayan, worshipped especially in southern Tamil Nadu",
+    "components": [
+      {
+        "part": "kataśavarāyaṉ (deity's proper name, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kathavarayan - Wikipedia (https://en.wikipedia.org/wiki/Kathavarayan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -458406,27 +458410,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'kathir (light/radiance) + vel (Murugan's spear)'",
+    "components": [
+      {
+        "part": "kaṭir (light, Tamil) + vēl (spear, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Vel (weapon) - Wikipedia (https://en.wikipedia.org/wiki/Vel_(weapon))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -458510,77 +458514,89 @@
   },
   {
     "name": "Kathyaani",
-    "iast": "kathyaani",
-    "devanagari": "",
+    "iast": "kātyāyanī",
+    "devanagari": "कात्यायनी",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Phonetic variant of Katyayani, a major fierce form of the goddess Durga, one of the Navadurgas",
+    "components": [
+      {
+        "part": "kātyāyanī (goddess's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Katyayani - Wikipedia (https://en.wikipedia.org/wiki/Katyayani)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kathyani",
-    "iast": "kathyani",
-    "devanagari": "",
+    "iast": "kātyāyanī",
+    "devanagari": "कात्यायनी",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Phonetic variant of Katyayani, a major fierce form of the goddess Durga",
+    "components": [
+      {
+        "part": "kātyāyanī (goddess's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Katyayani - Wikipedia (https://en.wikipedia.org/wiki/Katyayani)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kathyayani",
-    "iast": "kathyayani",
-    "devanagari": "",
+    "iast": "kātyāyanī",
+    "devanagari": "कात्यायनी",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "A major fierce form of the goddess Durga, one of the Navadurgas worshipped during Navaratri",
+    "components": [
+      {
+        "part": "kātyāyanī (goddess's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Katyayani - Wikipedia (https://en.wikipedia.org/wiki/Katyayani)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -458839,106 +458855,118 @@
   },
   {
     "name": "Katyayan",
-    "iast": "katyayan",
-    "devanagari": "",
+    "iast": "kātyāyana",
+    "devanagari": "कात्यायन",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Name of Katyayana, an ancient Sanskrit grammarian and philosopher, also linked to the origin of the goddess epithet Katyayani",
+    "components": [
+      {
+        "part": "kātyāyana (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Katyayana - Wikipedia (https://en.wikipedia.org/wiki/Katyayana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Katyayini",
-    "iast": "katyayini",
-    "devanagari": "",
+    "iast": "kātyāyanī",
+    "devanagari": "कात्यायनी",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Katyayani, a major fierce form of the goddess Durga",
+    "components": [
+      {
+        "part": "kātyāyanī (goddess's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Katyayani - Wikipedia (https://en.wikipedia.org/wiki/Katyayani)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kaumaara",
-    "iast": "kaumaara",
-    "devanagari": "",
+    "iast": "kaumāra",
+    "devanagari": "कौमार",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Relating to Kumara (Skanda/Kartikeya)' or 'relating to youth'; real Sanskrit adjective",
+    "components": [
+      {
+        "part": "kaumāra (youth/Kumara-related)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kaumara - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kaumara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kaumaari",
-    "iast": "kaumaari",
-    "devanagari": "",
+    "iast": "kaumārī",
+    "devanagari": "कौमारी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Kaumari', one of the Saptamatrikas (seven divine mothers), the Shakti form associated with Kartikeya",
+    "components": [
+      {
+        "part": "kaumārī (goddess's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Matrikas - Wikipedia (https://en.wikipedia.org/wiki/Matrikas)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -458968,85 +458996,89 @@
   },
   {
     "name": "Kaurwaki",
-    "iast": "kaurwaki",
+    "iast": "kaurvaki",
     "devanagari": "",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a historical Mauryan queen, mother of Emperor Ashoka's son Tivara, known from an inscription",
+    "components": [
+      {
+        "part": "kaurvaki (queen's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Karuvaki - Wikipedia (https://en.wikipedia.org/wiki/Karuvaki)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kausaleya",
-    "iast": "kausaleya",
-    "devanagari": "",
+    "iast": "kausalya",
+    "devanagari": "कौसल्य",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Patronymic 'son of Kausalya', an epithet of Lord Rama",
+    "components": [
+      {
+        "part": "kausalyā (mother's name) + -ya",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kaushalya - Wikipedia (https://en.wikipedia.org/wiki/Kaushalya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kausalya",
-    "iast": "kausalya",
-    "devanagari": "",
+    "iast": "kausalyā",
+    "devanagari": "कौसल्या",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Mother of Lord Rama and chief queen of King Dasharatha in the Ramayana",
+    "components": [
+      {
+        "part": "kausalyā (queen's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Kaushalya - Wikipedia (https://en.wikipedia.org/wiki/Kaushalya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -459151,27 +459183,31 @@
   },
   {
     "name": "Kaushala",
-    "iast": "kaushala",
-    "devanagari": "",
+    "iast": "kauśala",
+    "devanagari": "कौशल",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Skill, proficiency, expertise'; real Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "kauśala (skill/proficiency)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kaushala - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kaushala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -459205,68 +459241,60 @@
   },
   {
     "name": "Kaushali",
-    "iast": "kaushali",
-    "devanagari": "",
+    "iast": "kauśalī",
+    "devanagari": "कौशली",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form of Kaushal, 'skilled, proficient'",
+    "components": [
+      {
+        "part": "kauśala (skill) + -ī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "kaushala - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kaushala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kaushalya",
-    "iast": "kaushalya",
-    "devanagari": "",
+    "iast": "kauśalyā",
+    "devanagari": "कौशल्या",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Mother of Lord Rama and chief queen of King Dasharatha in the Ramayana",
+    "components": [
+      {
+        "part": "kauśalyā (queen's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaushalya - Wikipedia (https://en.wikipedia.org/wiki/Kaushalya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -459321,31 +459349,31 @@
   },
   {
     "name": "Kaushika",
-    "iast": "kaushika",
-    "devanagari": "",
+    "iast": "kauśikā",
+    "devanagari": "कौशिका",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Patronymic/epithet 'relating to Kusha/Kaushika', associated with the sage Vishwamitra (Kaushika)",
+    "components": [
+      {
+        "part": "kauśika (sage's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Vishvamitra - Wikipedia (https://en.wikipedia.org/wiki/Vishvamitra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -459375,152 +459403,176 @@
   },
   {
     "name": "Kaushtubh",
-    "iast": "kaushtubh",
-    "devanagari": "",
+    "iast": "kaustubha",
+    "devanagari": "कौस्तुभ",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Name of the celestial jewel that emerged from the churning of the ocean (Samudra Manthan) and is worn by Vishnu",
+    "components": [
+      {
+        "part": "kaustubha (celestial jewel's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Kaustubha - Wikipedia (https://en.wikipedia.org/wiki/Kaustubha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kausick",
-    "iast": "kausick",
-    "devanagari": "",
+    "iast": "kauśika",
+    "devanagari": "कौशिक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kaushik, an epithet of the sage Vishwamitra; also a common Bengali given name",
+    "components": [
+      {
+        "part": "kauśika (sage's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Vishvamitra - Wikipedia (https://en.wikipedia.org/wiki/Vishvamitra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kausik",
-    "iast": "kausik",
-    "devanagari": "",
+    "iast": "kauśika",
+    "devanagari": "कौशिक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kaushik, an epithet of the sage Vishwamitra; also a common Bengali given name",
+    "components": [
+      {
+        "part": "kauśika (sage's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Vishvamitra - Wikipedia (https://en.wikipedia.org/wiki/Vishvamitra)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kausiki",
-    "iast": "kausiki",
-    "devanagari": "",
+    "iast": "kauśikī",
+    "devanagari": "कौशिकी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form 'Kaushiki', an epithet of the goddess Durga said to have emerged from Parvati's sheath (kosha); also the name of a river in eastern India",
+    "components": [
+      {
+        "part": "kauśikī (goddess's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Kaushiki - Wikipedia (https://en.wikipedia.org/wiki/Kaushiki)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kausthuba",
-    "iast": "kausthuba",
-    "devanagari": "",
+    "iast": "kaustubha",
+    "devanagari": "कौस्तुभ",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kaustubha, the celestial jewel worn by Vishnu",
+    "components": [
+      {
+        "part": "kaustubha (celestial jewel's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kaustubha - Wikipedia (https://en.wikipedia.org/wiki/Kaustubha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kausthubh",
-    "iast": "kausthubh",
-    "devanagari": "",
+    "iast": "kaustubha",
+    "devanagari": "कौस्तुभ",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kaustubha, the celestial jewel worn by Vishnu",
+    "components": [
+      {
+        "part": "kaustubha (celestial jewel's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kaustubha - Wikipedia (https://en.wikipedia.org/wiki/Kaustubha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -459554,27 +459606,31 @@
   },
   {
     "name": "Kaustuv",
-    "iast": "kaustuv",
-    "devanagari": "",
+    "iast": "kaustubha",
+    "devanagari": "कौस्तुभ",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kaustubha, the celestial jewel worn by Vishnu",
+    "components": [
+      {
+        "part": "kaustubha (celestial jewel's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kaustubha - Wikipedia (https://en.wikipedia.org/wiki/Kaustubha)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -459633,60 +459689,60 @@
   },
   {
     "name": "Kauthuk",
-    "iast": "kauthuk",
-    "devanagari": "",
+    "iast": "kautuka",
+    "devanagari": "कौतुक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Curiosity, festivity, joy'; real Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "kautuka (curiosity/festivity)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kautuka - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kautuka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kautik",
-    "iast": "kautik",
-    "devanagari": "",
+    "iast": "kautuka",
+    "devanagari": "कौतुक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kautuka, 'curiosity, festivity, joy'",
+    "components": [
+      {
+        "part": "kautuka (curiosity/festivity)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kautuka - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kautuka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -459720,251 +459776,291 @@
   },
   {
     "name": "Kautuk",
-    "iast": "kautuk",
-    "devanagari": "",
+    "iast": "kautuka",
+    "devanagari": "कौतुक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Curiosity, festivity, joy'; real Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "kautuka (curiosity/festivity)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kautuka - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kautuka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kauverea",
-    "iast": "kauverea",
-    "devanagari": "",
+    "iast": "kāverī",
+    "devanagari": "कावेरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant of Kaveri, a major sacred river of South India",
+    "components": [
+      {
+        "part": "kāverī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaveri - Wikipedia (https://en.wikipedia.org/wiki/Kaveri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kauveree",
-    "iast": "kauveree",
-    "devanagari": "",
+    "iast": "kāverī",
+    "devanagari": "कावेरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant of Kaveri, a major sacred river of South India",
+    "components": [
+      {
+        "part": "kāverī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaveri - Wikipedia (https://en.wikipedia.org/wiki/Kaveri)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Kauverey",
-    "iast": "kauverey",
-    "devanagari": "",
+    "iast": "kāverī",
+    "devanagari": "कावेरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant of Kaveri, a major sacred river of South India",
+    "components": [
+      {
+        "part": "kāverī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaveri - Wikipedia (https://en.wikipedia.org/wiki/Kaveri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kauveri",
-    "iast": "kauveri",
-    "devanagari": "",
+    "iast": "kāverī",
+    "devanagari": "कावेरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "A major sacred river of South India, personified as a goddess",
+    "components": [
+      {
+        "part": "kāverī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaveri - Wikipedia (https://en.wikipedia.org/wiki/Kaveri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kauverie",
-    "iast": "kauverie",
-    "devanagari": "",
+    "iast": "kāverī",
+    "devanagari": "कावेरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant of Kaveri, a major sacred river of South India",
+    "components": [
+      {
+        "part": "kāverī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaveri - Wikipedia (https://en.wikipedia.org/wiki/Kaveri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kauvery",
-    "iast": "kauvery",
-    "devanagari": "",
+    "iast": "kāverī",
+    "devanagari": "कावेरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "A major sacred river of South India, personified as a goddess",
+    "components": [
+      {
+        "part": "kāverī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaveri - Wikipedia (https://en.wikipedia.org/wiki/Kaveri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kavach",
-    "iast": "kavach",
-    "devanagari": "",
+    "iast": "kavaca",
+    "devanagari": "कवच",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Armor, shield'; real Sanskrit word, also the name of protective hymns in tantric and devotional literature",
+    "components": [
+      {
+        "part": "kavaca (armor)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kavaca - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavaca)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kavachin",
-    "iast": "kavachin",
-    "devanagari": "",
+    "iast": "kavacin",
+    "devanagari": "कवचिन्",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'One who wears armor'; real Sanskrit word derived from kavaca",
+    "components": [
+      {
+        "part": "kavaca (armor) + -in (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kavaca - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavaca)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kavachy",
-    "iast": "kavachy",
-    "devanagari": "",
+    "iast": "kavacin",
+    "devanagari": "कवचिन्",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant of Kavachin, 'one who wears armor'",
+    "components": [
+      {
+        "part": "kavaca (armor) + -in (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kavaca - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavaca)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -460102,27 +460198,31 @@
   },
   {
     "name": "Kavasa",
-    "iast": "kavasa",
-    "devanagari": "",
+    "iast": "kavaṣa",
+    "devanagari": "कवष",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of Kavasha Ailusha, a sage mentioned in the Rigveda",
+    "components": [
+      {
+        "part": "kavaṣa (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kavasha Ailusha - wisdomlib.org (https://www.wisdomlib.org/definition/kavasha-ailusha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -460366,127 +460466,147 @@
   },
   {
     "name": "Kaverea",
-    "iast": "kaverea",
-    "devanagari": "",
+    "iast": "kāverī",
+    "devanagari": "कावेरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant of Kaveri, a major sacred river of South India",
+    "components": [
+      {
+        "part": "kāverī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaveri - Wikipedia (https://en.wikipedia.org/wiki/Kaveri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kaveree",
-    "iast": "kaveree",
-    "devanagari": "",
+    "iast": "kāverī",
+    "devanagari": "कावेरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant of Kaveri, a major sacred river of South India",
+    "components": [
+      {
+        "part": "kāverī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaveri - Wikipedia (https://en.wikipedia.org/wiki/Kaveri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kaverey",
-    "iast": "kaverey",
-    "devanagari": "",
+    "iast": "kāverī",
+    "devanagari": "कावेरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant of Kaveri, a major sacred river of South India",
+    "components": [
+      {
+        "part": "kāverī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaveri - Wikipedia (https://en.wikipedia.org/wiki/Kaveri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kaverie",
-    "iast": "kaverie",
-    "devanagari": "",
+    "iast": "kāverī",
+    "devanagari": "कावेरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant of Kaveri, a major sacred river of South India",
+    "components": [
+      {
+        "part": "kāverī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaveri - Wikipedia (https://en.wikipedia.org/wiki/Kaveri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kavery",
-    "iast": "kavery",
-    "devanagari": "",
+    "iast": "kāverī",
+    "devanagari": "कावेरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "A major sacred river of South India, personified as a goddess",
+    "components": [
+      {
+        "part": "kāverī (river name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kaveri - Wikipedia (https://en.wikipedia.org/wiki/Kaveri)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -460541,66 +460661,58 @@
   {
     "name": "Kavi",
     "iast": "kavi",
-    "devanagari": "",
+    "devanagari": "कवि",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Poet, sage, seer'; real and ancient Sanskrit word, applied in the Vedas to inspired visionary poets",
+    "components": [
+      {
+        "part": "kavi (poet/seer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kavi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Kavia",
-    "iast": "kavia",
-    "devanagari": "",
+    "iast": "kavyā",
+    "devanagari": "कव्या",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to 'kavi' (poet)",
+    "components": [
+      {
+        "part": "kavi (poet) + -ā",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kavi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -460608,24 +460720,28 @@
     "iast": "kaviarasan",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Tamil compound 'kavi (poet) + arasan (king)', 'king of poets'",
+    "components": [
+      {
+        "part": "kavi (poet) + aracaṉ (king, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kavi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -460790,35 +460906,31 @@
   },
   {
     "name": "Kavindra",
-    "iast": "kavindra",
-    "devanagari": "",
+    "iast": "kavīndra",
+    "devanagari": "कवीन्द्र",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord/chief of poets'; real Sanskrit compound used as a title for great poets",
+    "components": [
+      {
+        "part": "kavi (poet) + indra (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kavindra - wisdomlib.org (https://www.wisdomlib.org/definition/kavindra)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -461052,27 +461164,31 @@
   },
   {
     "name": "Kavipriya",
-    "iast": "kavipriya",
-    "devanagari": "",
+    "iast": "kavipriyā",
+    "devanagari": "कविप्रिया",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Dear to poets', or 'one who loves poetry'; real Sanskrit-style compound",
+    "components": [
+      {
+        "part": "kavi (poet) + priyā (dear)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kavi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -461080,24 +461196,28 @@
     "iast": "kavipriyan",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Masculine compound 'kavi (poet) + priyan (dear)', 'lover of poetry'",
+    "components": [
+      {
+        "part": "kavi (poet) + priyaṉ (dear, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kavi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -461131,60 +461251,60 @@
   },
   {
     "name": "Kaviraaya",
-    "iast": "kaviraaya",
-    "devanagari": "",
+    "iast": "kavirāja",
+    "devanagari": "कविराज",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'King of poets', a traditional honorific title for accomplished poets and, in Bengal, a title for Ayurvedic physicians",
+    "components": [
+      {
+        "part": "kavi (poet) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kaviraja - wisdomlib.org (https://www.wisdomlib.org/definition/kaviraja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kaviraj",
-    "iast": "kaviraj",
-    "devanagari": "",
+    "iast": "kavirāja",
+    "devanagari": "कविराज",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'King of poets', a traditional honorific title for accomplished poets and, in Bengal, a title for Ayurvedic physicians",
+    "components": [
+      {
+        "part": "kavi (poet) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kaviraja - wisdomlib.org (https://www.wisdomlib.org/definition/kaviraja)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -461214,85 +461334,89 @@
   },
   {
     "name": "Kavishree",
-    "iast": "kavishree",
-    "devanagari": "",
+    "iast": "kaviśrī",
+    "devanagari": "कविश्री",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'kavi (poet) + shree (shri, auspicious)'",
+    "components": [
+      {
+        "part": "kavi (poet) + śrī (auspicious)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kavi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kavishri",
-    "iast": "kavishri",
-    "devanagari": "",
+    "iast": "kaviśrī",
+    "devanagari": "कविश्री",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kavishree, 'poet + shri'",
+    "components": [
+      {
+        "part": "kavi (poet) + śrī (auspicious)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "kavi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kavisri",
-    "iast": "kavisri",
-    "devanagari": "",
+    "iast": "kaviśrī",
+    "devanagari": "कविश्री",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kavishree, 'poet + shri'",
+    "components": [
+      {
+        "part": "kavi (poet) + śrī (auspicious)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kavi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -461322,43 +461446,31 @@
   },
   {
     "name": "Kavita",
-    "iast": "kavita",
-    "devanagari": "",
+    "iast": "kavitā",
+    "devanagari": "कविता",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Poem, poetry'; a widely used and very common Sanskrit/Hindi given name",
+    "components": [
+      {
+        "part": "kavitā (poem/poetry)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kavita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -461438,35 +461550,31 @@
   },
   {
     "name": "Kaviya",
-    "iast": "kaviya",
-    "devanagari": "",
+    "iast": "kaviyā",
+    "devanagari": "कविया",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Tamil feminine form related to 'kavi' (poet), meaning 'poetess'",
+    "components": [
+      {
+        "part": "kavi (poet) + -ā",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kavi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -461474,48 +461582,56 @@
     "iast": "kaviyan",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Tamil word meaning 'poet'",
+    "components": [
+      {
+        "part": "kaviyaṉ (poet, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kavi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Kaviyasri",
     "iast": "kaviyasri",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Compound 'kaviya (poetess) + sri (auspicious)'",
+    "components": [
+      {
+        "part": "kaviyā (poetess) + śrī (auspicious)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kavi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -461599,27 +461715,31 @@
   },
   {
     "name": "Kavyan",
-    "iast": "kavyan",
-    "devanagari": "",
+    "iast": "kāvya",
+    "devanagari": "काव्य",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Masculine form related to 'kavya', 'poetry, literary composition'",
+    "components": [
+      {
+        "part": "kāvya (poetry)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kavya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -461724,31 +461844,31 @@
   },
   {
     "name": "Kavyashree",
-    "iast": "kavyashree",
-    "devanagari": "",
+    "iast": "kāvyaśrī",
+    "devanagari": "काव्यश्री",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'kavya (poetry) + shree (shri, auspicious)'",
+    "components": [
+      {
+        "part": "kāvya (poetry) + śrī (auspicious)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kavya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -461781,52 +461901,60 @@
   },
   {
     "name": "Kavyasree",
-    "iast": "kavyasree",
-    "devanagari": "",
+    "iast": "kāvyaśrī",
+    "devanagari": "काव्यश्री",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kavyashri, 'poetry + shri'",
+    "components": [
+      {
+        "part": "kāvya (poetry) + śrī (auspicious)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kavya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kavyasri",
-    "iast": "kavyasri",
-    "devanagari": "",
+    "iast": "kāvyaśrī",
+    "devanagari": "काव्यश्री",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kavyashri, 'poetry + shri'",
+    "components": [
+      {
+        "part": "kāvya (poetry) + śrī (auspicious)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kavya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kavya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -461856,27 +461984,31 @@
   },
   {
     "name": "Kawaljit",
-    "iast": "kawaljit",
+    "iast": "kanval",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Sikh/Punjabi compound 'kawal (lotus) + jeet (victory)'",
+    "components": [
+      {
+        "part": "kamala (lotus) + jit (victory)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kamala - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kamala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
