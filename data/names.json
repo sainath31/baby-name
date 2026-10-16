@@ -462142,27 +462142,31 @@
   },
   {
     "name": "Kayansh",
-    "iast": "kayansh",
-    "devanagari": "",
+    "iast": "kāyāṃśa",
+    "devanagari": "कायांश",
     "letter": "K",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Modern Sanskrit-style compound 'kaya (body) + ansh (part)', popularly interpreted as 'part of the body/soul'",
+    "components": [
+      {
+        "part": "kāya (body) + aṃśa (part)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kaya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kaya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -462170,24 +462174,28 @@
     "iast": "kayilainathan",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Tamil compound 'Kayilai (Kailash) + nathan (lord)', 'Lord of Kailash', an epithet of Shiva",
+    "components": [
+      {
+        "part": "kailāsa (mountain name) + nāthaṉ (lord, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Mount Kailash - Wikipedia (https://en.wikipedia.org/wiki/Mount_Kailash)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -462240,27 +462248,31 @@
   },
   {
     "name": "Kaylasa",
-    "iast": "kaylasa",
-    "devanagari": "",
+    "iast": "kailāsa",
+    "devanagari": "कैलास",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Phonetic variant of Kailasa (Kailash), the sacred Himalayan mountain regarded as Shiva's abode",
+    "components": [
+      {
+        "part": "kailāsa (mountain name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Mount Kailash - Wikipedia (https://en.wikipedia.org/wiki/Mount_Kailash)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -462543,60 +462555,60 @@
   },
   {
     "name": "Kedaar",
-    "iast": "kedaar",
-    "devanagari": "",
+    "iast": "kedāra",
+    "devanagari": "केदार",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Name associated with Kedarnath, one of the holiest Himalayan Shiva shrines and one of the Char Dham/Panch Kedar sites",
+    "components": [
+      {
+        "part": "kedāra (shrine name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kedarnath Temple - Wikipedia (https://en.wikipedia.org/wiki/Kedarnath_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kedaresh",
-    "iast": "kedaresh",
-    "devanagari": "",
+    "iast": "kedāreśa",
+    "devanagari": "केदारेश",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of Kedar', an epithet of Shiva as worshipped at Kedarnath",
+    "components": [
+      {
+        "part": "kedāra (shrine name) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kedarnath Temple - Wikipedia (https://en.wikipedia.org/wiki/Kedarnath_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -462676,52 +462688,60 @@
   },
   {
     "name": "Kedhareshvar",
-    "iast": "kedhareshvar",
-    "devanagari": "",
+    "iast": "kedāreśvara",
+    "devanagari": "केदारेश्वर",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Lord of Kedar', an epithet of Shiva as worshipped at Kedarnath",
+    "components": [
+      {
+        "part": "kedāra (shrine name) + īśvara (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kedarnath Temple - Wikipedia (https://en.wikipedia.org/wiki/Kedarnath_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kedhari",
-    "iast": "kedhari",
-    "devanagari": "",
+    "iast": "kedārī",
+    "devanagari": "केदारी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Related to Kedar/Kedarnath, the Himalayan Shiva shrine",
+    "components": [
+      {
+        "part": "kedāra (shrine name) + -ī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kedarnath Temple - Wikipedia (https://en.wikipedia.org/wiki/Kedarnath_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -462880,31 +462900,31 @@
   },
   {
     "name": "Keeran",
-    "iast": "keeran",
-    "devanagari": "",
+    "iast": "kiraṇa",
+    "devanagari": "किरण",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Phonetic variant of Kiran, 'ray of light'",
+    "components": [
+      {
+        "part": "kiraṇa (ray of light)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -462912,24 +462932,28 @@
     "iast": "keerat",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Punjabi/Sikh word meaning 'praise, fame', derived from Sanskrit 'kirti'; a popular Sikh given name",
+    "components": [
+      {
+        "part": "kīrti (fame/praise)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -462983,234 +463007,234 @@
   },
   {
     "name": "Keertan",
-    "iast": "keertan",
-    "devanagari": "",
+    "iast": "kīrtana",
+    "devanagari": "कीर्तन",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Devotional singing/chanting of praise'; a real and significant Sanskrit/Hindi term in Hindu devotional practice",
+    "components": [
+      {
+        "part": "kīrtana (devotional singing)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kirtan - Wikipedia (https://en.wikipedia.org/wiki/Kirtan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Keertana",
-    "iast": "keertana",
-    "devanagari": "",
+    "iast": "kīrtana",
+    "devanagari": "कीर्तन",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Song of praise, devotional singing'; a popular South Indian given name",
+    "components": [
+      {
+        "part": "kīrtana (devotional singing)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kirtan - Wikipedia (https://en.wikipedia.org/wiki/Kirtan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Keerth",
-    "iast": "keerth",
-    "devanagari": "",
+    "iast": "kīrti",
+    "devanagari": "कीर्ति",
     "letter": "K",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Short form of Keerthi, 'fame, glory'",
+    "components": [
+      {
+        "part": "kīrti (fame/glory)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Keerthan",
-    "iast": "keerthan",
-    "devanagari": "",
+    "iast": "kīrtana",
+    "devanagari": "कीर्तन",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Keertan, 'devotional singing/praise'",
+    "components": [
+      {
+        "part": "kīrtana (devotional singing)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kirtan - Wikipedia (https://en.wikipedia.org/wiki/Kirtan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Keerthi",
-    "iast": "keerthi",
-    "devanagari": "",
+    "iast": "kīrti",
+    "devanagari": "कीर्ति",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Fame, glory, renown'; a widely used and very common Sanskrit given name",
+    "components": [
+      {
+        "part": "kīrti (fame/glory)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Keerthimanth",
-    "iast": "keerthimanth",
-    "devanagari": "",
+    "iast": "kīrtimanta",
+    "devanagari": "कीर्तिमन्त",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Possessing fame/glory'; real Sanskrit compound",
+    "components": [
+      {
+        "part": "kīrti (fame) + -manta (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Keerthinath",
-    "iast": "keerthinath",
-    "devanagari": "",
+    "iast": "kīrtinātha",
+    "devanagari": "कीर्तिनाथ",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of fame/glory'; real Sanskrit-style compound",
+    "components": [
+      {
+        "part": "kīrti (fame) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Keerthiraj",
-    "iast": "keerthiraj",
-    "devanagari": "",
+    "iast": "kīrtirāja",
+    "devanagari": "कीर्तिराज",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'King of fame/glory'; real Sanskrit-style compound",
+    "components": [
+      {
+        "part": "kīrti (fame) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -463265,56 +463289,60 @@
   },
   {
     "name": "Keerthivanth",
-    "iast": "keerthivanth",
-    "devanagari": "",
+    "iast": "kīrtimanta",
+    "devanagari": "कीर्तिमन्त",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant of Keerthimanth, 'possessing fame/glory'",
+    "components": [
+      {
+        "part": "kīrti (fame) + -manta (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Keerti",
-    "iast": "keerti",
-    "devanagari": "",
+    "iast": "kīrti",
+    "devanagari": "कीर्ति",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Fame, glory, renown'; a widely used and very common Sanskrit given name",
+    "components": [
+      {
+        "part": "kīrti (fame/glory)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -463344,52 +463372,60 @@
   },
   {
     "name": "Keertika",
-    "iast": "keertika",
-    "devanagari": "",
+    "iast": "kīrtikā",
+    "devanagari": "कीर्तिका",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Diminutive feminine form related to 'kirti' (fame); also relates to the Krittika nakshatra",
+    "components": [
+      {
+        "part": "kīrti (fame) + -ikā (diminutive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Keertinath",
-    "iast": "keertinath",
-    "devanagari": "",
+    "iast": "kīrtinātha",
+    "devanagari": "कीर्तिनाथ",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of fame/glory'",
+    "components": [
+      {
+        "part": "kīrti (fame) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -464295,26 +464331,30 @@
   {
     "name": "Kena",
     "iast": "kena",
-    "devanagari": "",
+    "devanagari": "केन",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'By whom?'; the opening word of and name of the Kena Upanishad, one of the principal Upanishads",
+    "components": [
+      {
+        "part": "kena (by whom, Upanishad name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kena Upanishad - Wikipedia (https://en.wikipedia.org/wiki/Kena_Upanishad)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -465113,171 +465153,175 @@
   },
   {
     "name": "Kesar",
-    "iast": "kesar",
-    "devanagari": "",
+    "iast": "kesara",
+    "devanagari": "केसर",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Saffron'; real and common Sanskrit/Hindi word used as a given name",
+    "components": [
+      {
+        "part": "kesara (saffron)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kesara - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kesara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Kesarisut",
-    "iast": "kesarisut",
-    "devanagari": "",
+    "iast": "kesarisūnu",
+    "devanagari": "केसरिसूनु",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Son of Kesari (the lion)', an epithet of Hanuman, whose father was named Kesari",
+    "components": [
+      {
+        "part": "kesarī (lion, Hanuman's father) + sūnu (son)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Hanuman - Wikipedia (https://en.wikipedia.org/wiki/Hanuman)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kesarisuta",
     "iast": "kesarisuta",
-    "devanagari": "",
+    "devanagari": "केसरिसुत",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant of Kesarisut, 'son of Kesari (the lion)', an epithet of Hanuman",
+    "components": [
+      {
+        "part": "kesarī (lion, Hanuman's father) + suta (son)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Hanuman - Wikipedia (https://en.wikipedia.org/wiki/Hanuman)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kesav",
-    "iast": "kesav",
-    "devanagari": "",
+    "iast": "keśava",
+    "devanagari": "केशव",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Keshava, a major epithet of Vishnu/Krishna",
+    "components": [
+      {
+        "part": "keśava (deity's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Keshava - Wikipedia (https://en.wikipedia.org/wiki/Keshava)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kesava",
-    "iast": "kesava",
-    "devanagari": "",
+    "iast": "keśava",
+    "devanagari": "केशव",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "A major epithet of Vishnu/Krishna, meaning 'one with fine/long hair' or 'slayer of the demon Keshi'",
+    "components": [
+      {
+        "part": "keśava (deity's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Keshava - Wikipedia (https://en.wikipedia.org/wiki/Keshava)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kesavalu",
-    "iast": "kesavalu",
+    "iast": "keśavalu",
     "devanagari": "",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Telugu form of Keshava, a major epithet of Vishnu/Krishna",
+    "components": [
+      {
+        "part": "keśava (deity's epithet, Telugu form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Keshava - Wikipedia (https://en.wikipedia.org/wiki/Keshava)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -465286,23 +465330,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'Kesava (Vishnu's epithet) + raj (king)'",
+    "components": [
+      {
+        "part": "keśava (deity's epithet) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Keshava - Wikipedia (https://en.wikipedia.org/wiki/Keshava)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -465382,27 +465430,31 @@
   },
   {
     "name": "Keshab",
-    "iast": "keshab",
-    "devanagari": "",
+    "iast": "keśava",
+    "devanagari": "केशव",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Bengali form of Keshava, Vishnu's epithet; also the name of Keshab Chandra Sen, a major 19th-century Indian social reformer",
+    "components": [
+      {
+        "part": "keśava (deity's epithet, Bengali form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Keshab Chandra Sen - Wikipedia (https://en.wikipedia.org/wiki/Keshab_Chandra_Sen)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -465457,31 +465509,31 @@
   },
   {
     "name": "Keshava",
-    "iast": "keshava",
-    "devanagari": "",
+    "iast": "keśava",
+    "devanagari": "केशव",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "A major epithet of Vishnu/Krishna, meaning 'one with fine/long hair' or 'slayer of the demon Keshi'",
+    "components": [
+      {
+        "part": "keśava (deity's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Keshava - Wikipedia (https://en.wikipedia.org/wiki/Keshava)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -465535,31 +465587,31 @@
   },
   {
     "name": "Keshavi",
-    "iast": "keshavi",
-    "devanagari": "",
+    "iast": "keśavī",
+    "devanagari": "केशवी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to 'Keshava', Vishnu's epithet",
+    "components": [
+      {
+        "part": "keśava (deity's epithet) + -ī (feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Keshava - Wikipedia (https://en.wikipedia.org/wiki/Keshava)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -465589,27 +465641,31 @@
   },
   {
     "name": "Keshaw",
-    "iast": "keshaw",
-    "devanagari": "",
+    "iast": "keśava",
+    "devanagari": "केशव",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Phonetic variant of Keshava, a major epithet of Vishnu/Krishna",
+    "components": [
+      {
+        "part": "keśava (deity's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Keshava - Wikipedia (https://en.wikipedia.org/wiki/Keshava)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -465788,27 +465844,31 @@
   },
   {
     "name": "Keshori",
-    "iast": "keshori",
-    "devanagari": "",
+    "iast": "kiśorī",
+    "devanagari": "किशोरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Likely phonetic variant of 'Kishori', meaning 'young girl/maiden', also an epithet for the young Radha",
+    "components": [
+      {
+        "part": "kiśorī (young girl/Radha's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kishori - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kishori)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -465817,31 +465877,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Bengali colloquial form of Krishna",
+    "components": [
+      {
+        "part": "kṛṣṇa (Krishna's epithet, Bengali colloquial form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Krishna - Wikipedia (https://en.wikipedia.org/wiki/Krishna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
