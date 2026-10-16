@@ -466105,60 +466105,60 @@
   },
   {
     "name": "Ketak",
-    "iast": "ketak",
-    "devanagari": "",
+    "iast": "ketaka",
+    "devanagari": "केतक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Screw pine', a fragrant flowering plant; real Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "ketaka (screw pine flower)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ketaka - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ketaka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ketana",
     "iast": "ketana",
-    "devanagari": "",
+    "devanagari": "केतन",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'House, abode, banner'; real Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "ketana (abode/banner)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "ketana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ketana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -466188,52 +466188,60 @@
   },
   {
     "name": "Kethan",
-    "iast": "kethan",
-    "devanagari": "",
+    "iast": "ketana",
+    "devanagari": "केतन",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Ketan/Ketana, 'house, abode, banner'",
+    "components": [
+      {
+        "part": "ketana (abode/banner)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "ketana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ketana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kethana",
-    "iast": "kethana",
-    "devanagari": "",
+    "iast": "ketana",
+    "devanagari": "केतन",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Ketana, 'house, abode, banner'",
+    "components": [
+      {
+        "part": "ketana (abode/banner)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "ketana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ketana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -466313,35 +466321,31 @@
   },
   {
     "name": "Ketki",
-    "iast": "ketki",
-    "devanagari": "",
+    "iast": "ketakī",
+    "devanagari": "केतकी",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Hindi/Marathi name for the fragrant screw pine (Ketaki) flower",
+    "components": [
+      {
+        "part": "ketakī (screw pine flower)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ketaka - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ketaka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -466404,27 +466408,31 @@
   },
   {
     "name": "Ketumal",
-    "iast": "ketumal",
-    "devanagari": "",
+    "iast": "ketumāla",
+    "devanagari": "केतुमाल",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Name of Ketumala, one of the nine varshas (mythical regions) in Puranic cosmology",
+    "components": [
+      {
+        "part": "ketumāla (region's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "ketumala - wisdomlib.org (https://www.wisdomlib.org/definition/ketumala)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -466457,85 +466465,89 @@
   },
   {
     "name": "Keval",
-    "iast": "keval",
-    "devanagari": "",
+    "iast": "kevala",
+    "devanagari": "केवल",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Sole, alone, pure, absolute'; a key philosophical term in Jainism (as in Kevala Jnana, omniscience) and a common Gujarati given name",
+    "components": [
+      {
+        "part": "kevala (sole/pure/absolute)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kevala Jnana - Wikipedia (https://en.wikipedia.org/wiki/Kevala_Jnana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kevali",
-    "iast": "kevali",
-    "devanagari": "",
+    "iast": "kevalī",
+    "devanagari": "केवली",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'One who has attained Kevala Jnana (omniscience)' in Jain philosophy",
+    "components": [
+      {
+        "part": "kevala (absolute) + -ī (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kevala Jnana - Wikipedia (https://en.wikipedia.org/wiki/Kevala_Jnana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kevalin",
     "iast": "kevalin",
-    "devanagari": "",
+    "devanagari": "केवलिन्",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'One who has attained Kevala Jnana (omniscience)' in Jain philosophy",
+    "components": [
+      {
+        "part": "kevala (absolute) + -in (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kevala Jnana - Wikipedia (https://en.wikipedia.org/wiki/Kevala_Jnana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -466609,27 +466621,31 @@
   },
   {
     "name": "Kevalya",
-    "iast": "kevalya",
-    "devanagari": "",
+    "iast": "kaivalya",
+    "devanagari": "कैवल्य",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Liberation, absolute oneness'; a key term in Yoga and Jain philosophy denoting final spiritual liberation",
+    "components": [
+      {
+        "part": "kaivalya (liberation)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kaivalya - Wikipedia (https://en.wikipedia.org/wiki/Kaivalya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -466659,27 +466675,31 @@
   },
   {
     "name": "Kevat",
-    "iast": "kevat",
-    "devanagari": "",
+    "iast": "kevaṭa",
+    "devanagari": "केवट",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Name of Kevat, the humble boatman devotee who ferried Rama, Sita, and Lakshmana across the river during their exile in the Ramayana",
+    "components": [
+      {
+        "part": "kevaṭa (boatman's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kevat - wisdomlib.org (https://www.wisdomlib.org/definition/kevat)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -466859,72 +466879,60 @@
   },
   {
     "name": "Kewal",
-    "iast": "kewal",
-    "devanagari": "",
+    "iast": "kevala",
+    "devanagari": "केवल",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Keval, 'sole, pure, absolute', a key Jain philosophical term and common given name",
+    "components": [
+      {
+        "part": "kevala (sole/pure/absolute)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kevala Jnana - Wikipedia (https://en.wikipedia.org/wiki/Kevala_Jnana)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Keya",
-    "iast": "keya",
-    "devanagari": "",
+    "iast": "ketakī",
+    "devanagari": "केतकी",
     "letter": "K",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Bengali/Hindi name for the fragrant screw pine (Ketaki) flower",
+    "components": [
+      {
+        "part": "ketakī (screw pine flower)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ketaka - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/ketaka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -466954,60 +466962,60 @@
   },
   {
     "name": "Keyura",
-    "iast": "keyura",
-    "devanagari": "",
+    "iast": "keyūra",
+    "devanagari": "केयूर",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Armlet, bracelet'; real Sanskrit word for a decorative ornament worn on the upper arm",
+    "components": [
+      {
+        "part": "keyūra (armlet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "keyura - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/keyura)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Keyuri",
-    "iast": "keyuri",
-    "devanagari": "",
+    "iast": "keyūrī",
+    "devanagari": "केयूरी",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'One adorned with an armlet'; feminine form related to keyura",
+    "components": [
+      {
+        "part": "keyūra (armlet) + -ī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "keyura - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/keyura)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -467087,27 +467095,31 @@
   },
   {
     "name": "Khadga",
-    "iast": "khadga",
-    "devanagari": "",
+    "iast": "khaḍga",
+    "devanagari": "खड्ग",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Sword'; a sacred ceremonial weapon in Hindu iconography, notably wielded by the goddess Durga",
+    "components": [
+      {
+        "part": "khaḍga (sword)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "khadga - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/khadga)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -467162,60 +467174,60 @@
   },
   {
     "name": "Khadyothan",
-    "iast": "khadyothan",
-    "devanagari": "",
+    "iast": "khadyotana",
+    "devanagari": "खद्योतन",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Related to 'khadyota' (firefly), a poetic Sanskrit term",
+    "components": [
+      {
+        "part": "khadyota (firefly)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "khadyota - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/khadyota)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Khagesh",
-    "iast": "khagesh",
-    "devanagari": "",
+    "iast": "khageśa",
+    "devanagari": "खगेश",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Lord of birds', an epithet applied to Garuda or Vishnu",
+    "components": [
+      {
+        "part": "khaga (bird) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "khaga - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/khaga)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -467520,52 +467532,60 @@
   },
   {
     "name": "Khanjan",
-    "iast": "khanjan",
-    "devanagari": "",
+    "iast": "khañjana",
+    "devanagari": "खञ्जन",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Wagtail bird'; its dark, moving eyes are a classical poetic simile for beautiful eyes in Sanskrit/Hindi literature",
+    "components": [
+      {
+        "part": "khañjana (wagtail bird)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "khanjana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/khanjana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Khanjana",
-    "iast": "khanjana",
-    "devanagari": "",
+    "iast": "khañjana",
+    "devanagari": "खञ्जन",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Wagtail bird'; a classical poetic simile for beautiful eyes",
+    "components": [
+      {
+        "part": "khañjana (wagtail bird)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "khanjana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/khanjana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -467620,56 +467640,60 @@
   },
   {
     "name": "Kharadhwamsine",
-    "iast": "kharadhwamsine",
-    "devanagari": "",
+    "iast": "kharadhvaṃsin",
+    "devanagari": "खरध्वंसिन्",
     "letter": "K",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Destroyer of Khara', a heroic epithet of Rama, who slew the demon Khara",
+    "components": [
+      {
+        "part": "khara (demon's name) + dhvaṃsin (destroyer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Khara (Ramayana) - Wikipedia (https://en.wikipedia.org/wiki/Khara_(Ramayana))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kharanshu",
-    "iast": "kharanshu",
-    "devanagari": "",
+    "iast": "kharāṃśu",
+    "devanagari": "खरांशु",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Sharp-rayed', a poetic epithet for the sun",
+    "components": [
+      {
+        "part": "khara (sharp) + aṃśu (ray)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "khara - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/khara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -467873,27 +467897,31 @@
   },
   {
     "name": "Khatvangin",
-    "iast": "khatvangin",
-    "devanagari": "",
+    "iast": "khaṭvāṅgin",
+    "devanagari": "खट्वांगिन्",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Bearer of the khatvanga (ascetic staff/weapon)'; also recalls King Khatvanga, a Puranic figure renowned for swiftly attaining liberation",
+    "components": [
+      {
+        "part": "khaṭvāṅga (staff/weapon) + -in (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Khatvanga - Wikipedia (https://en.wikipedia.org/wiki/Khatvanga)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -468077,27 +468105,31 @@
   },
   {
     "name": "Khechra",
-    "iast": "khechra",
-    "devanagari": "",
+    "iast": "khecara",
+    "devanagari": "खेचर",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Sky-goer, moving through the sky'; real Sanskrit epithet applied to birds and celestial beings/gods",
+    "components": [
+      {
+        "part": "kha (sky) + cara (goer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "khecara - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/khecara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -468130,24 +468162,28 @@
     "iast": "kheemchand",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Compound 'khem (well-being, from Sanskrit kshema) + chand (moon)'; popular Rajasthani/Gujarati given name",
+    "components": [
+      {
+        "part": "kṣema (well-being) + candra (moon)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kshema - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kshema)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -468177,27 +468213,31 @@
   },
   {
     "name": "Khem",
-    "iast": "khem",
-    "devanagari": "",
+    "iast": "kṣema",
+    "devanagari": "क्षेम",
     "letter": "K",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "'Well-being, peace, prosperity'; real Sanskrit word, common in North Indian given names as 'khem'",
+    "components": [
+      {
+        "part": "kṣema (well-being/peace)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kshema - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kshema)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -468227,60 +468267,60 @@
   },
   {
     "name": "Khemprakash",
-    "iast": "khemprakash",
-    "devanagari": "",
+    "iast": "kṣemaprakāśa",
+    "devanagari": "क्षेमप्रकाश",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Compound 'khem (well-being) + prakash (light)', 'light of well-being'",
+    "components": [
+      {
+        "part": "kṣema (well-being) + prakāśa (light)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kshema - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kshema)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Khemprekash",
-    "iast": "khemprekash",
-    "devanagari": "",
+    "iast": "kṣemaprakāśa",
+    "devanagari": "क्षेमप्रकाश",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Variant spelling of Khemprakash, 'light of well-being'",
+    "components": [
+      {
+        "part": "kṣema (well-being) + prakāśa (light)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kshema - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kshema)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -468585,27 +468625,31 @@
   },
   {
     "name": "Khsitij",
-    "iast": "khsitij",
-    "devanagari": "",
+    "iast": "kṣitija",
+    "devanagari": "क्षितिज",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kshitij, 'horizon' (literally 'born of the earth')",
+    "components": [
+      {
+        "part": "kṣiti (earth) + ja (born)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kshitija - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kshitija)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -468614,23 +468658,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of Khudiram Bose, one of the youngest Indian revolutionaries executed by the British, celebrated as an early martyr of the independence movement",
+    "components": [
+      {
+        "part": "khudirāma (proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Khudiram Bose - Wikipedia (https://en.wikipedia.org/wiki/Khudiram_Bose)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -469160,77 +469208,89 @@
   },
   {
     "name": "Khyana",
-    "iast": "khyana",
-    "devanagari": "",
+    "iast": "khyāna",
+    "devanagari": "ख्यान",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Related to 'akhyana' (narrative/renown); real Sanskrit root term",
+    "components": [
+      {
+        "part": "khyāna (naming/renown)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "khyana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/khyana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Khyath",
-    "iast": "khyath",
-    "devanagari": "",
+    "iast": "khyāta",
+    "devanagari": "ख्यात",
     "letter": "K",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "'Famous, renowned, celebrated'; real Sanskrit word related to khyati (fame)",
+    "components": [
+      {
+        "part": "khyāta (famous)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "khyata - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/khyata)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Khyathi",
-    "iast": "khyathi",
-    "devanagari": "",
+    "iast": "khyāti",
+    "devanagari": "ख्याति",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Fame, renown, celebrity'; real and common Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "khyāti (fame/renown)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "khyati - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/khyati)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -469488,27 +469548,31 @@
   },
   {
     "name": "Killol",
-    "iast": "killol",
-    "devanagari": "",
+    "iast": "kilola",
+    "devanagari": "किलोल",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Playful, sportive', related to 'kilola' (wave/sport); real Gujarati/Sanskrit-derived given name",
+    "components": [
+      {
+        "part": "kilola (playful/wave)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kilola - wisdomlib.org (https://www.wisdomlib.org/definition/kilola)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -469750,35 +469814,31 @@
   },
   {
     "name": "Kindam",
-    "iast": "kindam",
-    "devanagari": "",
+    "iast": "kiṃdama",
+    "devanagari": "किंदम",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Name of Kindama, a sage in the Mahabharata who, while in the form of a deer, was accidentally shot and killed by King Pandu",
+    "components": [
+      {
+        "part": "kiṃdama (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kindama - wisdomlib.org (https://www.wisdomlib.org/definition/kindama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -469833,110 +469893,118 @@
   },
   {
     "name": "Kinkini",
-    "iast": "kinkini",
-    "devanagari": "",
+    "iast": "kiṃkiṇī",
+    "devanagari": "किंकिणी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'A small tinkling bell/ornament'; real Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "kiṃkiṇī (tinkling bell)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kinkini - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kinkini)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kinnar",
-    "iast": "kinnar",
-    "devanagari": "",
+    "iast": "kinnara",
+    "devanagari": "किन्नर",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Kinnara', a celestial being in Hindu/Buddhist mythology, half-human and half-horse/bird, renowned as a musician",
+    "components": [
+      {
+        "part": "kinnara (celestial being)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kinnara - Wikipedia (https://en.wikipedia.org/wiki/Kinnara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kinnari",
-    "iast": "kinnari",
-    "devanagari": "",
+    "iast": "kinnarī",
+    "devanagari": "किन्नरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form of Kinnara, a celestial musician-being in Hindu/Buddhist mythology",
+    "components": [
+      {
+        "part": "kinnarī (celestial being)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Kinnara - Wikipedia (https://en.wikipedia.org/wiki/Kinnara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kinnary",
-    "iast": "kinnary",
-    "devanagari": "",
+    "iast": "kinnarī",
+    "devanagari": "किन्नरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kinnari, the celestial musician-being of Hindu/Buddhist mythology",
+    "components": [
+      {
+        "part": "kinnarī (celestial being)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kinnara - Wikipedia (https://en.wikipedia.org/wiki/Kinnara)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -469966,60 +470034,60 @@
   },
   {
     "name": "Kinshu",
-    "iast": "kinshu",
-    "devanagari": "",
+    "iast": "kiṃśuka",
+    "devanagari": "किंशुक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Short form of Kinshuk, the flame-of-the-forest (Palash) tree",
+    "components": [
+      {
+        "part": "kiṃśuka (flame-of-the-forest tree)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kimshuka - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kimshuka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kinshuk",
-    "iast": "kinshuk",
-    "devanagari": "",
+    "iast": "kiṃśuka",
+    "devanagari": "किंशुक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Flame-of-the-forest' (Palash) tree, known for its vivid red-orange flowers",
+    "components": [
+      {
+        "part": "kiṃśuka (flame-of-the-forest tree)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kimshuka - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kimshuka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -470128,39 +470196,31 @@
   },
   {
     "name": "Kiraat",
-    "iast": "kiraat",
-    "devanagari": "",
+    "iast": "kirāta",
+    "devanagari": "किरात",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Name of an ancient Himalayan hunting tribe; also the form Shiva assumed as a hunter to test Arjuna's penance in the Mahabharata episode 'Kirātārjunīya'",
+    "components": [
+      {
+        "part": "kirāta (tribe/disguise name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kirátárjuníya - Wikipedia (https://en.wikipedia.org/wiki/Kiratarjuniya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -470190,31 +470250,31 @@
   },
   {
     "name": "Kirana",
-    "iast": "kirana",
-    "devanagari": "",
+    "iast": "kiraṇa",
+    "devanagari": "किरण",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant of Kiran, 'ray of light'",
+    "components": [
+      {
+        "part": "kiraṇa (ray of light)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "kirana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -470222,24 +470282,28 @@
     "iast": "kirandeep",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Compound 'kiran (ray of light) + deep (lamp)'",
+    "components": [
+      {
+        "part": "kiraṇa (ray) + dīpa (lamp)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "kirana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -470273,175 +470337,171 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'kiran (ray of light) + kumar (youth/son)'",
+    "components": [
+      {
+        "part": "kiraṇa (ray) + kumāra (youth)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kiranmai",
-    "iast": "kiranmai",
-    "devanagari": "",
+    "iast": "kiraṇamayī",
+    "devanagari": "किरणमयी",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Full of rays, radiant'; real Sanskrit-style compound used as a given name",
+    "components": [
+      {
+        "part": "kiraṇa (ray) + mayī (full of, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Kiranmala",
-    "iast": "kiranmala",
-    "devanagari": "",
+    "iast": "kiraṇamālā",
+    "devanagari": "किरणमाला",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Garland of rays'; real Sanskrit-style compound",
+    "components": [
+      {
+        "part": "kiraṇa (ray) + mālā (garland)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kiranmay",
-    "iast": "kiranmay",
-    "devanagari": "",
+    "iast": "kiraṇamaya",
+    "devanagari": "किरणमय",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Full of rays, radiant'",
+    "components": [
+      {
+        "part": "kiraṇa (ray) + maya (full of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kiranmayi",
-    "iast": "kiranmayi",
-    "devanagari": "",
+    "iast": "kiraṇamayī",
+    "devanagari": "किरणमयी",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Feminine 'full of rays, radiant'",
+    "components": [
+      {
+        "part": "kiraṇa (ray) + mayī (full of, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kiranprabha",
-    "iast": "kiranprabha",
-    "devanagari": "",
+    "iast": "kiraṇaprabhā",
+    "devanagari": "किरणप्रभा",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Radiance of rays'",
+    "components": [
+      {
+        "part": "kiraṇa (ray) + prabhā (radiance)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -470449,24 +470509,28 @@
     "iast": "kiranpreet",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Sikh/Punjabi compound 'kiran (ray of light) + preet (love)'",
+    "components": [
+      {
+        "part": "kiraṇa (ray) + prīti (love)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "kirana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "unisex"
   },
   {
@@ -470475,23 +470539,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'kiran (ray of light) + raj (king)'",
+    "components": [
+      {
+        "part": "kiraṇa (ray) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -470525,68 +470593,60 @@
   },
   {
     "name": "Kirat",
-    "iast": "kirat",
-    "devanagari": "",
+    "iast": "kirāta",
+    "devanagari": "किरात",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Ancient Himalayan hunting tribe, also relates to Shiva's hunter disguise episode; in Punjabi/Sikh usage sometimes linked to 'kirat' (praise, from Sanskrit kirti)",
+    "components": [
+      {
+        "part": "kirāta (tribe/disguise name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kirátárjuníya - Wikipedia (https://en.wikipedia.org/wiki/Kiratarjuniya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kirati",
-    "iast": "kirati",
-    "devanagari": "",
+    "iast": "kirātī",
+    "devanagari": "किराती",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to Kirata (the Himalayan tribe/Shiva's hunter disguise); also used as a short form related to 'kirti' (fame)",
+    "components": [
+      {
+        "part": "kirāta (tribe/disguise name) + -ī",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Kirátárjuníya - Wikipedia (https://en.wikipedia.org/wiki/Kiratarjuniya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -470678,64 +470738,60 @@
   },
   {
     "name": "Kireet",
-    "iast": "kireet",
-    "devanagari": "",
+    "iast": "kirīṭa",
+    "devanagari": "किरीट",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Crown, diadem'; real Sanskrit word, notably the crown Arjuna received from Indra (hence his epithet Kiriti)",
+    "components": [
+      {
+        "part": "kirīṭa (crown)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kireeti",
-    "iast": "kireeti",
-    "devanagari": "",
+    "iast": "kirīṭin",
+    "devanagari": "किरीटिन्",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Crowned one', an epithet of Arjuna, who received a divine crown from Indra",
+    "components": [
+      {
+        "part": "kirīṭa (crown) + -in (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -470769,35 +470825,31 @@
   },
   {
     "name": "Kirin",
-    "iast": "kirin",
-    "devanagari": "",
+    "iast": "kiraṇa",
+    "devanagari": "किरण",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Phonetic variant of Kiran, 'ray of light'",
+    "components": [
+      {
+        "part": "kiraṇa (ray of light)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -470877,35 +470929,31 @@
   },
   {
     "name": "Kirit",
-    "iast": "kirit",
-    "devanagari": "",
+    "iast": "kirīṭa",
+    "devanagari": "किरीट",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Crown, diadem'; real Sanskrit word, notably the crown Arjuna received from Indra",
+    "components": [
+      {
+        "part": "kirīṭa (crown)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -470985,35 +471033,31 @@
   },
   {
     "name": "Kiritmani",
-    "iast": "kiritmani",
-    "devanagari": "",
+    "iast": "kirīṭamaṇi",
+    "devanagari": "किरीटमणि",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Crown jewel'; a poetic epithet associated with Krishna's crown ornament",
+    "components": [
+      {
+        "part": "kirīṭa (crown) + maṇi (gem)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirita - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirita)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -471118,35 +471162,31 @@
   },
   {
     "name": "Kirtana",
-    "iast": "kirtana",
-    "devanagari": "",
+    "iast": "kīrtana",
+    "devanagari": "कीर्तन",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Song of praise, devotional singing'",
+    "components": [
+      {
+        "part": "kīrtana (devotional singing)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kirtan - Wikipedia (https://en.wikipedia.org/wiki/Kirtan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -471176,147 +471216,147 @@
   },
   {
     "name": "Kirthan",
-    "iast": "kirthan",
-    "devanagari": "",
+    "iast": "kīrtana",
+    "devanagari": "कीर्तन",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Keertan/Kirtan, 'devotional singing/praise'",
+    "components": [
+      {
+        "part": "kīrtana (devotional singing)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kirtan - Wikipedia (https://en.wikipedia.org/wiki/Kirtan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kirthana",
-    "iast": "kirthana",
-    "devanagari": "",
+    "iast": "kīrtana",
+    "devanagari": "कीर्तन",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Keertana, 'song of praise, devotional singing'",
+    "components": [
+      {
+        "part": "kīrtana (devotional singing)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kirtan - Wikipedia (https://en.wikipedia.org/wiki/Kirtan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kirthik",
-    "iast": "kirthik",
-    "devanagari": "",
+    "iast": "kīrti",
+    "devanagari": "कीर्ति",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant related to 'kirti' (fame), blended with 'Karthik'; popular South Indian given name",
+    "components": [
+      {
+        "part": "kīrti (fame)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kirthika",
-    "iast": "kirthika",
-    "devanagari": "",
+    "iast": "kīrtikā",
+    "devanagari": "कीर्तिका",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Keertika, related to 'kirti' (fame) and the Krittika nakshatra",
+    "components": [
+      {
+        "part": "kīrti (fame) + -ikā (diminutive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kirtibhushan",
-    "iast": "kirtibhushan",
-    "devanagari": "",
+    "iast": "kīrtibhūṣaṇa",
+    "devanagari": "कीर्तिभूषण",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Ornament of fame'; real Sanskrit-style compound",
+    "components": [
+      {
+        "part": "kīrti (fame) + bhūṣaṇa (ornament)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -471346,27 +471386,31 @@
   },
   {
     "name": "Kirtidhar",
-    "iast": "kirtidhar",
-    "devanagari": "",
+    "iast": "kīrtidhara",
+    "devanagari": "कीर्तिधर",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Bearer of fame'; real Sanskrit-style compound",
+    "components": [
+      {
+        "part": "kīrti (fame) + dhara (bearer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -471396,27 +471440,31 @@
   },
   {
     "name": "Kirtika",
-    "iast": "kirtika",
-    "devanagari": "",
+    "iast": "kīrtikā",
+    "devanagari": "कीर्तिका",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Diminutive feminine form related to 'kirti' (fame); also relates to the Krittika nakshatra",
+    "components": [
+      {
+        "part": "kīrti (fame) + -ikā (diminutive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -471457,52 +471505,60 @@
   },
   {
     "name": "Kirtiman",
-    "iast": "kirtiman",
-    "devanagari": "",
+    "iast": "kīrtimat",
+    "devanagari": "कीर्तिमत्",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Possessing fame'; real Sanskrit compound",
+    "components": [
+      {
+        "part": "kīrti (fame) + -mat (possessive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kirtimay",
-    "iast": "kirtimay",
-    "devanagari": "",
+    "iast": "kīrtimaya",
+    "devanagari": "कीर्तिमय",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Full of fame'",
+    "components": [
+      {
+        "part": "kīrti (fame) + maya (full of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -471540,52 +471596,60 @@
   },
   {
     "name": "Kirtinath",
-    "iast": "kirtinath",
-    "devanagari": "",
+    "iast": "kīrtinātha",
+    "devanagari": "कीर्तिनाथ",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of fame/glory'",
+    "components": [
+      {
+        "part": "kīrti (fame) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kirtiraj",
-    "iast": "kirtiraj",
-    "devanagari": "",
+    "iast": "kīrtirāja",
+    "devanagari": "कीर्तिराज",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'King of fame/glory'",
+    "components": [
+      {
+        "part": "kīrti (fame) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -471665,60 +471729,60 @@
   },
   {
     "name": "Kirtivallabh",
-    "iast": "kirtivallabh",
-    "devanagari": "",
+    "iast": "kīrtivallabha",
+    "devanagari": "कीर्तिवल्लभ",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Beloved of fame'; real Sanskrit-style compound",
+    "components": [
+      {
+        "part": "kīrti (fame) + vallabha (beloved)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kirti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kirti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kirtivardhan",
-    "iast": "kirtivardhan",
-    "devanagari": "",
+    "iast": "kīrtivardhana",
+    "devanagari": "कीर्तिवर्धन",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Increaser of fame'; also the name of several historical Chalukya-dynasty kings (Kirtivarman)",
+    "components": [
+      {
+        "part": "kīrti (fame) + vardhana (increaser)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kirtivarman I - Wikipedia (https://en.wikipedia.org/wiki/Kirtivarman_I)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -471756,27 +471820,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil word meaning 'grace, mercy, compassion'; a popular given name (from Sanskrit 'kripa')",
+    "components": [
+      {
+        "part": "kirupai/kiruba (grace, Tamil, from Sanskrit kṛpā)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "kripa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kripa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -471785,23 +471849,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'kiruba (grace) + sakthi (shakti, power)'",
+    "components": [
+      {
+        "part": "kiruba (grace, Tamil) + śakti (power)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kripa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kripa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -471810,23 +471878,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil word meaning 'gracious one' (from Sanskrit 'kripa', grace)",
+    "components": [
+      {
+        "part": "kirupai (grace, Tamil, from Sanskrit kṛpā)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kripa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kripa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -471885,27 +471957,31 @@
   },
   {
     "name": "Kiruthika",
-    "iast": "kiruthika",
-    "devanagari": "",
+    "iast": "kṛttikā",
+    "devanagari": "कृत्तिका",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Tamil form related to Krittika, the nakshatra (lunar asterism) associated with the god Kartikeya's birth",
+    "components": [
+      {
+        "part": "kṛttikā (nakshatra name, Tamil form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
