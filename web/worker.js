@@ -48,6 +48,7 @@ function filterShard({ recs, qs }, q) {
   const terms = q.text ? fold(norm(q.text)).split(' ').filter(Boolean) : null;
   return list.filter((r) => {
     if (q.reviewedOnly && r.u) return false;
+    if (q.hidePending && r.rp) return false;
     if (q.gender === 'unisex' && !r.gu) return false;
     if (q.gender === 'boy' && (r.gu || r.gg)) return false;
     if (q.gender === 'girl' && !r.gg) return false;
