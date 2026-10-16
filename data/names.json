@@ -452095,27 +452095,31 @@
   },
   {
     "name": "Karkotak",
-    "iast": "karkotak",
-    "devanagari": "",
+    "iast": "karkoṭaka",
+    "devanagari": "कर्कोटक",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Name of Karkotaka, the king of serpents (nagas) who appears in the Nala-Damayanti story of the Mahabharata",
+    "components": [
+      {
+        "part": "karkoṭaka (naga king's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Karkotaka - Wikipedia (https://en.wikipedia.org/wiki/Karkotaka)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -452145,60 +452149,60 @@
   },
   {
     "name": "Karm",
-    "iast": "karm",
-    "devanagari": "",
+    "iast": "karma",
+    "devanagari": "कर्म",
     "letter": "K",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "'Action, deed, work'; the widely known Sanskrit concept of cause-and-effect through action",
+    "components": [
+      {
+        "part": "karma (action/deed)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "karma - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karma)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karma",
     "iast": "karma",
-    "devanagari": "",
+    "devanagari": "कर्म",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Action, deed, work'; the widely known Sanskrit concept of cause-and-effect through action",
+    "components": [
+      {
+        "part": "karma (action/deed)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "karma - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karma)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -452229,51 +452233,59 @@
   {
     "name": "Karman",
     "iast": "karman",
-    "devanagari": "",
+    "devanagari": "कर्मन्",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Grammatical/classical form of 'karma', meaning 'action, deed, work'",
+    "components": [
+      {
+        "part": "karman (action/deed)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "karma - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karma)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karmanya",
-    "iast": "karmanya",
-    "devanagari": "",
+    "iast": "karmaṇya",
+    "devanagari": "कर्मण्य",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Fit for action, diligent in duty'; a Sanskrit word recalling the Bhagavad Gita verse 'karmaṇye vā adhikāraste'",
+    "components": [
+      {
+        "part": "karman (action) + -ya",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "karmanya - wisdomlib.org (https://www.wisdomlib.org/definition/karmanya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -452382,23 +452394,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil word meaning 'dark cloud', a poetic epithet for Vishnu/Krishna due to his dark complexion",
+    "components": [
+      {
+        "part": "karu (dark, Tamil) + mēkam (cloud, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Krishna - Wikipedia (https://en.wikipedia.org/wiki/Krishna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -452407,89 +452423,85 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Karmegam, 'dark cloud', a poetic epithet for Vishnu/Krishna",
+    "components": [
+      {
+        "part": "karu (dark, Tamil) + mēkam (cloud, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Krishna - Wikipedia (https://en.wikipedia.org/wiki/Krishna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karmendra",
     "iast": "karmendra",
-    "devanagari": "",
+    "devanagari": "कर्मेन्द्र",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'karma (action/deed) + indra (lord)', 'lord of deeds'",
+    "components": [
+      {
+        "part": "karma (action) + indra (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "karma - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karma)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karmjit",
-    "iast": "karmjit",
-    "devanagari": "",
+    "iast": "karmajit",
+    "devanagari": "कर्मजित्",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Compound 'karma (deeds/fate) + jit (victor)', 'victor over deeds/fate'",
+    "components": [
+      {
+        "part": "karma (action) + jit (victor)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "karma - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karma)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -452519,68 +452531,60 @@
   },
   {
     "name": "Karn",
-    "iast": "karn",
-    "devanagari": "",
+    "iast": "karṇa",
+    "devanagari": "कर्ण",
     "letter": "K",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Variant of Karna, the tragic hero of the Mahabharata, son of Kunti and the sun-god Surya",
+    "components": [
+      {
+        "part": "karṇa (hero's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Karna - Wikipedia (https://en.wikipedia.org/wiki/Karna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karna",
-    "iast": "karna",
-    "devanagari": "",
+    "iast": "karṇa",
+    "devanagari": "कर्ण",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Major hero of the Mahabharata, son of Kunti and the sun-god Surya, renowned for his generosity and tragic fate",
+    "components": [
+      {
+        "part": "karṇa (hero's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Karna - Wikipedia (https://en.wikipedia.org/wiki/Karna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -452639,27 +452643,31 @@
   },
   {
     "name": "Karnadhara",
-    "iast": "karnadhara",
-    "devanagari": "",
+    "iast": "karṇadhāra",
+    "devanagari": "कर्णधार",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Steersman, pilot, helmsman' (literally 'holder of the rudder')",
+    "components": [
+      {
+        "part": "karṇa (rudder) + dhāra (holder)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "karnadhara - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karnadhara)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -452780,27 +452788,31 @@
   },
   {
     "name": "Karnan",
-    "iast": "karnan",
+    "iast": "karṇaṉ",
     "devanagari": "",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil form of Karna, the tragic hero of the Mahabharata",
+    "components": [
+      {
+        "part": "karṇa (hero's proper name, Tamil form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Karna - Wikipedia (https://en.wikipedia.org/wiki/Karna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -452944,27 +452956,31 @@
   },
   {
     "name": "Karnika",
-    "iast": "karnika",
-    "devanagari": "",
+    "iast": "karṇikā",
+    "devanagari": "कर्णिका",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'The pericarp/seed-vessel of a lotus', also 'a small ear-shaped ornament'; real Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "karṇikā (lotus pericarp/ear ornament)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "karnika - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karnika)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -453069,85 +453085,89 @@
   },
   {
     "name": "Karpoor",
-    "iast": "karpoor",
-    "devanagari": "",
+    "iast": "karpūra",
+    "devanagari": "कर्पूर",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Camphor'; real Sanskrit word used ceremonially in Hindu worship and also as a given name",
+    "components": [
+      {
+        "part": "karpūra (camphor)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "karpura - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karpura)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karpur",
-    "iast": "karpur",
-    "devanagari": "",
+    "iast": "karpūra",
+    "devanagari": "कर्पूर",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Camphor'; real Sanskrit word used ceremonially in Hindu worship",
+    "components": [
+      {
+        "part": "karpūra (camphor)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "karpura - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karpura)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karsan",
-    "iast": "karsan",
+    "iast": "kṛṣṇa",
     "devanagari": "",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Common Gujarati pet form of Krishna",
+    "components": [
+      {
+        "part": "kṛṣṇa (Krishna's epithet, Gujarati form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Krishna - Wikipedia (https://en.wikipedia.org/wiki/Krishna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -453156,23 +453176,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Gujarati devotional compound 'Karsan (Krishna) + ji (honorific)'",
+    "components": [
+      {
+        "part": "kṛṣṇa (Krishna's epithet, Gujarati form) + -jī (honorific)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Krishna - Wikipedia (https://en.wikipedia.org/wiki/Krishna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -453205,24 +453229,28 @@
     "iast": "kartaar",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Punjabi/Sikh word for 'the Creator', used as a name for God; a popular Sikh given name",
+    "components": [
+      {
+        "part": "kartāra (creator)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "God in Sikhism - Wikipedia (https://en.wikipedia.org/wiki/God_in_Sikhism)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -453230,24 +453258,28 @@
     "iast": "kartaara",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Kartaar, Punjabi/Sikh word for 'the Creator'",
+    "components": [
+      {
+        "part": "kartāra (creator)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "God in Sikhism - Wikipedia (https://en.wikipedia.org/wiki/God_in_Sikhism)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -453256,31 +453288,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Punjabi/Sikh word for 'the Creator', used as a name for God; a very common Sikh given name",
+    "components": [
+      {
+        "part": "kartāra (creator)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "God in Sikhism - Wikipedia (https://en.wikipedia.org/wiki/God_in_Sikhism)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -453335,77 +453363,89 @@
   },
   {
     "name": "Kartavyaa",
-    "iast": "kartavyaa",
-    "devanagari": "",
+    "iast": "kartavya",
+    "devanagari": "कर्तव्य",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Duty, obligation, that which ought to be done'; real and popular modern Sanskrit-derived given name",
+    "components": [
+      {
+        "part": "kartavya (duty)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kartavya - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kartavya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karteek",
-    "iast": "karteek",
-    "devanagari": "",
+    "iast": "kārtika",
+    "devanagari": "कार्तिक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kartik, the Hindu lunar month and an epithet of the god Kartikeya",
+    "components": [
+      {
+        "part": "kārtika (month name/deity's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kartheek",
-    "iast": "kartheek",
-    "devanagari": "",
+    "iast": "kārtika",
+    "devanagari": "कार्तिक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kartik, the Hindu lunar month and an epithet of the god Kartikeya",
+    "components": [
+      {
+        "part": "kārtika (month name/deity's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -453460,56 +453500,60 @@
   },
   {
     "name": "Karthekeya",
-    "iast": "karthekeya",
-    "devanagari": "",
+    "iast": "kārtikeya",
+    "devanagari": "कार्तिकेय",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Kartikeya, the Hindu god of war, son of Shiva and Parvati",
+    "components": [
+      {
+        "part": "kārtikeya (deity's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karthi",
-    "iast": "karthi",
+    "iast": "kārthi",
     "devanagari": "",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Short form of Karthik, related to the god Kartikeya; also the name of noted Tamil actor Karthi",
+    "components": [
+      {
+        "part": "kārtika (deity's epithet, short form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Karthi - Wikipedia (https://en.wikipedia.org/wiki/Karthi)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Karthiaeini",
@@ -453563,31 +453607,31 @@
   },
   {
     "name": "Karthick",
-    "iast": "karthick",
-    "devanagari": "",
+    "iast": "kārtika",
+    "devanagari": "कार्तिक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Popular Tamil spelling of Karthik, related to the god Kartikeya and the Tamil month Karthigai",
+    "components": [
+      {
+        "part": "kārtika (deity's epithet/month name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -453617,27 +453661,31 @@
   },
   {
     "name": "Karthiga",
-    "iast": "karthiga",
-    "devanagari": "",
+    "iast": "kṛttikā",
+    "devanagari": "कृत्तिका",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil form related to Krittika, the nakshatra (lunar asterism) associated with the god Kartikeya's birth",
+    "components": [
+      {
+        "part": "kṛttikā (nakshatra name, Tamil form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -453646,72 +453694,84 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil masculine form related to Kartikeya/Karthigai",
+    "components": [
+      {
+        "part": "kārtika/kṛttikā (deity's epithet, Tamil form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karthigeyan",
-    "iast": "karthigeyan",
-    "devanagari": "",
+    "iast": "kārtikeya",
+    "devanagari": "कार्तिकेय",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Tamil form of Kartikeya, the Hindu god of war, son of Shiva and Parvati",
+    "components": [
+      {
+        "part": "kārtikeya (deity's proper name, Tamil form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Karthigeyanathan",
     "iast": "karthigeyanathan",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 6,
+    "meaning_en": "Tamil compound 'Kartikeya + nathan (lord)'",
+    "components": [
+      {
+        "part": "kārtikeya (deity's proper name) + nāthaṉ (lord, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -453741,35 +453801,31 @@
   },
   {
     "name": "Karthik",
-    "iast": "karthik",
-    "devanagari": "",
+    "iast": "kārtika",
+    "devanagari": "कार्तिक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Popular given name related to the Hindu lunar month Kartik and the god Kartikeya",
+    "components": [
+      {
+        "part": "kārtika (deity's epithet/month name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -453803,23 +453859,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'Karthik(eya) + vel (spear)', referencing Murugan's divine weapon",
+    "components": [
+      {
+        "part": "kārtikeya (deity's name) + vēl (spear, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Vel (weapon) - Wikipedia (https://en.wikipedia.org/wiki/Vel_(weapon))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -453828,81 +453888,85 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound meaning 'lord Kartikeya'",
+    "components": [
+      {
+        "part": "kārtikeya (deity's name) + īśa (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karthikeya",
-    "iast": "karthikeya",
-    "devanagari": "",
+    "iast": "kārtikeya",
+    "devanagari": "कार्तिकेय",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "The Hindu god of war, son of Shiva and Parvati, also known as Skanda or Murugan",
+    "components": [
+      {
+        "part": "kārtikeya (deity's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karthiki",
-    "iast": "karthiki",
-    "devanagari": "",
+    "iast": "kārtikī",
+    "devanagari": "कार्तिकी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to the Hindu month Kartik and the god Kartikeya",
+    "components": [
+      {
+        "part": "kārtikī (feminine form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -454136,23 +454200,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil compound 'Karthi(k) + vel (spear)', referencing Murugan's divine weapon",
+    "components": [
+      {
+        "part": "kārtikeya (deity's name) + vēl (spear, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Vel (weapon) - Wikipedia (https://en.wikipedia.org/wiki/Vel_(weapon))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -454282,135 +454350,147 @@
   },
   {
     "name": "Kartikay",
-    "iast": "kartikay",
-    "devanagari": "",
+    "iast": "kārtikeya",
+    "devanagari": "कार्तिकेय",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Kartikeya, the Hindu god of war, son of Shiva and Parvati",
+    "components": [
+      {
+        "part": "kārtikeya (deity's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kartikaya",
-    "iast": "kartikaya",
-    "devanagari": "",
+    "iast": "kārtikeya",
+    "devanagari": "कार्तिकेय",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Kartikeya, the Hindu god of war",
+    "components": [
+      {
+        "part": "kārtikeya (deity's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kartikey",
-    "iast": "kartikey",
-    "devanagari": "",
+    "iast": "kārtikeya",
+    "devanagari": "कार्तिकेय",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Kartikeya, the Hindu god of war",
+    "components": [
+      {
+        "part": "kārtikeya (deity's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kartikeyan",
-    "iast": "kartikeyan",
-    "devanagari": "",
+    "iast": "kārtikeya",
+    "devanagari": "कार्तिकेय",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Tamil form of Kartikeya, the Hindu god of war, son of Shiva and Parvati",
+    "components": [
+      {
+        "part": "kārtikeya (deity's proper name, Tamil form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kartiki",
-    "iast": "kartiki",
-    "devanagari": "",
+    "iast": "kārtikī",
+    "devanagari": "कार्तिकी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine form related to the Hindu month Kartik and the god Kartikeya",
+    "components": [
+      {
+        "part": "kārtikī (feminine form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -454569,27 +454649,31 @@
   },
   {
     "name": "Kartyayani",
-    "iast": "kartyayani",
-    "devanagari": "",
+    "iast": "kātyāyanī",
+    "devanagari": "कात्यायनी",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Phonetic variant of Katyayani, a major fierce form of the goddess Durga, one of the Navadurgas",
+    "components": [
+      {
+        "part": "kātyāyanī (goddess's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Katyayani - Wikipedia (https://en.wikipedia.org/wiki/Katyayani)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -454727,189 +454811,205 @@
   },
   {
     "name": "Karun",
-    "iast": "karun",
-    "devanagari": "",
+    "iast": "karuṇa",
+    "devanagari": "करुण",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Compassion, pity, mercy'; real and common Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "karuṇa (compassion)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "karuna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karunaanidhi",
-    "iast": "karunaanidhi",
-    "devanagari": "",
+    "iast": "karuṇānidhi",
+    "devanagari": "करुणानिधि",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Treasure of compassion'; also the name of M. Karunanidhi, a major 20th/21st-century Tamil Nadu political leader and Chief Minister",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + nidhi (treasure)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "M. Karunanidhi - Wikipedia (https://en.wikipedia.org/wiki/M._Karunanidhi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karunaasaagar",
-    "iast": "karunaasaagar",
-    "devanagari": "",
+    "iast": "karuṇāsāgara",
+    "devanagari": "करुणासागर",
     "letter": "K",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 6,
+    "meaning_en": "'Ocean of compassion'; epithet applied to Krishna and other compassionate deities",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + sāgara (ocean)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "karuna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karunah",
-    "iast": "karunah",
-    "devanagari": "",
+    "iast": "karuṇā",
+    "devanagari": "करुणा",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Karuna, 'compassion, mercy'",
+    "components": [
+      {
+        "part": "karuṇā (compassion)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "karuna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Karunainathan",
-    "iast": "karunainathan",
+    "iast": "karuṇānāthan",
     "devanagari": "",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of compassion'; devotional Tamil compound",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + nāthaṉ (lord, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "karuna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karunakar",
-    "iast": "karunakar",
-    "devanagari": "",
+    "iast": "karuṇākara",
+    "devanagari": "करुणाकर",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'One who is the source of compassion', an epithet of Rama/Krishna; also the name of K. Karunakaran, a noted Kerala political leader",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + ākara (source)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "K. Karunakaran - Wikipedia (https://en.wikipedia.org/wiki/K._Karunakaran)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karunakaran",
-    "iast": "karunakaran",
+    "iast": "karuṇākaraṉ",
     "devanagari": "",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'One who is the source of compassion'; also the name of K. Karunakaran, a major Kerala political leader and Chief Minister",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + ākara (source)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "K. Karunakaran - Wikipedia (https://en.wikipedia.org/wiki/K._Karunakaran)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Karunal",
@@ -454938,230 +455038,234 @@
   },
   {
     "name": "Karunamay",
-    "iast": "karunamay",
-    "devanagari": "",
+    "iast": "karuṇāmaya",
+    "devanagari": "करुणामय",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Full of compassion'; real Sanskrit-style compound used as a given name",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + maya (full of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "karuna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karunamaya",
-    "iast": "karunamaya",
-    "devanagari": "",
+    "iast": "karuṇāmaya",
+    "devanagari": "करुणामय",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Full of compassion'",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + maya (full of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "karuna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karunamayee",
-    "iast": "karunamayee",
-    "devanagari": "",
+    "iast": "karuṇāmayī",
+    "devanagari": "करुणामयी",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Feminine 'full of compassion'",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + mayī (full of, feminine)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "karuna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Karunan",
-    "iast": "karunan",
+    "iast": "karuṇaṉ",
     "devanagari": "",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil form meaning 'the compassionate one'",
+    "components": [
+      {
+        "part": "karuṇā (compassion, Tamil form)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "karuna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karunanidh",
-    "iast": "karunanidh",
-    "devanagari": "",
+    "iast": "karuṇānidhi",
+    "devanagari": "करुणानिधि",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "Truncated variant of Karunanidhi, 'treasure of compassion'",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + nidhi (treasure)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "M. Karunanidhi - Wikipedia (https://en.wikipedia.org/wiki/M._Karunanidhi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karunanidhan",
-    "iast": "karunanidhan",
-    "devanagari": "",
+    "iast": "karuṇānidhāna",
+    "devanagari": "करुणानिधान",
     "letter": "K",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 6,
+    "meaning_en": "Variant of Karunanidhi, 'treasure/repository of compassion'",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + nidhāna (repository)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "M. Karunanidhi - Wikipedia (https://en.wikipedia.org/wiki/M._Karunanidhi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karunanidhi",
-    "iast": "karunanidhi",
-    "devanagari": "",
+    "iast": "karuṇānidhi",
+    "devanagari": "करुणानिधि",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Treasure of compassion'; name of M. Karunanidhi, a major 20th/21st-century Tamil Nadu political leader and Chief Minister",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + nidhi (treasure)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "M. Karunanidhi - Wikipedia (https://en.wikipedia.org/wiki/M._Karunanidhi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karunanithi",
-    "iast": "karunanithi",
-    "devanagari": "",
+    "iast": "karuṇānidhi",
+    "devanagari": "करुणानिधि",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Karunanidhi, 'treasure of compassion'; name of major political leader M. Karunanidhi",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + nidhi (treasure)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "M. Karunanidhi - Wikipedia (https://en.wikipedia.org/wiki/M._Karunanidhi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -455191,85 +455295,89 @@
   },
   {
     "name": "Karunashankar",
-    "iast": "karunashankar",
-    "devanagari": "",
+    "iast": "karuṇāśaṃkara",
+    "devanagari": "करुणाशंकर",
     "letter": "K",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 6,
+    "meaning_en": "'Compassionate Shankar (Shiva)'; real devotional compound",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + śaṃkara (Shiva's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "karuna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karunasindhu",
-    "iast": "karunasindhu",
-    "devanagari": "",
+    "iast": "karuṇāsindhu",
+    "devanagari": "करुणासिन्धु",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Ocean of compassion'",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + sindhu (ocean)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "karuna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Karunasree",
-    "iast": "karunasree",
-    "devanagari": "",
+    "iast": "karuṇāśrī",
+    "devanagari": "करुणाश्री",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'karuna (compassion) + shri (auspicious)'",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + śrī (auspicious)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "karuna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -455278,48 +455386,56 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'karuna (compassion) + vel (Murugan's spear)'",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + vēl (spear, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "karuna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Karunika",
-    "iast": "karunika",
-    "devanagari": "",
+    "iast": "kāruṇika",
+    "devanagari": "कारुणिक",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Compassionate'; real Sanskrit adjective derived from karuna",
+    "components": [
+      {
+        "part": "karuṇā (compassion) + -ika",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "karuna - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karuna)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -455349,35 +455465,31 @@
   },
   {
     "name": "Karunya",
-    "iast": "karunya",
-    "devanagari": "",
+    "iast": "karuṇya",
+    "devanagari": "करुण्य",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Compassion, mercy'; a widely used modern Sanskrit-derived given name",
+    "components": [
+      {
+        "part": "karuṇya (compassion)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "karunya - wisdomlib.org (https://www.wisdomlib.org/definition/karunya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -455411,23 +455523,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil word meaning 'the dark/black one', a popular epithet for folk guardian deities (e.g., Karuppasamy) in Tamil Nadu",
+    "components": [
+      {
+        "part": "karuppu (black, Tamil) + -an",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Karuppu Sami - Wikipedia (https://en.wikipedia.org/wiki/Karuppu_Sami)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -455435,28 +455551,28 @@
     "iast": "karuppasamy",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Name of a popular Tamil folk guardian deity, 'the dark lord'",
+    "components": [
+      {
+        "part": "karuppu (black, Tamil) + sāmi (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Karuppu Sami - Wikipedia (https://en.wikipedia.org/wiki/Karuppu_Sami)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -455489,24 +455605,28 @@
     "iast": "karuppusamy",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Variant spelling of Karuppasamy, a popular Tamil folk guardian deity",
+    "components": [
+      {
+        "part": "karuppu (black, Tamil) + sāmi (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Karuppu Sami - Wikipedia (https://en.wikipedia.org/wiki/Karuppu_Sami)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Karush",
@@ -455664,27 +455784,31 @@
   },
   {
     "name": "Karvira",
-    "iast": "karvira",
-    "devanagari": "",
+    "iast": "karavīra",
+    "devanagari": "करवीर",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Oleander' flower; also the ancient name of the city now known as Kolhapur",
+    "components": [
+      {
+        "part": "karavīra (oleander)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "karavira - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/karavira)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -455942,64 +456066,60 @@
   },
   {
     "name": "Kashayap",
-    "iast": "kashayap",
-    "devanagari": "",
+    "iast": "kaśyapa",
+    "devanagari": "कश्यप",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Variant spelling of Kashyap, one of the Saptarishi (seven great sages) in Hindu tradition",
+    "components": [
+      {
+        "part": "kaśyapa (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kashyapa - Wikipedia (https://en.wikipedia.org/wiki/Kashyapa)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kashi",
-    "iast": "kashi",
-    "devanagari": "",
+    "iast": "kāśī",
+    "devanagari": "काशी",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Traditional name of Varanasi, one of the holiest cities in Hinduism; also means 'the shining one'",
+    "components": [
+      {
+        "part": "kāśī (place name/shining)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Varanasi - Wikipedia (https://en.wikipedia.org/wiki/Varanasi)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Kashif",
@@ -456078,39 +456198,31 @@
   },
   {
     "name": "Kashika",
-    "iast": "kashika",
-    "devanagari": "",
+    "iast": "kāśikā",
+    "devanagari": "काशिका",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Related to Kashi (Varanasi); also the title of the Kashika-vritti, a celebrated classical commentary on Panini's Sanskrit grammar",
+    "components": [
+      {
+        "part": "kāśikā (relating to Kashi)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kashika-vritti - Wikipedia (https://en.wikipedia.org/wiki/Kashika-vritti)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -456144,81 +456256,85 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of Kashi', an epithet of Shiva as worshipped at the Kashi Vishwanath Temple in Varanasi",
+    "components": [
+      {
+        "part": "kāśī (Varanasi) + nāthaṉ (lord, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kashi Vishwanath Temple - Wikipedia (https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kashipati",
-    "iast": "kashipati",
-    "devanagari": "",
+    "iast": "kāśīpati",
+    "devanagari": "काशीपति",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Lord of Kashi', an epithet of Shiva",
+    "components": [
+      {
+        "part": "kāśī (Varanasi) + pati (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kashi Vishwanath Temple - Wikipedia (https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kashiprasad",
-    "iast": "kashiprasad",
-    "devanagari": "",
+    "iast": "kāśīprasāda",
+    "devanagari": "काशीप्रसाद",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Gift/grace of Kashi'; devotional compound",
+    "components": [
+      {
+        "part": "kāśī (Varanasi) + prasāda (gift/grace)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Varanasi - Wikipedia (https://en.wikipedia.org/wiki/Varanasi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -456564,89 +456680,89 @@
   },
   {
     "name": "Kashyapa",
-    "iast": "kashyapa",
-    "devanagari": "",
+    "iast": "kaśyapa",
+    "devanagari": "कश्यप",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of one of the Saptarishi (seven great sages) in Hindu tradition, said to be the father of many beings including devas, asuras, nagas, and animals",
+    "components": [
+      {
+        "part": "kaśyapa (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kashyapa - Wikipedia (https://en.wikipedia.org/wiki/Kashyapa)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kashyapi",
-    "iast": "kashyapi",
-    "devanagari": "",
+    "iast": "kāśyapī",
+    "devanagari": "काश्यपी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Patronymic 'daughter of Kashyapa'; also used as an epithet of the earth goddess Bhoomi in Puranic tradition",
+    "components": [
+      {
+        "part": "kaśyapa (sage's name) + -ī (patronymic)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kashyapa - Wikipedia (https://en.wikipedia.org/wiki/Kashyapa)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Kasi",
-    "iast": "kasi",
-    "devanagari": "",
+    "iast": "kāśī",
+    "devanagari": "काशी",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "South Indian/Tamil phonetic form of Kashi, Varanasi, one of the holiest cities in Hinduism",
+    "components": [
+      {
+        "part": "kāśī (place name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Varanasi - Wikipedia (https://en.wikipedia.org/wiki/Varanasi)",
+        "license": "CC BY-SA 4.0"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Kasim",
@@ -456750,27 +456866,31 @@
   },
   {
     "name": "Kasinath",
-    "iast": "kasinath",
-    "devanagari": "",
+    "iast": "kāśīnātha",
+    "devanagari": "काशीनाथ",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Lord of Kashi', an epithet of Shiva as worshipped at the Kashi Vishwanath Temple in Varanasi",
+    "components": [
+      {
+        "part": "kāśī (Varanasi) + nātha (lord)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kashi Vishwanath Temple - Wikipedia (https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -456779,52 +456899,56 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Tamil form of Kasinath, 'Lord of Kashi', an epithet of Shiva",
+    "components": [
+      {
+        "part": "kāśī (Varanasi) + nāthaṉ (lord, Tamil)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Kashi Vishwanath Temple - Wikipedia (https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kasiraj",
-    "iast": "kasiraj",
-    "devanagari": "",
+    "iast": "kāśīrāja",
+    "devanagari": "काशीराज",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'King of Kashi', a title referencing the King of Kashi, who appears in the Mahabharata",
+    "components": [
+      {
+        "part": "kāśī (Varanasi) + rāja (king)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Varanasi - Wikipedia (https://en.wikipedia.org/wiki/Varanasi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -457166,27 +457290,31 @@
   },
   {
     "name": "Kasthuri",
-    "iast": "kasthuri",
-    "devanagari": "",
+    "iast": "kastūrī",
+    "devanagari": "कस्तूरी",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Musk'; real Sanskrit/Tamil word used as a popular given name, also the name of Indian actress Kasthuri",
+    "components": [
+      {
+        "part": "kastūrī (musk)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kasturi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kasturi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -457195,77 +457323,85 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'Kasturi (musk) + Rangan (epithet of Vishnu)'; also the name of noted Indian space scientist K. Kasturirangan",
+    "components": [
+      {
+        "part": "kastūrī (musk) + raṅga (Vishnu's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "K. Kasturirangan - Wikipedia (https://en.wikipedia.org/wiki/K._Kasturirangan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kastur",
-    "iast": "kastur",
-    "devanagari": "",
+    "iast": "kastūrī",
+    "devanagari": "कस्तूरी",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Short form of Kasturi, 'musk'; also the first name of Kasturba Gandhi, wife of Mahatma Gandhi",
+    "components": [
+      {
+        "part": "kastūrī (musk)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kasturba Gandhi - Wikipedia (https://en.wikipedia.org/wiki/Kasturba_Gandhi)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kasturika",
-    "iast": "kasturika",
-    "devanagari": "",
+    "iast": "kastūrikā",
+    "devanagari": "कस्तूरिका",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Diminutive of Kasturi, 'musk'",
+    "components": [
+      {
+        "part": "kastūrī (musk) + -ikā (diminutive)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "kasturi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kasturi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -457274,23 +457410,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'Kasturi (musk) + Ranga (epithet of Vishnu)'",
+    "components": [
+      {
+        "part": "kastūrī (musk) + raṅga (Vishnu's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "K. Kasturirangan - Wikipedia (https://en.wikipedia.org/wiki/K._Kasturirangan)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -457345,27 +457485,31 @@
   },
   {
     "name": "Kasyapa",
-    "iast": "kasyapa",
-    "devanagari": "",
+    "iast": "kaśyapa",
+    "devanagari": "कश्यप",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kashyapa, one of the Saptarishi (seven great sages) in Hindu tradition",
+    "components": [
+      {
+        "part": "kaśyapa (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kashyapa - Wikipedia (https://en.wikipedia.org/wiki/Kashyapa)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -457445,27 +457589,31 @@
   },
   {
     "name": "Kataka",
-    "iast": "kataka",
-    "devanagari": "",
+    "iast": "kaṭaka",
+    "devanagari": "कटक",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Bracelet, armlet'; also the name of an ancient fortified city; real Sanskrit word",
+    "components": [
+      {
+        "part": "kaṭaka (bracelet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kataka - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kataka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -457495,27 +457643,31 @@
   },
   {
     "name": "Kataksha",
-    "iast": "kataksha",
-    "devanagari": "",
+    "iast": "kaṭākṣa",
+    "devanagari": "कटाक्ष",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'A sidelong/loving glance'; a real Sanskrit poetic term often used in epithets describing a goddess's compassionate glance",
+    "components": [
+      {
+        "part": "kaṭākṣa (sidelong glance)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kataksha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kataksha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -457770,27 +457922,31 @@
   },
   {
     "name": "Katha",
-    "iast": "katha",
-    "devanagari": "",
+    "iast": "kathā",
+    "devanagari": "कथा",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Story, narrative, tale'; real and common Sanskrit/Hindi word used as a given name",
+    "components": [
+      {
+        "part": "kathā (story)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "katha - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/katha)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
