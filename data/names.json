@@ -476018,27 +476018,31 @@
   },
   {
     "name": "Kram",
-    "iast": "kram",
-    "devanagari": "",
+    "iast": "krama",
+    "devanagari": "क्रम",
     "letter": "K",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "'Order, sequence, succession'; real Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "krama (order/sequence)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "krama - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/krama)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -476097,105 +476101,117 @@
   },
   {
     "name": "Kranth",
-    "iast": "kranth",
-    "devanagari": "",
+    "iast": "krānti",
+    "devanagari": "क्रान्ति",
     "letter": "K",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Variant of Kranti, 'revolution, radical change'",
+    "components": [
+      {
+        "part": "krānti (revolution)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kranti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kranti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kranti",
-    "iast": "kranti",
-    "devanagari": "",
+    "iast": "krānti",
+    "devanagari": "क्रान्ति",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Revolution, radical change'; a significant and widely used modern Hindi/Sanskrit given name",
+    "components": [
+      {
+        "part": "krānti (revolution)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kranti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kranti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Kratav",
-    "iast": "kratav",
-    "devanagari": "",
+    "iast": "kratu",
+    "devanagari": "क्रतु",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant of Kratu, one of the Saptarishi (seven great sages), a mind-born son of Brahma",
+    "components": [
+      {
+        "part": "kratu (sage's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kratu - Wikipedia (https://en.wikipedia.org/wiki/Kratu)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Krati",
-    "iast": "krati",
-    "devanagari": "",
+    "iast": "kṛti",
+    "devanagari": "कृति",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Likely phonetic variant of 'kriti', meaning 'creation, work, composition'",
+    "components": [
+      {
+        "part": "kṛti (creation/work)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kriti - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kriti)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -476251,26 +476267,30 @@
   {
     "name": "Kratubhuj",
     "iast": "kratubhuj",
-    "devanagari": "",
+    "devanagari": "क्रतुभुज्",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Enjoyer of sacrifices', an epithet of Indra",
+    "components": [
+      {
+        "part": "kratu (sacrifice) + bhuj (enjoyer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kratubhuj - wisdomlib.org (https://www.wisdomlib.org/definition/kratubhuj)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -476404,27 +476424,31 @@
   },
   {
     "name": "Kreetika",
-    "iast": "kreetika",
-    "devanagari": "",
+    "iast": "kṛttikā",
+    "devanagari": "कृत्तिका",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant spelling of Kritika/Krittika, the nakshatra associated with the god Kartikeya's birth",
+    "components": [
+      {
+        "part": "kṛttikā (nakshatra name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Kartikeya - Wikipedia (https://en.wikipedia.org/wiki/Kartikeya)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -476511,27 +476535,31 @@
   },
   {
     "name": "Kridha",
-    "iast": "kridha",
-    "devanagari": "",
+    "iast": "krīḍā",
+    "devanagari": "क्रीडा",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Play, sport, pastime'; real Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "krīḍā (play/sport)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "krida - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/krida)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -476636,77 +476664,89 @@
   },
   {
     "name": "Krip",
-    "iast": "krip",
-    "devanagari": "",
+    "iast": "kṛpa",
+    "devanagari": "कृप",
     "letter": "K",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "Short form of Kripa, 'grace, mercy, compassion'; also the name of the sage-teacher Kripacharya in the Mahabharata",
+    "components": [
+      {
+        "part": "kṛpa (grace/mercy)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kripa (Mahabharata) - Wikipedia (https://en.wikipedia.org/wiki/Kripa_(Mahabharata))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kripacharya",
-    "iast": "kripacharya",
-    "devanagari": "",
+    "iast": "kṛpācārya",
+    "devanagari": "कृपाचार्य",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of Kripacharya, the royal preceptor (guru) of both the Kaurava and Pandava princes in the Mahabharata",
+    "components": [
+      {
+        "part": "kṛpa (sage's name) + ācārya (teacher)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kripa (Mahabharata) - Wikipedia (https://en.wikipedia.org/wiki/Kripa_(Mahabharata))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kripakar",
-    "iast": "kripakar",
-    "devanagari": "",
+    "iast": "kṛpākara",
+    "devanagari": "कृपाकर",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Doer/source of grace and mercy'; real Sanskrit-style compound",
+    "components": [
+      {
+        "part": "kṛpā (grace/mercy) + kara (doer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kripa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kripa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -476736,56 +476776,60 @@
   },
   {
     "name": "Kripalu",
-    "iast": "kripalu",
-    "devanagari": "",
+    "iast": "kṛpālu",
+    "devanagari": "कृपालु",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Merciful, compassionate'; real and popular Sanskrit word used as a given name",
+    "components": [
+      {
+        "part": "kṛpālu (merciful)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "kripalu - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kripalu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kripamaya",
-    "iast": "kripamaya",
-    "devanagari": "",
+    "iast": "kṛpāmaya",
+    "devanagari": "कृपामय",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Full of grace/mercy'",
+    "components": [
+      {
+        "part": "kṛpā (grace/mercy) + maya (full of)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "kripa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kripa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -476815,118 +476859,118 @@
   },
   {
     "name": "Kripanidhi",
-    "iast": "kripanidhi",
-    "devanagari": "",
+    "iast": "kṛpānidhi",
+    "devanagari": "कृपानिधि",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Treasure of grace/mercy'",
+    "components": [
+      {
+        "part": "kṛpā (grace/mercy) + nidhi (treasure)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kripa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kripa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kripasagar",
-    "iast": "kripasagar",
-    "devanagari": "",
+    "iast": "kṛpāsāgara",
+    "devanagari": "कृपासागर",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Ocean of grace/mercy'",
+    "components": [
+      {
+        "part": "kṛpā (grace/mercy) + sāgara (ocean)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "kripa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kripa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kripashankar",
-    "iast": "kripashankar",
-    "devanagari": "",
+    "iast": "kṛpāśaṃkara",
+    "devanagari": "कृपाशंकर",
     "letter": "K",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "'Merciful Shankar (Shiva)'",
+    "components": [
+      {
+        "part": "kṛpā (grace/mercy) + śaṃkara (Shiva's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "kripa - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/kripa)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Kripi",
-    "iast": "kripi",
-    "devanagari": "",
+    "iast": "kṛpī",
+    "devanagari": "कृपी",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of Kripi, sister of Kripacharya and wife of the teacher Drona in the Mahabharata",
+    "components": [
+      {
+        "part": "kṛpī (queen/wife's proper name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Kripa (Mahabharata) - Wikipedia (https://en.wikipedia.org/wiki/Kripa_(Mahabharata))",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -476981,172 +477025,176 @@
   },
   {
     "name": "Krisanu",
-    "iast": "krisanu",
-    "devanagari": "",
+    "iast": "kṛśānu",
+    "devanagari": "कृशानु",
     "letter": "K",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Variant of Krishanu, a Vedic epithet of Agni, the fire-god",
+    "components": [
+      {
+        "part": "kṛśānu (fire/Agni's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "krishanu - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/krishanu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Krisha",
-    "iast": "krisha",
-    "devanagari": "",
+    "iast": "kṛṣā",
+    "devanagari": "कृषा",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Feminine phonetic variant related to 'Krishna'",
+    "components": [
+      {
+        "part": "kṛṣṇa (Krishna's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Krishna - Wikipedia (https://en.wikipedia.org/wiki/Krishna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
     "name": "Krishaan",
-    "iast": "krishaan",
-    "devanagari": "",
+    "iast": "kṛṣṇa",
+    "devanagari": "कृष्ण",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Modern popular phonetic variant of 'Krishna'",
+    "components": [
+      {
+        "part": "kṛṣṇa (Krishna's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Krishna - Wikipedia (https://en.wikipedia.org/wiki/Krishna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Krishak",
-    "iast": "krishak",
-    "devanagari": "",
+    "iast": "kṛṣaka",
+    "devanagari": "कृषक",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Sanskrit/Hindi word meaning 'farmer, cultivator'; real word, also phonetically close to 'Krishna'",
+    "components": [
+      {
+        "part": "kṛṣaka (farmer)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "krishaka - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/krishaka)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Krishan",
-    "iast": "krishan",
-    "devanagari": "",
+    "iast": "kṛṣṇa",
+    "devanagari": "कृष्ण",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Common Punjabi/Hindi phonetic spelling of 'Krishna'",
+    "components": [
+      {
+        "part": "kṛṣṇa (Krishna's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Krishna - Wikipedia (https://en.wikipedia.org/wiki/Krishna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Krishang",
-    "iast": "krishang",
-    "devanagari": "",
+    "iast": "krishnanga",
+    "devanagari": "कृष्णांग",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "'Dark-limbed', a poetic epithet related to Krishna's dark complexion",
+    "components": [
+      {
+        "part": "kṛṣṇa (dark) + aṅga (limb)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Krishna - Wikipedia (https://en.wikipedia.org/wiki/Krishna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -477275,35 +477323,31 @@
   },
   {
     "name": "Krishanu",
-    "iast": "krishanu",
-    "devanagari": "",
+    "iast": "kṣśānu",
+    "devanagari": "कृशानु",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 2,
+    "meaning_en": "A Vedic epithet of Agni, the fire-god",
+    "components": [
+      {
+        "part": "kṛśānu (fire/Agni's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "krishanu - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/krishanu)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -477366,27 +477410,27 @@
     "devanagari": "",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Modern popular phonetic variant related to 'Krishna'",
+    "components": [
+      {
+        "part": "kṛṣṇa (Krishna's epithet)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Krishna - Wikipedia (https://en.wikipedia.org/wiki/Krishna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -477469,24 +477513,28 @@
     "iast": "krishdeep",
     "devanagari": "",
     "letter": "K",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Compound 'Krishna + deep (lamp)', 'lamp of Krishna'",
+    "components": [
+      {
+        "part": "kṛṣṇa (deity's name) + dīpa (lamp)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Krishna - Wikipedia (https://en.wikipedia.org/wiki/Krishna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -477545,26 +477593,30 @@
   {
     "name": "Krishi",
     "iast": "krishi",
-    "devanagari": "",
+    "devanagari": "कृषि",
     "letter": "K",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Agriculture, cultivation, farming'; real Sanskrit word used as a popular modern given name",
+    "components": [
+      {
+        "part": "krishi (agriculture)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "krishi - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/krishi)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -477798,51 +477850,59 @@
   {
     "name": "Krishna Chaitanya",
     "iast": "krishna chaitanya",
-    "devanagari": "",
+    "devanagari": "कृष्ण चैतन्य",
     "letter": "K",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Full devotional name associated with Chaitanya Mahaprabhu (Sri Krishna Chaitanya), the 16th-century founder of Gaudiya Vaishnavism",
+    "components": [
+      {
+        "part": "kṛṣṇa (deity's name) + caitanya (consciousness/saint's name)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Chaitanya Mahaprabhu - Wikipedia (https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Krishnachand",
-    "iast": "krishnachand",
-    "devanagari": "",
+    "iast": "krishnachandra",
+    "devanagari": "कृष्णचन्द्र",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Compound 'Krishna + chand (moon)'",
+    "components": [
+      {
+        "part": "kṛṣṇa (deity's name) + candra (moon)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Krishna - Wikipedia (https://en.wikipedia.org/wiki/Krishna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -477873,92 +477933,88 @@
   {
     "name": "Krishnachandra",
     "iast": "krishnachandra",
-    "devanagari": "",
+    "devanagari": "कृष्णचन्द्र",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Compound 'Krishna + chandra (moon)'",
+    "components": [
+      {
+        "part": "kṛṣṇa (deity's name) + candra (moon)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Krishna - Wikipedia (https://en.wikipedia.org/wiki/Krishna)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Krishnadas",
-    "iast": "krishnadas",
-    "devanagari": "",
+    "iast": "krishnadasa",
+    "devanagari": "कृष्णदास",
     "letter": "K",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "'Servant/devotee of Krishna'; a classic devotional name, also borne by the celebrated 16th-century hagiographer Krishnadas Kaviraj",
+    "components": [
+      {
+        "part": "kṛṣṇa (deity's name) + dāsa (servant)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Krishnadasa Kaviraja - Wikipedia (https://en.wikipedia.org/wiki/Krishnadasa_Kaviraja)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Krishnadasa",
     "iast": "krishnadasa",
-    "devanagari": "",
+    "devanagari": "कृष्णदास",
     "letter": "K",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "'Servant/devotee of Krishna'; also borne by the celebrated 16th-century hagiographer Krishnadas Kaviraj",
+    "components": [
+      {
+        "part": "kṛṣṇa (deity's name) + dāsa (servant)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
+        "title": "Krishnadasa Kaviraja - Wikipedia (https://en.wikipedia.org/wiki/Krishnadasa_Kaviraja)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
