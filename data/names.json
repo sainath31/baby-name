@@ -333324,35 +333324,29 @@
   },
   {
     "name": "Gaganvihari",
-    "iast": "gaganvihari",
-    "devanagari": "",
+    "iast": "gaganavihari",
+    "devanagari": "गगनविहारी",
     "letter": "G",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 6,
+    "meaning_en": "Sky-wanderer; one who moves or roams through the sky",
+    "components": [
+      { "part": "gagana (sky)", "gloss": "" },
+      { "part": "vihari (wanderer, one who roams)", "gloss": "" }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "gaganavihari - compound of gagana (sky) and vihari (via wisdomlib.org, Kannada/Nepali dictionary senses of vihari) (https://www.wisdomlib.org/definition/gaganavihari)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -335347,31 +335341,7 @@
     "review_status": "pending",
     "gender": "girl"
   },
-  {
-    "name": "Ganamurthi",
-    "iast": "ganamurthi",
-    "devanagari": "",
-    "letter": "G",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "girl"
-  },
+  
   {
     "name": "Gananayak",
     "iast": "gaṇanāyaka",
