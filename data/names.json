@@ -576092,11 +576092,11 @@
   },
   {
     "name": "Nishchay",
-    "iast": "nishchay",
-    "devanagari": "",
+    "iast": "niścaya",
+    "devanagari": "निश्चय",
     "letter": "N",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Certainty, determination",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -576104,15 +576104,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -576888,11 +576887,11 @@
   },
   {
     "name": "Nishkama",
-    "iast": "nishkama",
-    "devanagari": "",
+    "iast": "niṣkāma",
+    "devanagari": "निष्काम",
     "letter": "N",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Desireless; acting without desire for personal reward",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -576900,31 +576899,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Nishkarsh",
-    "iast": "nishkarsh",
-    "devanagari": "",
+    "iast": "niṣkarṣa",
+    "devanagari": "निष्कर्ष",
     "letter": "N",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Conclusion, essence",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -576932,23 +576923,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -577597,11 +577579,11 @@
   },
   {
     "name": "Nisrga",
-    "iast": "nisrga",
-    "devanagari": "",
+    "iast": "nisarga",
+    "devanagari": "निसर्ग",
     "letter": "N",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Nature",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -577609,74 +577591,19 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Nissar",
     "iast": "nissar",
-    "devanagari": "",
-    "letter": "N",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Nissim",
-    "iast": "nissim",
-    "devanagari": "",
-    "letter": "N",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Nissin",
-    "iast": "nissin",
     "devanagari": "",
     "letter": "N",
     "syllable_count": 2,
@@ -577916,11 +577843,11 @@
   },
   {
     "name": "Nitai",
-    "iast": "nitai",
-    "devanagari": "",
+    "iast": "nitāi",
+    "devanagari": "निताइ",
     "letter": "N",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Bengali name for Nityānanda, companion of Caitanya Mahāprabhu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -577928,15 +577855,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
