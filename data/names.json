@@ -235800,26 +235800,30 @@
   {
     "name": "Bhuji",
     "iast": "bhuji",
-    "devanagari": "",
+    "devanagari": "भुजि",
     "letter": "B",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of Agni, the Vedic god of fire",
+    "components": [
+      {
+        "part": "bhuji",
+        "gloss": "epithet of Agni"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -316358,27 +316362,35 @@
   },
   {
     "name": "Durasada",
-    "iast": "durasada",
-    "devanagari": "",
+    "iast": "durāsada",
+    "devanagari": "दुरासद",
     "letter": "D",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Hard to approach; an epithet of Śiva",
+    "components": [
+      {
+        "part": "dur",
+        "gloss": "hard, difficult"
+      },
+      {
+        "part": "āsada",
+        "gloss": "to be approached"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -553050,39 +553062,32 @@
   },
   {
     "name": "Nabhya",
-    "iast": "nabhya",
-    "devanagari": "",
+    "iast": "nābhya",
+    "devanagari": "नाभ्य",
     "letter": "N",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Of the navel/center; an epithet of Śiva",
+    "components": [
+      {
+        "part": "nābhya",
+        "gloss": "relating to the navel/hub"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Nabil",
