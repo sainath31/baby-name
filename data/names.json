@@ -237222,27 +237222,35 @@
   },
   {
     "name": "Bhutesa",
-    "iast": "bhutesa",
-    "devanagari": "",
+    "iast": "bhūteśa",
+    "devanagari": "भूतेश",
     "letter": "B",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Lord of beings; an epithet of Śiva",
+    "components": [
+      {
+        "part": "bhūta",
+        "gloss": "being, creature"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -262153,27 +262161,32 @@
   },
   {
     "name": "Charoo",
-    "iast": "charoo",
-    "devanagari": "",
+    "iast": "cāru",
+    "devanagari": "चारु",
     "letter": "C",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Pleasing, beautiful; name of a son of Kṛṣṇa and Rukmiṇī",
+    "components": [
+      {
+        "part": "cāru",
+        "gloss": "beautiful, pleasing"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Charou",
@@ -279084,31 +279097,32 @@
   },
   {
     "name": "Darsaniya",
-    "iast": "darsaniya",
-    "devanagari": "",
+    "iast": "darśanīya",
+    "devanagari": "दर्शनीय",
     "letter": "D",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Worth seeing, beautiful to behold",
+    "components": [
+      {
+        "part": "darśanīya",
+        "gloss": "worth seeing, beautiful"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Darsata",
@@ -280113,52 +280127,68 @@
   },
   {
     "name": "Dasadyu",
-    "iast": "dasadyu",
-    "devanagari": "",
+    "iast": "daśadyu",
+    "devanagari": "दशद्यु",
     "letter": "D",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a man favoured by Indra (Rigveda)",
+    "components": [
+      {
+        "part": "daśa",
+        "gloss": "ten"
+      },
+      {
+        "part": "dyu",
+        "gloss": "sky, light"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Dasajyoti",
-    "iast": "dasajyoti",
-    "devanagari": "",
+    "iast": "daśajyoti",
+    "devanagari": "दशज्योति",
     "letter": "D",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Ten-rayed; name of a son of Subhrāj",
+    "components": [
+      {
+        "part": "daśa",
+        "gloss": "ten"
+      },
+      {
+        "part": "jyoti",
+        "gloss": "light, ray"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -280346,27 +280376,31 @@
   },
   {
     "name": "Dasarha",
-    "iast": "dasarha",
-    "devanagari": "",
+    "iast": "daśārha",
+    "devanagari": "दशार्ह",
     "letter": "D",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a Yadu prince, ancestor of the Daśārha clan",
+    "components": [
+      {
+        "part": "daśārha",
+        "gloss": "worthy of ten"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -298352,27 +298386,31 @@
   },
   {
     "name": "Dharmee",
-    "iast": "dharmee",
-    "devanagari": "",
+    "iast": "dharmī",
+    "devanagari": "धर्मी",
     "letter": "D",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Righteous, virtuous; name of a son of Bharadvāja",
+    "components": [
+      {
+        "part": "dharmī",
+        "gloss": "righteous one"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -305983,27 +306021,35 @@
   },
   {
     "name": "Diksapala",
-    "iast": "diksapala",
-    "devanagari": "",
+    "iast": "dīkṣāpāla",
+    "devanagari": "दीक्षापाल",
     "letter": "D",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Guardian of initiation",
+    "components": [
+      {
+        "part": "dīkṣā",
+        "gloss": "initiation"
+      },
+      {
+        "part": "pāla",
+        "gloss": "guardian"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -306266,27 +306312,31 @@
   },
   {
     "name": "Diksita",
-    "iast": "diksita",
-    "devanagari": "",
+    "iast": "dīkṣita",
+    "devanagari": "दीक्षित",
     "letter": "D",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Initiated, consecrated",
+    "components": [
+      {
+        "part": "dīkṣita",
+        "gloss": "initiated, consecrated"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -336044,27 +336094,35 @@
   },
   {
     "name": "Gandhesa",
-    "iast": "gandhesa",
-    "devanagari": "",
+    "iast": "gandheśa",
+    "devanagari": "गन्धेश",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Lord of fragrances",
+    "components": [
+      {
+        "part": "gandha",
+        "gloss": "fragrance"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -412770,27 +412828,31 @@
   },
   {
     "name": "Jayisnu",
-    "iast": "jayisnu",
-    "devanagari": "",
+    "iast": "jayiṣṇu",
+    "devanagari": "जयिष्णु",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Victorious, triumphant",
+    "components": [
+      {
+        "part": "jayiṣṇu",
+        "gloss": "victorious"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -421198,27 +421260,31 @@
   },
   {
     "name": "Jisnu",
-    "iast": "jisnu",
-    "devanagari": "",
+    "iast": "jiṣṇu",
+    "devanagari": "जिष्णु",
     "letter": "J",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Victorious; an epithet of the sun and of Indra",
+    "components": [
+      {
+        "part": "jiṣṇu",
+        "gloss": "victorious"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -610678,35 +610744,35 @@
   },
   {
     "name": "Poornachandra",
-    "iast": "poornachandra",
-    "devanagari": "",
+    "iast": "pūrṇacandra",
+    "devanagari": "पूर्णचन्द्र",
     "letter": "P",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "The full moon",
+    "components": [
+      {
+        "part": "pūrṇa",
+        "gloss": "full"
+      },
+      {
+        "part": "candra",
+        "gloss": "moon"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -610996,27 +611062,35 @@
   },
   {
     "name": "Poornendu",
-    "iast": "poornendu",
-    "devanagari": "",
+    "iast": "pūrṇendu",
+    "devanagari": "पूर्णेन्दु",
     "letter": "P",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "The full moon",
+    "components": [
+      {
+        "part": "pūrṇa",
+        "gloss": "full"
+      },
+      {
+        "part": "indu",
+        "gloss": "moon"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -611439,27 +611513,31 @@
   },
   {
     "name": "Pooshan",
-    "iast": "pooshan",
-    "devanagari": "",
+    "iast": "pūṣan",
+    "devanagari": "पूषन्",
     "letter": "P",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a Vedic solar deity, nourisher and protector of travellers",
+    "components": [
+      {
+        "part": "pūṣan",
+        "gloss": "nourisher"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -657550,31 +657628,31 @@
   },
   {
     "name": "Ravee",
-    "iast": "ravee",
-    "devanagari": "",
+    "iast": "ravī",
+    "devanagari": "रवी",
     "letter": "R",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Relating to the sun; name of a commentator",
+    "components": [
+      {
+        "part": "ravi",
+        "gloss": "sun"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -657637,35 +657715,35 @@
   },
   {
     "name": "Raveendra",
-    "iast": "raveendra",
-    "devanagari": "",
+    "iast": "ravīndra",
+    "devanagari": "रवीन्द्र",
     "letter": "R",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Lord among suns; name of an author",
+    "components": [
+      {
+        "part": "ravi",
+        "gloss": "sun"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord, chief"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -657877,35 +657955,35 @@
   },
   {
     "name": "Ravikeerti",
-    "iast": "ravikeerti",
-    "devanagari": "",
+    "iast": "ravikīrti",
+    "devanagari": "रविकीर्ति",
     "letter": "R",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Fame of the sun; name of a 7th-century poet",
+    "components": [
+      {
+        "part": "ravi",
+        "gloss": "sun"
+      },
+      {
+        "part": "kīrti",
+        "gloss": "fame"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -659070,35 +659148,31 @@
   },
   {
     "name": "Rebanta",
-    "iast": "rebanta",
-    "devanagari": "",
+    "iast": "revanta",
+    "devanagari": "रेवन्त",
     "letter": "R",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a son of Sūrya, chief of the Guhyakas and a horseman deity",
+    "components": [
+      {
+        "part": "revanta",
+        "gloss": "wealthy, splendid"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -669019,35 +669093,35 @@
   },
   {
     "name": "Rohitasva",
-    "iast": "rohitasva",
-    "devanagari": "",
+    "iast": "rohitāśva",
+    "devanagari": "रोहिताश्व",
     "letter": "R",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Having red horses; name of a son of king Hariśchandra",
+    "components": [
+      {
+        "part": "rohita",
+        "gloss": "red"
+      },
+      {
+        "part": "aśva",
+        "gloss": "horse"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -682179,35 +682253,31 @@
   },
   {
     "name": "Sadru",
-    "iast": "sadru",
-    "devanagari": "",
+    "iast": "ṣaḍru",
+    "devanagari": "षड्रु",
     "letter": "S",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of Viṣṇu",
+    "components": [
+      {
+        "part": "ṣaḍru",
+        "gloss": "epithet of Viṣṇu"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -686922,31 +686992,31 @@
   },
   {
     "name": "Sakha",
-    "iast": "sakha",
-    "devanagari": "",
+    "iast": "śākhā",
+    "devanagari": "शाखा",
     "letter": "S",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a manifestation of Skanda, or of his son",
+    "components": [
+      {
+        "part": "śākhā",
+        "gloss": "branch"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -689498,31 +689568,32 @@
   },
   {
     "name": "Samatha",
-    "iast": "samatha",
-    "devanagari": "",
+    "iast": "śamatha",
+    "devanagari": "शमथ",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a Brahman; tranquillity",
+    "components": [
+      {
+        "part": "śamatha",
+        "gloss": "calm, tranquillity"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Samavart",
@@ -690636,27 +690707,31 @@
   },
   {
     "name": "Sami",
-    "iast": "sami",
-    "devanagari": "",
+    "iast": "śāmi",
+    "devanagari": "शामि",
     "letter": "S",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a son of Andhaka",
+    "components": [
+      {
+        "part": "śāmi",
+        "gloss": "personal name"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -698124,27 +698199,35 @@
   },
   {
     "name": "Sanmukha",
-    "iast": "sanmukha",
-    "devanagari": "",
+    "iast": "ṣaṇmukha",
+    "devanagari": "षण्मुख",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Six-faced; an epithet of Skanda/Kārttikeya",
+    "components": [
+      {
+        "part": "ṣaṣ",
+        "gloss": "six"
+      },
+      {
+        "part": "mukha",
+        "gloss": "face"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -698936,27 +699019,31 @@
   },
   {
     "name": "Santanu",
-    "iast": "santanu",
-    "devanagari": "",
+    "iast": "śantanu",
+    "devanagari": "शन्तनु",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a Kuru king, father of Bhīṣma",
+    "components": [
+      {
+        "part": "śantanu",
+        "gloss": "bringer of peace"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -699468,27 +699555,31 @@
   },
   {
     "name": "Santi",
-    "iast": "santi",
-    "devanagari": "",
+    "iast": "śānti",
+    "devanagari": "शान्ति",
     "letter": "S",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Peace, tranquillity; name of a son of Indra",
+    "components": [
+      {
+        "part": "śānti",
+        "gloss": "peace"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -702480,27 +702571,31 @@
   },
   {
     "name": "Sarba",
-    "iast": "sarba",
-    "devanagari": "",
+    "iast": "sarva",
+    "devanagari": "सर्व",
     "letter": "S",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "All, whole; name of an author",
+    "components": [
+      {
+        "part": "sarva",
+        "gloss": "all"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -702530,35 +702625,35 @@
   },
   {
     "name": "Sarbajit",
-    "iast": "sarbajit",
-    "devanagari": "",
+    "iast": "sarvajit",
+    "devanagari": "सर्वजित्",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "All-conquering",
+    "components": [
+      {
+        "part": "sarva",
+        "gloss": "all"
+      },
+      {
+        "part": "jit",
+        "gloss": "conquering"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -703440,27 +703535,31 @@
   },
   {
     "name": "Sarman",
-    "iast": "sarman",
-    "devanagari": "",
+    "iast": "śarman",
+    "devanagari": "शर्मन्",
     "letter": "S",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Happy, joyful; a common name suffix for Brahmins",
+    "components": [
+      {
+        "part": "śarman",
+        "gloss": "happiness, joy"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -707175,35 +707274,35 @@
   },
   {
     "name": "Satamanyu",
-    "iast": "satamanyu",
-    "devanagari": "",
+    "iast": "śatamanyu",
+    "devanagari": "शतमन्यु",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Having a hundredfold wrath; an epithet of Indra",
+    "components": [
+      {
+        "part": "śata",
+        "gloss": "hundred"
+      },
+      {
+        "part": "manyu",
+        "gloss": "wrath, spirit"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -708894,27 +708993,35 @@
   },
   {
     "name": "Satrujit",
-    "iast": "satrujit",
-    "devanagari": "",
+    "iast": "śatrujit",
+    "devanagari": "शत्रुजित्",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Conqueror of enemies; an epithet of Śiva",
+    "components": [
+      {
+        "part": "śatru",
+        "gloss": "enemy"
+      },
+      {
+        "part": "jit",
+        "gloss": "conqueror"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -750375,27 +750482,35 @@
   },
   {
     "name": "Sivananda",
-    "iast": "sivananda",
-    "devanagari": "",
+    "iast": "śivānanda",
+    "devanagari": "शिवानन्द",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Śiva's bliss",
+    "components": [
+      {
+        "part": "śiva",
+        "gloss": "auspicious; Śiva"
+      },
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -756834,35 +756949,31 @@
   },
   {
     "name": "Soorya",
-    "iast": "soorya",
-    "devanagari": "",
+    "iast": "sūrya",
+    "devanagari": "सूर्य",
     "letter": "S",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "The sun; the Vedic sun-god",
+    "components": [
+      {
+        "part": "sūrya",
+        "gloss": "sun"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -770397,35 +770508,36 @@
   },
   {
     "name": "Sudeepta",
-    "iast": "sudeepta",
-    "devanagari": "",
+    "iast": "sudīpta",
+    "devanagari": "सुदीप्त",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Shining brightly",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "well, very"
+      },
+      {
+        "part": "dīpta",
+        "gloss": "blazing, shining"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Sudeepth",
@@ -802026,35 +802138,32 @@
   },
   {
     "name": "Tarusa",
-    "iast": "tarusa",
-    "devanagari": "",
+    "iast": "taruṣa",
+    "devanagari": "तरुष",
     "letter": "T",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "A conqueror",
+    "components": [
+      {
+        "part": "taruṣa",
+        "gloss": "conqueror"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Tarush",
@@ -803880,27 +803989,31 @@
   },
   {
     "name": "Tejash",
-    "iast": "tejash",
-    "devanagari": "",
+    "iast": "tejas",
+    "devanagari": "तेजस्",
     "letter": "T",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Brilliance, splendor, vigor",
+    "components": [
+      {
+        "part": "tejas",
+        "gloss": "brilliance, splendor"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -882513,27 +882626,36 @@
   },
   {
     "name": "Yadavaprakasa",
-    "iast": "yadavaprakasa",
-    "devanagari": "",
+    "iast": "yādavaprakāśa",
+    "devanagari": "यादवप्रकाश",
     "letter": "Y",
     "syllable_count": 6,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Light of the Yādavas; name of an ascetic and author",
+    "components": [
+      {
+        "part": "yādava",
+        "gloss": "of the Yādava clan"
+      },
+      {
+        "part": "prakāśa",
+        "gloss": "light, splendor"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "mw, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Yadavesvara",
