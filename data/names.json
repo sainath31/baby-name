@@ -686011,31 +686011,6 @@
     "gender": "boy"
   },
   {
-    "name": "Sakyasinha",
-    "iast": "sakyasinha",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Sala",
     "iast": "śāla",
     "devanagari": "शाल",
@@ -686182,11 +686157,11 @@
   },
   {
     "name": "Salil",
-    "iast": "salil",
-    "devanagari": "",
+    "iast": "salila",
+    "devanagari": "सलिल",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Water",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -686194,15 +686169,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -686290,31 +686264,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Salman",
-    "iast": "salman",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Salmee",
@@ -686608,11 +686557,11 @@
   },
   {
     "name": "Samadarshi",
-    "iast": "samadarshi",
-    "devanagari": "",
+    "iast": "samadarśī",
+    "devanagari": "समदर्शी",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "One who sees impartially; even-minded",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -686620,24 +686569,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Samadhan",
-    "iast": "samadhan",
-    "devanagari": "",
+    "iast": "samādhāna",
+    "devanagari": "समाधान",
     "letter": "S",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Resolution, solution",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -686645,15 +686593,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -687031,11 +686978,11 @@
   },
   {
     "name": "Samant",
-    "iast": "samant",
-    "devanagari": "",
+    "iast": "sāmanta",
+    "devanagari": "सामन्त",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Neighbouring lord; a vassal chief",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -687043,15 +686990,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -687445,10 +687391,10 @@
   {
     "name": "Samarendra",
     "iast": "samarendra",
-    "devanagari": "",
+    "devanagari": "समरेन्द्र",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Lord of battle",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -687456,23 +687402,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -687617,11 +687554,11 @@
   },
   {
     "name": "Samarpit",
-    "iast": "samarpit",
-    "devanagari": "",
+    "iast": "samarpita",
+    "devanagari": "समर्पित",
     "letter": "S",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Dedicated, offered",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -687629,24 +687566,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Samartha",
     "iast": "samartha",
-    "devanagari": "",
+    "devanagari": "समर्थ",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Capable, competent",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -687654,15 +687590,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
