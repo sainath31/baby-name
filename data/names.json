@@ -255552,31 +255552,31 @@
   },
   {
     "name": "Chanak",
-    "iast": "chanak",
-    "devanagari": "",
+    "iast": "caṇaka",
+    "devanagari": "चणक",
     "letter": "C",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "Name of a sage, also known as Cāṇakya",
+    "components": [
+      {
+        "part": "caṇaka",
+        "gloss": "personal name"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -575075,35 +575075,35 @@
   },
   {
     "name": "Niramay",
-    "iast": "niramay",
-    "devanagari": "",
+    "iast": "nirāmaya",
+    "devanagari": "निरामय",
     "letter": "N",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Free from illness, healthy",
+    "components": [
+      {
+        "part": "nir",
+        "gloss": "without"
+      },
+      {
+        "part": "āmaya",
+        "gloss": "disease"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -702017,35 +702017,31 @@
   },
   {
     "name": "Sarasvat",
-    "iast": "sarasvat",
-    "devanagari": "",
+    "iast": "sārasvata",
+    "devanagari": "सारस्वत",
     "letter": "S",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Name of a sage, son of Dadhīci and Sarasvatī, learned in the power of yoga",
+    "components": [
+      {
+        "part": "sārasvata",
+        "gloss": "relating to Sarasvatī"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -710596,31 +710592,35 @@
   },
   {
     "name": "Satyavrat",
-    "iast": "satyavrat",
-    "devanagari": "",
+    "iast": "satyavrata",
+    "devanagari": "सत्यव्रत",
     "letter": "S",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Devoted to truth; name of a renowned ancient king",
+    "components": [
+      {
+        "part": "satya",
+        "gloss": "truth"
+      },
+      {
+        "part": "vrata",
+        "gloss": "vow"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -887521,35 +887521,35 @@
   },
   {
     "name": "Yashodhan",
-    "iast": "yashodhan",
-    "devanagari": "",
+    "iast": "yaśodhana",
+    "devanagari": "यशोधन",
     "letter": "Y",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Having fame as wealth; renowned",
+    "components": [
+      {
+        "part": "yaśas",
+        "gloss": "fame"
+      },
+      {
+        "part": "dhana",
+        "gloss": "wealth"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -891593,31 +891593,35 @@
   },
   {
     "name": "Yogaraj",
-    "iast": "yogaraj",
-    "devanagari": "",
+    "iast": "yogarāja",
+    "devanagari": "योगराज",
     "letter": "Y",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Lord of yoga",
+    "components": [
+      {
+        "part": "yoga",
+        "gloss": "union, yoga"
+      },
+      {
+        "part": "rāja",
+        "gloss": "lord, king"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -895722,35 +895726,35 @@
   },
   {
     "name": "Yuvaraj",
-    "iast": "yuvaraj",
-    "devanagari": "",
+    "iast": "yuvarāja",
+    "devanagari": "युवराज",
     "letter": "Y",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Young king, crown prince",
+    "components": [
+      {
+        "part": "yuva",
+        "gloss": "young"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
