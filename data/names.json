@@ -340278,31 +340278,6 @@
     "gender": "girl"
   },
   {
-    "name": "Gavin",
-    "iast": "gavin",
-    "devanagari": "",
-    "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Gavisht",
     "iast": "gavisht",
     "devanagari": "",
@@ -343179,11 +343154,11 @@
   },
   {
     "name": "Gianjeet",
-    "iast": "gianjeet",
-    "devanagari": "",
+    "iast": "jñānajit",
+    "devanagari": "ज्ञानजित्",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Conqueror through knowledge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -343191,23 +343166,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Gianprakash",
-    "iast": "gianprakash",
-    "devanagari": "",
+    "iast": "jñānaprakāśa",
+    "devanagari": "ज्ञानप्रकाश",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "Light of knowledge",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -343215,15 +343190,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -343245,31 +343219,6 @@
     "sources": [
       {
         "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Gibran",
-    "iast": "gibran",
-    "devanagari": "",
-    "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
         "license": "internal research note"
       }
     ],
@@ -344031,11 +343980,11 @@
   },
   {
     "name": "Girilal",
-    "iast": "girilal",
-    "devanagari": "",
+    "iast": "girilāla",
+    "devanagari": "गिरिलाल",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Mountain's dear one",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -344043,23 +343992,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
