@@ -562843,27 +562843,35 @@
   },
   {
     "name": "Navaraj",
-    "iast": "navaraj",
-    "devanagari": "",
+    "iast": "navarāja",
+    "devanagari": "नवराज",
     "letter": "N",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "New king",
+    "components": [
+      {
+        "part": "nava",
+        "gloss": "new"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -800198,31 +800206,32 @@
   },
   {
     "name": "Taranga",
-    "iast": "taranga",
-    "devanagari": "",
+    "iast": "taraṅga",
+    "devanagari": "तरङ्ग",
     "letter": "T",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Wave, ripple",
+    "components": [
+      {
+        "part": "taraṅga",
+        "gloss": "wave"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Tarangi",
@@ -818578,26 +818587,30 @@
   {
     "name": "Tulaji",
     "iast": "tulaji",
-    "devanagari": "",
+    "devanagari": "तुलजि",
     "letter": "T",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a king of Tanjore and reputed author (1765-1788 CE)",
+    "components": [
+      {
+        "part": "tulaji",
+        "gloss": "personal name"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -886345,39 +886358,31 @@
   },
   {
     "name": "Yashas",
-    "iast": "yashas",
-    "devanagari": "",
+    "iast": "yaśas",
+    "devanagari": "यशस्",
     "letter": "Y",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Fame, glory",
+    "components": [
+      {
+        "part": "yaśas",
+        "gloss": "fame, glory"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
