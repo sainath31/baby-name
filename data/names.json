@@ -679086,10 +679086,10 @@
   {
     "name": "Sadgati",
     "iast": "sadgati",
-    "devanagari": "",
+    "devanagari": "सद्गति",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "A good path; salvation",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -679097,19 +679097,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Sadgun",
@@ -679846,35 +679842,6 @@
     "gender": "girl"
   },
   {
-    "name": "Saeed",
-    "iast": "saeed",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Saesha",
     "iast": "saesha",
     "devanagari": "",
@@ -679905,11 +679872,11 @@
   },
   {
     "name": "Safal",
-    "iast": "safal",
-    "devanagari": "",
+    "iast": "saphala",
+    "devanagari": "सफल",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Successful, fruitful",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -679917,23 +679884,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -679962,63 +679920,6 @@
     "gender": "boy"
   },
   {
-    "name": "Saffar",
-    "iast": "saffar",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Safia",
-    "iast": "safia",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending"
-  },
-  {
     "name": "Safiya",
     "iast": "safiya",
     "devanagari": "",
@@ -680042,30 +679943,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Safiyah",
-    "iast": "safiyah",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending"
   },
   {
     "name": "Sagan",
@@ -680289,11 +680166,11 @@
   },
   {
     "name": "Sagun",
-    "iast": "sagun",
-    "devanagari": "",
+    "iast": "saguṇa",
+    "devanagari": "सगुण",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Possessing attributes/qualities",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -680301,23 +680178,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Saguna",
@@ -680556,11 +680425,11 @@
   },
   {
     "name": "Saharsh",
-    "iast": "saharsh",
-    "devanagari": "",
+    "iast": "saharṣa",
+    "devanagari": "सहर्ष",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "With joy",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -680568,27 +680437,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -681167,11 +681023,11 @@
   },
   {
     "name": "Sahdev",
-    "iast": "sahdev",
-    "devanagari": "",
+    "iast": "sahadeva",
+    "devanagari": "सहदेव",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Name of the youngest Pāṇḍava brother",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -681179,23 +681035,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -681394,31 +681241,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Sahid",
-    "iast": "sahid",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Sahika",
