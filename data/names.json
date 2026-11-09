@@ -333440,27 +333440,31 @@
   },
   {
     "name": "Gahan",
-    "iast": "gahan",
-    "devanagari": "",
+    "iast": "gahana",
+    "devanagari": "गहन",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Deep, profound, dense; a real Sanskrit/Hindi word used as a modern given name",
+    "components": [
+      {
+        "part": "gahana (deep, dense)",
+        "gloss": ""
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "gahana - Monier-Williams Sanskrit-English Dictionary (via wisdomlib.org) (https://www.wisdomlib.org/definition/gahana)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -333608,31 +333612,7 @@
     ],
     "gender": "boy"
   },
-  {
-    "name": "Gajadanta",
-    "iast": "gajadanta",
-    "devanagari": "",
-    "letter": "G",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "girl"
-  },
+  
   {
     "name": "Gajadhar",
     "iast": "gajādhara",
@@ -334168,31 +334148,7 @@
     ],
     "gender": "boy"
   },
-  {
-    "name": "Gajasura",
-    "iast": "gajasura",
-    "devanagari": "",
-    "letter": "G",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
+  
   {
     "name": "Gajasya",
     "iast": "gajasya",
@@ -336109,35 +336065,7 @@
     ],
     "gender": "girl"
   },
-  {
-    "name": "Gandharaj",
-    "iast": "gandharaj",
-    "devanagari": "",
-    "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
+  
   {
     "name": "Gandharika",
     "iast": "gandharika",
@@ -336167,31 +336095,7 @@
     "review_status": "pending",
     "gender": "girl"
   },
-  {
-    "name": "Gandharin",
-    "iast": "gandharin",
-    "devanagari": "",
-    "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
+  
   {
     "name": "Gandharv",
     "iast": "gandharva",
