@@ -254031,11 +254031,11 @@
   },
   {
     "name": "Chakraborty",
-    "iast": "chakraborty",
-    "devanagari": "",
+    "iast": "cakravartī",
+    "devanagari": "चक्रवर्ती",
     "letter": "C",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "A surname derived from cakravartin (universal sovereign), common among Bengali Brahmins",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -254043,15 +254043,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -254118,11 +254117,11 @@
   },
   {
     "name": "Chakradhwaj",
-    "iast": "chakradhwaj",
-    "devanagari": "",
+    "iast": "cakradhvaja",
+    "devanagari": "चक्रध्वज",
     "letter": "C",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "One whose banner is the wheel; an epithet of Viṣṇu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -254130,19 +254129,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -254200,11 +254194,11 @@
   },
   {
     "name": "Chakrapaani",
-    "iast": "chakrapaani",
-    "devanagari": "",
+    "iast": "cakrapāṇi",
+    "devanagari": "चक्रपाणि",
     "letter": "C",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Holder of the discus; an epithet of Viṣṇu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -254212,23 +254206,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
