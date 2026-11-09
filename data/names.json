@@ -394899,11 +394899,11 @@
   },
   {
     "name": "Jagapathi",
-    "iast": "jagapathi",
-    "devanagari": "",
+    "iast": "jagatpati",
+    "devanagari": "जगत्पति",
     "letter": "J",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Lord of the world",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -394911,15 +394911,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -395561,35 +395560,6 @@
       },
       {
         "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Jagger",
-    "iast": "jagger",
-    "devanagari": "",
-    "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
         "license": "internal research note"
       }
     ],
@@ -396435,31 +396405,6 @@
     "gender": "girl"
   },
   {
-    "name": "Jahangeer",
-    "iast": "jahangeer",
-    "devanagari": "",
-    "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Jahanna",
     "iast": "jahanna",
     "devanagari": "",
@@ -396921,31 +396866,6 @@
     "gender": "boy"
   },
   {
-    "name": "Jaiden",
-    "iast": "jaiden",
-    "devanagari": "",
-    "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Jaidev",
     "iast": "jayadeva",
     "devanagari": "जयदेव",
@@ -397276,31 +397196,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Jailen",
-    "iast": "jailen",
-    "devanagari": "",
-    "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Jailesh",
