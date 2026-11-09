@@ -889312,11 +889312,11 @@
   },
   {
     "name": "Yugadhyaksh",
-    "iast": "yugadhyaksh",
-    "devanagari": "",
+    "iast": "yugādhyakṣa",
+    "devanagari": "युगाध्यक्ष",
     "letter": "Y",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Overseer of the age/era",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -889324,15 +889324,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -889562,11 +889561,11 @@
   },
   {
     "name": "Yugansh",
-    "iast": "yugansh",
-    "devanagari": "",
+    "iast": "yugāṃśa",
+    "devanagari": "युगांश",
     "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Portion of the age",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -889574,15 +889573,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -889616,11 +889614,11 @@
   },
   {
     "name": "Yugantar",
-    "iast": "yugantar",
-    "devanagari": "",
+    "iast": "yugāntara",
+    "devanagari": "युगान्तर",
     "letter": "Y",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Change of age, a new era",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -889628,19 +889626,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -890540,56 +890533,6 @@
     "gender": "boy"
   },
   {
-    "name": "Yusra",
-    "iast": "yusra",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Yusri",
-    "iast": "yusri",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Yusu",
     "iast": "yusu",
     "devanagari": "",
@@ -890608,31 +890551,6 @@
     "sources": [
       {
         "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Yusuf",
-    "iast": "yusuf",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
         "license": "internal research note"
       }
     ],
@@ -890943,35 +890861,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Yuval",
-    "iast": "yuval",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Yuvana",
@@ -891423,11 +891312,11 @@
   },
   {
     "name": "Yuvasamrat",
-    "iast": "yuvasamrat",
-    "devanagari": "",
+    "iast": "yuvasamrāṭ",
+    "devanagari": "युवसम्राट्",
     "letter": "Y",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Young emperor",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -891435,15 +891324,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Yuvashree",
