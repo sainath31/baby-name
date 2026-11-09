@@ -767534,11 +767534,11 @@
   },
   {
     "name": "Subhagya",
-    "iast": "subhagya",
-    "devanagari": "",
+    "iast": "subhāgya",
+    "devanagari": "सुभाग्य",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Very fortunate",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -767546,23 +767546,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L248046, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Subhajit",
@@ -767811,11 +767803,11 @@
   },
   {
     "name": "Subhas",
-    "iast": "subhas",
-    "devanagari": "",
+    "iast": "subhās",
+    "devanagari": "सुभास्",
     "letter": "S",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Shining beautifully; also the name of the independence leader Subhas Chandra Bose",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -767823,23 +767815,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L248068, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -771196,30 +771179,35 @@
   {
     "name": "Sudharma",
     "iast": "sudharma",
-    "devanagari": "",
+    "devanagari": "सुधर्म",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Good law, righteousness",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "dharma",
+        "gloss": "law, righteousness"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L246816, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Sudharmini",
@@ -779492,10 +779480,10 @@
   {
     "name": "Sundara",
     "iast": "sundara",
-    "devanagari": "",
+    "devanagari": "सुन्दर",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Beautiful, handsome",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -779503,19 +779491,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams, A Sanskrit-English Dictionary (1872), entry L52421, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -781213,11 +781196,11 @@
   },
   {
     "name": "Supratika",
-    "iast": "supratika",
-    "devanagari": "",
+    "iast": "supratīka",
+    "devanagari": "सुप्रतीक",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Of good appearance; an epithet of Shiva",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -781225,15 +781208,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L247689, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -781760,26 +781742,34 @@
   {
     "name": "Suputra",
     "iast": "suputra",
-    "devanagari": "",
+    "devanagari": "सुपुत्र",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "An excellent son",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "putra",
+        "gloss": "son"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L247555, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -783697,11 +783687,11 @@
   },
   {
     "name": "Suri",
-    "iast": "suri",
-    "devanagari": "",
+    "iast": "sūri",
+    "devanagari": "सूरि",
     "letter": "S",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "A learned man, a sage",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -783709,15 +783699,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L251450, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -794190,11 +794179,11 @@
   },
   {
     "name": "Taksha",
-    "iast": "taksha",
-    "devanagari": "",
+    "iast": "takṣa",
+    "devanagari": "तक्ष",
     "letter": "T",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Name of a son of Bharata who founded Takshashila (Taxila) in Gandhara",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -794202,23 +794191,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Purāṇa Index (PUI), entry L5265, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -803769,10 +803749,10 @@
   {
     "name": "Teja",
     "iast": "teja",
-    "devanagari": "",
+    "devanagari": "तेज",
     "letter": "T",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Radiance, splendour, inner fire",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -803780,27 +803760,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L86822, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Tejai",
@@ -812564,10 +812532,10 @@
   {
     "name": "Tilaka",
     "iast": "tilaka",
-    "devanagari": "",
+    "devanagari": "तिलक",
     "letter": "T",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "An auspicious forehead mark; an ornament or distinguishing mark",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -812575,23 +812543,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams, A Sanskrit-English Dictionary (1872), entry L20971, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Tilakarathna",
@@ -887577,31 +887537,35 @@
   },
   {
     "name": "Yashovardhana",
-    "iast": "yashovardhana",
-    "devanagari": "",
+    "iast": "yaśovardhana",
+    "devanagari": "यशोवर्धन",
     "letter": "Y",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Increaser of fame",
+    "components": [
+      {
+        "part": "yaśo",
+        "gloss": "fame"
+      },
+      {
+        "part": "vardhana",
+        "gloss": "increasing"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L170952, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
