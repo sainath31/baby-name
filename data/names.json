@@ -228383,10 +228383,10 @@
   {
     "name": "Bhadranidhi",
     "iast": "bhadranidhi",
-    "devanagari": "",
+    "devanagari": "भद्रनिधि",
     "letter": "B",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Treasure of auspiciousness",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -228394,15 +228394,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound/word of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -697497,10 +697496,10 @@
   {
     "name": "Sannidhi",
     "iast": "sannidhi",
-    "devanagari": "",
+    "devanagari": "सन्निधि",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Presence, proximity (as in a temple sanctum)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -697508,23 +697507,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound/word of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Sannigdh",
