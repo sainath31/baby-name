@@ -295014,11 +295014,11 @@
   },
   {
     "name": "Dhananjaya",
-    "iast": "dhananjaya",
-    "devanagari": "",
+    "iast": "dhanañjaya",
+    "devanagari": "धनञ्जय",
     "letter": "D",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Winner of wealth; one of Arjuna's ten names",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -295026,15 +295026,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Mahābhārata epithet (Vana Parva/Virāṭa Parva, Arjuna lists his ten names)",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
