@@ -801286,10 +801286,10 @@
   {
     "name": "Tejobhadra",
     "iast": "tejobhadra",
-    "devanagari": "",
+    "devanagari": "तेजोभद्र",
     "letter": "T",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Auspicious radiance",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -801297,15 +801297,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -801385,11 +801384,11 @@
   },
   {
     "name": "Tejovikas",
-    "iast": "tejovikas",
-    "devanagari": "",
+    "iast": "tejovikāsa",
+    "devanagari": "तेजोविकास",
     "letter": "T",
-    "syllable_count": 4,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "Blossoming of radiance",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -801397,19 +801396,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -801563,31 +801557,6 @@
     "sources": [
       {
         "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Temidayo",
-    "iast": "temidayo",
-    "devanagari": "",
-    "letter": "T",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from prokerala",
         "license": "internal research note"
       }
     ],
@@ -801827,31 +801796,6 @@
     "gender": "boy"
   },
   {
-    "name": "Tertius",
-    "iast": "tertius",
-    "devanagari": "",
-    "letter": "T",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Tesash",
     "iast": "tesash",
     "devanagari": "",
@@ -802036,31 +801980,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Thaddeus",
-    "iast": "thaddeus",
-    "devanagari": "",
-    "letter": "T",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Thahiya",
