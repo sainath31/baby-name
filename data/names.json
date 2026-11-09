@@ -129472,35 +129472,31 @@
   },
   {
     "name": "Aakarshan",
-    "iast": "aakarshan",
-    "devanagari": "",
+    "iast": "ākarṣaṇa",
+    "devanagari": "आकर्षण",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "attraction, drawing toward",
+    "components": [
+      {
+        "part": "ā-kṣip/kṣi",
+        "gloss": "draw toward (root kṣip/kṣi? uncertain)"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. ākarṣaṇa",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -137108,35 +137104,35 @@
   },
   {
     "name": "Aatmadeva",
-    "iast": "aatmadeva",
-    "devanagari": "",
+    "iast": "ātmadeva",
+    "devanagari": "आत्मदेव",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "the soul as god; divine self",
+    "components": [
+      {
+        "part": "ātma",
+        "gloss": "self, soul"
+      },
+      {
+        "part": "deva",
+        "gloss": "god"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. ātma, deva",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -140229,35 +140225,35 @@
   },
   {
     "name": "Abhayankara",
-    "iast": "abhayankara",
-    "devanagari": "",
+    "iast": "abhayaṃkara",
+    "devanagari": "अभयंकर",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "one who gives fearlessness/protection",
+    "components": [
+      {
+        "part": "abhaya",
+        "gloss": "fearlessness"
+      },
+      {
+        "part": "kara",
+        "gloss": "maker, giver"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. abhaya, kara",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -147028,35 +147024,35 @@
   },
   {
     "name": "Abhivaadan",
-    "iast": "abhivaadan",
-    "devanagari": "",
+    "iast": "abhivādana",
+    "devanagari": "अभिवादन",
     "letter": "A",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 5,
+    "meaning_en": "respectful greeting, salutation",
+    "components": [
+      {
+        "part": "abhi",
+        "gloss": "towards"
+      },
+      {
+        "part": "vādana",
+        "gloss": "speaking, saluting"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. abhivādana",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -152611,35 +152607,35 @@
   },
   {
     "name": "Adheesha",
-    "iast": "adheesha",
-    "devanagari": "",
+    "iast": "adhīśa",
+    "devanagari": "अधीश",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "supreme lord, overlord",
+    "components": [
+      {
+        "part": "adhi",
+        "gloss": "over, supreme"
+      },
+      {
+        "part": "īśa",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. adhīśa",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -152720,34 +152716,34 @@
   {
     "name": "Adhideva",
     "iast": "adhideva",
-    "devanagari": "",
+    "devanagari": "अधिदेव",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "presiding/supreme deity",
+    "components": [
+      {
+        "part": "adhi",
+        "gloss": "over, chief"
+      },
+      {
+        "part": "deva",
+        "gloss": "god"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. adhideva",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -159784,38 +159780,34 @@
   {
     "name": "Agnimitra",
     "iast": "agnimitra",
-    "devanagari": "",
+    "devanagari": "अग्निमित्र",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "friend of Agni; name of a Shunga king",
+    "components": [
+      {
+        "part": "agni",
+        "gloss": "fire"
+      },
+      {
+        "part": "mitra",
+        "gloss": "friend"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. agnimitra",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Agniprava",
@@ -170874,34 +170866,34 @@
   {
     "name": "Amalendu",
     "iast": "amalendu",
-    "devanagari": "",
+    "devanagari": "अमलेन्दु",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "spotless moon",
+    "components": [
+      {
+        "part": "amala",
+        "gloss": "pure, stainless"
+      },
+      {
+        "part": "indu",
+        "gloss": "moon"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. amala, indu",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -172781,35 +172773,35 @@
   },
   {
     "name": "Ambikapathi",
-    "iast": "ambikapathi",
-    "devanagari": "",
+    "iast": "ambikāpati",
+    "devanagari": "अम्बिकापति",
     "letter": "A",
     "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "lord/consort of Goddess Ambika (epithet of Shiva)",
+    "components": [
+      {
+        "part": "ambikā",
+        "gloss": "mother goddess"
+      },
+      {
+        "part": "pati",
+        "gloss": "lord, husband"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. ambikā",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -175118,35 +175110,35 @@
   },
   {
     "name": "Amodini",
-    "iast": "amodini",
-    "devanagari": "",
+    "iast": "āmodinī",
+    "devanagari": "आमोदिनी",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "delightful, joyful, fragrant",
+    "components": [
+      {
+        "part": "āmoda",
+        "gloss": "joy, delight, fragrance"
+      },
+      {
+        "part": "-inī",
+        "gloss": "feminine agent suffix"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. āmoda",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -179585,68 +179577,68 @@
   },
   {
     "name": "Anantajeet",
-    "iast": "anantajeet",
-    "devanagari": "",
+    "iast": "anantajit",
+    "devanagari": "अनन्तजित्",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "infinitely victorious",
+    "components": [
+      {
+        "part": "ananta",
+        "gloss": "endless, infinite"
+      },
+      {
+        "part": "jit",
+        "gloss": "victorious, conqueror"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. ananta, jit",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Anantajit",
     "iast": "anantajit",
-    "devanagari": "",
+    "devanagari": "अनन्तजित्",
     "letter": "A",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "infinitely victorious",
+    "components": [
+      {
+        "part": "ananta",
+        "gloss": "endless, infinite"
+      },
+      {
+        "part": "jit",
+        "gloss": "victorious"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. ananta, jit",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -183312,36 +183304,28 @@
     "iast": "anilaabh",
     "devanagari": "",
     "letter": "A",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "spirit of the wind (from anila, 'air/wind')",
+    "components": [
+      {
+        "part": "anila",
+        "gloss": "wind, air"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "MomJunction baby names, 'Anilaabh' (https://www.momjunction.com/baby-names/anilaabh/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -196400,34 +196384,34 @@
   {
     "name": "Ardhendu",
     "iast": "ardhendu",
-    "devanagari": "",
+    "devanagari": "अर्धेन्दु",
     "letter": "A",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "half-moon (crescent moon, associated with Shiva)",
+    "components": [
+      {
+        "part": "ardha",
+        "gloss": "half"
+      },
+      {
+        "part": "indu",
+        "gloss": "moon"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. ardhendu",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -210063,35 +210047,35 @@
   },
   {
     "name": "Ateet",
-    "iast": "ateet",
-    "devanagari": "",
+    "iast": "atīta",
+    "devanagari": "अतीत",
     "letter": "A",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 3,
+    "meaning_en": "past, transcended, gone beyond",
+    "components": [
+      {
+        "part": "ati",
+        "gloss": "beyond"
+      },
+      {
+        "part": "ita",
+        "gloss": "gone"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, s.v. atīta",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -218675,11 +218659,11 @@
   },
   {
     "name": "Bageshri",
-    "iast": "bageshri",
-    "devanagari": "",
+    "iast": "bāgeśrī",
+    "devanagari": "बागेश्री",
     "letter": "B",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "name of a classical Hindustani raga, linked to Goddess Saraswati",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -218687,31 +218671,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Wisdomlib, 'Bageshri, Bāgēśrī' (https://www.wisdomlib.org/definition/bageshri)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Baghyalakshmi",
@@ -223651,35 +223618,31 @@
     "devanagari": "",
     "letter": "B",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "crescent/curved moon",
+    "components": [
+      {
+        "part": "bankim",
+        "gloss": "bent, curved"
+      },
+      {
+        "part": "chandra",
+        "gloss": "moon"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "MomJunction, 'Bankim' (https://www.momjunction.com/baby-names/Bankim/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -228839,39 +228802,35 @@
   },
   {
     "name": "Bhagavaan",
-    "iast": "bhagavaan",
-    "devanagari": "",
+    "iast": "bhagavān",
+    "devanagari": "भगवान्",
     "letter": "B",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "the Divine, Lord, possessor of glory/fortune",
+    "components": [
+      {
+        "part": "bhaga",
+        "gloss": "fortune, glory"
+      },
+      {
+        "part": "-vān",
+        "gloss": "possessing"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary (compound of attested roots)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -319642,35 +319601,35 @@
   },
   {
     "name": "Dwijaraj",
-    "iast": "dwijaraj",
+    "iast": "dvijarāja",
     "devanagari": "",
     "letter": "D",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "king among the twice-born; also an epithet of the moon",
+    "components": [
+      {
+        "part": "dvija",
+        "gloss": "twice-born (one initiated via sacred thread)"
+      },
+      {
+        "part": "rāja",
+        "gloss": "king"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "MomJunction/FirstCry, 'Dwijraj' (https://parenting.firstcry.com/baby-names/meaning-of-dwijraj/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -319700,35 +319659,35 @@
   },
   {
     "name": "Dwijendra",
-    "iast": "dwijendra",
+    "iast": "dvijendra",
     "devanagari": "",
     "letter": "D",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "lord of the twice-born (brahmins); also an epithet of the moon",
+    "components": [
+      {
+        "part": "dvija",
+        "gloss": "twice-born"
+      },
+      {
+        "part": "indra",
+        "gloss": "lord"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "FirstCry, 'Dwijendra' (https://parenting.firstcry.com/baby-names/meaning-of-dwijendra/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -327600,11 +327559,11 @@
   },
   {
     "name": "Enakshi",
-    "iast": "enakshi",
-    "devanagari": "",
+    "iast": "enākṣī",
+    "devanagari": "एनाक्षी",
     "letter": "E",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "doe-eyed (epithet-style, associated with Goddess Lakshmi)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -327612,23 +327571,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Boldsky, 'Sanskrit baby names starting with E' (https://www.boldsky.com/sanskrit-baby-names-starting-with-e/)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "girl"
   },
   {
@@ -333330,8 +333280,14 @@
     "syllable_count": 6,
     "meaning_en": "Sky-wanderer; one who moves or roams through the sky",
     "components": [
-      { "part": "gagana (sky)", "gloss": "" },
-      { "part": "vihari (wanderer, one who roams)", "gloss": "" }
+      {
+        "part": "gagana (sky)",
+        "gloss": ""
+      },
+      {
+        "part": "vihari (wanderer, one who roams)",
+        "gloss": ""
+      }
     ],
     "pairs_with": {
       "prefixes": [],
@@ -333606,7 +333562,6 @@
     ],
     "gender": "boy"
   },
-  
   {
     "name": "Gajadhar",
     "iast": "gajādhara",
@@ -334142,7 +334097,6 @@
     ],
     "gender": "boy"
   },
-  
   {
     "name": "Gajasya",
     "iast": "gajasya",
@@ -335341,7 +335295,6 @@
     "review_status": "pending",
     "gender": "girl"
   },
-  
   {
     "name": "Gananayak",
     "iast": "gaṇanāyaka",
@@ -336035,7 +335988,6 @@
     ],
     "gender": "girl"
   },
-  
   {
     "name": "Gandharika",
     "iast": "gandharika",
@@ -336065,7 +336017,6 @@
     "review_status": "pending",
     "gender": "girl"
   },
-  
   {
     "name": "Gandharv",
     "iast": "gandharva",
@@ -534831,39 +534782,36 @@
   },
   {
     "name": "Megh-naad",
-    "iast": "megh-naad",
-    "devanagari": "",
+    "iast": "meghanāda",
+    "devanagari": "मेघनाद",
     "letter": "M",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Roar of the clouds; birth-name of Ravana's son in the Ramayana, later known as Indrajit, and also a real given name independent of that story (e.g. the physicist Meghnad Saha)",
+    "components": [
+      {
+        "part": "megha",
+        "gloss": "cloud"
+      },
+      {
+        "part": "nāda",
+        "gloss": "sound, roar"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Wikipedia, 'Meghnad Badh Kavya'",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
-    "gender": "boy",
-    "alt_spellings": [
-      "Meghnaad"
-    ]
+    "gender": "boy"
   },
   {
     "name": "Meghnad",
@@ -581334,35 +581282,35 @@
   },
   {
     "name": "Nityanand",
-    "iast": "nityanand",
-    "devanagari": "",
+    "iast": "nityānanda",
+    "devanagari": "नित्यानन्द",
     "letter": "N",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Eternal bliss; spelling variant of Nityananda, the revered companion of Chaitanya Mahaprabhu in Gaudiya Vaishnavism",
+    "components": [
+      {
+        "part": "nitya",
+        "gloss": "eternal"
+      },
+      {
+        "part": "ānanda",
+        "gloss": "bliss"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "ISKCON Bangalore, 'Lord Nityananda'",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -721700,11 +721648,11 @@
   },
   {
     "name": "Shankarshan",
-    "iast": "shankarshan",
-    "devanagari": "",
+    "iast": "saṅkarṣaṇa",
+    "devanagari": "संकर्षण",
     "letter": "S",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Spelling variant of Sankarshan; a well-attested epithet of Balarama (Krishna's elder brother), referencing the transfer of his embryo between wombs",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -721712,23 +721660,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Srimad Bhagavatam 10.2.13, via prabhupadabooks.com",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -769126,104 +769065,100 @@
   },
   {
     "name": "Subramani",
-    "iast": "subramani",
-    "devanagari": "",
+    "iast": "subrahmaṇya",
+    "devanagari": "सुब्रह्मण्य",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "epithet of Kartikeya/Murugan (etymology debated: 'dear to Brahmins/devotees' or similar)",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "brahmaṇya",
+        "gloss": "relating to Brahman/Brahmins"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Wisdomlib, 'Subrahmanya, Su-brahmanya' (https://www.wisdomlib.org/definition/subrahma%E1%B9%87ya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Subramaniam",
-    "iast": "subramaniam",
-    "devanagari": "",
+    "iast": "subrahmaṇya",
+    "devanagari": "सुब्रह्मण्य",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "epithet of Kartikeya/Murugan",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "brahmaṇya",
+        "gloss": "relating to Brahman/Brahmins"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Wisdomlib, 'Subrahmanya, Su-brahmanya' (https://www.wisdomlib.org/definition/subrahma%E1%B9%87ya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
-    ],
-    "review_status": "pending"
+    ]
   },
   {
     "name": "Subramanian",
-    "iast": "subramanian",
-    "devanagari": "",
+    "iast": "subrahmaṇya",
+    "devanagari": "सुब्रह्मण्य",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "epithet of Kartikeya/Murugan",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "brahmaṇya",
+        "gloss": "relating to Brahman/Brahmins"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Wisdomlib, 'Subrahmanya, Su-brahmanya' (https://www.wisdomlib.org/definition/subrahma%E1%B9%87ya)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -771436,34 +771371,34 @@
   {
     "name": "Sudhanvan",
     "iast": "sudhanvan",
-    "devanagari": "",
+    "devanagari": "सुधन्वा",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "possessing a good bow; name of various Mahabharata/Ramayana figures",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "dhanus",
+        "gloss": "bow"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Wisdomlib, 'Sudhanvan, Su-dhanvan' (https://de.wisdomlib.org/definition/sudhanvan)",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -792728,11 +792663,11 @@
   },
   {
     "name": "Syamantak",
-    "iast": "syamantak",
-    "devanagari": "",
+    "iast": "śyāmantaka",
+    "devanagari": "श्यामन्तक",
     "letter": "S",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Name of the legendary jewel in the Krishna/Syamantaka Puranic story (Vishnu Purana, Bhagavata Purana); used as a given name the way Kaustubh (another Puranic jewel) is",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -792740,23 +792675,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "high",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Wikipedia, 'Syamantaka'",
+        "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -868140,38 +868066,6 @@
     "gender": "boy"
   },
   {
-    "name": "Virochana",
-    "iast": "virochana",
-    "devanagari": "",
-    "letter": "V",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending"
-  },
-  {
     "name": "Viroh",
     "iast": "viroh",
     "devanagari": "",
@@ -889105,39 +888999,6 @@
     ],
     "review_status": "pending",
     "gender": "boy"
-  },
-  {
-    "name": "Yasodhara",
-    "iast": "yasodhara",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "girl"
   },
   {
     "name": "Yasomati",
