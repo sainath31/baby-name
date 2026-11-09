@@ -778617,31 +778617,6 @@
     "gender": "boy"
   },
   {
-    "name": "Surahbil",
-    "iast": "surahbil",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Suraiya",
     "iast": "suraiya",
     "devanagari": "",
@@ -781179,11 +781154,11 @@
   },
   {
     "name": "Suryabhan",
-    "iast": "suryabhan",
-    "devanagari": "",
+    "iast": "sūryabhānu",
+    "devanagari": "सूर्यभानु",
     "letter": "S",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "The sun's radiance",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -781191,23 +781166,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -781563,11 +781529,11 @@
   },
   {
     "name": "Suryank",
-    "iast": "suryank",
-    "devanagari": "",
+    "iast": "sūryāṅka",
+    "devanagari": "सूर्याङ्क",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Marked by the sun",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -781575,15 +781541,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
