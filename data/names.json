@@ -237305,11 +237305,11 @@
   },
   {
     "name": "Bhutiraja",
-    "iast": "bhutiraja",
-    "devanagari": "",
+    "iast": "bhūtirāja",
+    "devanagari": "भूतिराज",
     "letter": "B",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "King of prosperity",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -237317,15 +237317,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -237459,11 +237458,11 @@
   },
   {
     "name": "Bhuvanesa",
-    "iast": "bhuvanesa",
-    "devanagari": "",
+    "iast": "bhuvaneśa",
+    "devanagari": "भुवनेश",
     "letter": "B",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Lord of the world",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -237471,15 +237470,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -282665,11 +282663,11 @@
   },
   {
     "name": "Dayanidhi",
-    "iast": "dayanidhi",
-    "devanagari": "",
+    "iast": "dayānidhi",
+    "devanagari": "दयानिधि",
     "letter": "D",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Treasure of compassion",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -282677,27 +282675,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -353696,11 +353681,11 @@
   },
   {
     "name": "Gunesa",
-    "iast": "gunesa",
-    "devanagari": "",
+    "iast": "guṇeśa",
+    "devanagari": "गुणेश",
     "letter": "G",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Lord of virtue",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -353708,15 +353693,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -355866,10 +355850,10 @@
   {
     "name": "Gurupriya",
     "iast": "gurupriya",
-    "devanagari": "",
+    "devanagari": "गुरुप्रिय",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Dear to the teacher",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -355877,15 +355861,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Gururaja",
@@ -401175,10 +401159,10 @@
   {
     "name": "Jalendra",
     "iast": "jalendra",
-    "devanagari": "",
+    "devanagari": "जलेन्द्र",
     "letter": "J",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Chief of the waters",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -401186,19 +401170,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -644876,11 +644855,11 @@
   },
   {
     "name": "Rajanikanta",
-    "iast": "rajanikanta",
-    "devanagari": "",
+    "iast": "rajanīkānta",
+    "devanagari": "रजनीकान्त",
     "letter": "R",
     "syllable_count": 5,
-    "meaning_en": null,
+    "meaning_en": "Beloved of the night; an epithet of the moon",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -644888,19 +644867,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -685210,11 +685184,11 @@
   },
   {
     "name": "Sailendra",
-    "iast": "sailendra",
-    "devanagari": "",
+    "iast": "śailendra",
+    "devanagari": "शैलेन्द्र",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Chief of the mountains; an epithet of the Himalaya",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -685222,15 +685196,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -687852,11 +687825,11 @@
   },
   {
     "name": "Saktidhara",
-    "iast": "saktidhara",
-    "devanagari": "",
+    "iast": "śaktidhara",
+    "devanagari": "शक्तिधर",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Bearer of power",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -687864,15 +687837,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -749652,11 +749624,11 @@
   },
   {
     "name": "Sitakanta",
-    "iast": "sitakanta",
-    "devanagari": "",
+    "iast": "sītākānta",
+    "devanagari": "सीताकान्त",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Beloved of Sītā; an epithet of Rāma",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -749664,23 +749636,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -771736,11 +771699,11 @@
   },
   {
     "name": "Sudhi",
-    "iast": "sudhi",
-    "devanagari": "",
+    "iast": "sudhī",
+    "devanagari": "सुधी",
     "letter": "S",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Wise, intelligent",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -771748,15 +771711,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Sudhiksha",
@@ -782586,10 +782549,10 @@
   {
     "name": "Suramya",
     "iast": "suramya",
-    "devanagari": "",
+    "devanagari": "सुरम्य",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Very lovely, charming",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -782597,15 +782560,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -782643,11 +782605,11 @@
   },
   {
     "name": "Suranandana",
-    "iast": "suranandana",
-    "devanagari": "",
+    "iast": "sūranandana",
+    "devanagari": "सूरनन्दन",
     "letter": "S",
     "syllable_count": 5,
-    "meaning_en": null,
+    "meaning_en": "Delight/son of the sun",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -782655,15 +782617,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -787277,10 +787238,10 @@
   {
     "name": "Sutejas",
     "iast": "sutejas",
-    "devanagari": "",
+    "devanagari": "सुतेजस्",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Of great brilliance, radiant",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -787288,19 +787249,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Rule-built compound from reviewed Sanskrit lexicon elements (data/lexicon), Cologne Digital Sanskrit Dictionaries basis",
+        "license": "CC BY-SA 4.0 / original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
