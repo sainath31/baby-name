@@ -230979,10 +230979,10 @@
   {
     "name": "Bharata",
     "iast": "bharata",
-    "devanagari": "",
+    "devanagari": "भरत",
     "letter": "B",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of the legendary emperor after whom India (Bharatavarsha) is named; also the name of Rama's younger brother in the Ramayana",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -230990,15 +230990,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams, A Sanskrit-English Dictionary (1872), entry L35146, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -231346,11 +231345,11 @@
   },
   {
     "name": "Bhargava",
-    "iast": "bhargava",
-    "devanagari": "",
+    "iast": "bhārgava",
+    "devanagari": "भार्गव",
     "letter": "B",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Descendant of the sage Bhrigu; a patronymic used for several figures of the Bhrigu lineage",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -231358,31 +231357,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Purāṇa Index (PUI), entry L9596, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -231890,11 +231872,11 @@
   },
   {
     "name": "Bhaskara",
-    "iast": "bhaskara",
-    "devanagari": "",
+    "iast": "bhāskara",
+    "devanagari": "भास्कर",
     "letter": "B",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Maker of light; an epithet of the sun, and the name of the mathematician-astronomer Bhaskaracharya",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -231902,19 +231884,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L150559, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -236553,27 +236530,35 @@
   },
   {
     "name": "Bhupala",
-    "iast": "bhupala",
-    "devanagari": "",
+    "iast": "bhūpāla",
+    "devanagari": "भूपाल",
     "letter": "B",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Guardian of the earth; a king",
+    "components": [
+      {
+        "part": "bhū",
+        "gloss": "earth"
+      },
+      {
+        "part": "pāla",
+        "gloss": "guardian, protector"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L151677, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -257701,32 +257686,7 @@
     "review_status": "pending",
     "gender": "boy"
   },
-  {
-    "name": "Chandrabhanu",
-    "iast": "chandrabhanu",
-    "devanagari": "",
-    "letter": "C",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
+    {
     "name": "Chandrabhushan",
     "iast": "chandrabhushan",
     "devanagari": "",
@@ -267562,31 +267522,36 @@
   },
   {
     "name": "Chintamani",
-    "iast": "chintamani",
-    "devanagari": "",
+    "iast": "cintāmaṇi",
+    "devanagari": "चिन्तामणि",
     "letter": "C",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Wish-fulfilling gem",
+    "components": [
+      {
+        "part": "cintā",
+        "gloss": "thought, wish"
+      },
+      {
+        "part": "maṇi",
+        "gloss": "gem"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L74126, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Chintana",
@@ -269468,36 +269433,7 @@
     "review_status": "pending",
     "gender": "girl"
   },
-  {
-    "name": "Chitragupta",
-    "iast": "chitragupta",
-    "devanagari": "",
-    "letter": "C",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
+    {
     "name": "Chitrah",
     "iast": "chitrah",
     "devanagari": "",
@@ -275197,11 +275133,11 @@
   },
   {
     "name": "Daksha",
-    "iast": "daksha",
-    "devanagari": "",
+    "iast": "dakṣa",
+    "devanagari": "दक्ष",
     "letter": "D",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Skilful, able; name of the ninth Manu and a Prajapati in Hindu cosmology",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -275209,39 +275145,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams, A Sanskrit-English Dictionary (1872), entry L21773, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Dakshaja",
@@ -280755,11 +280667,11 @@
   },
   {
     "name": "Dasharatha",
-    "iast": "dasharatha",
-    "devanagari": "",
+    "iast": "daśaratha",
+    "devanagari": "दशरथ",
     "letter": "D",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Name of Rama's father, the king of Ayodhya in the Ramayana",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -280767,15 +280679,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L90931.05, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -307112,26 +307023,34 @@
   {
     "name": "Dinakara",
     "iast": "dinakara",
-    "devanagari": "",
+    "devanagari": "दिनकर",
     "letter": "D",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Maker of the day; an epithet of the sun",
+    "components": [
+      {
+        "part": "dina",
+        "gloss": "day"
+      },
+      {
+        "part": "kara",
+        "gloss": "maker"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L92127, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -404605,7 +404524,7 @@
     "review_status": "pending",
     "gender": "boy"
   },
-    {
+  {
     "name": "Januj",
     "iast": "januj",
     "devanagari": "",
@@ -411780,27 +411699,35 @@
   },
   {
     "name": "Jayasimha",
-    "iast": "jayasimha",
-    "devanagari": "",
+    "iast": "jayasiṃha",
+    "devanagari": "जयसिंह",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "syllable_count": 4,
+    "meaning_en": "Lion of victory",
+    "components": [
+      {
+        "part": "jaya",
+        "gloss": "victory"
+      },
+      {
+        "part": "siṃha",
+        "gloss": "lion"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L77477, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -553145,36 +553072,7 @@
     "review_status": "pending",
     "gender": "boy"
   },
-  {
-    "name": "Nachiketas",
-    "iast": "nachiketas",
-    "devanagari": "",
-    "letter": "N",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
+    {
     "name": "Nachni",
     "iast": "nachni",
     "devanagari": "",
@@ -555082,11 +554980,11 @@
   },
   {
     "name": "Nahusha",
-    "iast": "nahusha",
-    "devanagari": "",
+    "iast": "nahuṣa",
+    "devanagari": "नहुष",
     "letter": "N",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of a legendary king, father of Yayati, an ancestor in the lunar dynasty",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -555094,19 +554992,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams, A Sanskrit-English Dictionary (1872), entry L24023, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -696423,11 +696316,11 @@
   },
   {
     "name": "Sanjaya",
-    "iast": "sanjaya",
-    "devanagari": "",
+    "iast": "sañjaya",
+    "devanagari": "सञ्जय",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Thoroughly victorious; name of King Dhritarashtra's charioteer and narrator of the Mahabharata",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -696435,23 +696328,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams, A Sanskrit-English Dictionary (1872), entry L48780, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Sanjeep",
@@ -710658,36 +710543,7 @@
     "review_status": "pending",
     "gender": "boy"
   },
-  {
-    "name": "Satyavrata",
-    "iast": "satyavrata",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
+    {
     "name": "Satyawan",
     "iast": "satyawan",
     "devanagari": "",
@@ -773171,11 +773027,11 @@
   },
   {
     "name": "Sugriva",
-    "iast": "sugriva",
-    "devanagari": "",
+    "iast": "sugrīva",
+    "devanagari": "सुग्रीव",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Having a beautiful neck; name of the Vanara king who allied with Rama in the Ramayana",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -773183,23 +773039,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Purāṇa Index (PUI), entry L16022, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -775485,34 +775332,34 @@
   {
     "name": "Suketu",
     "iast": "suketu",
-    "devanagari": "",
+    "devanagari": "सुकेतु",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Having a good banner; name of a king of the Yakshas",
+    "components": [
+      {
+        "part": "su",
+        "gloss": "good"
+      },
+      {
+        "part": "ketu",
+        "gloss": "banner"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, entry L245544, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -893633,11 +893480,11 @@
   },
   {
     "name": "Yudhishthira",
-    "iast": "yudhishthira",
-    "devanagari": "",
+    "iast": "yudhiṣṭhira",
+    "devanagari": "युधिष्ठिर",
     "letter": "Y",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Steady in battle; name of the eldest Pandava brother in the Mahabharata, embodiment of righteousness",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -893645,15 +893492,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Purāṇa Index (PUI), entry L11318, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
