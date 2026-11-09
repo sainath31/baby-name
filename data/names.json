@@ -669804,11 +669804,11 @@
   },
   {
     "name": "Rudraaksh",
-    "iast": "rudraaksh",
-    "devanagari": "",
+    "iast": "rudrākṣa",
+    "devanagari": "रुद्राक्ष",
     "letter": "R",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Rudra's eye; the sacred seed used in Hindu prayer beads, said to originate from Śiva's tears",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -669816,15 +669816,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -670490,11 +670489,11 @@
   },
   {
     "name": "Rugved",
-    "iast": "rugved",
-    "devanagari": "",
+    "iast": "ṛgveda",
+    "devanagari": "ऋग्वेद",
     "letter": "R",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Name of the Ṛgveda, the oldest of the four Vedas",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -670502,15 +670501,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -671775,11 +671773,11 @@
   },
   {
     "name": "Rupak",
-    "iast": "rupak",
-    "devanagari": "",
+    "iast": "rūpaka",
+    "devanagari": "रूपक",
     "letter": "R",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Form, metaphor",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -671787,23 +671785,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -672094,11 +672083,11 @@
   },
   {
     "name": "Rupendra",
-    "iast": "rupendra",
-    "devanagari": "",
+    "iast": "rūpendra",
+    "devanagari": "रूपेन्द्र",
     "letter": "R",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Lord of beauty/form",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -672106,23 +672095,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
