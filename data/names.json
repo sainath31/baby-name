@@ -885914,11 +885914,11 @@
   },
   {
     "name": "Yatnesh",
-    "iast": "yatnesh",
-    "devanagari": "",
+    "iast": "yatneśa",
+    "devanagari": "यत्नेश",
     "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Lord of effort",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -885926,23 +885926,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound/word of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -885972,11 +885963,11 @@
   },
   {
     "name": "Yatra",
-    "iast": "yatra",
-    "devanagari": "",
+    "iast": "yātrā",
+    "devanagari": "यात्रा",
     "letter": "Y",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Journey, pilgrimage",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -885984,19 +885975,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Compound/word of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Yatri",
@@ -886398,31 +886385,6 @@
     "gender": "boy"
   },
   {
-    "name": "Yedidiah",
-    "iast": "yedidiah",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Yegharaj",
     "iast": "yegharaj",
     "devanagari": "",
@@ -886441,31 +886403,6 @@
     "sources": [
       {
         "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Yehuda",
-    "iast": "yehuda",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
         "license": "internal research note"
       }
     ],
@@ -886735,31 +886672,6 @@
     "gender": "girl"
   },
   {
-    "name": "Yeshe",
-    "iast": "yeshe",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Yeshmit",
     "iast": "yeshmit",
     "devanagari": "",
@@ -886833,31 +886745,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Yeshua",
-    "iast": "yeshua",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Yeshvika",
@@ -887119,56 +887006,6 @@
   {
     "name": "Yetharth",
     "iast": "yetharth",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Yishai",
-    "iast": "yishai",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Yochan",
-    "iast": "yochan",
     "devanagari": "",
     "letter": "Y",
     "syllable_count": 2,
@@ -888824,31 +888661,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Yohan",
-    "iast": "yohan",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Yohshini",
