@@ -712501,11 +712501,11 @@
   },
   {
     "name": "Seshadri",
-    "iast": "seshadri",
-    "devanagari": "",
+    "iast": "śeṣādri",
+    "devanagari": "शेषाद्रि",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Name of the sacred hill at Tirupati (Śeṣa's mountain)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -712513,19 +712513,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -712686,11 +712681,11 @@
   },
   {
     "name": "Sethupathi",
-    "iast": "sethupathi",
-    "devanagari": "",
+    "iast": "setupati",
+    "devanagari": "सेतुपति",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Lord of the bridge; a royal title associated with the Rāma Setu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -712698,15 +712693,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Sethurupan",
@@ -712836,11 +712831,11 @@
   },
   {
     "name": "Sevabrata",
-    "iast": "sevabrata",
-    "devanagari": "",
+    "iast": "sevāvrata",
+    "devanagari": "सेवाव्रत",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Devoted to service",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -712848,23 +712843,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Sevak",
-    "iast": "sevak",
-    "devanagari": "",
+    "iast": "sevaka",
+    "devanagari": "सेवक",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Servant, devotee",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -712872,23 +712867,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -742073,60 +742059,6 @@
     "gender": "girl"
   },
   {
-    "name": "Siamak",
-    "iast": "siamak",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Siamak (Or Shiamak)",
-    "iast": "siamak (or shiamak)",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 5,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Siara",
     "iast": "siara",
     "devanagari": "",
@@ -742421,11 +742353,11 @@
   },
   {
     "name": "Siddarth",
-    "iast": "siddarth",
-    "devanagari": "",
+    "iast": "siddhārtha",
+    "devanagari": "सिद्धार्थ",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "One who has accomplished his goal",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -742433,19 +742365,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
