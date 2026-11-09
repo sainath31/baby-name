@@ -231580,27 +231580,31 @@
   },
   {
     "name": "Bharu",
-    "iast": "bharu",
-    "devanagari": "",
+    "iast": "bhāru",
+    "devanagari": "भारु",
     "letter": "B",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a son of Kṛṣṇa",
+    "components": [
+      {
+        "part": "bhāru",
+        "gloss": "personal name"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -254110,31 +254114,31 @@
   },
   {
     "name": "Chakra",
-    "iast": "chakra",
-    "devanagari": "",
+    "iast": "cakra",
+    "devanagari": "चक्र",
     "letter": "C",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a son of Satyabhāmā and Kṛṣṇa",
+    "components": [
+      {
+        "part": "cakra",
+        "gloss": "wheel, discus; personal name"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -269359,27 +269363,35 @@
   },
   {
     "name": "Chitrabahu",
-    "iast": "chitrabahu",
-    "devanagari": "",
+    "iast": "citrabāhu",
+    "devanagari": "चित्रबाहु",
     "letter": "C",
     "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of a son of Kṛṣṇa",
+    "components": [
+      {
+        "part": "citra",
+        "gloss": "bright, wondrous"
+      },
+      {
+        "part": "bāhu",
+        "gloss": "arm"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -332973,27 +332985,31 @@
   },
   {
     "name": "Gadaa",
-    "iast": "gadaa",
-    "devanagari": "",
+    "iast": "gada",
+    "devanagari": "गद",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
+    "meaning_en": "Name of Kṛṣṇa's brother, stationed at the western gate of Mathurā for defence",
+    "components": [
+      {
+        "part": "gada",
+        "gloss": "personal name"
+      }
+    ],
     "pairs_with": {
       "prefixes": [],
       "suffixes": []
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
