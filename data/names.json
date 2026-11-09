@@ -653332,39 +653332,6 @@
     "gender": "girl"
   },
   {
-    "name": "Rasul",
-    "iast": "rasul",
-    "devanagari": "",
-    "letter": "R",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Rasvihari",
     "iast": "rasvihari",
     "devanagari": "",
@@ -653491,11 +653458,11 @@
   },
   {
     "name": "Ratan",
-    "iast": "ratan",
-    "devanagari": "",
+    "iast": "ratna",
+    "devanagari": "रत्न",
     "letter": "R",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Jewel, gem",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -653503,23 +653470,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -654264,11 +654222,11 @@
   },
   {
     "name": "Rathnam",
-    "iast": "rathnam",
-    "devanagari": "",
+    "iast": "ratnam",
+    "devanagari": "रत्नम्",
     "letter": "R",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Jewel, gem",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -654276,15 +654234,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary, Cologne Digital Sanskrit Dictionaries (csl-orig)",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -655329,31 +655286,6 @@
     "gender": "boy"
   },
   {
-    "name": "Raul",
-    "iast": "raul",
-    "devanagari": "",
-    "letter": "R",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Raushan",
     "iast": "raushan",
     "devanagari": "",
@@ -655485,80 +655417,6 @@
     ],
     "review_status": "pending",
     "gender": "boy"
-  },
-  {
-    "name": "Ravan",
-    "iast": "ravan",
-    "devanagari": "",
-    "letter": "R",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Ravana",
-    "iast": "ravana",
-    "devanagari": "",
-    "letter": "R",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Ravanan",
-    "iast": "ravanan",
-    "devanagari": "",
-    "letter": "R",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending"
   },
   {
     "name": "Ravee",
@@ -655699,31 +655557,6 @@
     "sources": [
       {
         "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Raven",
-    "iast": "raven",
-    "devanagari": "",
-    "letter": "R",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from hindupad",
         "license": "internal research note"
       }
     ],
