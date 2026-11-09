@@ -642011,11 +642011,11 @@
   },
   {
     "name": "Ragunathan",
-    "iast": "ragunathan",
-    "devanagari": "",
+    "iast": "raghunātha",
+    "devanagari": "रघुनाथ",
     "letter": "R",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Lord Raghu; an epithet of Rāma",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -642023,28 +642023,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard South Indian Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Ragupathi",
-    "iast": "ragupathi",
-    "devanagari": "",
+    "iast": "raghupati",
+    "devanagari": "रघुपति",
     "letter": "R",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Lord of the Raghu dynasty; an epithet of Rāma",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -642052,19 +642047,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard South Indian Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -642746,31 +642736,6 @@
     "gender": "girl"
   },
   {
-    "name": "Rainsey",
-    "iast": "rainsey",
-    "devanagari": "",
-    "letter": "R",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Raisa",
     "iast": "raisa",
     "devanagari": "",
@@ -643006,11 +642971,11 @@
   },
   {
     "name": "Rajahamsan",
-    "iast": "rajahamsan",
-    "devanagari": "",
+    "iast": "rājahaṃsa",
+    "devanagari": "राजहंस",
     "letter": "R",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Royal swan",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -643018,15 +642983,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard South Indian Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -643567,11 +643531,11 @@
   },
   {
     "name": "Rajaraman",
-    "iast": "rajaraman",
-    "devanagari": "",
+    "iast": "rājarāma",
+    "devanagari": "राजराम",
     "letter": "R",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "King Rāma",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -643579,19 +643543,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard South Indian Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
