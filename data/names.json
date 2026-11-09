@@ -666916,11 +666916,11 @@
   },
   {
     "name": "Rituraaj",
-    "iast": "rituraaj",
-    "devanagari": "",
+    "iast": "ṛturāja",
+    "devanagari": "ऋतुराज",
     "letter": "R",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Lord of the seasons; spring",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -666928,19 +666928,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -671791,11 +671786,11 @@
   },
   {
     "name": "Rudransha",
-    "iast": "rudransha",
-    "devanagari": "",
+    "iast": "rudrāṃśa",
+    "devanagari": "रुद्रांश",
     "letter": "R",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Portion of Rudra",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -671803,15 +671798,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -678103,11 +678097,11 @@
   },
   {
     "name": "Saaransh",
-    "iast": "saaransh",
-    "devanagari": "",
+    "iast": "sārāṃśa",
+    "devanagari": "सारांश",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Essence, summary",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -678115,19 +678109,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -880759,11 +880748,11 @@
   },
   {
     "name": "Yaatiesh",
-    "iast": "yaatiesh",
-    "devanagari": "",
+    "iast": "yatīśa",
+    "devanagari": "यतीश",
     "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Lord of ascetics",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -880771,15 +880760,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
