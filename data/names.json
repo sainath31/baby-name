@@ -290907,11 +290907,11 @@
   },
   {
     "name": "Devashish",
-    "iast": "devashish",
-    "devanagari": "",
+    "iast": "devāśīṣa",
+    "devanagari": "देवाशीष",
     "letter": "D",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Divine blessing",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -290919,27 +290919,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound/word of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -293801,11 +293788,11 @@
   },
   {
     "name": "Dhaerye",
-    "iast": "dhaerye",
-    "devanagari": "",
+    "iast": "dhairya",
+    "devanagari": "धैर्य",
     "letter": "D",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Courage, patience",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -293813,15 +293800,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound/word of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
