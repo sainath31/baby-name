@@ -566359,31 +566359,6 @@
     "gender": "girl"
   },
   {
-    "name": "Nehemiah",
-    "iast": "nehemiah",
-    "devanagari": "",
-    "letter": "N",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Nehitha",
     "iast": "nehitha",
     "devanagari": "",
@@ -713002,31 +712977,6 @@
     "sources": [
       {
         "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Seth",
-    "iast": "seth",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
         "license": "internal research note"
       }
     ],
