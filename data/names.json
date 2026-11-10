@@ -702915,11 +702915,11 @@
   },
   {
     "name": "Sasidhar",
-    "iast": "sasidhar",
-    "devanagari": "",
+    "iast": "śaśidhara",
+    "devanagari": "शशिधर",
     "letter": "S",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Moon-bearer; an epithet of Śiva",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -702927,19 +702927,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -703163,11 +703158,11 @@
   },
   {
     "name": "Sastha",
-    "iast": "sastha",
-    "devanagari": "",
+    "iast": "śāstā",
+    "devanagari": "शास्ता",
     "letter": "S",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "An epithet of Ayyappan/Murugan",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -703175,15 +703170,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -703573,11 +703567,11 @@
   },
   {
     "name": "Satchidanand",
-    "iast": "satchidanand",
-    "devanagari": "",
+    "iast": "saccidānanda",
+    "devanagari": "सच्चिदानन्द",
     "letter": "S",
-    "syllable_count": 4,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "Truth-consciousness-bliss; a Vedāntic description of the ultimate reality",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -703585,15 +703579,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -704712,39 +704705,6 @@
     "gender": "boy"
   },
   {
-    "name": "Satin",
-    "iast": "satin",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Satinath",
     "iast": "satinath",
     "devanagari": "",
@@ -705198,11 +705158,11 @@
   },
   {
     "name": "Sattvik",
-    "iast": "sattvik",
-    "devanagari": "",
+    "iast": "sāttvika",
+    "devanagari": "सात्त्विक",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Virtuous, pure",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -705210,15 +705170,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
