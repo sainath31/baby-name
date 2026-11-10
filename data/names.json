@@ -287251,31 +287251,6 @@
     "gender": "boy"
   },
   {
-    "name": "Demetrius",
-    "iast": "demetrius",
-    "devanagari": "",
-    "letter": "D",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Demira",
     "iast": "demira",
     "devanagari": "",
@@ -287414,11 +287389,11 @@
   },
   {
     "name": "Deodar",
-    "iast": "deodar",
-    "devanagari": "",
+    "iast": "devadāru",
+    "devanagari": "देवदारु",
     "letter": "D",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "The deodar cedar tree, \"divine wood\"",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -287426,23 +287401,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from thebump",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Desh",
-    "iast": "desh",
-    "devanagari": "",
+    "iast": "deśa",
+    "devanagari": "देश",
     "letter": "D",
-    "syllable_count": 1,
-    "meaning_en": null,
+    "syllable_count": 2,
+    "meaning_en": "Country, land",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -287450,15 +287425,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from pampers",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Deshad",
@@ -288340,11 +288315,11 @@
   },
   {
     "name": "Devadhipa",
-    "iast": "devadhipa",
-    "devanagari": "",
+    "iast": "devādhipa",
+    "devanagari": "देवाधिप",
     "letter": "D",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Lord of the gods",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -288352,28 +288327,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Devadidev",
-    "iast": "devadidev",
-    "devanagari": "",
+    "iast": "devādideva",
+    "devanagari": "देवादिदेव",
     "letter": "D",
-    "syllable_count": 4,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "God of gods",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -288381,15 +288351,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
