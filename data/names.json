@@ -647348,11 +647348,11 @@
   },
   {
     "name": "Ramcharan",
-    "iast": "ramcharan",
-    "devanagari": "",
+    "iast": "rāmacaraṇa",
+    "devanagari": "रामचरण",
     "letter": "R",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "At the feet of Rāma; a devotee",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -647360,15 +647360,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -648404,11 +648403,11 @@
   },
   {
     "name": "Ramratan",
-    "iast": "ramratan",
-    "devanagari": "",
+    "iast": "rāmaratna",
+    "devanagari": "रामरत्न",
     "letter": "R",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Rāma's jewel",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -648416,23 +648415,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -648536,11 +648526,11 @@
   },
   {
     "name": "Ramswaroop",
-    "iast": "ramswaroop",
-    "devanagari": "",
+    "iast": "rāmasvarūpa",
+    "devanagari": "रामस्वरूप",
     "letter": "R",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "Form of Rāma",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -648548,23 +648538,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
