@@ -776583,11 +776583,11 @@
   },
   {
     "name": "Supreet",
-    "iast": "supreet",
-    "devanagari": "",
+    "iast": "supreeta",
+    "devanagari": "सुप्रेएत",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Much loved",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -776595,19 +776595,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound/word of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Supreeta",
@@ -780168,11 +780164,11 @@
   },
   {
     "name": "Suryam",
-    "iast": "suryam",
-    "devanagari": "",
+    "iast": "sūryam",
+    "devanagari": "सूर्यम्",
     "letter": "S",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "The sun",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -780180,15 +780176,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound/word of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
