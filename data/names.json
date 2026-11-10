@@ -746301,11 +746301,11 @@
   },
   {
     "name": "Sivathandavel",
-    "iast": "sivathandavel",
-    "devanagari": "",
+    "iast": "śivatāṇḍavela",
+    "devanagari": "शिवताण्डवेल",
     "letter": "S",
-    "syllable_count": 5,
-    "meaning_en": null,
+    "syllable_count": 6,
+    "meaning_en": "Śiva's cosmic dance",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -746313,15 +746313,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -749544,35 +749543,6 @@
     "gender": "boy"
   },
   {
-    "name": "Soleil",
-    "iast": "soleil",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Som",
     "iast": "soma",
     "devanagari": "सोम",
@@ -750029,11 +749999,11 @@
   },
   {
     "name": "Somaskandan",
-    "iast": "somaskandan",
-    "devanagari": "",
+    "iast": "somaskanda",
+    "devanagari": "सोमस्कन्द",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "A form of Śiva with Umā and Skanda",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -750041,15 +750011,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
