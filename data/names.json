@@ -350954,10 +350954,10 @@
   {
     "name": "Guhya",
     "iast": "guhya",
-    "devanagari": "",
+    "devanagari": "गुह्य",
     "letter": "G",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Secret, mystical",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -350965,15 +350965,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Guhyakali",
@@ -350999,56 +350999,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Guillaume",
-    "iast": "guillaume",
-    "devanagari": "",
-    "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Guillelmus",
-    "iast": "guillelmus",
-    "devanagari": "",
-    "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Gujari Todi",
@@ -351438,11 +351388,11 @@
   },
   {
     "name": "Gunadheer",
-    "iast": "gunadheer",
-    "devanagari": "",
+    "iast": "guṇadhīra",
+    "devanagari": "गुणधीर",
     "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Steadfast in virtue",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -351450,15 +351400,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
