@@ -277309,31 +277309,6 @@
     "gender": "boy"
   },
   {
-    "name": "Danish",
-    "iast": "danish",
-    "devanagari": "",
-    "letter": "D",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Danishah",
     "iast": "danishah",
     "devanagari": "",
@@ -281343,31 +281318,6 @@
       },
       {
         "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Dawood",
-    "iast": "dawood",
-    "devanagari": "",
-    "letter": "D",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
         "license": "internal research note"
       }
     ],
@@ -396308,35 +396258,6 @@
     "gender": "girl"
   },
   {
-    "name": "Jahan",
-    "iast": "jahan",
-    "devanagari": "",
-    "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from thebump",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Jahanara",
     "iast": "jahanara",
     "devanagari": "",
@@ -407937,31 +407858,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Jawad",
-    "iast": "jawad",
-    "devanagari": "",
-    "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Jawahar",
@@ -551524,35 +551420,6 @@
     "gender": "boy"
   },
   {
-    "name": "Nabil",
-    "iast": "nabil",
-    "devanagari": "",
-    "letter": "N",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Nabin",
     "iast": "nabin",
     "devanagari": "",
@@ -581429,30 +581296,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Noor",
-    "iast": "noor",
-    "devanagari": "",
-    "letter": "N",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending"
   },
   {
     "name": "Noorjehan",
@@ -681985,31 +681828,6 @@
     "gender": "girl"
   },
   {
-    "name": "Saif",
-    "iast": "saif",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from pampers",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Saihish",
     "iast": "saihish",
     "devanagari": "",
@@ -745850,31 +745668,6 @@
     "review_status": "pending"
   },
   {
-    "name": "Siraj",
-    "iast": "siraj",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Sirak",
     "iast": "sirak",
     "devanagari": "",
@@ -773473,31 +773266,6 @@
     "gender": "girl"
   },
   {
-    "name": "Suleiman",
-    "iast": "suleiman",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Sulek",
     "iast": "sulek",
     "devanagari": "",
@@ -773812,31 +773580,6 @@
       }
     ],
     "review_status": "pending"
-  },
-  {
-    "name": "Sultan",
-    "iast": "sultan",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Sultana",
@@ -789797,31 +789540,6 @@
     "gender": "girl"
   },
   {
-    "name": "Tahir",
-    "iast": "tahir",
-    "devanagari": "",
-    "letter": "T",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Tahira",
     "iast": "tahira",
     "devanagari": "",
@@ -794659,35 +794377,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Tanveer",
-    "iast": "tanveer",
-    "devanagari": "",
-    "letter": "T",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Tanvik",
