@@ -637147,11 +637147,11 @@
   },
   {
     "name": "Raajeevalochan",
-    "iast": "raajeevalochan",
-    "devanagari": "",
+    "iast": "rājīvalocana",
+    "devanagari": "राजीवलोचन",
     "letter": "R",
-    "syllable_count": 5,
-    "meaning_en": null,
+    "syllable_count": 6,
+    "meaning_en": "Lotus-eyed; an epithet of Viṣṇu/Rāma",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -637159,19 +637159,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -638078,31 +638073,6 @@
     "gender": "boy"
   },
   {
-    "name": "Race",
-    "iast": "race",
-    "devanagari": "",
-    "letter": "R",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Rachanna",
     "iast": "rachanna",
     "devanagari": "",
@@ -638650,11 +638620,11 @@
   },
   {
     "name": "Radhanath",
-    "iast": "radhanath",
-    "devanagari": "",
+    "iast": "rādhānātha",
+    "devanagari": "राधानाथ",
     "letter": "R",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Lord of Rādhā; an epithet of Kṛṣṇa",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -638662,15 +638632,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -638729,11 +638698,11 @@
   },
   {
     "name": "Radharamana",
-    "iast": "radharamana",
-    "devanagari": "",
+    "iast": "rādhāramaṇa",
+    "devanagari": "राधारमण",
     "letter": "R",
     "syllable_count": 5,
-    "meaning_en": null,
+    "meaning_en": "Beloved of Rādhā; an epithet of Kṛṣṇa",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -638741,15 +638710,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
