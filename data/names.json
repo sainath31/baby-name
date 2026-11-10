@@ -746026,11 +746026,11 @@
   },
   {
     "name": "Sitikantha",
-    "iast": "sitikantha",
-    "devanagari": "",
+    "iast": "sitikaṇṭha",
+    "devanagari": "सितिकण्ठ",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "White-throated; an epithet of Śiva",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -746038,23 +746038,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -746162,11 +746153,11 @@
   },
   {
     "name": "Sivadas",
-    "iast": "sivadas",
-    "devanagari": "",
+    "iast": "śivadāsa",
+    "devanagari": "शिवदास",
     "letter": "S",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Servant of Śiva",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -746174,15 +746165,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -747084,11 +747074,11 @@
   },
   {
     "name": "Sivapathi",
-    "iast": "sivapathi",
-    "devanagari": "",
+    "iast": "śivapati",
+    "devanagari": "शिवपति",
     "letter": "S",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Lord Śiva",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -747096,24 +747086,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Sivaperumal",
-    "iast": "sivaperumal",
-    "devanagari": "",
+    "iast": "śivaperumāḻ",
+    "devanagari": "शिवपेरुमाळ्",
     "letter": "S",
     "syllable_count": 5,
-    "meaning_en": null,
+    "meaning_en": "The great lord Śiva",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -747121,15 +747110,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Sivaprabha",
