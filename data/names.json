@@ -639579,11 +639579,11 @@
   },
   {
     "name": "Radheya",
-    "iast": "radheya",
-    "devanagari": "",
+    "iast": "rādheya",
+    "devanagari": "राधेय",
     "letter": "R",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Son of Rādhā; an epithet of Karṇa",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -639591,23 +639591,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -639762,31 +639753,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Raed",
-    "iast": "raed",
-    "devanagari": "",
-    "letter": "R",
-    "syllable_count": 1,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Raekh",
@@ -640661,11 +640627,11 @@
   },
   {
     "name": "Raghupungava",
-    "iast": "raghupungava",
-    "devanagari": "",
+    "iast": "raghupuṃgava",
+    "devanagari": "रघुपुंगव",
     "letter": "R",
     "syllable_count": 5,
-    "meaning_en": null,
+    "meaning_en": "Foremost of the Raghu lineage; an epithet of Rāma",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -640673,24 +640639,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Raghuram",
-    "iast": "raghuram",
-    "devanagari": "",
+    "iast": "raghurāma",
+    "devanagari": "रघुराम",
     "letter": "R",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Rāma of the Raghu dynasty",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -640698,19 +640663,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -641368,10 +641328,10 @@
   {
     "name": "Rahasya",
     "iast": "rahasya",
-    "devanagari": "",
+    "devanagari": "रहस्य",
     "letter": "R",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Mystery, secret",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -641379,15 +641339,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
