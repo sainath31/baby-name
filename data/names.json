@@ -314676,31 +314676,6 @@
     "gender": "girl"
   },
   {
-    "name": "Duhsasana",
-    "iast": "duhsasana",
-    "devanagari": "",
-    "letter": "D",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Duj",
     "iast": "duj",
     "devanagari": "",
@@ -315507,31 +315482,6 @@
     "gender": "boy"
   },
   {
-    "name": "Durand",
-    "iast": "durand",
-    "devanagari": "",
-    "letter": "D",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Duranjaya",
     "iast": "duranjaya",
     "devanagari": "",
@@ -315558,31 +315508,6 @@
       },
       {
         "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Durante",
-    "iast": "durante",
-    "devanagari": "",
-    "letter": "D",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
         "license": "internal research note"
       }
     ],
@@ -315969,11 +315894,11 @@
   },
   {
     "name": "Durgadutt",
-    "iast": "durgadutt",
-    "devanagari": "",
+    "iast": "durgādatta",
+    "devanagari": "दुर्गादत्त",
     "letter": "D",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Given by Durgā",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -315981,32 +315906,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Durgaprasad",
-    "iast": "durgaprasad",
-    "devanagari": "",
+    "iast": "durgāprasāda",
+    "devanagari": "दुर्गाप्रसाद",
     "letter": "D",
-    "syllable_count": 4,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "Durgā's grace",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -316014,15 +315930,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy",
     "alt_spellings": [
       "Durga Prasad"
