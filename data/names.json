@@ -881839,11 +881839,11 @@
   },
   {
     "name": "Yashodev",
-    "iast": "yashodev",
-    "devanagari": "",
+    "iast": "yaśodeva",
+    "devanagari": "यशोदेव",
     "letter": "Y",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "God of fame",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -881851,23 +881851,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -881934,11 +881925,11 @@
   },
   {
     "name": "Yashodhar",
-    "iast": "yashodhar",
-    "devanagari": "",
+    "iast": "yaśodhara",
+    "devanagari": "यशोधर",
     "letter": "Y",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Bearer of fame",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -881946,23 +881937,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -882959,31 +882941,6 @@
     "gender": "girl"
   },
   {
-    "name": "Yasmina",
-    "iast": "yasmina",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Yasmini",
     "iast": "yasmini",
     "devanagari": "",
@@ -883538,11 +883495,11 @@
   },
   {
     "name": "Yateendra",
-    "iast": "yateendra",
-    "devanagari": "",
+    "iast": "yatīndra",
+    "devanagari": "यतीन्द्र",
     "letter": "Y",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Lord of ascetics",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -883550,15 +883507,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
