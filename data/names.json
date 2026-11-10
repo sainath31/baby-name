@@ -274022,11 +274022,11 @@
   },
   {
     "name": "Daipayan",
-    "iast": "daipayan",
-    "devanagari": "",
+    "iast": "dvaipāyana",
+    "devanagari": "द्वैपायन",
     "letter": "D",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Born on an island; an epithet of the sage Vyāsa",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -274034,15 +274034,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -275027,11 +275026,11 @@
   },
   {
     "name": "Dakshinamoorthy",
-    "iast": "dakshinamoorthy",
-    "devanagari": "",
+    "iast": "dakṣiṇāmūrti",
+    "devanagari": "दक्षिणामूर्ति",
     "letter": "D",
     "syllable_count": 5,
-    "meaning_en": null,
+    "meaning_en": "An epithet/form of Śiva as the universal teacher",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -275039,15 +275038,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
