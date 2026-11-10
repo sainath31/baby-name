@@ -791616,11 +791616,11 @@
   },
   {
     "name": "Tamonash",
-    "iast": "tamonash",
-    "devanagari": "",
+    "iast": "tamonāśa",
+    "devanagari": "तमोनाश",
     "letter": "T",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Destroyer of darkness",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -791628,23 +791628,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -792079,11 +792070,11 @@
   },
   {
     "name": "Tandava",
-    "iast": "tandava",
-    "devanagari": "",
+    "iast": "tāṇḍava",
+    "devanagari": "ताण्डव",
     "letter": "T",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "The cosmic dance of Śiva",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -792091,15 +792082,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -792847,10 +792837,10 @@
   {
     "name": "Tanmaya",
     "iast": "tanmaya",
-    "devanagari": "",
+    "devanagari": "तन्मय",
     "letter": "T",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Absorbed in that; identified with the ultimate reality",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -792858,19 +792848,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Tanmayasri",
@@ -794064,35 +794050,6 @@
     "gender": "boy"
   },
   {
-    "name": "Tanvir",
-    "iast": "tanvir",
-    "devanagari": "",
-    "letter": "T",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Tanvisha",
     "iast": "tanvisha",
     "devanagari": "",
@@ -794425,10 +794382,10 @@
   {
     "name": "Taparudra",
     "iast": "taparudra",
-    "devanagari": "",
+    "devanagari": "तपरुद्र",
     "letter": "T",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Rudra of austerity",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -794436,24 +794393,23 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
     "name": "Tapasendra",
     "iast": "tapasendra",
-    "devanagari": "",
+    "devanagari": "तपसेन्द्र",
     "letter": "T",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Lord of austerity",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -794461,23 +794417,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
