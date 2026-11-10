@@ -395520,35 +395520,6 @@
     "gender": "girl"
   },
   {
-    "name": "Jaheel",
-    "iast": "jaheel",
-    "devanagari": "",
-    "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Jahi",
     "iast": "jahi",
     "devanagari": "",
@@ -395604,11 +395575,11 @@
   },
   {
     "name": "Jahnav",
-    "iast": "jahnav",
-    "devanagari": "",
+    "iast": "jāhnava",
+    "devanagari": "जाह्नव",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Relating to the Gaṅgā (Jāhnavī)",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -395616,19 +395587,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -395899,11 +395865,11 @@
   },
   {
     "name": "Jaidayal",
-    "iast": "jaidayal",
-    "devanagari": "",
+    "iast": "jayadayāla",
+    "devanagari": "जयदयाल",
     "letter": "J",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "Victorious and compassionate",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -395911,23 +395877,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
