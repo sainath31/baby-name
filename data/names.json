@@ -669736,30 +669736,6 @@
     "gender": "boy"
   },
   {
-    "name": "Ruksana",
-    "iast": "ruksana",
-    "devanagari": "",
-    "letter": "R",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending"
-  },
-  {
     "name": "Rukshiny",
     "iast": "rukshiny",
     "devanagari": "",
@@ -670787,11 +670763,11 @@
   },
   {
     "name": "Rupin",
-    "iast": "rupin",
-    "devanagari": "",
+    "iast": "rūpin",
+    "devanagari": "रूपिन्",
     "letter": "R",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Having form",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -670799,23 +670775,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -671485,11 +671452,11 @@
   },
   {
     "name": "Rushikesh",
-    "iast": "rushikesh",
-    "devanagari": "",
+    "iast": "hṣīkeśa",
+    "devanagari": "ह्षीकेश",
     "letter": "R",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Lord of the senses; an epithet of Kṛṣṇa",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -671497,15 +671464,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
