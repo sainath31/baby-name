@@ -304566,10 +304566,10 @@
   {
     "name": "Digambara",
     "iast": "digambara",
-    "devanagari": "",
+    "devanagari": "दिगम्बर",
     "letter": "D",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "Sky-clad; an epithet of Śiva",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -304577,19 +304577,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from boldsky",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -304936,10 +304931,10 @@
   {
     "name": "Digvijaya",
     "iast": "digvijaya",
-    "devanagari": "",
+    "devanagari": "दिग्विजय",
     "letter": "D",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Conquest of all directions",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -304947,15 +304942,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -305401,31 +305395,6 @@
     "sources": [
       {
         "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
-    "name": "Dilawar",
-    "iast": "dilawar",
-    "devanagari": "",
-    "letter": "D",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from hindupad",
         "license": "internal research note"
       }
     ],
