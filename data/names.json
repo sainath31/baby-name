@@ -556479,11 +556479,11 @@
   },
   {
     "name": "Nandikesh",
-    "iast": "nandikesh",
-    "devanagari": "",
+    "iast": "nandikeśa",
+    "devanagari": "नन्दिकेश",
     "letter": "N",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Lord of Nandi; an epithet of Śiva",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -556491,15 +556491,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound/word of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -558672,10 +558671,10 @@
   {
     "name": "Nartana",
     "iast": "nartana",
-    "devanagari": "",
+    "devanagari": "नर्तन",
     "letter": "N",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Dance",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -558683,23 +558682,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound/word of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Narthana",
