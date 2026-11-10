@@ -885361,30 +885361,6 @@
     "gender": "boy"
   },
   {
-    "name": "Yesubabu",
-    "iast": "yesubabu",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 4,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending"
-  },
-  {
     "name": "Yesvanth",
     "iast": "yesvanth",
     "devanagari": "",
@@ -885486,11 +885462,11 @@
   },
   {
     "name": "Yetharth",
-    "iast": "yetharth",
-    "devanagari": "",
+    "iast": "yathārtha",
+    "devanagari": "यथार्थ",
     "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Real, true, accurate",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -885498,15 +885474,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound/word of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -885566,10 +885541,10 @@
   {
     "name": "Yodhin",
     "iast": "yodhin",
-    "devanagari": "",
+    "devanagari": "योधिन्",
     "letter": "Y",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Warrior",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -885577,15 +885552,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound/word of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -886632,11 +886606,11 @@
   },
   {
     "name": "Yoginampati",
-    "iast": "yoginampati",
-    "devanagari": "",
+    "iast": "yogīnāmpati",
+    "devanagari": "योगीनाम्पति",
     "letter": "Y",
     "syllable_count": 5,
-    "meaning_en": null,
+    "meaning_en": "Lord of yogis",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -886644,27 +886618,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound/word of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -887474,31 +887435,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Yosef",
-    "iast": "yosef",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Yosha",
