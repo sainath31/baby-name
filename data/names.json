@@ -333188,11 +333188,11 @@
   },
   {
     "name": "Gajavilochana",
-    "iast": "gajavilochana",
-    "devanagari": "",
+    "iast": "gajavilocana",
+    "devanagari": "गजविलोचन",
     "letter": "G",
     "syllable_count": 6,
-    "meaning_en": null,
+    "meaning_en": "Elephant-eyed; an epithet of Gaṇeśa",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -333200,15 +333200,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from godigit",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -333271,11 +333270,11 @@
   },
   {
     "name": "Gajdant",
-    "iast": "gajdant",
-    "devanagari": "",
+    "iast": "gajadanta",
+    "devanagari": "गजदन्त",
     "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Elephant-tusked; an epithet of Gaṇeśa",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -333283,23 +333282,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -333797,31 +333787,6 @@
         "license": "web reference (secondary source, not independently licensed)"
       }
     ],
-    "gender": "boy"
-  },
-  {
-    "name": "Gamaliel",
-    "iast": "gamaliel",
-    "devanagari": "",
-    "letter": "G",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -335273,11 +335238,11 @@
   },
   {
     "name": "Gandivdhanav",
-    "iast": "gandivdhanav",
-    "devanagari": "",
+    "iast": "gāṇḍīvadhanvā",
+    "devanagari": "गाण्डीवधन्वा",
     "letter": "G",
-    "syllable_count": 4,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "Bearer of the Gāṇḍīva bow; an epithet of Arjuna",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -335285,15 +335250,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -336893,35 +336857,6 @@
     ],
     "review_status": "pending",
     "gender": "girl"
-  },
-  {
-    "name": "Gannon",
-    "iast": "gannon",
-    "devanagari": "",
-    "letter": "G",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
   },
   {
     "name": "Ganpat",
