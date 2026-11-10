@@ -876937,11 +876937,11 @@
   },
   {
     "name": "Yadhokshaja",
-    "iast": "yadhokshaja",
-    "devanagari": "",
+    "iast": "yadhokṣaja",
+    "devanagari": "यधोक्षज",
     "letter": "Y",
     "syllable_count": 4,
-    "meaning_en": null,
+    "meaning_en": "An epithet of Kṛṣṇa/Viṣṇu",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -876949,15 +876949,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -878542,10 +878541,10 @@
   {
     "name": "Yajvan",
     "iast": "yajvan",
-    "devanagari": "",
+    "devanagari": "यज्वन्",
     "letter": "Y",
     "syllable_count": 2,
-    "meaning_en": null,
+    "meaning_en": "Performer of sacrifice",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -878553,15 +878552,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -879228,31 +879226,6 @@
     "gender": "boy"
   },
   {
-    "name": "Yameena",
-    "iast": "yameena",
-    "devanagari": "",
-    "letter": "Y",
-    "syllable_count": 3,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Yamha",
     "iast": "yamha",
     "devanagari": "",
@@ -879365,11 +879338,11 @@
   },
   {
     "name": "Yaminichandra",
-    "iast": "yaminichandra",
-    "devanagari": "",
+    "iast": "yāminīcandra",
+    "devanagari": "यामिनीचन्द्र",
     "letter": "Y",
     "syllable_count": 5,
-    "meaning_en": null,
+    "meaning_en": "Moon of the night",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -879377,15 +879350,15 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending"
+    "gender": "boy"
   },
   {
     "name": "Yamir",
