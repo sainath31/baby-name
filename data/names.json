@@ -568606,11 +568606,11 @@
   },
   {
     "name": "Niketan",
-    "iast": "niketan",
-    "devanagari": "",
+    "iast": "niketana",
+    "devanagari": "निकेतन",
     "letter": "N",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Abode, home",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -568618,23 +568618,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -569591,11 +569582,11 @@
   },
   {
     "name": "Nikunja",
-    "iast": "nikunja",
-    "devanagari": "",
+    "iast": "nikuñja",
+    "devanagari": "निकुञ्ज",
     "letter": "N",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "A garden grove; associated with the groves of Kṛṣṇa",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -569603,23 +569594,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -569686,11 +569668,11 @@
   },
   {
     "name": "Nilabh",
-    "iast": "nilabh",
-    "devanagari": "",
+    "iast": "nīlābha",
+    "devanagari": "नीलाभ",
     "letter": "N",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Blue-radiant",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -569698,19 +569680,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
