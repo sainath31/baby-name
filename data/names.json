@@ -691011,11 +691011,11 @@
   },
   {
     "name": "Sanchay",
-    "iast": "sanchay",
-    "devanagari": "",
+    "iast": "sañcaya",
+    "devanagari": "सञ्चय",
     "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
+    "syllable_count": 3,
+    "meaning_en": "Accumulation, collection",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -691023,27 +691023,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from superbottoms",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -691579,31 +691566,6 @@
     "gender": "girl"
   },
   {
-    "name": "Sandy",
-    "iast": "sandy",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending",
-    "gender": "boy"
-  },
-  {
     "name": "Sandya",
     "iast": "sandya",
     "devanagari": "",
@@ -691796,11 +691758,11 @@
   },
   {
     "name": "Sangamesh",
-    "iast": "sangamesh",
-    "devanagari": "",
+    "iast": "saṅgameśa",
+    "devanagari": "सङ्गमेश",
     "letter": "S",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Lord of the confluence",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -691808,19 +691770,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -692619,30 +692576,6 @@
     "gender": "girl"
   },
   {
-    "name": "Saniiyah",
-    "iast": "saniiyah",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending"
-  },
-  {
     "name": "Sanija",
     "iast": "sanija",
     "devanagari": "",
@@ -692868,30 +692801,6 @@
   {
     "name": "Saniyaa",
     "iast": "saniyaa",
-    "devanagari": "",
-    "letter": "S",
-    "syllable_count": 2,
-    "meaning_en": null,
-    "components": [],
-    "pairs_with": {
-      "prefixes": [],
-      "suffixes": []
-    },
-    "compounds": [],
-    "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
-    "sources": [
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
-      }
-    ],
-    "review_status": "pending"
-  },
-  {
-    "name": "Saniyyah",
-    "iast": "saniyyah",
     "devanagari": "",
     "letter": "S",
     "syllable_count": 2,
@@ -693290,11 +693199,11 @@
   },
   {
     "name": "Sanjeevi",
-    "iast": "sanjeevi",
-    "devanagari": "",
+    "iast": "sañjīvī",
+    "devanagari": "सञ्जीवी",
     "letter": "S",
     "syllable_count": 3,
-    "meaning_en": null,
+    "meaning_en": "Life-giving, living",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -693302,15 +693211,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Monier-Williams Sanskrit-English Dictionary / standard compound, Cologne Digital Sanskrit Dictionaries",
+        "license": "CC BY-SA 4.0"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
