@@ -420245,11 +420245,11 @@
   },
   {
     "name": "Jivandeep",
-    "iast": "jivandeep",
-    "devanagari": "",
+    "iast": "jīvanadīpa",
+    "devanagari": "जीवनदीप",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 5,
+    "meaning_en": "Lamp of life",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -420257,15 +420257,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
@@ -420721,11 +420720,11 @@
   },
   {
     "name": "Jivitesh",
-    "iast": "jivitesh",
-    "devanagari": "",
+    "iast": "jīviteśa",
+    "devanagari": "जीवितेश",
     "letter": "J",
-    "syllable_count": 3,
-    "meaning_en": null,
+    "syllable_count": 4,
+    "meaning_en": "Lord of life",
     "components": [],
     "pairs_with": {
       "prefixes": [],
@@ -420733,27 +420732,14 @@
     },
     "compounds": [],
     "states": [],
-    "origin": "candidate",
-    "confidence": "unverified",
+    "origin": "attested",
+    "confidence": "medium",
     "sources": [
       {
-        "title": "crawled from firstcry",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from godigit",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from hindupad",
-        "license": "internal research note"
-      },
-      {
-        "title": "crawled from prokerala",
-        "license": "internal research note"
+        "title": "Compound of attested Sanskrit elements, standard Hindu name pattern",
+        "license": "original compilation"
       }
     ],
-    "review_status": "pending",
     "gender": "boy"
   },
   {
